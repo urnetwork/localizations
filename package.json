@@ -1,0 +1,27 @@
+{
+	"name": "@urnetwork/localizations",
+	"version": "0.0.1",
+	"description": "URnetwork interface localizations",
+	"homepage": "https://github.com/urnetwork/localizations#readme",
+	"bugs": {
+		"url": "https://github.com/urnetwork/localizations/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/urnetwork/localizations.git"
+	},
+	"files": [
+		"keys/",
+		"index.js"
+	],
+	"license": "ISC",
+	"author": "",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"js-yaml": "^4.1.1"
+	}
+}

@@ -1,6 +1,6 @@
 description: |
   Used as a headline in the Initial Auth carousel. The {brand} placeholder should be replaced with "with URnetwork", styled differently (e.g., in <small> tags or a different font).
-  Example: "Stay completely private and anonymous with URnetwork"
+  Example: "<p>Stay completely private and anonymous</p><small>with URnetwork</small>"
 localizations:
   ar: "ابق خاصًا ومجهول الهوية تمامًا {brand}"
   cs: "Zůstaňte zcela soukromí a anonymní {brand}"
