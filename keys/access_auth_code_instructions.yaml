@@ -1,0 +1,31 @@
+description: |
+  Instructions for accessing the authentication code.
+  Use the {link}...{/link} markers to wrap the "ur.io" portion, which should be rendered as a clickable link.
+  Example usage:
+    - Web: Replace {link} with <a href="https://ur.io" target="_blank"> and {/link} with </a>
+    - SwiftUI: Use AttributedString parsing to detect {link}...{/link} and apply .link attribute to the range
+    - Jetpack Compose: Use AnnotatedString with an annotation for the {link}...{/link} range, and handle clicks accordingly
+
+localizations:
+  ar: "للوصول إلى رمز المصادقة الخاص بك، أنشئ حسابًا وسجّل الدخول إلى {link}ur.io{/link}. بعد تسجيل الدخول، انسخ رمز المصادقة واستخدمه لتسجيل الدخول إلى الامتداد."
+  cs: "Pro přístup ke svému ověřovacímu kódu si vytvořte účet a přihlaste se na {link}ur.io{/link}. Po přihlášení zkopírujte ověřovací kód a použijte jej k přihlášení do rozšíření."
+  de: "Um auf deinen Authentifizierungscode zuzugreifen, erstelle ein Konto und melde dich bei {link}ur.io{/link} an. Nach dem Anmelden kopiere einen Authentifizierungscode und verwende ihn, um dich in der Erweiterung anzumelden."
+  el: "Για να αποκτήσετε πρόσβαση στον κωδικό ταυτοποίησης, δημιουργήστε λογαριασμό και συνδεθείτε στο {link}ur.io{/link}. Αφού συνδεθείτε, αντιγράψτε έναν κωδικό ταυτοποίησης και χρησιμοποιήστε τον για να συνδεθείτε στην επέκταση."
+  en: "To access your auth code, create an account and sign-in to {link}ur.io{/link}. Once signed in, copy an auth code and use it to login to the extension."
+  es: "Para acceder a tu código de autenticación, crea una cuenta e inicia sesión en {link}ur.io{/link}. Una vez dentro, copia un código de autenticación y úsalo para iniciar sesión en la extensión."
+  es-MX: "Para acceder a tu código de autenticación, crea una cuenta e inicia sesión en {link}ur.io{/link}. Una vez dentro, copia un código de autenticación y úsalo para iniciar sesión en la extensión."
+  fr: "Pour accéder à votre code d'authentification, créez un compte et connectez-vous à {link}ur.io{/link}. Une fois connecté, copiez un code d'authentification et utilisez-le pour vous connecter à l'extension."
+  he: "כדי לגשת לקוד האימות שלך, צור חשבון והתחבר ל-{link}ur.io{/link}. לאחר ההתחברות, העתק קוד אימות והשתמש בו כדי להיכנס להרחבה."
+  hi: "अपने ऑथ कोड तक पहुंचने के लिए, एक खाता बनाएं और {link}ur.io{/link} में साइन इन करें। साइन इन करने के बाद, एक ऑथ कोड कॉपी करें और उसे एक्सटेंशन में लॉगिन करने के लिए उपयोग करें।"
+  ja: "認証コードにアクセスするには、アカウントを作成して{link}ur.io{/link}にサインインしてください。サインイン後、認証コードをコピーして拡張機能にログインする際に使用してください。"
+  ko: "인증 코드를 받으려면 계정을 만들고 {link}ur.io{/link}에 로그인하세요. 로그인 후 인증 코드를 복사해 확장 프로그램에 로그인할 때 사용하세요."
+  nl: "Om toegang te krijgen tot je authenticatiecode, maak een account aan en log in op {link}ur.io{/link}. Zodra je bent ingelogd, kopieer een authenticatiecode en gebruik deze om in te loggen op de extensie."
+  pl: "Aby uzyskać dostęp do swojego kodu uwierzytelniającego, utwórz konto i zaloguj się na {link}ur.io{/link}. Po zalogowaniu skopiuj kod uwierzytelniający i użyj go do zalogowania się w rozszerzeniu."
+  pt: "Para acessar seu código de autenticação, crie uma conta e faça login em {link}ur.io{/link}. Depois de logado, copie um código de autenticação e use-o para entrar na extensão."
+  pt-BR: "Para acessar seu código de autenticação, crie uma conta e faça login em {link}ur.io{/link}. Depois de logado, copie um código de autenticação e use-o para entrar na extensão."
+  ru: "Чтобы получить код аутентификации, создайте аккаунт и войдите на {link}ur.io{/link}. После входа скопируйте код и используйте его для входа в расширение."
+  sw: "Ili kupata nambari yako ya uthibitishaji, tengeneza akaunti na uingie kwenye {link}ur.io{/link}. Ukishaingia, nakili nambari ya uthibitishaji na uitumie kuingia kwenye kiendelezi."
+  th: "ในการเข้าถึงรหัสยืนยันของคุณ ให้สร้างบัญชีและลงชื่อเข้าใช้ที่ {link}ur.io{/link} เมื่อลงชื่อเข้าใช้แล้ว ให้คัดลอกรหัสยืนยันและใช้เข้าสู่ระบบส่วนขยาย"
+  uk: "Щоб отримати код автентифікації, створіть обліковий запис і увійдіть на {link}ur.io{/link}. Після входу скопіюйте код і використайте його для входу в розширення."
+  vi: "Để truy cập mã xác thực, hãy tạo tài khoản và đăng nhập vào {link}ur.io{/link}. Sau khi đăng nhập, sao chép mã xác thực và sử dụng nó để đăng nhập vào tiện ích mở rộng."
+  zh: "要获取您的认证码，请创建账户并登录{link}ur.io{/link}。登录后，复制认证码并用于登录扩展程序。"
