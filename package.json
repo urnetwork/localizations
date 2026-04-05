@@ -1,34 +1,34 @@
 {
-	"name": "@urnetwork/localizations",
-	"version": "0.0.7",
-	"description": "URnetwork interface localizations",
-	"homepage": "https://github.com/urnetwork/localizations#readme",
-	"bugs": {
-		"url": "https://github.com/urnetwork/localizations/issues"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/urnetwork/localizations.git"
-	},
-	"files": [
-		"keys/",
-		"index.js"
-	],
-	"license": "ISC",
-	"author": "",
-	"type": "module",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"prepublishOnly": "npm pack --dry-run",
-		"release:patch": "npm version patch && git push && git push --tags && npm publish --access public",
-		"release:minor": "npm version minor && git push && git push --tags && npm publish --access public",
-		"release:major": "npm version major && git push && git push --tags && npm publish --access public"
-	},
-	"dependencies": {
-		"js-yaml": "^4.1.1"
-	}
+  "name": "@urnetwork/localizations",
+  "version": "2026.4.5-906020630",
+  "description": "URnetwork interface localizations",
+  "homepage": "https://github.com/urnetwork/localizations#readme",
+  "bugs": {
+    "url": "https://github.com/urnetwork/localizations/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urnetwork/localizations.git"
+  },
+  "files": [
+    "keys/",
+    "index.js"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "npm pack --dry-run",
+    "release:patch": "npm version patch && git push && git push --tags && npm publish --access public",
+    "release:minor": "npm version minor && git push && git push --tags && npm publish --access public",
+    "release:major": "npm version major && git push && git push --tags && npm publish --access public"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1"
+  }
 }
