@@ -1,0 +1,36 @@
+description: "General UI string."
+source: "%@/month"
+platforms:
+  - apple
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "{amount}/الشهر"
+  cs: "{amount}/měsíc"
+  de: "{amount}/Monat"
+  el: "{amount}/μήνα"
+  en: "{amount}/month"
+  es: "{amount}/mes"
+  es-419: "{amount}/mes"
+  es-MX: "{amount}/mes"
+  fr: "{amount}/mois"
+  he: "{amount}/חודש"
+  hi: "{amount}/माह"
+  id: "{amount}/bulan"
+  it: "{amount}/mese"
+  ja: "{amount}/月"
+  ko: "{amount}/월"
+  nl: "{amount}/maand"
+  pl: "{amount}/miesiąc"
+  pt: "{amount}/mês"
+  pt-BR: "{amount}/mês"
+  pt-PT: "{amount}/mês"
+  ru: "{amount}/месяц"
+  sv: "{amount}/månad"
+  sw: "{amount}/mwezi"
+  th: "{amount}/เดือน"
+  uk: "{amount}/місяць"
+  vi: "{amount}/tháng"
+  zh: "{amount}/月"
+  zh-HK: "{amount}/月"

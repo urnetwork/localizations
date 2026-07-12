@@ -1,0 +1,36 @@
+description: "A label for a DNS setting that is currently off."
+description_auto: true
+source: "Off"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "إيقاف"
+  cs: "Vypnuto"
+  de: "Aus"
+  el: "Ανενεργό"
+  en: "Off"
+  es: "Desactivado"
+  es-419: "Desactivado"
+  es-MX: "Desactivado"
+  fr: "Désactivé"
+  he: "כבוי"
+  hi: "बंद"
+  id: "Nonaktif"
+  it: "Non attivo"
+  ja: "オフ"
+  ko: "꺼짐"
+  nl: "Uit"
+  pl: "Wyłączone"
+  pt: "Desativado"
+  pt-BR: "Desativado"
+  pt-PT: "Desativado"
+  ru: "Выкл."
+  sv: "Av"
+  sw: "Imezimwa"
+  th: "ปิด"
+  uk: "Вимк."
+  vi: "Tắt"
+  zh: "关"
+  zh-HK: "關"

@@ -1,0 +1,6 @@
+description: "Used in Main/Account/Wallets/NetworkReliability/NetworkReliabilityView.swift."
+source: "key"
+platforms:
+  - apple
+localizations:
+  en: "key"

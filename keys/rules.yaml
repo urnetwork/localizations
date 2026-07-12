@@ -1,0 +1,36 @@
+description: "A heading for the pinned split rules."
+description_auto: true
+source: "Rules"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "القواعد"
+  cs: "Pravidla"
+  de: "Regeln"
+  el: "Κανόνες"
+  en: "Rules"
+  es: "Reglas"
+  es-419: "Reglas"
+  es-MX: "Reglas"
+  fr: "Règles"
+  he: "כללים"
+  hi: "नियम"
+  id: "Aturan"
+  it: "Regole"
+  ja: "ルール"
+  ko: "규칙"
+  nl: "Regels"
+  pl: "Reguły"
+  pt: "Regras"
+  pt-BR: "Regras"
+  pt-PT: "Regras"
+  ru: "Правила"
+  sv: "Regler"
+  sw: "Sheria"
+  th: "กฎ"
+  uk: "Правила"
+  vi: "Quy tắc"
+  zh: "规则"
+  zh-HK: "規則"

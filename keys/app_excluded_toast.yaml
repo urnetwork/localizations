@@ -1,0 +1,36 @@
+description: "transfer stats and split rules"
+source: "%1$s will bypass the VPN"
+platforms:
+  - android
+placeholders:
+  - name: app
+    type: string
+localizations:
+  ar: "سيتجاوز {app} شبكة VPN"
+  cs: "{app} bude obcházet VPN"
+  de: "{app} umgeht das VPN"
+  el: "Η εφαρμογή {app} θα παρακάμπτει το VPN"
+  en: "{app} will bypass the VPN"
+  es: "{app} evitará la VPN"
+  es-419: "{app} evitará la VPN"
+  es-MX: "{app} evitará la VPN"
+  fr: "{app} contournera le VPN"
+  he: "{app} יעקוף את ה-VPN"
+  hi: "{app} VPN को बायपास करेगा"
+  id: "{app} akan melewati VPN"
+  it: "{app} bypasserà la VPN"
+  ja: "{app}はVPNを迂回します"
+  ko: "{app}은(는) VPN을 우회합니다"
+  nl: "{app} omzeilt de VPN"
+  pl: "{app} będzie omijać VPN"
+  pt: "{app} vai contornar a VPN"
+  pt-BR: "{app} vai contornar a VPN"
+  pt-PT: "{app} vai contornar a VPN"
+  ru: "{app} будет работать в обход VPN"
+  sv: "{app} kommer att kringgå VPN"
+  sw: "{app} itaepuka VPN"
+  th: "{app} จะไม่ใช้ VPN"
+  uk: "{app} обходитиме VPN"
+  vi: "{app} sẽ bỏ qua VPN"
+  zh: "{app} 将绕过 VPN"
+  zh-HK: "{app} 將繞過 VPN"

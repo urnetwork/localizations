@@ -1,0 +1,36 @@
+description: "A label displayed in the custom dns settings section."
+description_auto: true
+source: "Unencrypted DNS"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "DNS غير مشفر"
+  cs: "Nešifrovaný DNS"
+  de: "Unverschlüsseltes DNS"
+  el: "Μη κρυπτογραφημένο DNS"
+  en: "Unencrypted DNS"
+  es: "DNS sin cifrar"
+  es-419: "DNS sin cifrar"
+  es-MX: "DNS sin cifrar"
+  fr: "DNS non chiffré"
+  he: "DNS לא מוצפן"
+  hi: "अनएन्क्रिप्टेड DNS"
+  id: "DNS tanpa enkripsi"
+  it: "DNS non crittografato"
+  ja: "暗号化なしのDNS"
+  ko: "암호화되지 않은 DNS"
+  nl: "Onversleutelde DNS"
+  pl: "Niezaszyfrowany DNS"
+  pt: "DNS não encriptado"
+  pt-BR: "DNS não criptografado"
+  pt-PT: "DNS não encriptado"
+  ru: "Незашифрованный DNS"
+  sv: "Okrypterad DNS"
+  sw: "DNS isiyosimbwa"
+  th: "DNS ที่ไม่เข้ารหัส"
+  uk: "Незашифрований DNS"
+  vi: "DNS không mã hóa"
+  zh: "未加密 DNS"
+  zh-HK: "未加密 DNS"

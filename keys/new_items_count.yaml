@@ -1,0 +1,103 @@
+description: "A count of new routing events that have not yet been scrolled into view."
+description_auto: true
+source: "%lld new"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} جديد"
+    one: "{count} جديد"
+    two: "{count} جديدان"
+    few: "{count} جديدة"
+    many: "{count} جديدًا"
+    other: "{count} جديد"
+  cs:
+    one: "{count} nový"
+    few: "{count} nové"
+    many: "{count} nové"
+    other: "Nové: {count}"
+  de:
+    one: "{count} neu"
+    other: "{count} neu"
+  el:
+    one: "{count} νέο"
+    other: "{count} νέα"
+  en:
+    one: "{count} new"
+    other: "{count} new"
+  es:
+    one: "{count} nuevo"
+    other: "{count} nuevos"
+  es-419:
+    one: "{count} nuevo"
+    other: "{count} nuevos"
+  es-MX:
+    one: "{count} nuevo"
+    other: "{count} nuevos"
+  fr:
+    one: "{count} nouveau"
+    other: "{count} nouveaux"
+  he:
+    one: "{count} חדש"
+    two: "{count} חדשים"
+    many: "{count} חדשים"
+    other: "{count} חדשים"
+  hi:
+    one: "{count} नया"
+    other: "{count} नए"
+  id:
+    other: "{count} baru"
+  it:
+    one: "{count} nuovo"
+    other: "{count} nuovi"
+  ja:
+    other: "新着{count}件"
+  ko:
+    other: "신규 {count}개"
+  nl:
+    one: "{count} nieuw"
+    other: "{count} nieuw"
+  pl:
+    one: "{count} nowy"
+    few: "{count} nowe"
+    many: "{count} nowych"
+    other: "Nowe: {count}"
+  pt:
+    one: "{count} novo"
+    other: "{count} novos"
+  pt-BR:
+    one: "{count} novo"
+    other: "{count} novos"
+  pt-PT:
+    one: "{count} novo"
+    other: "{count} novos"
+  ru:
+    one: "{count} новый"
+    few: "{count} новых"
+    many: "{count} новых"
+    other: "Новых: {count}"
+  sv:
+    one: "{count} ny"
+    other: "{count} nya"
+  sw:
+    one: "{count} mpya"
+    other: "{count} mpya"
+  th:
+    other: "ใหม่ {count} รายการ"
+  uk:
+    one: "{count} новий"
+    few: "{count} нові"
+    many: "{count} нових"
+    other: "Нових: {count}"
+  vi:
+    other: "{count} mới"
+  zh:
+    other: "{count} 个新增"
+  zh-HK:
+    other: "{count} 個新增"

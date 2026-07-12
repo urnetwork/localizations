@@ -1,0 +1,32 @@
+description: "General UI string."
+source: "Adjust settings to maximize reliability. App runs in the background when connected and on Wi-Fi. Reliability is how many IPs you make continually available to the network"
+deprecated:
+  - apple
+platforms:
+  - apple
+localizations:
+  ar: "اضبط الإعدادات لتعظيم الموثوقية. يعمل التطبيق في الخلفية عند الاتصال وعند استخدام الواي فاي. الموثوقية هي عدد عناوين IP التي تجعلها متاحة باستمرار للشبكة."
+  cs: "Upravte nastavení pro maximalizaci spolehlivosti. Aplikace běží na pozadí, když jste připojeni a na Wi-Fi. Spolehlivost znamená, kolik IP adres trvale zpřístupníte síti."
+  de: "Passen Sie die Einstellungen an, um die Zuverlässigkeit zu maximieren. Die App läuft im Hintergrund, wenn Sie verbunden sind und sich im WLAN befinden. Zuverlässigkeit bedeutet, wie viele IPs Sie dem Netzwerk kontinuierlich zur Verfügung stellen."
+  el: "Ρυθμίστε τις ρυθμίσεις για μέγιστη αξιοπιστία. Η εφαρμογή λειτουργεί στο παρασκήνιο όταν είστε συνδεδεμένοι και σε Wi-Fi. Η αξιοπιστία είναι πόσες διευθύνσεις IP διαθέτετε συνεχώς στο δίκτυο."
+  en: "Adjust settings to maximize reliability. App runs in the background when connected and on Wi-Fi. Reliability is how many IPs you make continually available to the network"
+  es: "Ajusta la configuración para maximizar la fiabilidad. La app se ejecuta en segundo plano cuando está conectada y en Wi-Fi. La fiabilidad es cuántas IPs mantienes disponibles continuamente para la red."
+  es-419: "Ajusta la configuración para maximizar la fiabilidad. La app se ejecuta en segundo plano cuando está conectada y en Wi-Fi. La fiabilidad es cuántas IPs mantienes disponibles continuamente para la red."
+  fr: "Ajustez les paramètres pour maximiser la fiabilité. L’application fonctionne en arrière-plan lorsque vous êtes connecté et en Wi-Fi. La fiabilité correspond au nombre d’IP que vous rendez continuellement disponibles pour le réseau."
+  he: "התאם את ההגדרות כדי למקסם את האמינות. האפליקציה פועלת ברקע כאשר מחוברים וב-Wi-Fi. אמינות היא כמה כתובות IP אתה משאיר זמינות ברצף לרשת."
+  hi: "विश्वसनीयता अधिकतम करने के लिए सेटिंग्स समायोजित करें। ऐप कनेक्टेड और वाई-फाई पर बैकग्राउंड में चलता है। विश्वसनीयता यह है कि आप कितनी IPs नेटवर्क के लिए लगातार उपलब्ध रखते हैं।"
+  id: "Sesuaikan pengaturan untuk memaksimalkan keandalan. Aplikasi berjalan di latar belakang saat terhubung dan menggunakan Wi-Fi. Keandalan adalah berapa banyak IP yang Anda buat tersedia terus-menerus untuk jaringan."
+  it: "Regola le impostazioni per massimizzare l’affidabilità. L’app funziona in background quando è connessa e su Wi-Fi. L’affidabilità è il numero di IP che rendi continuamente disponibili alla rete."
+  ja: "信頼性を最大化するために設定を調整してください。アプリは接続時やWi-Fi利用時にバックグラウンドで動作します。信頼性とは、ネットワークに継続的に提供するIPの数です。"
+  ko: "신뢰도를 극대화하려면 설정을 조정하세요. 앱은 연결되어 있고 Wi-Fi에 있을 때 백그라운드에서 실행됩니다. 신뢰도는 네트워크에 지속적으로 제공하는 IP의 수입니다."
+  nl: "Pas de instellingen aan om de betrouwbaarheid te maximaliseren. De app draait op de achtergrond wanneer verbonden en op Wi-Fi. Betrouwbaarheid is hoeveel IP's je continu beschikbaar maakt voor het netwerk."
+  pl: "Dostosuj ustawienia, aby zmaksymalizować niezawodność. Aplikacja działa w tle, gdy jest połączona i korzysta z Wi-Fi. Niezawodność to liczba adresów IP, które stale udostępniasz sieci."
+  pt-BR: "Ajuste as configurações para maximizar a confiabilidade. O app funciona em segundo plano quando conectado e no Wi-Fi. Confiabilidade é quantos IPs você mantém continuamente disponíveis para a rede."
+  pt-PT: "Ajuste as definições para maximizar a fiabilidade. A aplicação funciona em segundo plano quando está ligada e em Wi-Fi. Fiabilidade é o número de IPs que mantém continuamente disponíveis para a rede."
+  ru: "Настройте параметры для максимальной надежности. Приложение работает в фоновом режиме при подключении и использовании Wi-Fi. Надежность — это количество IP-адресов, которые вы постоянно предоставляете сети."
+  sv: "Justera inställningarna för att maximera tillförlitligheten. Appen körs i bakgrunden när du är ansluten och på Wi-Fi. Tillförlitlighet är hur många IP-adresser du kontinuerligt gör tillgängliga för nätverket."
+  th: "ปรับการตั้งค่าเพื่อเพิ่มความน่าเชื่อถือ แอปจะทำงานในพื้นหลังเมื่อเชื่อมต่อและใช้ Wi-Fi ความน่าเชื่อถือคือจำนวน IP ที่คุณเปิดให้เครือข่ายใช้งานได้อย่างต่อเนื่อง"
+  uk: "Налаштуйте параметри для максимальної надійності. Додаток працює у фоновому режимі, коли підключений і на Wi-Fi. Надійність — це кількість IP-адрес, які ви постійно надаєте мережі."
+  vi: "Điều chỉnh cài đặt để tối đa hóa độ tin cậy. Ứng dụng chạy nền khi kết nối và dùng Wi-Fi. Độ tin cậy là số lượng IP bạn liên tục cung cấp cho mạng."
+  zh: "调整设置以最大化可靠性。应用在连接和使用 Wi-Fi 时会在后台运行。可靠性是指你持续为网络提供的 IP 数量。"
+  zh-HK: "調整設定以提升可靠性。應用程式在連接及使用 Wi-Fi 時會於背景運行。可靠性是你持續為網絡提供的 IP 數量。"

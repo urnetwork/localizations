@@ -1,0 +1,37 @@
+description: "Call to action"
+source: "+%1$.3f GiB/Day"
+platforms:
+  - android
+placeholders:
+  - name: value
+    type: float
+    precision: 3
+localizations:
+  ar: "+{value} GiB/يوم"
+  cs: "+{value} GiB/den"
+  de: "+{value} GiB/Tag"
+  el: "+{value} GiB/ημέρα"
+  en: "+{value} GiB/Day"
+  es: "+{value} GiB/día"
+  es-419: "+{value} GiB/día"
+  es-MX: "+{value} GiB/día"
+  fr: "+{value} GiB/jour"
+  he: "+{value} GiB/יום"
+  hi: "+{value} GiB/दिन"
+  id: "+{value} GiB/hari"
+  it: "+{value} GiB/giorno"
+  ja: "+{value} GiB/日"
+  ko: "+{value} GiB/일"
+  nl: "+{value} GiB/dag"
+  pl: "+{value} GiB/dzień"
+  pt: "+{value} GiB/dia"
+  pt-BR: "+{value} GiB/dia"
+  pt-PT: "+{value} GiB/dia"
+  ru: "+{value} GiB/день"
+  sv: "+{value} GiB/dag"
+  sw: "+{value} GiB/siku"
+  th: "+{value} GiB/วัน"
+  uk: "+{value} ГіБ/день"
+  vi: "+{value} GiB/ngày"
+  zh: "+{value} GiB/天"
+  zh-HK: "+{value} GiB/天"

@@ -1,0 +1,36 @@
+description: "A heading for a list of local DoH URLs."
+description_auto: true
+source: "Local DoH URLs"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "عناوين URL لـ DoH المحلي"
+  cs: "Místní adresy URL DoH"
+  de: "Lokale DoH-URLs"
+  el: "Τοπικά URL DoH"
+  en: "Local DoH URLs"
+  es: "URLs DoH locales"
+  es-419: "URLs DoH locales"
+  es-MX: "URLs DoH locales"
+  fr: "URL DoH locales"
+  he: "כתובות URL ל-DoH מקומי"
+  hi: "स्थानीय DoH URLs"
+  id: "URL DoH lokal"
+  it: "URL DoH locali"
+  ja: "ローカルDoH URL"
+  ko: "로컬 DoH URL"
+  nl: "Lokale DoH-URL's"
+  pl: "Lokalne adresy URL DoH"
+  pt: "URLs DoH locais"
+  pt-BR: "URLs DoH locais"
+  pt-PT: "URLs DoH locais"
+  ru: "Локальные DoH URL"
+  sv: "Lokala DoH-URL:er"
+  sw: "URL za DoH za ndani"
+  th: "DoH URL ภายในเครื่อง"
+  uk: "Локальні DoH URL"
+  vi: "URL DoH cục bộ"
+  zh: "本地 DoH URLs"
+  zh-HK: "本地 DoH URLs"

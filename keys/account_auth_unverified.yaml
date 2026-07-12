@@ -1,0 +1,36 @@
+description: "The account's email or phone, marked as not yet verified. The argument is the email or phone number."
+source: "%@ (unverified)"
+platforms:
+  - windows
+placeholders:
+  - name: auth
+    type: string
+localizations:
+  ar: "{auth} (لم يتم التحقق)"
+  cs: "{auth} (neověřeno)"
+  de: "{auth} (nicht verifiziert)"
+  el: "{auth} (μη επαληθευμένο)"
+  en: "{auth} (unverified)"
+  es: "{auth} (sin verificar)"
+  es-419: "{auth} (sin verificar)"
+  es-MX: "{auth} (sin verificar)"
+  fr: "{auth} (non vérifié)"
+  he: "{auth} (לא מאומת)"
+  hi: "{auth} (असत्यापित)"
+  id: "{auth} (belum terverifikasi)"
+  it: "{auth} (non verificato)"
+  ja: "{auth}（未確認）"
+  ko: "{auth}(미인증)"
+  nl: "{auth} (niet geverifieerd)"
+  pl: "{auth} (niezweryfikowano)"
+  pt: "{auth} (não verificado)"
+  pt-BR: "{auth} (não verificado)"
+  pt-PT: "{auth} (não verificado)"
+  ru: "{auth} (не подтверждено)"
+  sv: "{auth} (overifierad)"
+  sw: "{auth} (haijathibitishwa)"
+  th: "{auth} (ยังไม่ยืนยัน)"
+  uk: "{auth} (не підтверджено)"
+  vi: "{auth} (chưa xác minh)"
+  zh: "{auth}（未验证）"
+  zh-HK: "{auth}（未驗證）"

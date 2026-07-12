@@ -1,0 +1,36 @@
+description: "A label displayed above the split rule editor."
+description_auto: true
+source: "Edit split rule"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "تعديل قاعدة التقسيم"
+  cs: "Upravit pravidlo rozdělení"
+  de: "Split-Regel bearbeiten"
+  el: "Επεξεργασία κανόνα διαχωρισμού"
+  en: "Edit split rule"
+  es: "Editar regla de división"
+  es-419: "Editar regla de división"
+  es-MX: "Editar regla de división"
+  fr: "Modifier la règle de séparation"
+  he: "ערוך כלל פיצול"
+  hi: "स्प्लिट नियम संपादित करें"
+  id: "Edit aturan pemisahan"
+  it: "Modifica regola di suddivisione"
+  ja: "分割ルールを編集"
+  ko: "분할 규칙 편집"
+  nl: "Splitsregel bewerken"
+  pl: "Edytuj regułę podziału"
+  pt: "Editar regra de divisão"
+  pt-BR: "Editar regra de divisão"
+  pt-PT: "Editar regra de divisão"
+  ru: "Изменить правило разделения"
+  sv: "Redigera delningsregel"
+  sw: "Hariri sheria ya mgawanyo"
+  th: "แก้ไขกฎแยกเส้นทาง"
+  uk: "Редагувати правило розділення"
+  vi: "Chỉnh sửa quy tắc tách luồng"
+  zh: "编辑分流规则"
+  zh-HK: "編輯分流規則"

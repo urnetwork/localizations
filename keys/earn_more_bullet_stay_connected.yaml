@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Stay connected daily = Earn up to %s GiB/Day"
+platforms:
+  - android
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "البقاء متصلاً يوميًا = اربح حتى {amount} GiB/يوم"
+  cs: "Zůstaňte připojeni denně = Získejte až {amount} GiB/den"
+  de: "Täglich verbunden bleiben = Verdiene bis zu {amount} GiB/Tag"
+  el: "Μείνετε συνδεδεμένοι καθημερινά = Κερδίστε έως {amount} GiB/ημέρα"
+  en: "Stay connected daily = Earn up to {amount} GiB/Day"
+  es: "Mantente conectado diariamente = Gana hasta {amount} GiB/día"
+  es-419: "Mantente conectado diariamente = Gana hasta {amount} GiB/día"
+  es-MX: "Mantente conectado diariamente = Gana hasta {amount} GiB/día"
+  fr: "Restez connecté chaque jour = Gagnez jusqu’à {amount} GiB/jour"
+  he: "הישאר מחובר מדי יום = תרוויח עד {amount} GiB/יום"
+  hi: "रोज़ाना जुड़े रहें = प्रतिदिन {amount} GiB तक कमाएँ"
+  id: "Tetap terhubung setiap hari = Dapatkan hingga {amount} GiB/hari"
+  it: "Rimani connesso ogni giorno = Guadagna fino a {amount} GiB/giorno"
+  ja: "毎日接続を維持 = 最大 {amount} GiB/日を獲得"
+  ko: "매일 연결 유지 = 하루 최대 {amount} GiB 적립"
+  nl: "Dagelijks verbonden blijven = Verdien tot {amount} GiB/dag"
+  pl: "Pozostań połączony codziennie = Zarabiaj do {amount} GiB/dzień"
+  pt: "Mantenha-se ligado diariamente = Ganhe até {amount} GiB/dia"
+  pt-BR: "Fique conectado diariamente = Ganhe até {amount} GiB/dia"
+  pt-PT: "Mantenha-se ligado diariamente = Ganhe até {amount} GiB/dia"
+  ru: "Оставайтесь на связи ежедневно = Зарабатывайте до {amount} GiB/день"
+  sv: "Var ansluten dagligen = Tjäna upp till {amount} GiB/dag"
+  sw: "Unganishwa kila siku = Pata hadi {amount} GiB/siku"
+  th: "เชื่อมต่อทุกวัน = รับสูงสุด {amount} GiB/วัน"
+  uk: "Залишайтеся на зв'язку щодня = Заробляйте до {amount} ГіБ/день"
+  vi: "Kết nối hàng ngày = Kiếm tới {amount} GiB/ngày"
+  zh: "每天保持连接 = 每日最多可赚 {amount} GiB"
+  zh-HK: "每天保持連接 = 每日賺取高達 {amount} GiB"

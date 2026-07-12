@@ -1,0 +1,10 @@
+description: "General UI string."
+source: "Error connecting to URnetwork"
+deprecated:
+  - apple
+platforms:
+  - apple
+localizations:
+  cs: "Chyba při připojování k síti URnetwork"
+  en: "Error connecting to URnetwork"
+  nl: "Fout bij verbinden met URnetwork"

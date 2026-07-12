@@ -1,0 +1,36 @@
+description: "General UI string."
+source: "%d providers"
+platforms:
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "{count} مزود"
+  cs: "{count} poskytovatelů"
+  de: "{count} Anbieter"
+  el: "{count} πάροχοι"
+  en: "{count} providers"
+  es: "{count} proveedores"
+  es-419: "{count} proveedores"
+  es-MX: "{count} proveedores"
+  fr: "{count} fournisseurs"
+  he: "{count} ספקים"
+  hi: "{count} प्रदाता"
+  id: "{count} penyedia"
+  it: "{count} provider"
+  ja: "{count} プロバイダー"
+  ko: "{count}개 제공자"
+  nl: "{count} providers"
+  pl: "{count} dostawców"
+  pt: "{count} fornecedores"
+  pt-BR: "{count} provedores"
+  pt-PT: "{count} fornecedores"
+  ru: "{count} провайдеров"
+  sv: "{count} leverantörer"
+  sw: "watoa huduma {count}"
+  th: "{count} ผู้ให้บริการ"
+  uk: "{count} провайдерів"
+  vi: "{count} nhà cung cấp"
+  zh: "{count} 个提供商"
+  zh-HK: "{count} 個供應商"

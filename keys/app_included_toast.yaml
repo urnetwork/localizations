@@ -1,0 +1,36 @@
+description: "transfer stats and split rules"
+source: "%1$s will route through the VPN"
+platforms:
+  - android
+placeholders:
+  - name: app
+    type: string
+localizations:
+  ar: "سيتم توجيه {app} عبر VPN"
+  cs: "{app} bude používat VPN"
+  de: "{app} wird über das VPN geleitet"
+  el: "Η εφαρμογή {app} θα δρομολογείται μέσω του VPN"
+  en: "{app} will route through the VPN"
+  es: "{app} se enrutará por la VPN"
+  es-419: "{app} se enrutará por la VPN"
+  es-MX: "{app} se enrutará por la VPN"
+  fr: "{app} passera par le VPN"
+  he: "{app} ינותב דרך ה-VPN"
+  hi: "{app} VPN से रूट होगा"
+  id: "{app} akan melalui VPN"
+  it: "{app} passerà attraverso la VPN"
+  ja: "{app}はVPN経由でルーティングされます"
+  ko: "{app}은(는) VPN으로 라우팅됩니다"
+  nl: "{app} gaat via de VPN"
+  pl: "{app} będzie korzystać z VPN"
+  pt: "{app} vai usar a VPN"
+  pt-BR: "{app} vai usar a VPN"
+  pt-PT: "{app} vai usar a VPN"
+  ru: "{app} будет работать через VPN"
+  sv: "{app} kommer att gå via VPN"
+  sw: "{app} itapitia VPN"
+  th: "{app} จะใช้งานผ่าน VPN"
+  uk: "{app} працюватиме через VPN"
+  vi: "{app} sẽ đi qua VPN"
+  zh: "{app} 将通过 VPN 路由"
+  zh-HK: "{app} 將透過 VPN 路由"

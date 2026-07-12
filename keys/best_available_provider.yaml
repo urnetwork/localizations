@@ -1,4 +1,10 @@
 description: "VPN providers list option to select the best available provider"
+source: "Best available provider"
+platforms:
+  - android
+  - apple
+  - linux
+  - web
 localizations:
   ar: "أفضل مزود متاح"
   cs: "Nejlepší dostupný poskytovatel"
@@ -6,19 +12,25 @@ localizations:
   el: "Καλύτερος διαθέσιμος πάροχος"
   en: "Best available provider"
   es: "Mejor proveedor disponible"
+  es-419: "Mejor proveedor disponible"
   es-MX: "Mejor proveedor disponible"
   fr: "Meilleur fournisseur disponible"
   he: "הספק הזמין הטוב ביותר"
   hi: "सर्वश्रेष्ठ उपलब्ध प्रदाता"
+  id: "Penyedia terbaik yang tersedia"
+  it: "Miglior provider disponibile"
   ja: "最適な利用可能プロバイダー"
-  ko: "최고의 사용 가능한 제공자"
+  ko: "최상의 사용 가능한 제공자"
   nl: "Beste beschikbare aanbieder"
   pl: "Najlepszy dostępny dostawca"
   pt: "Melhor provedor disponível"
   pt-BR: "Melhor provedor disponível"
+  pt-PT: "Melhor fornecedor disponível"
   ru: "Лучший доступный провайдер"
-  sw: "Mtoa huduma bora anayepatikana"
-  th: "ผู้ให้บริการที่ดีที่สุดที่มีอยู่"
+  sv: "Bästa tillgängliga leverantör"
+  sw: "Mtoa huduma bora zaidi anayepatikana"
+  th: "ผู้ให้บริการที่ดีที่สุดที่พร้อมเชื่อมต่อ"
   uk: "Найкращий доступний провайдер"
   vi: "Nhà cung cấp tốt nhất hiện có"
   zh: "最佳可用提供商"
+  zh-HK: "最佳可用供應商"

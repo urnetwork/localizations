@@ -1,0 +1,37 @@
+description: "Call to action"
+source: "%@ Payout"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "دفعة {date}"
+  cs: "Výplata ze dne {date}"
+  de: "Auszahlung am {date}"
+  el: "Πληρωμή {date}"
+  en: "{date} Payout"
+  es: "Pago del {date}"
+  es-419: "Pago de {date}"
+  es-MX: "Pago del {date}"
+  fr: "Paiement du {date}"
+  he: "{date} תשלום"
+  hi: "{date} भुगतान"
+  id: "Pembayaran {date}"
+  it: "Pagamento {date}"
+  ja: "{date} の支払い"
+  ko: "{date} 지급"
+  nl: "{date} Uitbetaling"
+  pl: "Wypłata {date}"
+  pt: "Pagamento de {date}"
+  pt-BR: "Pagamento de {date}"
+  pt-PT: "Pagamento de {date}"
+  ru: "Выплата за {date}"
+  sv: "{date} utbetalning"
+  sw: "Malipo ya {date}"
+  th: "ยอดจ่าย {date}"
+  uk: "Виплата {date}"
+  vi: "Thanh toán {date}"
+  zh: "{date} 支付"
+  zh-HK: "{date} 支付"

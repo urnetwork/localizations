@@ -1,0 +1,101 @@
+description: "transfer stats and split rules"
+source: "%1$d apps included"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} تطبيق مشمول"
+    one: "تطبيق واحد مشمول"
+    two: "تطبيقان مشمولان"
+    few: "{count} تطبيقات مشمولة"
+    many: "{count} تطبيقًا مشمولًا"
+    other: "{count} تطبيق مشمول"
+  cs:
+    one: "{count} zahrnutá aplikace"
+    few: "{count} zahrnuté aplikace"
+    many: "{count} zahrnuté aplikace"
+    other: "Zahrnuté aplikace: {count}"
+  de:
+    one: "{count} App eingeschlossen"
+    other: "{count} Apps eingeschlossen"
+  el:
+    one: "{count} συμπεριλαμβανόμενη εφαρμογή"
+    other: "{count} συμπεριλαμβανόμενες εφαρμογές"
+  en:
+    one: "{count} app included"
+    other: "{count} apps included"
+  es:
+    one: "{count} app incluida"
+    other: "{count} apps incluidas"
+  es-419:
+    one: "{count} app incluida"
+    other: "{count} apps incluidas"
+  es-MX:
+    one: "{count} app incluida"
+    other: "{count} apps incluidas"
+  fr:
+    one: "{count} application incluse"
+    other: "{count} applications incluses"
+  he:
+    one: "{count} אפליקציה כלולה"
+    two: "{count} אפליקציות כלולות"
+    many: "{count} אפליקציות כלולות"
+    other: "{count} אפליקציות כלולות"
+  hi:
+    one: "{count} ऐप शामिल"
+    other: "{count} ऐप्स शामिल"
+  id:
+    other: "{count} aplikasi disertakan"
+  it:
+    one: "{count} app inclusa"
+    other: "{count} app incluse"
+  ja:
+    other: "{count}個のアプリを含める"
+  ko:
+    other: "포함된 앱 {count}개"
+  nl:
+    one: "{count} app inbegrepen"
+    other: "{count} apps inbegrepen"
+  pl:
+    one: "{count} uwzględniona aplikacja"
+    few: "{count} uwzględnione aplikacje"
+    many: "{count} uwzględnionych aplikacji"
+    other: "Uwzględnione aplikacje: {count}"
+  pt:
+    one: "{count} aplicação incluída"
+    other: "{count} aplicações incluídas"
+  pt-BR:
+    one: "{count} app incluído"
+    other: "{count} apps incluídos"
+  pt-PT:
+    one: "{count} aplicação incluída"
+    other: "{count} aplicações incluídas"
+  ru:
+    one: "{count} приложение включено"
+    few: "{count} приложения включены"
+    many: "{count} приложений включено"
+    other: "Включено приложений: {count}"
+  sv:
+    one: "{count} app inkluderad"
+    other: "{count} appar inkluderade"
+  sw:
+    one: "{count} programu imejumuishwa"
+    other: "{count} programu zimejumuishwa"
+  th:
+    other: "รวมไว้ {count} แอป"
+  uk:
+    one: "{count} застосунок включено"
+    few: "{count} застосунки включено"
+    many: "{count} застосунків включено"
+    other: "{count} застосунка включено"
+  vi:
+    other: "{count} ứng dụng được bao gồm"
+  zh:
+    other: "已包含 {count} 个应用"
+  zh-HK:
+    other: "已包含 {count} 個應用程式"

@@ -1,0 +1,102 @@
+description: "Call to action"
+source: "Total referrals: %lld"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "إجمالي الإحالات: {count}"
+    one: "إجمالي الإحالات: {count}"
+    two: "إجمالي الإحالات: {count}"
+    few: "إجمالي الإحالات: {count}"
+    many: "إجمالي الإحالات: {count}"
+    other: "إجمالي الإحالات: {count}"
+  cs:
+    one: "Celkem doporučení: {count}"
+    few: "Celkem doporučení: {count}"
+    many: "Celkem doporučení: {count}"
+    other: "Celkem doporučení: {count}"
+  de:
+    one: "Gesamtanzahl Empfehlungen: {count}"
+    other: "Gesamtanzahl Empfehlungen: {count}"
+  el:
+    one: "Συνολικές παραπομπές: {count}"
+    other: "Συνολικές παραπομπές: {count}"
+  en:
+    one: "Total referrals: {count}"
+    other: "Total referrals: {count}"
+  es:
+    one: "Total de referidos: {count}"
+    other: "Total de referidos: {count}"
+  es-419:
+    one: "Total de referidos: {count}"
+    other: "Total de referidos: {count}"
+  es-MX:
+    one: "Total de referidos: {count}"
+    other: "Total de referidos: {count}"
+  fr:
+    one: "Nombre total de parrainages : {count}"
+    other: "Nombre total de parrainages : {count}"
+  he:
+    one: "סך ההפניות: {count}"
+    two: "סך ההפניות: {count}"
+    many: "סך ההפניות: {count}"
+    other: "סך ההפניות: {count}"
+  hi:
+    one: "कुल रेफ़रल: {count}"
+    other: "कुल रेफ़रल: {count}"
+  id:
+    other: "Total referensi: {count}"
+  it:
+    one: "Totale inviti: {count}"
+    other: "Totale inviti: {count}"
+  ja:
+    other: "紹介合計: {count}"
+  ko:
+    other: "총 추천 수: {count}"
+  nl:
+    one: "Totaal aantal verwijzingen: {count}"
+    other: "Totaal aantal verwijzingen: {count}"
+  pl:
+    one: "Łączna liczba poleceń: {count}"
+    few: "Łączna liczba poleceń: {count}"
+    many: "Łączna liczba poleceń: {count}"
+    other: "Łączna liczba poleceń: {count}"
+  pt:
+    one: "Total de referências: {count}"
+    other: "Total de referências: {count}"
+  pt-BR:
+    one: "Total de indicações: {count}"
+    other: "Total de indicações: {count}"
+  pt-PT:
+    one: "Total de referências: {count}"
+    other: "Total de referências: {count}"
+  ru:
+    one: "Всего рефералов: {count}"
+    few: "Всего рефералов: {count}"
+    many: "Всего рефералов: {count}"
+    other: "Всего рефералов: {count}"
+  sv:
+    one: "Totalt antal rekommendationer: {count}"
+    other: "Totalt antal rekommendationer: {count}"
+  sw:
+    one: "Jumla ya rufaa: {count}"
+    other: "Jumla ya rufaa: {count}"
+  th:
+    other: "จำนวนการแนะนำทั้งหมด: {count}"
+  uk:
+    one: "Всього рефералів: {count}"
+    few: "Всього рефералів: {count}"
+    many: "Всього рефералів: {count}"
+    other: "Всього рефералів: {count}"
+  vi:
+    other: "Tổng số giới thiệu: {count}"
+  zh:
+    other: "总推荐数：{count}"
+  zh-HK:
+    other: "推薦總數：{count}"

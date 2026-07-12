@@ -1,0 +1,36 @@
+description: "Fallback shown in place of a value that is not known, e.g. the host list of a blocked connection or the peer client id in the connection stats. Lowercase: it appears inline where a value would be."
+source: "unknown"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "غير معروف"
+  cs: "neznámé"
+  de: "unbekannt"
+  el: "άγνωστο"
+  en: "unknown"
+  es: "desconocido"
+  es-419: "desconocido"
+  es-MX: "desconocido"
+  fr: "inconnu"
+  he: "לא ידוע"
+  hi: "अज्ञात"
+  id: "tidak diketahui"
+  it: "sconosciuto"
+  ja: "不明"
+  ko: "알 수 없음"
+  nl: "onbekend"
+  pl: "nieznane"
+  pt: "desconhecido"
+  pt-BR: "desconhecido"
+  pt-PT: "desconhecido"
+  ru: "неизвестно"
+  sv: "okänt"
+  sw: "haijulikani"
+  th: "ไม่ทราบ"
+  uk: "невідомо"
+  vi: "không rõ"
+  zh: "未知"
+  zh-HK: "未知"

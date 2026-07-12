@@ -1,0 +1,37 @@
+description: "Header for verify screen"
+source: "You've got mail"
+platforms:
+  - android
+  - apple
+  - web
+aliases:
+  - verify_screen_header
+localizations:
+  ar: "لديك بريد إلكتروني"
+  cs: "Máš poštu"
+  de: "Du hast eine E-Mail"
+  el: "Έχετε ένα email"
+  en: "You've got mail"
+  es: "Tienes un correo electrónico"
+  es-419: "Tienes correo"
+  es-MX: "Tienes un correo"
+  fr: "Vous avez un courriel"
+  he: "קיבלת מייל"
+  hi: "आपके पास एक ईमेल है"
+  id: "Anda menerima email"
+  it: "Hai ricevuto un'email"
+  ja: "メールが届いています"
+  ko: "메일을 확인해주세요"
+  nl: "Je hebt mail"
+  pl: "Masz wiadomość"
+  pt: "Você tem um e-mail"
+  pt-BR: "Você tem um e-mail"
+  pt-PT: "Recebeu um email"
+  ru: "Вам письмо"
+  sv: "Du har fått e-post"
+  sw: "Umepata barua"
+  th: "คุณได้รับอีเมลใหม่"
+  uk: "Вам надійшов лист"
+  vi: "Bạn có email mới"
+  zh: "您有邮件"
+  zh-HK: "你收到郵件了"

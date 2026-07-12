@@ -1,0 +1,36 @@
+description: "A label displayed in the custom dns settings section."
+description_auto: true
+source: "Local DNS"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "DNS محلي"
+  cs: "Místní DNS"
+  de: "Lokales DNS"
+  el: "Τοπικό DNS"
+  en: "Local DNS"
+  es: "DNS local"
+  es-419: "DNS local"
+  es-MX: "DNS local"
+  fr: "DNS local"
+  he: "DNS מקומי"
+  hi: "स्थानीय DNS"
+  id: "DNS lokal"
+  it: "DNS locale"
+  ja: "ローカルDNS"
+  ko: "로컬 DNS"
+  nl: "Lokale DNS"
+  pl: "Lokalny DNS"
+  pt: "DNS local"
+  pt-BR: "DNS local"
+  pt-PT: "DNS local"
+  ru: "Локальный DNS"
+  sv: "Lokal DNS"
+  sw: "DNS ya ndani"
+  th: "DNS ภายในเครื่อง"
+  uk: "Локальний DNS"
+  vi: "DNS cục bộ"
+  zh: "本地 DNS"
+  zh-HK: "本地 DNS"

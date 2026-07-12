@@ -1,0 +1,9 @@
+description: "General UI string."
+source: "#%lld"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "#{count}"

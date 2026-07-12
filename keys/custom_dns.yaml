@@ -1,0 +1,36 @@
+description: "Title of a section in the connect drawer that shows the custom dns settings."
+description_auto: true
+source: "Custom DNS"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "DNS مخصص"
+  cs: "Vlastní DNS"
+  de: "Eigenes DNS"
+  el: "Προσαρμοσμένο DNS"
+  en: "Custom DNS"
+  es: "DNS personalizado"
+  es-419: "DNS personalizado"
+  es-MX: "DNS personalizado"
+  fr: "DNS personnalisé"
+  he: "DNS מותאם אישית"
+  hi: "कस्टम DNS"
+  id: "DNS khusus"
+  it: "DNS personalizzato"
+  ja: "カスタムDNS"
+  ko: "사용자 지정 DNS"
+  nl: "Aangepaste DNS"
+  pl: "Własny DNS"
+  pt: "DNS personalizado"
+  pt-BR: "DNS personalizado"
+  pt-PT: "DNS personalizado"
+  ru: "Пользовательский DNS"
+  sv: "Anpassad DNS"
+  sw: "DNS maalum"
+  th: "DNS ที่กำหนดเอง"
+  uk: "Власний DNS"
+  vi: "DNS tùy chỉnh"
+  zh: "自定义 DNS"
+  zh-HK: "自訂 DNS"

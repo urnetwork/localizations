@@ -1,0 +1,36 @@
+description: "A description of the contract details view."
+description_auto: true
+source: "Contracts appear here while connected."
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "تظهر العقود هنا أثناء الاتصال."
+  cs: "Kontrakty se zde zobrazí po připojení."
+  de: "Verträge erscheinen hier, während du verbunden bist."
+  el: "Τα συμβόλαια εμφανίζονται εδώ όταν είστε συνδεδεμένοι."
+  en: "Contracts appear here while connected."
+  es: "Los contratos aparecen aquí mientras estás conectado."
+  es-419: "Los contratos aparecen aquí mientras estás conectado."
+  es-MX: "Los contratos aparecen aquí mientras estás conectado."
+  fr: "Les contrats apparaissent ici lorsque vous êtes connecté."
+  he: "החוזים מופיעים כאן בזמן החיבור."
+  hi: "कनेक्ट होने पर कॉन्ट्रैक्ट यहाँ दिखाई देंगे।"
+  id: "Kontrak muncul di sini saat terhubung."
+  it: "I contratti appaiono qui mentre sei connesso."
+  ja: "接続中に契約がここに表示されます。"
+  ko: "연결 중에 계약이 여기에 표시됩니다."
+  nl: "Contracten verschijnen hier terwijl je verbonden bent."
+  pl: "Kontrakty pojawią się tutaj po połączeniu."
+  pt: "Os contratos aparecem aqui enquanto estiver ligado."
+  pt-BR: "Os contratos aparecem aqui enquanto você estiver conectado."
+  pt-PT: "Os contratos aparecem aqui enquanto estiver ligado."
+  ru: "Контракты появятся здесь при подключении."
+  sv: "Kontrakt visas här när du är ansluten."
+  sw: "Mikataba huonekana hapa ukiwa umeunganishwa."
+  th: "สัญญาจะแสดงที่นี่ขณะเชื่อมต่อ"
+  uk: "Контракти з'являться тут під час підключення."
+  vi: "Hợp đồng xuất hiện ở đây khi đang kết nối."
+  zh: "连接后，合约会显示在这里。"
+  zh-HK: "連接後，合約會在此顯示。"

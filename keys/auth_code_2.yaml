@@ -1,0 +1,12 @@
+description: "A message that displays the first and last six characters of an auth code."
+description_auto: true
+source: "Auth Code \n\n%@...%@"
+platforms:
+  - apple
+placeholders:
+  - name: prefix
+    type: string
+  - name: suffix
+    type: string
+localizations:
+  en: "Auth Code \n\n{prefix}...{suffix}"

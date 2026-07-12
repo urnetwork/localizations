@@ -1,0 +1,36 @@
+description: "A description of the content of the \"Activity\" section of the split rules view."
+description_auto: true
+source: "Routing activity appears here while connected."
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "يظهر نشاط التوجيه هنا أثناء الاتصال."
+  cs: "Aktivita směrování se zde zobrazí po připojení."
+  de: "Routing-Aktivität erscheint hier, während du verbunden bist."
+  el: "Η δραστηριότητα δρομολόγησης εμφανίζεται εδώ όταν είστε συνδεδεμένοι."
+  en: "Routing activity appears here while connected."
+  es: "La actividad de enrutamiento aparece aquí mientras estás conectado."
+  es-419: "La actividad de enrutamiento aparece aquí mientras estás conectado."
+  es-MX: "La actividad de enrutamiento aparece aquí mientras estás conectado."
+  fr: "L'activité de routage apparaît ici lorsque vous êtes connecté."
+  he: "פעילות הניתוב מופיעה כאן בזמן החיבור."
+  hi: "कनेक्ट होने पर रूटिंग गतिविधि यहाँ दिखाई देगी।"
+  id: "Aktivitas perutean muncul di sini saat terhubung."
+  it: "L'attività di instradamento appare qui mentre sei connesso."
+  ja: "接続中にルーティングのアクティビティがここに表示されます。"
+  ko: "연결 중에 라우팅 활동이 여기에 표시됩니다."
+  nl: "Routeringsactiviteit verschijnt hier terwijl je verbonden bent."
+  pl: "Aktywność routingu pojawi się tutaj po połączeniu."
+  pt: "A atividade de encaminhamento aparece aqui enquanto estiver ligado."
+  pt-BR: "A atividade de roteamento aparece aqui enquanto você estiver conectado."
+  pt-PT: "A atividade de encaminhamento aparece aqui enquanto estiver ligado."
+  ru: "Активность маршрутизации появится здесь при подключении."
+  sv: "Dirigeringsaktivitet visas här när du är ansluten."
+  sw: "Shughuli za upitishaji huonekana hapa ukiwa umeunganishwa."
+  th: "กิจกรรมการกำหนดเส้นทางจะแสดงที่นี่ขณะเชื่อมต่อ"
+  uk: "Активність маршрутизації з'явиться тут під час підключення."
+  vi: "Hoạt động định tuyến xuất hiện ở đây khi đang kết nối."
+  zh: "连接后，路由活动会显示在这里。"
+  zh-HK: "連接後，路由活動會在此顯示。"

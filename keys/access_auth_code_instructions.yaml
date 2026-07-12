@@ -5,7 +5,9 @@ description: |
     - Web: Replace {link} with <a href="https://ur.io" target="_blank"> and {/link} with </a>
     - SwiftUI: Use AttributedString parsing to detect {link}...{/link} and apply .link attribute to the range
     - Jetpack Compose: Use AnnotatedString with an annotation for the {link}...{/link} range, and handle clicks accordingly
-
+source: "To Access your Auth Code, create an account and sign in to {link}ur.io{/link}. Head over to Account -> Settings -> Create/Copy Auth code -> Paste -> UR In!"
+platforms:
+  - web
 localizations:
   ar: "للوصول إلى رمز المصادقة الخاص بك، أنشئ حسابًا وسجّل الدخول إلى {link}ur.io{/link}. انتقل إلى الحساب -> الإعدادات -> إنشاء/نسخ رمز المصادقة -> لصق -> أنت جاهز!"
   cs: "Pro přístup ke svému ověřovacímu kódu si vytvořte účet a přihlaste se na {link}ur.io{/link}. Přejděte na Účet -> Nastavení -> Vytvořit/Zkopírovat ověřovací kód -> Vložit -> Hotovo!"
@@ -13,19 +15,25 @@ localizations:
   el: "Για να αποκτήσετε πρόσβαση στον κωδικό ταυτοποίησης, δημιουργήστε λογαριασμό και συνδεθείτε στο {link}ur.io{/link}. Μεταβείτε σε Λογαριασμός -> Ρυθμίσεις -> Δημιουργία/Αντιγραφή κωδικού ταυτοποίησης -> Επικόλληση -> Έτοιμοι!"
   en: "To Access your Auth Code, create an account and sign in to {link}ur.io{/link}. Head over to Account -> Settings -> Create/Copy Auth code -> Paste -> UR In!"
   es: "Para acceder a tu código de autenticación, crea una cuenta e inicia sesión en {link}ur.io{/link}. Ve a Cuenta -> Configuración -> Crear/Copiar código de autenticación -> Pega -> ¡Listo!"
+  es-419: "Para acceder a tu código de autenticación, crea una cuenta e inicia sesión en {link}ur.io{/link}. Ve a Cuenta -> Configuración -> Crear/Copiar código de autenticación -> Pega -> ¡Listo!"
   es-MX: "Para acceder a tu código de autenticación, crea una cuenta e inicia sesión en {link}ur.io{/link}. Ve a Cuenta -> Configuración -> Crear/Copiar código de autenticación -> Pega -> ¡Listo!"
   fr: "Pour accéder à votre code d'authentification, créez un compte et connectez-vous à {link}ur.io{/link}. Rendez-vous sur Compte -> Paramètres -> Créer/Copier le code d'authentification -> Coller -> C'est fait !"
   he: "כדי לגשת לקוד האימות שלך, צור חשבון והתחבר ל-{link}ur.io{/link}. עבור אל חשבון -> הגדרות -> צור/העתק קוד אימות -> הדבק -> נכנסת!"
   hi: "अपने ऑथ कोड तक पहुंचने के लिए, एक खाता बनाएं और {link}ur.io{/link} में साइन इन करें। अकाउंट -> सेटिंग्स -> ऑथ कोड बनाएं/कॉपी करें -> पेस्ट करें -> हो गया!"
+  id: "Untuk mengakses Kode Autentikasi Anda, buat akun dan masuk ke {link}ur.io{/link}. Buka Akun -> Pengaturan -> Buat/Salin kode autentikasi -> Tempel -> Selesai!"
+  it: "Per accedere al tuo codice di autenticazione, crea un account e accedi su {link}ur.io{/link}. Vai su Account -> Impostazioni -> Crea/Copia codice di autenticazione -> Incolla -> Fatto!"
   ja: "認証コードにアクセスするには、アカウントを作成して{link}ur.io{/link}にサインインしてください。アカウント -> 設定 -> 認証コード作成/コピー -> 貼り付け -> 完了！"
   ko: "인증 코드를 받으려면 계정을 만들고 {link}ur.io{/link}에 로그인하세요. 계정 -> 설정 -> 인증 코드 생성/복사 -> 붙여넣기 -> 완료!"
   nl: "Om toegang te krijgen tot je authenticatiecode, maak een account aan en log in op {link}ur.io{/link}. Ga naar Account -> Instellingen -> Auth-code aanmaken/kopiëren -> Plakken -> Klaar!"
   pl: "Aby uzyskać dostęp do swojego kodu uwierzytelniającego, utwórz konto i zaloguj się na {link}ur.io{/link}. Przejdź do Konto -> Ustawienia -> Utwórz/Skopiuj kod uwierzytelniający -> Wklej -> Gotowe!"
   pt: "Para acessar seu código de autenticação, crie uma conta e faça login em {link}ur.io{/link}. Vá para Conta -> Configurações -> Criar/Copiar código de autenticação -> Colar -> Pronto!"
   pt-BR: "Para acessar seu código de autenticação, crie uma conta e faça login em {link}ur.io{/link}. Vá para Conta -> Configurações -> Criar/Copiar código de autenticação -> Colar -> Pronto!"
+  pt-PT: "Para aceder ao seu código de autenticação, crie uma conta e inicie sessão em {link}ur.io{/link}. Vá a Conta -> Definições -> Criar/Copiar código de autenticação -> Colar -> Pronto!"
   ru: "Чтобы получить код аутентификации, создайте аккаунт и войдите на {link}ur.io{/link}. Перейдите в Аккаунт -> Настройки -> Создать/Скопировать код -> Вставить -> Готово!"
+  sv: "För att komma åt din autentiseringskod, skapa ett konto och logga in på {link}ur.io{/link}. Gå till Konto -> Inställningar -> Skapa/Kopiera autentiseringskod -> Klistra in -> Klart!"
   sw: "Ili kupata nambari yako ya uthibitishaji, tengeneza akaunti na uingie kwenye {link}ur.io{/link}. Nenda kwa Akaunti -> Mipangilio -> Tengeneza/Nakili nambari ya uthibitishaji -> Bandika -> Umefanikiwa!"
   th: "ในการเข้าถึงรหัสยืนยันของคุณ ให้สร้างบัญชีและลงชื่อเข้าใช้ที่ {link}ur.io{/link} ไปที่ บัญชี -> การตั้งค่า -> สร้าง/คัดลอกรหัสยืนยัน -> วาง -> เสร็จสิ้น!"
   uk: "Щоб отримати код автентифікації, створіть обліковий запис і увійдіть на {link}ur.io{/link}. Перейдіть до Обліковий запис -> Налаштування -> Створити/Скопіювати код -> Вставити -> Готово!"
   vi: "Để truy cập mã xác thực, hãy tạo tài khoản và đăng nhập vào {link}ur.io{/link}. Vào Tài khoản -> Cài đặt -> Tạo/Sao chép mã xác thực -> Dán -> Xong!"
   zh: "要获取您的认证码，请创建账户并登录{link}ur.io{/link}。进入账户 -> 设置 -> 创建/复制认证码 -> 粘贴 -> 完成！"
+  zh-HK: "要取得您的認證碼，請建立帳戶並登入{link}ur.io{/link}。前往帳戶 -> 設定 -> 建立/複製認證碼 -> 貼上 -> 完成！"

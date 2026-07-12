@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "When unlinking your referral network, you will no longer be able to earn points from %1$s"
+platforms:
+  - android
+placeholders:
+  - name: network_name
+    type: string
+localizations:
+  ar: "عند فك ارتباط شبكة الإحالة الخاصة بك، لن تتمكن بعد الآن من كسب النقاط من {network_name}"
+  cs: "Po zrušení propojení sítě doporučení již nebudete moci získávat body z {network_name}."
+  de: "Wenn Sie Ihr Empfehlungsnetzwerk trennen, können Sie keine Punkte mehr von {network_name} erhalten"
+  el: "Όταν αποσυνδέετε το δίκτυο παραπομπών σας, δεν θα μπορείτε πλέον να κερδίζετε πόντους από το {network_name}"
+  en: "When unlinking your referral network, you will no longer be able to earn points from {network_name}"
+  es: "Al desvincular tu red de referidos, ya no podrás ganar puntos de {network_name}"
+  es-419: "Al desvincular tu red de referidos, ya no podrás ganar puntos de {network_name}"
+  es-MX: "Al desvincular tu red de referidos, ya no podrás ganar puntos de {network_name}"
+  fr: "En dissociant votre réseau de parrainage, vous ne pourrez plus gagner de points depuis {network_name}"
+  he: "בעת ניתוק רשת ההפניות שלך, לא תוכל עוד להרוויח נקודות מ-{network_name}"
+  hi: "जब आप अपने रेफ़रल नेटवर्क को अनलिंक करते हैं, तो आप अब {network_name} से अंक अर्जित नहीं कर पाएंगे"
+  id: "Saat memutuskan tautan jaringan referensi Anda, Anda tidak akan bisa lagi mendapatkan poin dari {network_name}"
+  it: "Quando scolleghi la tua rete di riferimento, non potrai più guadagnare punti da {network_name}"
+  ja: "紹介ネットワークのリンクを解除すると、{network_name} からポイントを獲得できなくなります"
+  ko: "추천 네트워크 연결을 해제하면 더 이상 {network_name}에서 포인트를 얻을 수 없습니다"
+  nl: "Als je je referentienetwerk ontkoppelt, kun je geen punten meer verdienen van {network_name}"
+  pl: "Po odłączeniu swojej sieci poleceń nie będziesz już mógł zdobywać punktów z {network_name}"
+  pt: "Ao desvincular a sua rede de referências, deixará de poder ganhar pontos de {network_name}"
+  pt-BR: "Ao desvincular sua rede de indicações, você não poderá mais ganhar pontos de {network_name}"
+  pt-PT: "Ao desvincular a sua rede de referências, deixará de poder ganhar pontos de {network_name}"
+  ru: "После отвязки реферальной сети вы больше не сможете зарабатывать очки от {network_name}"
+  sv: "När du kopplar bort ditt referensnätverk kommer du inte längre att kunna tjäna poäng från {network_name}"
+  sw: "Ukiondoa kiungo cha mtandao wako wa rufaa, hutaweza tena kupata pointi kutoka {network_name}"
+  th: "เมื่อคุณยกเลิกการเชื่อมรหัสเครือข่ายของคุณ คุณจะไม่สามารถรับคะแนนจาก {network_name} อีกต่อไป"
+  uk: "Після від'єднання реферальної мережі ви більше не зможете заробляти бали від {network_name}"
+  vi: "Khi hủy liên kết mạng giới thiệu, bạn sẽ không thể kiếm điểm từ {network_name} nữa"
+  zh: "解除推荐网络关联后，您将无法再从{network_name}获得积分"
+  zh-HK: "解除推薦網絡連結後，您將無法再從 {network_name} 賺取積分"

@@ -1,0 +1,36 @@
+description: "Label for the IPv6 list of DNS servers."
+description_auto: true
+source: "IPv6"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "IPv6"
+  cs: "IPv6"
+  de: "IPv6"
+  el: "IPv6"
+  en: "IPv6"
+  es: "IPv6"
+  es-419: "IPv6"
+  es-MX: "IPv6"
+  fr: "IPv6"
+  he: "IPv6"
+  hi: "IPv6"
+  id: "IPv6"
+  it: "IPv6"
+  ja: "IPv6"
+  ko: "IPv6"
+  nl: "IPv6"
+  pl: "IPv6"
+  pt: "IPv6"
+  pt-BR: "IPv6"
+  pt-PT: "IPv6"
+  ru: "IPv6"
+  sv: "IPv6"
+  sw: "IPv6"
+  th: "IPv6"
+  uk: "IPv6"
+  vi: "IPv6"
+  zh: "IPv6"
+  zh-HK: "IPv6"

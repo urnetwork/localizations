@@ -1,0 +1,104 @@
+description: "A label that shows the number of hosts for a split rule. The argument is the number of hosts."
+description_auto: true
+source: "%lld hosts"
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} مضيف"
+    one: "مضيف واحد"
+    two: "مضيفان"
+    few: "{count} مضيفين"
+    many: "{count} مضيفًا"
+    other: "{count} مضيف"
+  cs:
+    one: "{count} hostitel"
+    few: "{count} hostitelé"
+    many: "{count} hostitele"
+    other: "{count} hostitelů"
+  de:
+    one: "{count} Host"
+    other: "{count} Hosts"
+  el:
+    one: "{count} host"
+    other: "{count} hosts"
+  en:
+    one: "{count} host"
+    other: "{count} hosts"
+  es:
+    one: "{count} host"
+    other: "{count} hosts"
+  es-419:
+    one: "{count} host"
+    other: "{count} hosts"
+  es-MX:
+    one: "{count} host"
+    other: "{count} hosts"
+  fr:
+    one: "{count} hôte"
+    other: "{count} hôtes"
+  he:
+    one: "{count} מארח"
+    two: "{count} מארחים"
+    many: "{count} מארחים"
+    other: "{count} מארחים"
+  hi:
+    one: "{count} होस्ट"
+    other: "{count} होस्ट"
+  id:
+    other: "{count} host"
+  it:
+    one: "{count} host"
+    other: "{count} host"
+  ja:
+    other: "{count}件のホスト"
+  ko:
+    other: "호스트 {count}개"
+  nl:
+    one: "{count} host"
+    other: "{count} hosts"
+  pl:
+    one: "{count} host"
+    few: "{count} hosty"
+    many: "{count} hostów"
+    other: "{count} hosta"
+  pt:
+    one: "{count} host"
+    other: "{count} hosts"
+  pt-BR:
+    one: "{count} host"
+    other: "{count} hosts"
+  pt-PT:
+    one: "{count} host"
+    other: "{count} hosts"
+  ru:
+    one: "{count} хост"
+    few: "{count} хоста"
+    many: "{count} хостов"
+    other: "{count} хоста"
+  sv:
+    one: "{count} värd"
+    other: "{count} värdar"
+  sw:
+    one: "{count} kikoa"
+    other: "{count} vikoa"
+  th:
+    other: "โฮสต์ {count} รายการ"
+  uk:
+    one: "{count} хост"
+    few: "{count} хости"
+    many: "{count} хостів"
+    other: "{count} хоста"
+  vi:
+    other: "{count} máy chủ"
+  zh:
+    other: "{count} 个主机"
+  zh-HK:
+    other: "{count} 個主機"

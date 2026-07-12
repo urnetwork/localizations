@@ -1,0 +1,36 @@
+description: "Snackbar shown when connecting a wallet fails, with the underlying error message. Used in Main/Account/Wallets/WalletsView.swift."
+source: "There was an error connecting your wallet: %@"
+platforms:
+  - apple
+placeholders:
+  - name: error
+    type: string
+localizations:
+  ar: "حدث خطأ أثناء ربط محفظتك: {error}"
+  cs: "Při připojování peněženky došlo k chybě: {error}"
+  de: "Beim Verbinden deiner Wallet ist ein Fehler aufgetreten: {error}"
+  el: "Παρουσιάστηκε σφάλμα κατά τη σύνδεση του πορτοφολιού σας: {error}"
+  en: "There was an error connecting your wallet: {error}"
+  es: "Se ha producido un error al conectar tu billetera: {error}"
+  es-419: "Se produjo un error al conectar tu billetera: {error}"
+  es-MX: "Se produjo un error al conectar tu cartera: {error}"
+  fr: "Une erreur s'est produite lors de la connexion de votre portefeuille : {error}"
+  he: "אירעה שגיאה בחיבור הארנק שלך: {error}"
+  hi: "आपका वॉलेट कनेक्ट करते समय त्रुटि हुई: {error}"
+  id: "Terjadi kesalahan saat menghubungkan dompet Anda: {error}"
+  it: "Si è verificato un errore durante la connessione del tuo portafoglio: {error}"
+  ja: "ウォレットの接続中にエラーが発生しました：{error}"
+  ko: "지갑을 연결하는 중 오류가 발생했습니다: {error}"
+  nl: "Er is een fout opgetreden bij het verbinden van je wallet: {error}"
+  pl: "Wystąpił błąd podczas łączenia portfela: {error}"
+  pt: "Ocorreu um erro ao ligar a sua carteira: {error}"
+  pt-BR: "Ocorreu um erro ao conectar sua carteira: {error}"
+  pt-PT: "Ocorreu um erro ao ligar a sua carteira: {error}"
+  ru: "Произошла ошибка при подключении кошелька: {error}"
+  sv: "Ett fel uppstod när din plånbok skulle anslutas: {error}"
+  sw: "Hitilafu imetokea wakati wa kuunganisha pochi yako: {error}"
+  th: "เกิดข้อผิดพลาดในการเชื่อมต่อกระเป๋าเงินของคุณ: {error}"
+  uk: "Сталася помилка під час підключення гаманця: {error}"
+  vi: "Đã xảy ra lỗi khi kết nối ví của bạn: {error}"
+  zh: "连接钱包时出错：{error}"
+  zh-HK: "連接錢包時發生錯誤：{error}"

@@ -1,0 +1,14 @@
+description: "A message indicating that the device is connected to a certain number of providers. The argument is the number of providers."
+description_auto: true
+source: "Connected to %d %@"
+deprecated:
+  - apple
+platforms:
+  - apple
+placeholders:
+  - name: count1
+    type: int
+  - name: value2
+    type: string
+localizations:
+  en: "Connected to {count1} {value2}"

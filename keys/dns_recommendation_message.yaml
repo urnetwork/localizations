@@ -1,0 +1,38 @@
+description: "dns settings"
+source: "The strongest security rules are known not to work in %@. There are less secure recommended DNS settings that work better."
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: country
+    type: string
+localizations:
+  ar: "من المعروف أن أقوى قواعد الأمان لا تعمل في {country}. هناك إعدادات DNS موصى بها أقل أمانًا تعمل بشكل أفضل."
+  cs: "Nejpřísnější bezpečnostní pravidla v {country} nefungují. Existuje méně bezpečné doporučené nastavení DNS, které funguje lépe."
+  de: "Die strengsten Sicherheitsregeln funktionieren in {country} bekanntermaßen nicht. Es gibt weniger sichere, empfohlene DNS-Einstellungen, die besser funktionieren."
+  el: "{country}: οι πιο ισχυροί κανόνες ασφαλείας είναι γνωστό ότι δεν λειτουργούν εδώ. Υπάρχουν λιγότερο ασφαλείς προτεινόμενες ρυθμίσεις DNS που λειτουργούν καλύτερα."
+  en: "The strongest security rules are known not to work in {country}. There are less secure recommended DNS settings that work better."
+  es: "Se sabe que las reglas de seguridad más estrictas no funcionan en {country}. Hay ajustes de DNS recomendados, menos seguros, que funcionan mejor."
+  es-419: "Se sabe que las reglas de seguridad más estrictas no funcionan en {country}. Hay una configuración de DNS recomendada, menos segura, que funciona mejor."
+  es-MX: "Se sabe que las reglas de seguridad más estrictas no funcionan en {country}. Hay una configuración de DNS recomendada, menos segura, que funciona mejor."
+  fr: "{country} — les règles de sécurité les plus strictes n'y fonctionnent pas. Des paramètres DNS recommandés, moins sécurisés, fonctionnent mieux."
+  he: "ידוע שכללי האבטחה החזקים ביותר אינם עובדים באזור {country}. יש הגדרות DNS מומלצות, פחות מאובטחות, שעובדות טוב יותר."
+  hi: "{country} में सबसे मज़बूत सुरक्षा नियम काम नहीं करते। कुछ कम सुरक्षित अनुशंसित DNS सेटिंग्स हैं जो बेहतर काम करती हैं।"
+  id: "Aturan keamanan terkuat diketahui tidak berfungsi di {country}. Ada pengaturan DNS yang disarankan, kurang aman tetapi bekerja lebih baik."
+  it: "Le regole di sicurezza più rigide non funzionano in {country}. Ci sono impostazioni DNS consigliate, meno sicure, che funzionano meglio."
+  ja: "最も強力なセキュリティルールは{country}では機能しないことが知られています。安全性は下がりますが、より確実に動作する推奨DNS設定があります。"
+  ko: "가장 강력한 보안 규칙은 {country}에서 작동하지 않는 것으로 알려져 있습니다. 보안 수준은 낮지만 더 잘 작동하는 권장 DNS 설정이 있습니다."
+  nl: "Het is bekend dat de strengste beveiligingsregels niet werken in {country}. Er zijn minder veilige aanbevolen DNS-instellingen die beter werken."
+  pl: "Najsilniejsze reguły bezpieczeństwa nie działają w {country}. Istnieją mniej bezpieczne, zalecane ustawienia DNS, które sprawdzają się lepiej."
+  pt: "Sabe-se que as regras de segurança mais fortes não funcionam em {country}. Existem definições de DNS recomendadas, menos seguras, que funcionam melhor."
+  pt-BR: "Sabe-se que as regras de segurança mais fortes não funcionam em {country}. Existem configurações de DNS recomendadas, menos seguras, que funcionam melhor."
+  pt-PT: "Sabe-se que as regras de segurança mais fortes não funcionam em {country}. Existem definições de DNS recomendadas, menos seguras, que funcionam melhor."
+  ru: "Известно, что самые строгие правила безопасности не работают в {country}. Есть менее безопасные рекомендованные настройки DNS, которые работают лучше."
+  sv: "De starkaste säkerhetsreglerna fungerar inte i {country}. Det finns rekommenderade DNS-inställningar som är mindre säkra men fungerar bättre."
+  sw: "Inajulikana kuwa sheria kali zaidi za usalama hazifanyi kazi katika {country}. Kuna mipangilio ya DNS inayopendekezwa, yenye usalama kidogo, inayofanya kazi vizuri zaidi."
+  th: "เป็นที่ทราบกันว่ากฎความปลอดภัยที่เข้มงวดที่สุดใช้งานไม่ได้ใน {country} มีการตั้งค่า DNS ที่แนะนำซึ่งปลอดภัยน้อยกว่าแต่ใช้งานได้ดีกว่า"
+  uk: "Відомо, що найсуворіші правила безпеки не працюють у {country}. Є менш безпечні рекомендовані налаштування DNS, які працюють краще."
+  vi: "Các quy tắc bảo mật mạnh nhất được biết là không hoạt động ở {country}. Có những cài đặt DNS được khuyến nghị, kém an toàn hơn nhưng hoạt động tốt hơn."
+  zh: "已知最严格的安全规则在{country}无法正常工作。可改用推荐的 DNS 设置，安全性稍低但更好用。"
+  zh-HK: "已知最嚴格的安全規則在{country}無法正常運作。可改用建議的 DNS 設定，安全性稍低但更好用。"

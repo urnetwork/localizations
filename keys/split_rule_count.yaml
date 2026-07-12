@@ -1,0 +1,104 @@
+description: "A label displaying the number of split rules. The argument is the count of split rules."
+description_auto: true
+source: "%lld split rules"
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} قاعدة تقسيم"
+    one: "قاعدة تقسيم واحدة"
+    two: "قاعدتا تقسيم"
+    few: "{count} قواعد تقسيم"
+    many: "{count} قاعدة تقسيم"
+    other: "{count} قاعدة تقسيم"
+  cs:
+    one: "{count} pravidlo rozdělení"
+    few: "{count} pravidla rozdělení"
+    many: "{count} pravidla rozdělení"
+    other: "{count} pravidel rozdělení"
+  de:
+    one: "{count} Split-Regel"
+    other: "{count} Split-Regeln"
+  el:
+    one: "{count} κανόνας διαχωρισμού"
+    other: "{count} κανόνες διαχωρισμού"
+  en:
+    one: "{count} split rule"
+    other: "{count} split rules"
+  es:
+    one: "{count} regla de división"
+    other: "{count} reglas de división"
+  es-419:
+    one: "{count} regla de división"
+    other: "{count} reglas de división"
+  es-MX:
+    one: "{count} regla de división"
+    other: "{count} reglas de división"
+  fr:
+    one: "{count} règle de séparation"
+    other: "{count} règles de séparation"
+  he:
+    one: "{count} כלל פיצול"
+    two: "{count} כללי פיצול"
+    many: "{count} כללי פיצול"
+    other: "{count} כללי פיצול"
+  hi:
+    one: "{count} स्प्लिट नियम"
+    other: "{count} स्प्लिट नियम"
+  id:
+    other: "{count} aturan pemisahan"
+  it:
+    one: "{count} regola di suddivisione"
+    other: "{count} regole di suddivisione"
+  ja:
+    other: "{count}件の分割ルール"
+  ko:
+    other: "분할 규칙 {count}개"
+  nl:
+    one: "{count} splitsregel"
+    other: "{count} splitsregels"
+  pl:
+    one: "{count} reguła podziału"
+    few: "{count} reguły podziału"
+    many: "{count} reguł podziału"
+    other: "{count} reguły podziału"
+  pt:
+    one: "{count} regra de divisão"
+    other: "{count} regras de divisão"
+  pt-BR:
+    one: "{count} regra de divisão"
+    other: "{count} regras de divisão"
+  pt-PT:
+    one: "{count} regra de divisão"
+    other: "{count} regras de divisão"
+  ru:
+    one: "{count} правило разделения"
+    few: "{count} правила разделения"
+    many: "{count} правил разделения"
+    other: "{count} правила разделения"
+  sv:
+    one: "{count} delningsregel"
+    other: "{count} delningsregler"
+  sw:
+    one: "{count} sheria ya mgawanyo"
+    other: "{count} sheria za mgawanyo"
+  th:
+    other: "กฎแยกเส้นทาง {count} ข้อ"
+  uk:
+    one: "{count} правило розділення"
+    few: "{count} правила розділення"
+    many: "{count} правил розділення"
+    other: "{count} правила розділення"
+  vi:
+    other: "{count} quy tắc phân tách"
+  zh:
+    other: "{count} 条分流规则"
+  zh-HK:
+    other: "{count} 條分流規則"

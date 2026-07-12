@@ -1,0 +1,35 @@
+description: "General UI string."
+source: "+%lf GiB/Day"
+deprecated:
+  - apple
+platforms:
+  - apple
+placeholders:
+  - name: value
+    type: float
+localizations:
+  ar: "+{value} غيغابايت/يوم"
+  cs: "+{value} GiB/den"
+  de: "+{value} GiB/Tag"
+  el: "+{value} GiB/ημέρα"
+  en: "+{value} GiB/Day"
+  es: "+{value} GiB/día"
+  es-419: "+{value} GiB/día"
+  fr: "+{value} Go/jour"
+  he: "+{value} GiB/יום"
+  hi: "+{value} GiB/दिन"
+  id: "+{value} GiB/hari"
+  it: "+{value} GiB/giorno"
+  ja: "+{value} GiB/日"
+  ko: "+{value} GiB/일"
+  nl: "+{value} GiB/dag"
+  pl: "+{value} GiB/dzień"
+  pt-BR: "+{value} GiB/dia"
+  pt-PT: "+{value} GiB/dia"
+  ru: "+{value} ГиБ/день"
+  sv: "+{value} GiB/dag"
+  th: "+{value} GiB/วัน"
+  uk: "+{value} ГіБ/день"
+  vi: "+{value} GiB/ngày"
+  zh: "+{value} GiB/天"
+  zh-HK: "+{value} GiB/日"

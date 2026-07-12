@@ -1,0 +1,7 @@
+description: "Call to action"
+source: "[{ \"include\": \"https://ur.io/.well-known/assetlinks.json\" }]"
+translatable: false
+platforms:
+  - android
+localizations:
+  en: "[{ \"include\": \"https://ur.io/.well-known/assetlinks.json\" }]"

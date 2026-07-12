@@ -1,0 +1,101 @@
+description: "Provide status showing how many clients the device is currently providing bandwidth to. The argument is the number of clients."
+source: "Providing to %lld clients"
+platforms:
+  - windows
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "التوفير لـ {count} عميل"
+    one: "التوفير لعميل واحد"
+    two: "التوفير لعميلين"
+    few: "التوفير لـ {count} عملاء"
+    many: "التوفير لـ {count} عميلًا"
+    other: "التوفير لـ {count} عميل"
+  cs:
+    one: "Poskytování {count} klientovi"
+    few: "Poskytování {count} klientům"
+    many: "Poskytování {count} klientům"
+    other: "Poskytování {count} klientům"
+  de:
+    one: "Bereitstellung für {count} Client"
+    other: "Bereitstellung für {count} Clients"
+  el:
+    one: "Παροχή σε {count} πελάτη"
+    other: "Παροχή σε {count} πελάτες"
+  en:
+    one: "Providing to {count} client"
+    other: "Providing to {count} clients"
+  es:
+    one: "Proporcionando a {count} cliente"
+    other: "Proporcionando a {count} clientes"
+  es-419:
+    one: "Proporcionando a {count} cliente"
+    other: "Proporcionando a {count} clientes"
+  es-MX:
+    one: "Proporcionando a {count} cliente"
+    other: "Proporcionando a {count} clientes"
+  fr:
+    one: "Fourniture à {count} client"
+    other: "Fourniture à {count} clients"
+  he:
+    one: "מספק ללקוח אחד"
+    two: "מספק ל-{count} לקוחות"
+    many: "מספק ל-{count} לקוחות"
+    other: "מספק ל-{count} לקוחות"
+  hi:
+    one: "{count} क्लाइंट को प्रदान कर रहा है"
+    other: "{count} क्लाइंट को प्रदान कर रहा है"
+  id:
+    other: "Menyediakan untuk {count} klien"
+  it:
+    one: "Fornendo a {count} client"
+    other: "Fornendo a {count} client"
+  ja:
+    other: "{count} クライアントに提供中"
+  ko:
+    other: "{count}개의 클라이언트에 제공 중"
+  nl:
+    one: "Verstrekken aan {count} client"
+    other: "Verstrekken aan {count} clients"
+  pl:
+    one: "Udostępnianie {count} klientowi"
+    few: "Udostępnianie {count} klientom"
+    many: "Udostępnianie {count} klientom"
+    other: "Udostępnianie {count} klientom"
+  pt:
+    one: "A fornecer a {count} cliente"
+    other: "A fornecer a {count} clientes"
+  pt-BR:
+    one: "Fornecendo para {count} cliente"
+    other: "Fornecendo para {count} clientes"
+  pt-PT:
+    one: "A fornecer a {count} cliente"
+    other: "A fornecer a {count} clientes"
+  ru:
+    one: "Предоставление {count} клиенту"
+    few: "Предоставление {count} клиентам"
+    many: "Предоставление {count} клиентам"
+    other: "Предоставление {count} клиентам"
+  sv:
+    one: "Tillhandahåller till {count} klient"
+    other: "Tillhandahåller till {count} klienter"
+  sw:
+    one: "Inatoa kwa mteja {count}"
+    other: "Inatoa kwa wateja {count}"
+  th:
+    other: "กำลังให้บริการแก่ไคลเอนต์ {count} ราย"
+  uk:
+    one: "Надання {count} клієнту"
+    few: "Надання {count} клієнтам"
+    many: "Надання {count} клієнтам"
+    other: "Надання {count} клієнтам"
+  vi:
+    other: "Đang cung cấp cho {count} máy khách"
+  zh:
+    other: "正在为 {count} 个客户端提供服务"
+  zh-HK:
+    other: "正在為 {count} 個客戶端提供服務"

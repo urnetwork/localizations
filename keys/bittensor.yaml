@@ -1,0 +1,7 @@
+description: "Used in Main/Account/Wallet/WalletView.swift."
+source: "Bittensor"
+translatable: false
+platforms:
+  - apple
+localizations:
+  en: "Bittensor"

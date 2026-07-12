@@ -1,0 +1,7 @@
+description: "Blockchain name. A product name: never translated."
+source: "Solana"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "Solana"

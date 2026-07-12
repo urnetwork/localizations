@@ -1,0 +1,839 @@
+{
+	"android": [
+		{
+			"locale": "hi",
+			"key": "unpaid_data_provided",
+			"reason": "chopped leading grapheme restored",
+			"old": "िना भुगतान का डेटा प्रदान किया गया",
+			"new": "बिना भुगतान का डेटा प्रदान किया गया"
+		},
+		{
+			"locale": "hi",
+			"key": "reliability_weight",
+			"reason": "chopped leading grapheme restored",
+			"old": "िश्वसनीयता भार",
+			"new": "विश्वसनीयता भार"
+		},
+		{
+			"locale": "hi",
+			"key": "private_network",
+			"reason": "chopped leading grapheme restored",
+			"old": "िजी नेटवर्क",
+			"new": "निजी नेटवर्क"
+		},
+		{
+			"locale": "hi",
+			"key": "kill_switch",
+			"reason": "chopped leading grapheme restored",
+			"old": "िल स्विच",
+			"new": "किल स्विच"
+		},
+		{
+			"locale": "hi",
+			"key": "default_bandwidth_earn_more_by",
+			"reason": "chopped leading grapheme restored",
+			"old": "िफ़ॉल्ट रूप से, आपको %d GiB/महीना मिलता है। ऐसे आप अतिरिक्त बैंडविड्थ कमा सकते हैं:",
+			"new": "डिफ़ॉल्ट रूप से, आपको %d GiB/महीना मिलता है। ऐसे आप अतिरिक्त बैंडविड्थ कमा सकते हैं:"
+		},
+		{
+			"locale": "hi",
+			"key": "earn_more_bullet_refer",
+			"reason": "chopped leading grapheme restored",
+			"old": "ित्र को रेफ़र करें = +%s GiB/महीना",
+			"new": "मित्र को रेफ़र करें = +%s GiB/महीना"
+		},
+		{
+			"locale": "hi",
+			"key": "redeem",
+			"reason": "chopped leading grapheme restored",
+			"old": "िडीम करें",
+			"new": "रिडीम करें"
+		},
+		{
+			"locale": "hi",
+			"key": "redeem_time",
+			"reason": "chopped leading grapheme restored",
+			"old": "िडीम समय",
+			"new": "रिडीम समय"
+		},
+		{
+			"locale": "hi",
+			"key": "fixed_ip",
+			"reason": "chopped leading grapheme restored",
+			"old": "िर IP",
+			"new": "स्थिर IP"
+		},
+		{
+			"locale": "de",
+			"key": "start_earning",
+			"reason": "corrected",
+			"old": "Um mit dem Verdienen zu beginnen, verbinde deine Kryptowährungs-Wallet mit URnetzwerk oder richte eine mit Circle ein.",
+			"new": "Um mit dem Verdienen zu beginnen, verbinde deine Kryptowährungs-Wallet mit URnetwork oder richte eine mit Circle ein."
+		},
+		{
+			"locale": "de",
+			"key": "circle_transfer_fee_coverage",
+			"reason": "corrected",
+			"old": "URnetzwerk übernimmt deine Überweisungsgebühren.",
+			"new": "URnetwork übernimmt deine Überweisungsgebühren."
+		},
+		{
+			"locale": "de",
+			"key": "see_world_content_description",
+			"reason": "corrected",
+			"old": "Sieh alle Inhalte der Welt mit URnetzwerk",
+			"new": "Sieh alle Inhalte der Welt mit URnetwork"
+		},
+		{
+			"locale": "de",
+			"key": "stay_private_description",
+			"reason": "corrected",
+			"old": "Bleib absolut privat und anonym mit URnetzwerk",
+			"new": "Bleib absolut privat und anonym mit URnetwork"
+		},
+		{
+			"locale": "de",
+			"key": "build_right_description",
+			"reason": "corrected",
+			"old": "Bau das Internet richtig auf mit URnetzwerk",
+			"new": "Bau das Internet richtig auf mit URnetwork"
+		},
+		{
+			"locale": "de",
+			"key": "with_urnetwork",
+			"reason": "corrected",
+			"old": "mit URnetzwerk",
+			"new": "mit URnetwork"
+		},
+		{
+			"locale": "el",
+			"key": "start_earning",
+			"reason": "corrected",
+			"old": "Για να ξεκινήσετε να κερδίζετε, συνδέστε το πορτοφόλι κρυπτονομισμάτων σας στο URδίκτυο ή ρυθμίστε ένα με το Circle.",
+			"new": "Για να ξεκινήσετε να κερδίζετε, συνδέστε το πορτοφόλι κρυπτονομισμάτων σας στο URnetwork ή ρυθμίστε ένα με το Circle."
+		},
+		{
+			"locale": "el",
+			"key": "circle_transfer_fee_coverage",
+			"reason": "corrected",
+			"old": "Το URδίκτυο καλύπτει τα έξοδα μεταφοράς σας.",
+			"new": "Το URnetwork καλύπτει τα έξοδα μεταφοράς σας."
+		},
+		{
+			"locale": "el",
+			"key": "see_world_content_description",
+			"reason": "corrected",
+			"old": "Δείτε όλο το περιεχόμενο του κόσμου με το URδίκτυο",
+			"new": "Δείτε όλο το περιεχόμενο του κόσμου με το URnetwork"
+		},
+		{
+			"locale": "el",
+			"key": "stay_private_description",
+			"reason": "corrected",
+			"old": "Παραμείνετε εντελώς ιδιωτικοί και ανώνυμοι με το URδίκτυο",
+			"new": "Παραμείνετε εντελώς ιδιωτικοί και ανώνυμοι με το URnetwork"
+		},
+		{
+			"locale": "el",
+			"key": "build_right_description",
+			"reason": "corrected",
+			"old": "Δημιουργήστε το Διαδίκτυο με τον σωστό τρόπο με το URδίκτυο",
+			"new": "Δημιουργήστε το Διαδίκτυο με τον σωστό τρόπο με το URnetwork"
+		},
+		{
+			"locale": "el",
+			"key": "with_urnetwork",
+			"reason": "corrected",
+			"old": "με το URδίκτυο",
+			"new": "με το URnetwork"
+		},
+		{
+			"locale": "es",
+			"key": "start_earning",
+			"reason": "corrected",
+			"old": "Para empezar a ganar, conecta tu billetera de criptomonedas a URred o configura una con Circle.",
+			"new": "Para empezar a ganar, conecta tu billetera de criptomonedas a URnetwork o configura una con Circle."
+		},
+		{
+			"locale": "es",
+			"key": "circle_transfer_fee_coverage",
+			"reason": "corrected",
+			"old": "URred cubre tus comisiones de transferencia.",
+			"new": "URnetwork cubre tus comisiones de transferencia."
+		},
+		{
+			"locale": "es",
+			"key": "see_world_content_description",
+			"reason": "corrected",
+			"old": "Ver todo el contenido del mundo con URred",
+			"new": "Ver todo el contenido del mundo con URnetwork"
+		},
+		{
+			"locale": "es",
+			"key": "stay_private_description",
+			"reason": "corrected",
+			"old": "Mantente totalmente privado y anónimo con URred",
+			"new": "Mantente totalmente privado y anónimo con URnetwork"
+		},
+		{
+			"locale": "es",
+			"key": "build_right_description",
+			"reason": "corrected",
+			"old": "Construye Internet de la manera correcta con URred",
+			"new": "Construye Internet de la manera correcta con URnetwork"
+		},
+		{
+			"locale": "es",
+			"key": "with_urnetwork",
+			"reason": "corrected",
+			"old": "con URred",
+			"new": "con URnetwork"
+		},
+		{
+			"locale": "fr",
+			"key": "start_earning",
+			"reason": "corrected",
+			"old": "Pour commencer à gagner, connectez votre portefeuille de crypto-monnaie à URréseau ou configurez-en un avec Circle.",
+			"new": "Pour commencer à gagner, connectez votre portefeuille de crypto-monnaie à URnetwork ou configurez-en un avec Circle."
+		},
+		{
+			"locale": "fr",
+			"key": "circle_transfer_fee_coverage",
+			"reason": "corrected",
+			"old": "URréseau couvre vos frais de transfert.",
+			"new": "URnetwork couvre vos frais de transfert."
+		},
+		{
+			"locale": "fr",
+			"key": "see_world_content_description",
+			"reason": "corrected",
+			"old": "Voyez tout le contenu du monde avec URréseau",
+			"new": "Voyez tout le contenu du monde avec URnetwork"
+		},
+		{
+			"locale": "fr",
+			"key": "stay_private_description",
+			"reason": "corrected",
+			"old": "Restez totalement privé et anonyme avec URréseau",
+			"new": "Restez totalement privé et anonyme avec URnetwork"
+		},
+		{
+			"locale": "fr",
+			"key": "build_right_description",
+			"reason": "corrected",
+			"old": "Construisez Internet de la bonne manière avec URréseau",
+			"new": "Construisez Internet de la bonne manière avec URnetwork"
+		},
+		{
+			"locale": "fr",
+			"key": "with_urnetwork",
+			"reason": "corrected",
+			"old": "avec URréseau",
+			"new": "avec URnetwork"
+		},
+		{
+			"locale": "ar",
+			"key": "pay_with_solana_wallet",
+			"reason": "corrected",
+			"old": "ادفع باستخدام محفظة سولانا",
+			"new": "ادفع باستخدام محفظة Solana"
+		},
+		{
+			"locale": "ar",
+			"key": "checking_solana_transactions",
+			"reason": "corrected",
+			"old": "جارٍ التحقق من معاملات سولانا",
+			"new": "جارٍ التحقق من معاملات Solana"
+		},
+		{
+			"locale": "ar",
+			"key": "join_solana_wallet",
+			"reason": "corrected",
+			"old": " انضم باستخدام محفظة سولانا",
+			"new": "انضم باستخدام محفظة Solana"
+		},
+		{
+			"locale": "ko",
+			"key": "no_solana_wallets_found",
+			"reason": "corrected",
+			"old": "솔라나 지갑을 찾을 수 없습니다",
+			"new": "Solana 지갑을 찾을 수 없습니다"
+		},
+		{
+			"locale": "cs",
+			"key": "solana_sign_in",
+			"reason": "corrected",
+			"old": "Přihlaste se pomocí Solany",
+			"new": "Přihlaste se pomocí Solana"
+		},
+		{
+			"locale": "cs",
+			"key": "payouts_amount_threshold",
+			"reason": "corrected",
+			"old": "Výplaty probíhají každý týden a k jejich obdržení je třeba poskytnout minimální částku.",
+			"new": "Výplaty probíhají každou neděli v 00:00 UTC a vyžadují dosažení minimální hranice USDC."
+		},
+		{
+			"locale": "th",
+			"key": "payouts_amount_threshold",
+			"reason": "corrected",
+			"old": "ระบบจะดำเนินการจ่ายเงินทุกสัปดาห์ โดยต้องมียอดขั้นต่ำตามที่กำหนดจึงจะสามารถรับเงินได้",
+			"new": "การจ่ายเงินจะเกิดขึ้นทุกวันอาทิตย์ เวลา 00:00 UTC และต้องถึงขั้นต่ำขั้นต่ำของ USDC"
+		},
+		{
+			"locale": "th",
+			"key": "start_earning",
+			"reason": "corrected",
+			"old": "เพิ่มเริ่มการหารายได้ เชื่อมกระเป๋าคริปโตของคุณกับ URnetwork เพื่อตั้งรับรายได้ตามรอบจ่าย",
+			"new": "หากต้องการเริ่มหารายได้ ให้เชื่อมต่อกระเป๋าเงินคริปโตของคุณกับ URnetwork หรือตั้งค่ากระเป๋าใหม่ด้วย Circle"
+		},
+		{
+			"locale": "es-MX",
+			"key": "reliability_settings_details",
+			"reason": "corrected",
+			"old": "Ajusta la configuración para maximizar la fiabilidad. La app se ejecuta en segundo plano cuando está conectada y en Wi-Fi. La fiabilidad es cuántas IPs mantienes disponibles continuamente para la red.",
+			"new": "La provisión es opcional. Cuando la activas, la app puede compartir tu conexión con la red mientras se ejecuta en segundo plano con Wi-Fi."
+		},
+		{
+			"locale": "pt",
+			"key": "reliability_settings_details",
+			"reason": "corrected",
+			"old": "Ajuste as definições para maximizar a fiabilidade. A aplicação funciona em segundo plano quando está ligada e em Wi-Fi. Fiabilidade é o número de IPs que disponibiliza continuamente à rede.",
+			"new": "O fornecimento é opcional. Quando o ativa, a aplicação pode partilhar a sua conexão com a rede enquanto funciona em segundo plano em Wi-Fi."
+		},
+		{
+			"locale": "sw",
+			"key": "reliability_settings_details",
+			"reason": "corrected",
+			"old": "Rekebisha mipangilio ili kuongeza uaminifu. Programu inaendelea kufanya kazi nyuma ya pazia ukiwa umeunganishwa na kwenye Wi-Fi. Uaminifu ni idadi ya IP unazoweka zinapatikana kila wakati kwenye mtandao.",
+			"new": "Kutoa ni hiari. Ukiiwasha, programu inaweza kushiriki muunganisho wako na mtandao inapoendesha chinichini kwenye Wi-Fi."
+		},
+		{
+			"locale": "el",
+			"key": "plan",
+			"reason": "corrected",
+			"old": "Σχέδιο",
+			"new": "Πρόγραμμα"
+		},
+		{
+			"locale": "th",
+			"key": "wallet_address",
+			"reason": "corrected",
+			"old": "Wallet Address",
+			"new": "ที่อยู่กระเป๋าเงิน"
+		},
+		{
+			"locale": "th",
+			"key": "wallet_address_label",
+			"reason": "corrected",
+			"old": "Wallet address",
+			"new": "ที่อยู่กระเป๋าเงิน"
+		},
+		{
+			"locale": "ar",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "إعدادات الموثوقية",
+			"new": "المساهمة بعرض النطاق الترددي"
+		},
+		{
+			"locale": "cs",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Nastavení spolehlivosti",
+			"new": "Přispět šířkou pásma"
+		},
+		{
+			"locale": "de",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Zuverlässigkeitseinstellungen",
+			"new": "Bandbreite beisteuern"
+		},
+		{
+			"locale": "el",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Ρυθμίσεις αξιοπιστίας",
+			"new": "Συνεισφορά εύρους ζώνης"
+		},
+		{
+			"locale": "es",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Configuración de fiabilidad",
+			"new": "Contribuir con ancho de banda"
+		},
+		{
+			"locale": "es-MX",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Configuración de fiabilidad",
+			"new": "Contribuir con ancho de banda"
+		},
+		{
+			"locale": "fr",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Paramètres de fiabilité",
+			"new": "Contribuer de la bande passante"
+		},
+		{
+			"locale": "hi",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "िश्वसनीयता सेटिंग्स",
+			"new": "बैंडविड्थ का योगदान करें"
+		},
+		{
+			"locale": "ja",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "信頼性設定",
+			"new": "帯域幅を提供する"
+		},
+		{
+			"locale": "ko",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "신뢰성 설정",
+			"new": "대역폭 기여"
+		},
+		{
+			"locale": "nl",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Betrouwbaarheidsinstellingen",
+			"new": "Bandbreedte bijdragen"
+		},
+		{
+			"locale": "pl",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Ustawienia niezawodności",
+			"new": "Udostępnij przepustowość"
+		},
+		{
+			"locale": "pt",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Definições de fiabilidade",
+			"new": "Contribuir com largura de banda"
+		},
+		{
+			"locale": "pt-BR",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Configurações de confiabilidade",
+			"new": "Contribuir com largura de banda"
+		},
+		{
+			"locale": "ru",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Настройки надёжности",
+			"new": "Поделиться пропускной способностью"
+		},
+		{
+			"locale": "sw",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "Mipangilio ya uaminifu",
+			"new": "Changia kipimo data"
+		},
+		{
+			"locale": "th",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "การตั้งค่าความน่าเชื่อถือ",
+			"new": "ร่วมแบ่งปันแบนด์วิดท์"
+		},
+		{
+			"locale": "zh",
+			"key": "reliability_settings",
+			"reason": "corrected",
+			"old": "可靠性设置",
+			"new": "贡献带宽"
+		},
+		{
+			"locale": "de",
+			"key": "unpaid_data_provided",
+			"reason": "stray edge whitespace trimmed",
+			"old": " Unbezahlte Daten bereitgestellt",
+			"new": "Unbezahlte Daten bereitgestellt"
+		},
+		{
+			"locale": "zh",
+			"key": "unpaid_data_provided",
+			"reason": "stray edge whitespace trimmed",
+			"old": " 提供了未付费数据",
+			"new": "提供了未付费数据"
+		},
+		{
+			"locale": "fr",
+			"key": "enter_network_referral_code",
+			"reason": "stray edge whitespace trimmed",
+			"old": " Entrez le code de parrainage réseau",
+			"new": "Entrez le code de parrainage réseau"
+		},
+		{
+			"locale": "ar",
+			"key": "unlink_alert_description",
+			"reason": "stray edge whitespace trimmed",
+			"old": " عند فك ارتباط شبكة الإحالة الخاصة بك، لن تتمكن بعد الآن من كسب النقاط من %1$s",
+			"new": "عند فك ارتباط شبكة الإحالة الخاصة بك، لن تتمكن بعد الآن من كسب النقاط من %1$s"
+		},
+		{
+			"locale": "es",
+			"key": "earnings_doubled",
+			"reason": "stray edge whitespace trimmed",
+			"old": " Estás ganando x2 puntos",
+			"new": "Estás ganando x2 puntos"
+		},
+		{
+			"locale": "es-MX",
+			"key": "earnings_doubled",
+			"reason": "stray edge whitespace trimmed",
+			"old": " Estás ganando x2 puntos",
+			"new": "Estás ganando x2 puntos"
+		},
+		{
+			"locale": "hi",
+			"key": "browse_locations",
+			"reason": "stray edge whitespace trimmed",
+			"old": " स्थान ब्राउज़ करें",
+			"new": "स्थान ब्राउज़ करें"
+		},
+		{
+			"locale": "ar",
+			"key": "date_payout",
+			"reason": "stray edge whitespace trimmed",
+			"old": " دفعة %1$s",
+			"new": "دفعة %1$s"
+		},
+		{
+			"locale": "ru",
+			"key": "review_our_app",
+			"reason": "stray edge whitespace trimmed",
+			"old": " Хотели бы вы оставить отзыв о нашем приложении?",
+			"new": "Хотели бы вы оставить отзыв о нашем приложении?"
+		},
+		{
+			"locale": "ar",
+			"key": "verified_project_on",
+			"reason": "stray edge whitespace trimmed",
+			"old": " مشروع موثّق على %1$s",
+			"new": "مشروع موثّق على %1$s"
+		},
+		{
+			"locale": "hi",
+			"key": "country_multipliers",
+			"reason": "stray edge whitespace trimmed",
+			"old": " देश गुणक",
+			"new": "देश गुणक"
+		},
+		{
+			"locale": "fr",
+			"key": "learn_more_about_multiplier",
+			"reason": "stray edge whitespace trimmed",
+			"old": " En savoir plus sur le multiplicateur",
+			"new": "En savoir plus sur le multiplicateur"
+		},
+		{
+			"locale": "ar",
+			"key": "total_referral_count",
+			"reason": "stray edge whitespace trimmed",
+			"old": " إجمالي الإحالات: %1$d",
+			"new": "إجمالي الإحالات: %1$d"
+		},
+		{
+			"locale": "ja",
+			"key": "total_referral_count",
+			"reason": "stray edge whitespace trimmed",
+			"old": " 紹介合計: %1$d",
+			"new": "紹介合計: %1$d"
+		},
+		{
+			"locale": "el",
+			"key": "checking_payment",
+			"reason": "stray edge whitespace trimmed",
+			"old": " Έλεγχος πληρωμής",
+			"new": "Έλεγχος πληρωμής"
+		},
+		{
+			"locale": "ar",
+			"key": "or",
+			"reason": "stray edge whitespace trimmed",
+			"old": " أو",
+			"new": "أو"
+		},
+		{
+			"locale": "ar",
+			"key": "step_two",
+			"reason": "stray edge whitespace trimmed",
+			"old": " الخطوة2",
+			"new": "الخطوة2"
+		},
+		{
+			"locale": "ar",
+			"key": "refer_friends_increase_free_data",
+			"reason": "stray edge whitespace trimmed",
+			"old": " قم بإحالة بعض الأصدقاء وشاهد بياناتك المجانية تزداد.",
+			"new": "قم بإحالة بعض الأصدقاء وشاهد بياناتك المجانية تزداد."
+		},
+		{
+			"locale": "ar",
+			"key": "bonus_referral_code_label",
+			"reason": "stray edge whitespace trimmed",
+			"old": " رمز إحالة إضافي",
+			"new": "رمز إحالة إضافي"
+		},
+		{
+			"locale": "ar",
+			"key": "step_one",
+			"reason": "stray edge whitespace trimmed",
+			"old": " الخطوة 1",
+			"new": "الخطوة 1"
+		},
+		{
+			"locale": "ar",
+			"key": "local_provider_safety_description",
+			"reason": "stray edge whitespace trimmed",
+			"old": " سيتم تشغيل مزود محلي عند اتصالك بالشبكة. يوجد اليوم أكثر من 30 ألف مزود، ولم نسجل أي حوادث أمنية أو مع مزودي خدمة الإنترنت. نحن نقدر قدرة الأشخاص على المشاركة دون مشاكل، وقد أنشأنا البروتوكول ليضع السلامة أولاً.",
+			"new": "سيتم تشغيل مزود محلي عند اتصالك بالشبكة. يوجد اليوم أكثر من 30 ألف مزود، ولم نسجل أي حوادث أمنية أو مع مزودي خدمة الإنترنت. نحن نقدر قدرة الأشخاص على المشاركة دون مشاكل، وقد أنشأنا البروتوكول ليضع السلامة أولاً."
+		},
+		{
+			"locale": "ar",
+			"key": "learn_more_protocol_page",
+			"reason": "stray edge whitespace trimmed",
+			"old": " معرفة المزيد في صفحة البروتوكول",
+			"new": "معرفة المزيد في صفحة البروتوكول"
+		},
+		{
+			"locale": "ar",
+			"key": "allow_provider_cell_network_unlimited_plan",
+			"reason": "stray edge whitespace trimmed",
+			"old": " يمكنك أيضًا السماح للمزود باستخدام بيانات شبكة الجوال، وهذا يعمل بشكل رائع إذا كان لديك خطة غير محدودة.",
+			"new": "يمكنك أيضًا السماح للمزود باستخدام بيانات شبكة الجوال، وهذا يعمل بشكل رائع إذا كان لديك خطة غير محدودة."
+		},
+		{
+			"locale": "ar",
+			"key": "get_urnetwork_free_for_life_by_participating",
+			"reason": "stray edge whitespace trimmed",
+			"old": " احصل على URnetwork مجانًا مدى الحياة من خلال المشاركة",
+			"new": "احصل على URnetwork مجانًا مدى الحياة من خلال المشاركة"
+		},
+		{
+			"locale": "ar",
+			"key": "open_source_transparent",
+			"reason": "stray edge whitespace trimmed",
+			"old": " مفتوح المصدر وشفاف بنسبة100%",
+			"new": "مفتوح المصدر وشفاف بنسبة100%"
+		},
+		{
+			"locale": "ar",
+			"key": "enter_balance_code",
+			"reason": "stray edge whitespace trimmed",
+			"old": " أدخل رمز الرصيد",
+			"new": "أدخل رمز الرصيد"
+		},
+		{
+			"locale": "ar",
+			"key": "no_redeemed_balance_codes_found",
+			"reason": "stray edge whitespace trimmed",
+			"old": " لم يتم العثور على رموز رصيد مستردة",
+			"new": "لم يتم العثور على رموز رصيد مستردة"
+		},
+		{
+			"locale": "ja",
+			"key": "balance_codes_title",
+			"reason": "stray edge whitespace trimmed",
+			"old": " 残高コード",
+			"new": "残高コード"
+		},
+		{
+			"locale": "hi",
+			"key": "redeemed",
+			"reason": "stray edge whitespace trimmed",
+			"old": " रिडीम किया गया",
+			"new": "रिडीम किया गया"
+		},
+		{
+			"locale": "ar",
+			"key": "step_into_the_internet",
+			"reason": "stray edge whitespace trimmed",
+			"old": " ادخل إلى الإنترنت\n كما يجب أن يكون.",
+			"new": "ادخل إلى الإنترنت\n كما يجب أن يكون."
+		},
+		{
+			"locale": "de",
+			"key": "reset_password_email_sent",
+			"reason": "stray edge whitespace trimmed",
+			"old": " E-Mail zum Zurücksetzen des Passworts wurde an %s gesendet",
+			"new": "E-Mail zum Zurücksetzen des Passworts wurde an %s gesendet"
+		},
+		{
+			"locale": "ar",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "اضبط الإعدادات لتعظيم الموثوقية. يعمل التطبيق في الخلفية عند الاتصال وعند استخدام الواي فاي. الموثوقية هي عدد عناوين IP التي تجعلها متاحة باستمرار للشبكة.",
+			"new": "التوفير اختياري. عند تشغيله، يمكن للتطبيق مشاركة اتصالك مع الشبكة أثناء عمله في الخلفية على الواي فاي."
+		},
+		{
+			"locale": "cs",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Upravte nastavení pro maximální spolehlivost. Aplikace běží na pozadí při připojení a na Wi-Fi. Spolehlivost znamená, kolik IP adres trvale zpřístupňujete síti.",
+			"new": "Poskytování je volitelné. Když ho zapnete, může aplikace na pozadí sdílet vaše připojení se sítí, pokud jste na Wi-Fi."
+		},
+		{
+			"locale": "de",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Passe die Einstellungen an, um die Zuverlässigkeit zu maximieren. Die App läuft im Hintergrund, wenn sie verbunden ist und über WLAN. Zuverlässigkeit bedeutet, wie viele IPs du dem Netzwerk kontinuierlich zur Verfügung stellst.",
+			"new": "Die Bereitstellung ist optional. Wenn du sie aktivierst, kann die App deine Verbindung mit dem Netzwerk teilen, während sie im Hintergrund im WLAN läuft."
+		},
+		{
+			"locale": "el",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Ρυθμίστε τις ρυθμίσεις για μέγιστη αξιοπιστία. Η εφαρμογή λειτουργεί στο παρασκήνιο όταν είναι συνδεδεμένη και σε Wi-Fi. Η αξιοπιστία είναι πόσες διευθύνσεις IP διαθέτετε συνεχώς στο δίκτυο.",
+			"new": "Η παροχή είναι προαιρετική. Όταν την ενεργοποιήσετε, η εφαρμογή μπορεί να μοιράζεται τη σύνδεσή σας με το δίκτυο όσο εκτελείται στο παρασκήνιο σε Wi-Fi."
+		},
+		{
+			"locale": "es",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Ajusta la configuración para maximizar la fiabilidad. La app se ejecuta en segundo plano cuando está conectada y en Wi-Fi. La fiabilidad es cuántas IPs mantienes disponibles continuamente para la red.",
+			"new": "La provisión es opcional. Cuando la activas, la app puede compartir tu conexión con la red mientras se ejecuta en segundo plano con Wi-Fi."
+		},
+		{
+			"locale": "fr",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Ajustez les paramètres pour maximiser la fiabilité. L’application fonctionne en arrière-plan lorsqu’elle est connectée et en Wi-Fi. La fiabilité correspond au nombre d’IP que vous rendez continuellement disponibles pour le réseau.",
+			"new": "La fourniture est facultative. Lorsque vous l'activez, l'application peut partager votre connexion avec le réseau pendant qu'elle fonctionne en arrière-plan en Wi-Fi."
+		},
+		{
+			"locale": "hi",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "िश्वसनीयता अधिकतम करने के लिए सेटिंग्स समायोजित करें। ऐप कनेक्टेड और वाई-फाई पर बैकग्राउंड में चलता है। विश्वसनीयता यह है कि आप कितनी IPs नेटवर्क के लिए लगातार उपलब्ध कराते हैं।",
+			"new": "प्रदान करना वैकल्पिक है। इसे चालू करने पर, ऐप वाई-फ़ाई पर बैकग्राउंड में चलते हुए आपके कनेक्शन को नेटवर्क के साथ साझा कर सकता है।"
+		},
+		{
+			"locale": "ja",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "設定を調整して信頼性を最大化しましょう。アプリは接続時およびWi-Fi利用時にバックグラウンドで動作します。信頼性とは、ネットワークに継続的に提供するIPの数です。",
+			"new": "提供は任意です。オンにすると、Wi-Fi接続時にバックグラウンドで動作しながら、アプリがあなたの接続をネットワークと共有できます。"
+		},
+		{
+			"locale": "ko",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "신뢰성을 극대화하려면 설정을 조정하세요. 앱은 연결되어 있고 Wi-Fi에 있을 때 백그라운드에서 실행됩니다. 신뢰성이란 네트워크에 지속적으로 제공하는 IP의 수를 의미합니다.",
+			"new": "제공은 선택 사항입니다. 켜면 Wi-Fi에서 백그라운드로 실행되는 동안 앱이 연결을 네트워크와 공유할 수 있습니다."
+		},
+		{
+			"locale": "nl",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Pas instellingen aan om de betrouwbaarheid te maximaliseren. De app draait op de achtergrond wanneer verbonden en op Wi-Fi. Betrouwbaarheid is hoeveel IP’s je continu beschikbaar maakt voor het netwerk.",
+			"new": "Leveren is optioneel. Als je het aanzet, kan de app je verbinding met het netwerk delen terwijl hij op de achtergrond draait op Wi-Fi."
+		},
+		{
+			"locale": "pl",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Dostosuj ustawienia, aby zmaksymalizować niezawodność. Aplikacja działa w tle, gdy jest połączona i na Wi-Fi. Niezawodność to liczba IP, które stale udostępniasz sieci.",
+			"new": "Udostępnianie jest opcjonalne. Po włączeniu aplikacja może dzielić się Twoim połączeniem z siecią, działając w tle na Wi-Fi."
+		},
+		{
+			"locale": "pt-BR",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Ajuste as configurações para maximizar a confiabilidade. O app funciona em segundo plano quando conectado e no Wi-Fi. Confiabilidade é quantos IPs você mantém continuamente disponíveis para a rede.",
+			"new": "O fornecimento é opcional. Quando você ativa, o app pode compartilhar sua conexão com a rede enquanto funciona em segundo plano no Wi-Fi."
+		},
+		{
+			"locale": "ru",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "Настройте параметры для максимальной надёжности. Приложение работает в фоновом режиме при подключении и использовании Wi-Fi. Надёжность — это количество IP, которые вы постоянно предоставляете сети.",
+			"new": "Предоставление необязательно. Если включить его, приложение сможет делиться вашим подключением с сетью, работая в фоновом режиме по Wi-Fi."
+		},
+		{
+			"locale": "th",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "ปรับการตั้งค่าเพื่อเพิ่มความน่าเชื่อถือสูงสุด แอปจะทำงานเบื้องหลังเมื่อเชื่อมต่อและใช้ Wi-Fi ความน่าเชื่อถือคือจำนวน IP ที่คุณทำให้พร้อมใช้งานกับเครือข่ายอย่างต่อเนื่อง",
+			"new": "การให้บริการเป็นทางเลือก เมื่อคุณเปิดใช้งาน แอปจะแบ่งปันการเชื่อมต่อของคุณกับเครือข่ายได้ขณะทำงานเบื้องหลังบน Wi-Fi"
+		},
+		{
+			"locale": "zh",
+			"key": "reliability_settings_details",
+			"reason": "stale android translation replaced with apple (english changed)",
+			"old": "调整设置以最大化可靠性。应用在连接并使用 Wi-Fi 时会在后台运行。可靠性指的是你持续向网络提供的 IP 数量。",
+			"new": "提供功能是可选的。开启后，应用在使用 Wi-Fi 并在后台运行时，可与网络共享你的连接。"
+		}
+	],
+	"apple": [
+		{
+			"locale": "cs",
+			"source": "%lf %@",
+			"reason": "blank translation dropped (falls back to english)",
+			"old": "",
+			"new": null
+		},
+		{
+			"locale": "cs",
+			"source": "DEFAULT",
+			"reason": "blank translation dropped (falls back to english)",
+			"old": "",
+			"new": null
+		},
+		{
+			"locale": "ar",
+			"source": "Enter a Solana USDC wallet address",
+			"reason": "corrected",
+			"old": "أدخل عنوان محفظة USDC على سولانا",
+			"new": "أدخل عنوان محفظة USDC على Solana"
+		},
+		{
+			"locale": "cs",
+			"source": "Enter a Solana USDC wallet address",
+			"reason": "corrected",
+			"old": "Zadejte adresu peněženky USDC na Solaně",
+			"new": "Zadejte adresu peněženky USDC v síti Solana"
+		},
+		{
+			"locale": "pl",
+			"source": "Enter a Solana USDC wallet address",
+			"reason": "corrected",
+			"old": "Wprowadź adres portfela USDC na Solanie",
+			"new": "Wprowadź adres portfela USDC w sieci Solana"
+		},
+		{
+			"locale": "ar",
+			"source": "USDC addresses on Solana are currently supported",
+			"reason": "corrected",
+			"old": "حاليًا يتم دعم عناوين USDC على سولانا",
+			"new": "حاليًا يتم دعم عناوين USDC على Solana"
+		},
+		{
+			"locale": "cs",
+			"source": "USDC addresses on Solana are currently supported",
+			"reason": "corrected",
+			"old": "V současné době jsou podporovány adresy USDC na Solaně",
+			"new": "V současné době jsou podporovány adresy USDC v síti Solana"
+		},
+		{
+			"locale": "pl",
+			"source": "USDC addresses on Solana are currently supported",
+			"reason": "corrected",
+			"old": "Adresy USDC na Solanie są obecnie obsługiwane",
+			"new": "Adresy USDC w sieci Solana są obecnie obsługiwane"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+description: "One-line referral summary: the network's referral code, how many referrals it has, and how friends use it. The arguments are the referral code and the number of referrals."
+source: "Code: %1$@ · Referrals: %2$lld · Friends enter the code when they sign up"
+platforms:
+  - windows
+placeholders:
+  - name: code
+    type: string
+  - name: count
+    type: int
+localizations:
+  ar: "الرمز: {code} · الإحالات: {count} · يُدخل أصدقاؤك الرمز عند التسجيل"
+  cs: "Kód: {code} · Doporučení: {count} · Přátelé zadají kód při registraci"
+  de: "Code: {code} · Empfehlungen: {count} · Freunde geben den Code bei der Registrierung ein"
+  el: "Κωδικός: {code} · Παραπομπές: {count} · Οι φίλοι σας εισάγουν τον κωδικό κατά την εγγραφή"
+  en: "Code: {code} · Referrals: {count} · Friends enter the code when they sign up"
+  es: "Código: {code} · Referidos: {count} · Tus amigos ingresan el código al registrarse"
+  es-419: "Código: {code} · Referidos: {count} · Tus amigos ingresan el código al registrarse"
+  es-MX: "Código: {code} · Referidos: {count} · Tus amigos ingresan el código al registrarse"
+  fr: "Code : {code} · Parrainages : {count} · Vos amis saisissent le code lors de leur inscription"
+  he: "קוד: {code} · הפניות: {count} · חברים מזינים את הקוד בעת ההרשמה"
+  hi: "कोड: {code} · रेफ़रल: {count} · दोस्त साइन अप करते समय कोड डालते हैं"
+  id: "Kode: {code} · Referensi: {count} · Teman memasukkan kode saat mendaftar"
+  it: "Codice: {code} · Inviti: {count} · Gli amici inseriscono il codice al momento della registrazione"
+  ja: "コード: {code} · 紹介: {count} · 友達は登録時にコードを入力します"
+  ko: "코드: {code} · 추천: {count} · 친구가 가입할 때 코드를 입력합니다"
+  nl: "Code: {code} · Verwijzingen: {count} · Vrienden voeren de code in bij het aanmelden"
+  pl: "Kod: {code} · Polecenia: {count} · Znajomi wpisują kod podczas rejestracji"
+  pt: "Código: {code} · Referências: {count} · Os amigos introduzem o código ao registarem-se"
+  pt-BR: "Código: {code} · Indicações: {count} · Seus amigos inserem o código ao se cadastrar"
+  pt-PT: "Código: {code} · Referências: {count} · Os amigos introduzem o código ao registarem-se"
+  ru: "Код: {code} · Рефералы: {count} · Друзья вводят код при регистрации"
+  sv: "Kod: {code} · Rekommendationer: {count} · Vänner anger koden när de registrerar sig"
+  sw: "Msimbo: {code} · Rufaa: {count} · Marafiki huweka msimbo wanapojisajili"
+  th: "รหัส: {code} · การแนะนำ: {count} · เพื่อนกรอกรหัสตอนสมัคร"
+  uk: "Код: {code} · Реферали: {count} · Друзі вводять код під час реєстрації"
+  vi: "Mã: {code} · Giới thiệu: {count} · Bạn bè nhập mã khi đăng ký"
+  zh: "推荐码：{code} · 推荐人数：{count} · 好友注册时输入该码"
+  zh-HK: "推薦碼：{code} · 推薦人數：{count} · 好友註冊時輸入該碼"

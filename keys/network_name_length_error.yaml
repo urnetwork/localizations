@@ -1,0 +1,37 @@
+description: "Hint text indicating the required length for a network name input."
+source: "Network names must be 6 characters or more"
+platforms:
+  - android
+  - apple
+  - web
+aliases:
+  - network_name_input_hint
+localizations:
+  ar: "يجب أن تتكون أسماء الشبكات من 6 أحرف أو أكثر"
+  cs: "Jména sítí musí mít 6 a více znaků"
+  de: "Netzwerknamen müssen mindestens 6 Zeichen lang sein."
+  el: "Τα ονόματα δικτύου πρέπει να έχουν τουλάχιστον 6 χαρακτήρες."
+  en: "Network names must be 6 characters or more"
+  es: "Los nombres de red deben tener al menos 6 caracteres."
+  es-419: "Los nombres de red deben tener 6 caracteres o más"
+  es-MX: "Los nombres de red deben tener al menos 6 caracteres."
+  fr: "Les noms de réseau doivent comporter au moins 6 caractères."
+  he: "שמות רשת חייבים להיות באורך של 6 תווים או יותר"
+  hi: "नेटवर्क नाम कम से कम 6 अक्षरों का होना चाहिए"
+  id: "Nama jaringan harus terdiri dari 6 karakter atau lebih"
+  it: "I nomi di rete devono essere di almeno 6 caratteri"
+  ja: "ネットワーク名は6文字以上である必要があります"
+  ko: "네트워크 이름은 6자 이상이어야 합니다"
+  nl: "Netwerknamen moeten uit 6 of meer tekens bestaan"
+  pl: "Nazwy sieci muszą mieć co najmniej 6 znaków."
+  pt: "Os nomes de rede devem ter pelo menos 6 caracteres."
+  pt-BR: "Os nomes de rede devem ter pelo menos 6 caracteres."
+  pt-PT: "Os nomes de rede devem ter 6 caracteres ou mais"
+  ru: "Название сети должно содержать не менее 6 символов"
+  sv: "Nätverksnamn måste vara minst 6 tecken långa"
+  sw: "Majina ya mtandao lazima yawe na herufi 6 au zaidi."
+  th: "ชื่อเครือข่ายของคุณต้องมีตัวอักษรมากกว่า 6 ตัวขึ้นไป"
+  uk: "Імена мереж повинні містити щонайменше 6 символів"
+  vi: "Tên mạng phải dài ít nhất 6 ký tự"
+  zh: "网络名称必须至少包含 6 个字符。"
+  zh-HK: "網絡名稱必須為6個字符或以上"

@@ -1,0 +1,36 @@
+description: "A heading for a list of suggested remote DNS servers."
+description_auto: true
+source: "Suggested remote DNS servers"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "خوادم DNS بعيدة مقترحة"
+  cs: "Navrhované vzdálené servery DNS"
+  de: "Vorgeschlagene externe DNS-Server"
+  el: "Προτεινόμενοι απομακρυσμένοι διακομιστές DNS"
+  en: "Suggested remote DNS servers"
+  es: "Servidores DNS remotos sugeridos"
+  es-419: "Servidores DNS remotos sugeridos"
+  es-MX: "Servidores DNS remotos sugeridos"
+  fr: "Serveurs DNS distants suggérés"
+  he: "שרתי DNS מרוחקים מוצעים"
+  hi: "सुझाए गए रिमोट DNS सर्वर"
+  id: "Server DNS jarak jauh yang disarankan"
+  it: "Server DNS remoti suggeriti"
+  ja: "推奨リモートDNSサーバー"
+  ko: "추천 원격 DNS 서버"
+  nl: "Voorgestelde externe DNS-servers"
+  pl: "Sugerowane zdalne serwery DNS"
+  pt: "Servidores DNS remotos sugeridos"
+  pt-BR: "Servidores DNS remotos sugeridos"
+  pt-PT: "Servidores DNS remotos sugeridos"
+  ru: "Рекомендуемые удалённые DNS-серверы"
+  sv: "Föreslagna fjärr-DNS-servrar"
+  sw: "Seva za DNS za mbali zinazopendekezwa"
+  th: "เซิร์ฟเวอร์ DNS ระยะไกลที่แนะนำ"
+  uk: "Рекомендовані віддалені DNS-сервери"
+  vi: "Máy chủ DNS từ xa được đề xuất"
+  zh: "推荐的远程 DNS 服务器"
+  zh-HK: "建議的遠端 DNS 伺服器"

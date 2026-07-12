@@ -1,0 +1,37 @@
+description: "Refer overlay"
+source: "Join me on URnetwork! Get the app and enter referral code %@ when you sign up."
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: code
+    type: string
+localizations:
+  ar: "انضم إليّ على URnetwork! حمّل التطبيق وأدخل رمز الإحالة {code} عند التسجيل."
+  cs: "Přidejte se ke mně na URnetwork! Stáhněte si aplikaci a při registraci zadejte doporučující kód {code}."
+  de: "Komm zu mir auf URnetwork! Hol dir die App und gib bei der Anmeldung den Empfehlungscode {code} ein."
+  el: "Έλα μαζί μου στο URnetwork! Κατέβασε την εφαρμογή και βάλε τον κωδικό παραπομπής {code} στην εγγραφή σου."
+  en: "Join me on URnetwork! Get the app and enter referral code {code} when you sign up."
+  es: "¡Únete a URnetwork conmigo! Descarga la app e introduce el código de referencia {code} al registrarte."
+  es-419: "¡Únete a URnetwork conmigo! Descarga la app e ingresa el código de referencia {code} al registrarte."
+  es-MX: "¡Únete a URnetwork conmigo! Descarga la app e ingresa el código de referencia {code} al registrarte."
+  fr: "Rejoins-moi sur URnetwork ! Télécharge l'application et entre le code de parrainage {code} lors de ton inscription."
+  he: "הצטרף אליי ב-URnetwork! הורד את האפליקציה והזן את קוד ההפניה {code} בהרשמה."
+  hi: "URnetwork पर मेरे साथ जुड़ें! ऐप डाउनलोड करें और साइन अप करते समय रेफ़रल कोड {code} डालें।"
+  id: "Gabung URnetwork bersama saya! Unduh aplikasinya dan masukkan kode referensi {code} saat mendaftar."
+  it: "Unisciti a me su URnetwork! Scarica l'app e inserisci il codice di riferimento {code} quando ti registri."
+  ja: "一緒にURnetworkを使いましょう！アプリをインストールして、登録時に紹介コード {code} を入力してください。"
+  ko: "URnetwork에서 함께해요! 앱을 설치하고 가입할 때 추천 코드 {code}을(를) 입력하세요."
+  nl: "Doe met me mee op URnetwork! Download de app en voer bij het aanmelden referentiecode {code} in."
+  pl: "Dołącz do mnie w URnetwork! Pobierz aplikację i wpisz kod polecający {code} przy rejestracji."
+  pt: "Junte-se a mim na URnetwork! Instale a aplicação e introduza o código de referência {code} ao registar-se."
+  pt-BR: "Junte-se a mim na URnetwork! Baixe o app e insira o código de indicação {code} ao se cadastrar."
+  pt-PT: "Junte-se a mim na URnetwork! Instale a aplicação e introduza o código de referência {code} ao registar-se."
+  ru: "Присоединяйтесь ко мне в URnetwork! Установите приложение и введите реферальный код {code} при регистрации."
+  sv: "Gå med mig på URnetwork! Skaffa appen och ange referenskoden {code} när du registrerar dig."
+  sw: "Jiunge nami kwenye URnetwork! Pata programu na uweke msimbo wa rufaa {code} unapojisajili."
+  th: "มาร่วม URnetwork กับฉันสิ! ดาวน์โหลดแอปแล้วกรอกรหัสแนะนำ {code} ตอนสมัคร"
+  uk: "Приєднуйтесь до мене в URnetwork! Встановіть додаток і введіть реферальний код {code} під час реєстрації."
+  vi: "Tham gia URnetwork cùng mình nhé! Tải ứng dụng và nhập mã giới thiệu {code} khi đăng ký."
+  zh: "快来 URnetwork 和我一起！下载应用，注册时输入推荐码 {code}。"
+  zh-HK: "快來 URnetwork 與我一起！下載應用程式，註冊時輸入推薦碼 {code}。"

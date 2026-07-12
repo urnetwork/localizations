@@ -1,0 +1,36 @@
+description: "Snackbar shown when claiming the earnings multiplier fails, with the underlying error message. Used in Main/Account/Settings/SettingsView.swift."
+source: "Sorry, there was an error claiming multiplier: %@"
+platforms:
+  - apple
+placeholders:
+  - name: error
+    type: string
+localizations:
+  ar: "عذرًا، حدث خطأ أثناء المطالبة بالمضاعف: {error}"
+  cs: "Omlouváme se, při nárokování násobitele došlo k chybě: {error}"
+  de: "Entschuldigung, beim Beanspruchen des Multiplikators ist ein Fehler aufgetreten: {error}"
+  el: "Λυπούμαστε, παρουσιάστηκε σφάλμα κατά την αξίωση του πολλαπλασιαστή: {error}"
+  en: "Sorry, there was an error claiming multiplier: {error}"
+  es: "Lo sentimos, se ha producido un error al reclamar el multiplicador: {error}"
+  es-419: "Lo sentimos, se produjo un error al reclamar el multiplicador: {error}"
+  es-MX: "Lo sentimos, se produjo un error al reclamar el multiplicador: {error}"
+  fr: "Désolé, une erreur s'est produite lors de la réclamation du multiplicateur : {error}"
+  he: "מצטערים, אירעה שגיאה בתביעת המכפיל: {error}"
+  hi: "क्षमा करें, गुणक का दावा करते समय त्रुटि हुई: {error}"
+  id: "Maaf, terjadi kesalahan saat mengklaim pengganda: {error}"
+  it: "Spiacenti, si è verificato un errore durante la richiesta del moltiplicatore: {error}"
+  ja: "申し訳ありません。乗数の受け取り中にエラーが発生しました：{error}"
+  ko: "죄송합니다. 배율을 받는 중 오류가 발생했습니다: {error}"
+  nl: "Sorry, er is een fout opgetreden bij het claimen van de vermenigvuldiger: {error}"
+  pl: "Przepraszamy, wystąpił błąd podczas odbierania mnożnika: {error}"
+  pt: "Lamentamos, ocorreu um erro ao reivindicar o multiplicador: {error}"
+  pt-BR: "Desculpe, ocorreu um erro ao reivindicar o multiplicador: {error}"
+  pt-PT: "Lamentamos, ocorreu um erro ao reivindicar o multiplicador: {error}"
+  ru: "К сожалению, произошла ошибка при получении множителя: {error}"
+  sv: "Tyvärr uppstod ett fel när multiplikatorn skulle hämtas: {error}"
+  sw: "Samahani, hitilafu imetokea wakati wa kudai kizidishi: {error}"
+  th: "ขออภัย เกิดข้อผิดพลาดในการรับสิทธิ์ตัวคูณ: {error}"
+  uk: "На жаль, сталася помилка під час отримання множника: {error}"
+  vi: "Rất tiếc, đã xảy ra lỗi khi yêu cầu hệ số nhân: {error}"
+  zh: "抱歉，领取倍数时出错：{error}"
+  zh-HK: "抱歉，申領倍數時發生錯誤：{error}"

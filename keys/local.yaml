@@ -1,0 +1,36 @@
+description: "Label for a chart showing local traffic statistics."
+description_auto: true
+source: "Local"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "محلي"
+  cs: "Lokálně"
+  de: "Lokal"
+  el: "Τοπικό"
+  en: "Local"
+  es: "Local"
+  es-419: "Local"
+  es-MX: "Local"
+  fr: "Local"
+  he: "מקומי"
+  hi: "स्थानीय"
+  id: "Lokal"
+  it: "Locale"
+  ja: "ローカル"
+  ko: "로컬"
+  nl: "Lokaal"
+  pl: "Lokalnie"
+  pt: "Local"
+  pt-BR: "Local"
+  pt-PT: "Local"
+  ru: "Локально"
+  sv: "Lokal"
+  sw: "Ndani"
+  th: "ภายในเครื่อง"
+  uk: "Локально"
+  vi: "Cục bộ"
+  zh: "本地"
+  zh-HK: "本地"

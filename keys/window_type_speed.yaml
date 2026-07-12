@@ -1,0 +1,36 @@
+description: "A choice for connecting to a tunnel in streaming mode."
+description_auto: true
+source: "Streaming"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "البث"
+  cs: "Streamování"
+  de: "Streaming"
+  el: "Ροή"
+  en: "Streaming"
+  es: "Streaming"
+  es-419: "Streaming"
+  es-MX: "Streaming"
+  fr: "Streaming"
+  he: "סטרימינג"
+  hi: "स्ट्रीमिंग"
+  id: "Streaming"
+  it: "Streaming"
+  ja: "ストリーミング"
+  ko: "스트리밍"
+  nl: "Streamen"
+  pl: "Streaming"
+  pt: "Streaming"
+  pt-BR: "Streaming"
+  pt-PT: "Streaming"
+  ru: "Стриминг"
+  sv: "Streaming"
+  sw: "Utiririshaji"
+  th: "สตรีมมิง"
+  uk: "Стримінг"
+  vi: "Phát trực tuyến"
+  zh: "流媒体"
+  zh-HK: "串流"

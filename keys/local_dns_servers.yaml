@@ -1,0 +1,36 @@
+description: "A label displayed above a list of local DNS servers."
+description_auto: true
+source: "Local DNS servers"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "خوادم DNS المحلية"
+  cs: "Místní servery DNS"
+  de: "Lokale DNS-Server"
+  el: "Τοπικοί διακομιστές DNS"
+  en: "Local DNS servers"
+  es: "Servidores DNS locales"
+  es-419: "Servidores DNS locales"
+  es-MX: "Servidores DNS locales"
+  fr: "Serveurs DNS locaux"
+  he: "שרתי DNS מקומיים"
+  hi: "स्थानीय DNS सर्वर"
+  id: "Server DNS lokal"
+  it: "Server DNS locali"
+  ja: "ローカルDNSサーバー"
+  ko: "로컬 DNS 서버"
+  nl: "Lokale DNS-servers"
+  pl: "Lokalne serwery DNS"
+  pt: "Servidores DNS locais"
+  pt-BR: "Servidores DNS locais"
+  pt-PT: "Servidores DNS locais"
+  ru: "Локальные DNS-серверы"
+  sv: "Lokala DNS-servrar"
+  sw: "Seva za DNS za ndani"
+  th: "เซิร์ฟเวอร์ DNS ภายในเครื่อง"
+  uk: "Локальні DNS-сервери"
+  vi: "Máy chủ DNS cục bộ"
+  zh: "本地 DNS 服务器"
+  zh-HK: "本地 DNS 伺服器"

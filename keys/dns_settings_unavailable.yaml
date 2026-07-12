@@ -1,0 +1,36 @@
+description: "A message displayed when the dns settings are unavailable."
+description_auto: true
+source: "DNS settings unavailable"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "إعدادات DNS غير متاحة"
+  cs: "Nastavení DNS není k dispozici"
+  de: "DNS-Einstellungen nicht verfügbar"
+  el: "Οι ρυθμίσεις DNS δεν είναι διαθέσιμες"
+  en: "DNS settings unavailable"
+  es: "Ajustes de DNS no disponibles"
+  es-419: "Configuración de DNS no disponible"
+  es-MX: "Configuración de DNS no disponible"
+  fr: "Paramètres DNS indisponibles"
+  he: "הגדרות DNS אינן זמינות"
+  hi: "DNS सेटिंग्स उपलब्ध नहीं"
+  id: "Pengaturan DNS tidak tersedia"
+  it: "Impostazioni DNS non disponibili"
+  ja: "DNS設定は利用できません"
+  ko: "DNS 설정을 사용할 수 없습니다"
+  nl: "DNS-instellingen niet beschikbaar"
+  pl: "Ustawienia DNS niedostępne"
+  pt: "Definições de DNS indisponíveis"
+  pt-BR: "Configurações de DNS indisponíveis"
+  pt-PT: "Definições de DNS indisponíveis"
+  ru: "Настройки DNS недоступны"
+  sv: "DNS-inställningar är inte tillgängliga"
+  sw: "Mipangilio ya DNS haipatikani"
+  th: "ไม่สามารถตั้งค่า DNS ได้"
+  uk: "Налаштування DNS недоступні"
+  vi: "Cài đặt DNS không khả dụng"
+  zh: "DNS 设置不可用"
+  zh-HK: "DNS 設定不可用"

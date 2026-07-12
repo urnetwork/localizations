@@ -1,0 +1,7 @@
+description: "Placeholder text for an empty text field."
+description_auto: true
+source: "Placeholder"
+platforms:
+  - apple
+localizations:
+  en: "Placeholder"

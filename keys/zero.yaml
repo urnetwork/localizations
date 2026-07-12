@@ -1,0 +1,7 @@
+description: "General UI string."
+source: "0"
+translatable: false
+platforms:
+  - apple
+localizations:
+  en: "0"

@@ -1,25 +1,36 @@
-description: |
-  Button text for beginning the login or create network process used on the Initial Auth screen.
+description: "Button text for beginning the login or create network process used on the Initial Auth screen."
+source: "Get started"
+platforms:
+  - android
+  - apple
+  - linux
+  - web
 localizations:
-  ar: "ابدأ"
-  cs: "Začít"
+  ar: "البدء"
+  cs: "Začněte"
   de: "Loslegen"
-  el: "Ξεκινήστε"
+  el: "Ξεκίνα"
   en: "Get started"
-  es: "Comenzar"
-  es-MX: "Comenzar"
+  es: "Empezar"
+  es-419: "Empezar"
+  es-MX: "Empezar"
   fr: "Commencer"
   he: "התחל"
-  hi: "शुरू करें"
-  ja: "開始する"
+  hi: "आरंभ करें"
+  id: "Mulai"
+  it: "Inizia"
+  ja: "始める"
   ko: "시작하기"
-  nl: "Beginnen"
-  pl: "Zacznij"
+  nl: "Aan de slag"
+  pl: "Rozpocznij"
   pt: "Começar"
   pt-BR: "Começar"
+  pt-PT: "Começar"
   ru: "Начать"
+  sv: "Kom igång"
   sw: "Anza"
-  th: "เริ่มต้น"
+  th: "เริ่มต้นใช้งาน"
   uk: "Почати"
   vi: "Bắt đầu"
   zh: "开始使用"
+  zh-HK: "開始使用"

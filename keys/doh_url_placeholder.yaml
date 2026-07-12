@@ -1,0 +1,7 @@
+description: "Placeholder in the DNS-over-HTTPS URL inputs: the required URL scheme. Not prose; never translated."
+source: "https://"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "https://"

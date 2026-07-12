@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Connect to %1$s"
+platforms:
+  - android
+placeholders:
+  - name: location
+    type: string
+localizations:
+  ar: "الاتصال بـ {location}"
+  cs: "Připojit k {location}"
+  de: "Mit {location} verbinden"
+  el: "Σύνδεση με {location}"
+  en: "Connect to {location}"
+  es: "Conectar a {location}"
+  es-419: "Conectar a {location}"
+  es-MX: "Conectar a {location}"
+  fr: "Se connecter à {location}"
+  he: "התחבר אל {location}"
+  hi: "{location} से कनेक्ट करें"
+  id: "Hubungkan ke {location}"
+  it: "Connettiti a {location}"
+  ja: "{location}に接続"
+  ko: "{location}에 연결"
+  nl: "Verbind met {location}"
+  pl: "Połącz z {location}"
+  pt: "Conectar a {location}"
+  pt-BR: "Conectar a {location}"
+  pt-PT: "Conectar a {location}"
+  ru: "Подключиться к {location}"
+  sv: "Anslut till {location}"
+  sw: "Unganisha kwa {location}"
+  th: "เชื่อมต่อไปที่ {location}"
+  uk: "Підключитися до {location}"
+  vi: "Kết nối đến {location}"
+  zh: "连接到 {location}"
+  zh-HK: "連接到 {location}"

@@ -1,0 +1,36 @@
+description: "Title of a card that shows statistics about the client's network usage."
+description_auto: true
+source: "Client statistics"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "إحصائيات العميل"
+  cs: "Statistiky klienta"
+  de: "Client-Statistiken"
+  el: "Στατιστικά πελάτη"
+  en: "Client statistics"
+  es: "Estadísticas del cliente"
+  es-419: "Estadísticas del cliente"
+  es-MX: "Estadísticas del cliente"
+  fr: "Statistiques client"
+  he: "סטטיסטיקת לקוח"
+  hi: "क्लाइंट आँकड़े"
+  id: "Statistik klien"
+  it: "Statistiche client"
+  ja: "クライアント統計"
+  ko: "클라이언트 통계"
+  nl: "Clientstatistieken"
+  pl: "Statystyki klienta"
+  pt: "Estatísticas do cliente"
+  pt-BR: "Estatísticas do cliente"
+  pt-PT: "Estatísticas do cliente"
+  ru: "Статистика клиента"
+  sv: "Klientstatistik"
+  sw: "Takwimu za mteja"
+  th: "สถิติไคลเอ็นต์"
+  uk: "Статистика клієнта"
+  vi: "Thống kê máy khách"
+  zh: "客户端统计"
+  zh-HK: "客戶端統計"

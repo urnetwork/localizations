@@ -1,0 +1,38 @@
+description: "Call to action"
+source: "Please login with one of: %@."
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: methods
+    type: string
+localizations:
+  ar: "يرجى تسجيل الدخول باستخدام أحد: {methods}."
+  cs: "Přihlaste se prosím pomocí jednoho z těchto údajů: {methods}."
+  de: "Bitte melde dich mit einem der folgenden an: {methods}."
+  el: "Συνδεθείτε με ένα από τα εξής: {methods}."
+  en: "Please login with one of: {methods}."
+  es: "Inicia sesión con una de las siguientes opciones: {methods}."
+  es-419: "Inicia sesión con una de las siguientes opciones: {methods}."
+  es-MX: "Inicia sesión con una de las siguientes opciones: {methods}."
+  fr: "Veuillez vous connecter avec l'un des éléments suivants : {methods}."
+  he: "אנא התחבר באמצעות אחת מהאפשרויות הבאות: {methods}."
+  hi: "कृपया इनमें से किसी एक के साथ लॉगिन करें: {methods}."
+  id: "Silakan masuk dengan salah satu dari: {methods}."
+  it: "Accedi con una delle seguenti opzioni: {methods}."
+  ja: "以下のいずれかでログインしてください：{methods}"
+  ko: "다음 중 하나로 로그인해 주세요: {methods}."
+  nl: "Log in met één van de volgende opties: {methods}."
+  pl: "Zaloguj się za pomocą jednego z: {methods}."
+  pt: "Faça login com uma das seguintes opções: {methods}."
+  pt-BR: "Faça login com uma das seguintes opções: {methods}."
+  pt-PT: "Inicie sessão com uma das seguintes opções: {methods}."
+  ru: "Пожалуйста, войдите, используя один из следующих способов: {methods}."
+  sv: "Logga in med något av följande: {methods}."
+  sw: "Tafadhali ingia ukitumia mojawapo ya: {methods}."
+  th: "โปรดเข้าสู่ระบบด้วยหนึ่งใน {methods}"
+  uk: "Будь ласка, увійдіть, використовуючи один із таких способів: {methods}."
+  vi: "Vui lòng đăng nhập bằng một trong các cách sau: {methods}."
+  zh: "请使用以下任一方式登录：{methods}。"
+  zh-HK: "請使用以下任一方式登入：{methods}。"

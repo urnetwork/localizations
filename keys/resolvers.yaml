@@ -1,0 +1,36 @@
+description: "A section header for the DNS resolvers."
+description_auto: true
+source: "Resolvers"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "محلّلات DNS"
+  cs: "Resolvery"
+  de: "Resolver"
+  el: "Επιλυτές"
+  en: "Resolvers"
+  es: "Resolutores"
+  es-419: "Resolutores"
+  es-MX: "Resolutores"
+  fr: "Résolveurs"
+  he: "פותרי DNS"
+  hi: "रिज़ॉल्वर"
+  id: "Resolver"
+  it: "Resolver"
+  ja: "リゾルバー"
+  ko: "리졸버"
+  nl: "Resolvers"
+  pl: "Resolvery"
+  pt: "Resolvedores"
+  pt-BR: "Resolvedores"
+  pt-PT: "Resolvedores"
+  ru: "Резолверы"
+  sv: "Resolvrar"
+  sw: "Visuluhishi"
+  th: "รีโซลเวอร์"
+  uk: "Резолвери"
+  vi: "Bộ phân giải"
+  zh: "解析器"
+  zh-HK: "解析器"

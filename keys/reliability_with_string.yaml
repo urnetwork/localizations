@@ -1,0 +1,35 @@
+description: "General UI string."
+source: "Reliability: %@"
+deprecated:
+  - apple
+platforms:
+  - apple
+placeholders:
+  - name: value
+    type: string
+localizations:
+  ar: "الموثوقية: {value}"
+  cs: "Spolehlivost: {value}"
+  de: "Zuverlässigkeit: {value}"
+  el: "Αξιοπιστία: {value}"
+  en: "Reliability: {value}"
+  es: "Fiabilidad: {value}"
+  es-419: "Fiabilidad: {value}"
+  fr: "Fiabilité : {value}"
+  he: "אמינות: {value}"
+  hi: "विश्वसनीयता: {value}"
+  id: "Keandalan: {value}"
+  it: "Affidabilità: {value}"
+  ja: "信頼性: {value}"
+  ko: "신뢰도: {value}"
+  nl: "Betrouwbaarheid: {value}"
+  pl: "Niezawodność: {value}"
+  pt-BR: "Confiabilidade: {value}"
+  pt-PT: "Fiabilidade: {value}"
+  ru: "Надежность: {value}"
+  sv: "Tillförlitlighet: {value}"
+  th: "ความน่าเชื่อถือ: {value}"
+  uk: "Надійність: {value}"
+  vi: "Độ tin cậy: {value}"
+  zh: "可靠性：{value}"
+  zh-HK: "可靠性：{value}"

@@ -1,0 +1,36 @@
+description: "A description of the functionality of the split rule editor."
+description_auto: true
+source: "Selected hosts are routed locally and bypass the tunnel."
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "يتم توجيه المضيفين المحددين محليًا لتجاوز النفق."
+  cs: "Vybraní hostitelé jsou směrováni lokálně a obcházejí tunel."
+  de: "Ausgewählte Hosts werden lokal geleitet und umgehen den Tunnel."
+  el: "Οι επιλεγμένοι hosts δρομολογούνται τοπικά και παρακάμπτουν το τούνελ."
+  en: "Selected hosts are routed locally and bypass the tunnel."
+  es: "Los hosts seleccionados se enrutan localmente y evitan el túnel."
+  es-419: "Los hosts seleccionados se enrutan localmente y evitan el túnel."
+  es-MX: "Los hosts seleccionados se enrutan localmente y evitan el túnel."
+  fr: "Les hôtes sélectionnés sont routés localement et contournent le tunnel."
+  he: "המארחים שנבחרו מנותבים מקומית ועוקפים את המנהרה."
+  hi: "चयनित होस्ट स्थानीय रूप से रूट होते हैं और टनल को बायपास करते हैं।"
+  id: "Host yang dipilih dirutekan secara lokal dan melewati terowongan."
+  it: "Gli host selezionati vengono instradati localmente e bypassano il tunnel."
+  ja: "選択したホストはローカルにルーティングされ、トンネルを迂回します。"
+  ko: "선택한 호스트는 터널을 우회하여 로컬로 라우팅됩니다."
+  nl: "Geselecteerde hosts worden lokaal gerouteerd en omzeilen de tunnel."
+  pl: "Wybrane hosty są kierowane lokalnie i omijają tunel."
+  pt: "Os hosts selecionados são encaminhados localmente e contornam o túnel."
+  pt-BR: "Os hosts selecionados são roteados localmente e contornam o túnel."
+  pt-PT: "Os hosts selecionados são encaminhados localmente e contornam o túnel."
+  ru: "Выбранные хосты маршрутизируются локально и обходят туннель."
+  sv: "Valda värdar dirigeras lokalt och går förbi tunneln."
+  sw: "Vikoa vilivyochaguliwa hupitishwa ndani na kuepuka tuneli."
+  th: "โฮสต์ที่เลือกจะถูกส่งผ่านภายในเครื่องและไม่ผ่านอุโมงค์"
+  uk: "Вибрані хости маршрутизуються локально та обходять тунель."
+  vi: "Các host đã chọn được định tuyến cục bộ và không qua đường hầm."
+  zh: "选中的主机将走本地路由，绕过隧道。"
+  zh-HK: "已選主機將走本地路由，繞過隧道。"

@@ -1,0 +1,38 @@
+description: "Call to action"
+source: "If the problem persists, contact us at %1$s or join our %2$s for direct support."
+platforms:
+  - android
+placeholders:
+  - name: contact
+    type: string
+  - name: community
+    type: string
+localizations:
+  ar: "إذا استمرت المشكلة، تواصل معنا على {contact} أو انضم إلى {community} الخاص بنا للحصول على دعم مباشر."
+  cs: "Pokud problém přetrvává, kontaktujte nás na {contact} nebo se připojte k našemu {community} pro přímou podporu."
+  de: "Wenn das Problem weiterhin besteht, kontaktiere uns unter {contact} oder tritt unserem {community} für direkten Support bei."
+  el: "Αν το πρόβλημα παραμένει, επικοινωνήστε μαζί μας στο {contact} ή μπείτε στο {community} μας για άμεση υποστήριξη."
+  en: "If the problem persists, contact us at {contact} or join our {community} for direct support."
+  es: "Si el problema persiste, contáctanos en {contact} o únete a nuestro {community} para soporte directo."
+  es-419: "Si el problema persiste, contáctanos en {contact} o únete a nuestro {community} para soporte directo."
+  es-MX: "Si el problema persiste, contáctanos en {contact} o únete a nuestro {community} para soporte directo."
+  fr: "Si le problème persiste, contactez-nous à {contact} ou rejoignez notre {community} pour un support direct."
+  he: "אם הבעיה נמשכת, פנו אלינו בכתובת {contact} או הצטרפו ל-{community} שלנו לקבלת תמיכה ישירה."
+  hi: "यदि समस्या बनी रहती है, तो {contact} पर हमसे संपर्क करें या सीधे समर्थन के लिए हमारे {community} से जुड़ें।"
+  id: "Jika masalah berlanjut, hubungi kami di {contact} atau bergabung dengan {community} kami untuk dukungan langsung."
+  it: "Se il problema persiste, contattaci a {contact} oppure unisciti alla nostra {community} per assistenza diretta."
+  ja: "問題が解決しない場合は、{contact} までご連絡いただくか、直接サポートのために私たちの {community} にご参加ください。"
+  ko: "문제가 계속되면 {contact}로 문의하거나 직접 지원을 위해 저희 {community}에 참여하세요."
+  nl: "Als het probleem blijft bestaan, neem dan contact met ons op via {contact} of sluit je aan bij onze {community} voor directe ondersteuning."
+  pl: "Jeśli problem nadal występuje, skontaktuj się z nami pod adresem {contact} lub dołącz do naszego {community}, aby uzyskać bezpośrednie wsparcie."
+  pt: "Se o problema persistir, contacte-nos em {contact} ou junte-se ao nosso {community} para suporte direto."
+  pt-BR: "Se o problema persistir, entre em contato pelo {contact} ou entre no nosso {community} para suporte direto."
+  pt-PT: "Se o problema persistir, contacte-nos em {contact} ou junte-se ao nosso {community} para suporte direto."
+  ru: "Если проблема сохраняется, свяжитесь с нами по адресу {contact} или присоединяйтесь к нашему {community} для получения прямой поддержки."
+  sv: "Om problemet kvarstår, kontakta oss på {contact} eller gå med i vår {community} för direkt support."
+  sw: "Ikiwa tatizo litaendelea, wasiliana nasi kupitia {contact} au jiunge na {community} yetu kwa msaada wa moja kwa moja."
+  th: "หากปัญหายังคงอยู่ กรุณาติดต่อเราที่ {contact} หรือเข้าร่วม {community} ของเราเพื่อรับการสนับสนุนโดยตรง"
+  uk: "Якщо проблема не зникає, зв'яжіться з нами на {contact} або приєднайтеся до нашого {community}, щоб отримати пряму підтримку."
+  vi: "Nếu vấn đề vẫn tiếp diễn, hãy liên hệ với chúng tôi tại {contact} hoặc tham gia {community} của chúng tôi để được hỗ trợ trực tiếp."
+  zh: "如果问题仍然存在，请通过 {contact} 联系我们，或加入我们的 {community} 获取直接支持。"
+  zh-HK: "若問題持續，請透過 {contact} 與我們聯絡，或加入我們的 {community} 以獲得直接支援。"

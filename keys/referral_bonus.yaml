@@ -1,0 +1,37 @@
+description: "Call to action"
+source: "+%lld GiB/Month"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: amount
+    type: int
+localizations:
+  ar: "+{amount} GiB/شهر"
+  cs: "+{amount} GiB/měsíc"
+  de: "+{amount} GiB/Monat"
+  el: "+{amount} GiB/μήνα"
+  en: "+{amount} GiB/Month"
+  es: "+{amount} GiB/mes"
+  es-419: "+{amount} GiB/mes"
+  es-MX: "+{amount} GiB/mes"
+  fr: "+{amount} GiB/mois"
+  he: "+{amount} GiB/חודש"
+  hi: "+{amount} GiB/महीना"
+  id: "+{amount} GiB/bulan"
+  it: "+{amount} GiB/mese"
+  ja: "+{amount} GiB/月"
+  ko: "+{amount} GiB/월"
+  nl: "+{amount} GiB/maand"
+  pl: "+{amount} GiB/miesiąc"
+  pt: "+{amount} GiB/mês"
+  pt-BR: "+{amount} GiB/mês"
+  pt-PT: "+{amount} GiB/mês"
+  ru: "+{amount} GiB/месяц"
+  sv: "+{amount} GiB/månad"
+  sw: "+{amount} GiB/mwezi"
+  th: "+{amount} GiB/เดือน"
+  uk: "+{amount} ГіБ/місяць"
+  vi: "+{amount} GiB/tháng"
+  zh: "+{amount} GiB/月"
+  zh-HK: "+{amount} GiB/月"

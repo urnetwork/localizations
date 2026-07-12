@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Trusted by over %s private networks"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: string
+localizations:
+  ar: "موثوق به من قبل أكثر من {count} شبكة خاصة"
+  cs: "Důvěřováno více než {count} soukromými sítěmi"
+  de: "Vertraut von über {count} privaten Netzwerken"
+  el: "Εμπιστεύεται από πάνω από {count} ιδιωτικά δίκτυα"
+  en: "Trusted by over {count} private networks"
+  es: "Confiado por más de {count} redes privadas"
+  es-419: "Confiado por más de {count} redes privadas"
+  es-MX: "Confiado por más de {count} redes privadas"
+  fr: "Fiable pour plus de {count} réseaux privés"
+  he: "נמצא באמון של מעל {count} רשתות פרטיות"
+  hi: "{count} से अधिक निजी नेटवर्क द्वारा विश्वसनीय"
+  id: "Dipercaya oleh lebih dari {count} jaringan pribadi"
+  it: "Fidato da oltre {count} reti private"
+  ja: "{count}以上のプライベートネットワークに信頼されています"
+  ko: "{count}개 이상의 프라이빗 네트워크에서 신뢰받음"
+  nl: "Vertrouwd door meer dan {count} privénetwerken"
+  pl: "Zaufany przez ponad {count} prywatnych sieci"
+  pt: "Confiado por mais de {count} redes privadas"
+  pt-BR: "Confiado por mais de {count} redes privadas"
+  pt-PT: "Confiado por mais de {count} redes privadas"
+  ru: "Доверяют более чем {count} частных сетей"
+  sv: "Betrodd av över {count} privata nätverk"
+  sw: "Inatumiwa na zaidi ya {count} mitandao ya kibinafsi"
+  th: "ได้รับความไว้วางใจจากเครือข่ายส่วนตัวมากกว่า {count} เครือข่าย"
+  uk: "Довіряють понад {count} приватних мереж"
+  vi: "Được hơn {count} mạng riêng tin tưởng"
+  zh: "受到超过 {count} 个私人网络的信任"
+  zh-HK: "獲超過 {count} 個私人網絡信任"

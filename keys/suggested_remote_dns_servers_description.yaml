@@ -1,0 +1,36 @@
+description: "A description of the suggested DNS servers."
+description_auto: true
+source: "Suggestions for the connected country are marked with its color. Turning one on adds it to the remote DNS servers."
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "الاقتراحات الخاصة بالدولة المتصل بها مميّزة بلونها. تشغيل أحدها يضيفه إلى خوادم DNS البعيدة."
+  cs: "Návrhy pro připojenou zemi jsou označeny její barvou. Zapnutím se server přidá mezi vzdálené servery DNS."
+  de: "Vorschläge für das verbundene Land sind mit dessen Farbe markiert. Wenn du einen aktivierst, wird er zu den externen DNS-Servern hinzugefügt."
+  el: "Οι προτάσεις για τη συνδεδεμένη χώρα επισημαίνονται με το χρώμα της. Αν ενεργοποιήσετε μία, προστίθεται στους απομακρυσμένους διακομιστές DNS."
+  en: "Suggestions for the connected country are marked with its color. Turning one on adds it to the remote DNS servers."
+  es: "Las sugerencias del país conectado están marcadas con su color. Al activar una, se añade a los servidores DNS remotos."
+  es-419: "Las sugerencias del país conectado están marcadas con su color. Al activar una, se agrega a los servidores DNS remotos."
+  es-MX: "Las sugerencias del país conectado están marcadas con su color. Al activar una, se agrega a los servidores DNS remotos."
+  fr: "Les suggestions pour le pays connecté sont marquées de sa couleur. En activer une l'ajoute aux serveurs DNS distants."
+  he: "הצעות עבור המדינה המחוברת מסומנות בצבע שלה. הפעלת אחת מהן מוסיפה אותה לשרתי ה-DNS המרוחקים."
+  hi: "जिस देश से आप कनेक्ट हैं, उसके सुझाव उसी के रंग से चिह्नित होते हैं। किसी को चालू करने पर वह रिमोट DNS सर्वर में जुड़ जाता है।"
+  id: "Saran untuk negara yang terhubung ditandai dengan warnanya. Mengaktifkan salah satunya akan menambahkannya ke server DNS jarak jauh."
+  it: "I suggerimenti per il paese connesso sono contrassegnati con il suo colore. Attivandone uno, viene aggiunto ai server DNS remoti."
+  ja: "接続中の国の候補にはその国の色が付いています。オンにするとリモートDNSサーバーに追加されます。"
+  ko: "연결된 국가의 추천 항목은 해당 국가의 색상으로 표시됩니다. 켜면 원격 DNS 서버에 추가됩니다."
+  nl: "Suggesties voor het verbonden land zijn gemarkeerd met de kleur van dat land. Zet je er een aan, dan wordt die toegevoegd aan de externe DNS-servers."
+  pl: "Sugestie dla połączonego kraju są oznaczone jego kolorem. Włączenie jednej z nich dodaje ją do zdalnych serwerów DNS."
+  pt: "As sugestões para o país a que está ligado são marcadas com a respetiva cor. Ao ativar uma, esta é adicionada aos servidores DNS remotos."
+  pt-BR: "As sugestões para o país conectado são marcadas com a cor dele. Ao ativar uma, ela é adicionada aos servidores DNS remotos."
+  pt-PT: "As sugestões para o país a que está ligado são marcadas com a respetiva cor. Ao ativar uma, esta é adicionada aos servidores DNS remotos."
+  ru: "Предложения для страны подключения отмечены её цветом. Включение добавляет сервер в список удалённых DNS."
+  sv: "Förslag för det anslutna landet är markerade med dess färg. Att slå på ett lägger till det bland fjärr-DNS-servrarna."
+  sw: "Mapendekezo ya nchi uliyounganishwa nayo yana alama ya rangi yake. Ukiwasha mojawapo, huongezwa kwenye seva za DNS za mbali."
+  th: "คำแนะนำสำหรับประเทศที่เชื่อมต่ออยู่จะทำเครื่องหมายด้วยสีของประเทศนั้น เมื่อเปิดใช้งานรายการใด รายการนั้นจะถูกเพิ่มเข้าไปในเซิร์ฟเวอร์ DNS ระยะไกล"
+  uk: "Пропозиції для країни підключення позначені її кольором. Увімкнення додає сервер до списку віддалених DNS."
+  vi: "Đề xuất cho quốc gia đang kết nối được đánh dấu bằng màu của quốc gia đó. Bật một đề xuất sẽ thêm nó vào máy chủ DNS từ xa."
+  zh: "适用于已连接国家的推荐项会以该国家的颜色标记。开启后会将其加入远程 DNS 服务器。"
+  zh-HK: "適用於已連接國家的建議項目會以該國家的顏色標示。開啟後會將其加入遠端 DNS 伺服器。"

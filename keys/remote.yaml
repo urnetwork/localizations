@@ -1,0 +1,36 @@
+description: "Label for a chart showing the remote traffic."
+description_auto: true
+source: "Remote"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "بعيد"
+  cs: "Vzdáleně"
+  de: "Extern"
+  el: "Απομακρυσμένο"
+  en: "Remote"
+  es: "Remoto"
+  es-419: "Remoto"
+  es-MX: "Remoto"
+  fr: "Distant"
+  he: "מרוחק"
+  hi: "रिमोट"
+  id: "Jarak jauh"
+  it: "Remoto"
+  ja: "リモート"
+  ko: "원격"
+  nl: "Extern"
+  pl: "Zdalnie"
+  pt: "Remoto"
+  pt-BR: "Remoto"
+  pt-PT: "Remoto"
+  ru: "Удалённо"
+  sv: "Fjärr"
+  sw: "Mbali"
+  th: "ระยะไกล"
+  uk: "Віддалено"
+  vi: "Từ xa"
+  zh: "远程"
+  zh-HK: "遠端"

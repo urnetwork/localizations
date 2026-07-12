@@ -1,0 +1,14 @@
+description: "A label that shows the number of hosts for a split rule. The argument is the number of hosts."
+description_auto: true
+source: "%lld host%@"
+deprecated:
+  - apple
+platforms:
+  - apple
+placeholders:
+  - name: count1
+    type: int
+  - name: value2
+    type: string
+localizations:
+  en: "{count1} host{value2}"

@@ -1,0 +1,36 @@
+description: "A label for a DNS setting that is enabled."
+description_auto: true
+source: "On"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "تشغيل"
+  cs: "Zapnuto"
+  de: "An"
+  el: "Ενεργό"
+  en: "On"
+  es: "Activado"
+  es-419: "Activado"
+  es-MX: "Activado"
+  fr: "Activé"
+  he: "מופעל"
+  hi: "चालू"
+  id: "Aktif"
+  it: "Attivo"
+  ja: "オン"
+  ko: "켜짐"
+  nl: "Aan"
+  pl: "Włączone"
+  pt: "Ativado"
+  pt-BR: "Ativado"
+  pt-PT: "Ativado"
+  ru: "Вкл."
+  sv: "På"
+  sw: "Imewashwa"
+  th: "เปิด"
+  uk: "Увімк."
+  vi: "Bật"
+  zh: "开"
+  zh-HK: "開"

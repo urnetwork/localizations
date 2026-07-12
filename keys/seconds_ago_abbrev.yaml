@@ -1,0 +1,37 @@
+description: "Compact relative-time label with an abbreviated seconds unit (\"42s ago\"), shown by the windows and linux stats formatters for events 5-59 seconds old (younger events show the `now` key). The argument is the elapsed seconds. Not a plural: the abbreviated unit does not inflect, but the word order and the unit letter localize."
+source: "{count}s ago"
+platforms:
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "قبل {count} ث"
+  cs: "před {count} s"
+  de: "vor {count} Sek."
+  el: "πριν από {count} δευτ."
+  en: "{count}s ago"
+  es: "hace {count} s"
+  es-419: "hace {count} s"
+  es-MX: "hace {count} s"
+  fr: "il y a {count} s"
+  he: "לפני {count} שנ׳"
+  hi: "{count} से. पहले"
+  id: "{count} dtk lalu"
+  it: "{count} s fa"
+  ja: "{count}秒前"
+  ko: "{count}초 전"
+  nl: "{count} s geleden"
+  pl: "{count} s temu"
+  pt: "há {count} s"
+  pt-BR: "há {count} s"
+  pt-PT: "há {count} s"
+  ru: "{count} с назад"
+  sv: "för {count} s sedan"
+  sw: "sekunde {count} zilizopita"
+  th: "{count} วิ.ที่แล้ว"
+  uk: "{count} с тому"
+  vi: "{count} giây trước"
+  zh: "{count}秒前"
+  zh-HK: "{count}秒前"

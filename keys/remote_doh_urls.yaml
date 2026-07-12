@@ -1,0 +1,36 @@
+description: "A heading for a list of remote DoH URLs."
+description_auto: true
+source: "Remote DoH URLs"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "عناوين URL لـ DoH البعيد"
+  cs: "Vzdálené adresy URL DoH"
+  de: "Externe DoH-URLs"
+  el: "Απομακρυσμένα URL DoH"
+  en: "Remote DoH URLs"
+  es: "URLs DoH remotas"
+  es-419: "URLs DoH remotas"
+  es-MX: "URLs DoH remotas"
+  fr: "URL DoH distantes"
+  he: "כתובות URL ל-DoH מרוחק"
+  hi: "रिमोट DoH URLs"
+  id: "URL DoH jarak jauh"
+  it: "URL DoH remoti"
+  ja: "リモートDoH URL"
+  ko: "원격 DoH URL"
+  nl: "Externe DoH-URL's"
+  pl: "Zdalne adresy URL DoH"
+  pt: "URLs DoH remotos"
+  pt-BR: "URLs DoH remotas"
+  pt-PT: "URLs DoH remotos"
+  ru: "Удалённые DoH URL"
+  sv: "Fjärr-DoH-URL:er"
+  sw: "URL za DoH za mbali"
+  th: "DoH URL ระยะไกล"
+  uk: "Віддалені DoH URL"
+  vi: "URL DoH từ xa"
+  zh: "远程 DoH URLs"
+  zh-HK: "遠端 DoH URLs"

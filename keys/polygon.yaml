@@ -1,0 +1,7 @@
+description: "Blockchain name. A product name: never translated."
+source: "Polygon"
+translatable: false
+platforms:
+  - windows
+localizations:
+  en: "Polygon"

@@ -1,0 +1,39 @@
+description: "A label that shows the total size of the contract."
+description_auto: true
+source: "of %@"
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: total
+    type: string
+localizations:
+  ar: "من {total}"
+  cs: "z {total}"
+  de: "von {total}"
+  el: "από {total}"
+  en: "of {total}"
+  es: "de {total}"
+  es-419: "de {total}"
+  es-MX: "de {total}"
+  fr: "sur {total}"
+  he: "מתוך {total}"
+  hi: "{total} में से"
+  id: "dari {total}"
+  it: "su {total}"
+  ja: "/ {total}"
+  ko: "/ {total}"
+  nl: "van {total}"
+  pl: "z {total}"
+  pt: "de {total}"
+  pt-BR: "de {total}"
+  pt-PT: "de {total}"
+  ru: "из {total}"
+  sv: "av {total}"
+  sw: "kati ya {total}"
+  th: "จาก {total}"
+  uk: "з {total}"
+  vi: "trên {total}"
+  zh: "/ {total}"
+  zh-HK: "/ {total}"

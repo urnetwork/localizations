@@ -1,0 +1,10 @@
+description: "General UI string."
+source: "%@ USDC"
+translatable: false
+platforms:
+  - apple
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  en: "{amount} USDC"

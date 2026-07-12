@@ -1,0 +1,36 @@
+description: "A label displayed in a row of a custom dns settings."
+description_auto: true
+source: "DNS over HTTPS"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "DNS عبر HTTPS"
+  cs: "DNS přes HTTPS"
+  de: "DNS über HTTPS"
+  el: "DNS μέσω HTTPS"
+  en: "DNS over HTTPS"
+  es: "DNS sobre HTTPS"
+  es-419: "DNS sobre HTTPS"
+  es-MX: "DNS sobre HTTPS"
+  fr: "DNS via HTTPS"
+  he: "DNS דרך HTTPS"
+  hi: "HTTPS पर DNS"
+  id: "DNS melalui HTTPS"
+  it: "DNS su HTTPS"
+  ja: "DNS over HTTPS"
+  ko: "DNS over HTTPS"
+  nl: "DNS over HTTPS"
+  pl: "DNS przez HTTPS"
+  pt: "DNS sobre HTTPS"
+  pt-BR: "DNS sobre HTTPS"
+  pt-PT: "DNS sobre HTTPS"
+  ru: "DNS через HTTPS"
+  sv: "DNS över HTTPS"
+  sw: "DNS kupitia HTTPS"
+  th: "DNS ผ่าน HTTPS"
+  uk: "DNS через HTTPS"
+  vi: "DNS qua HTTPS"
+  zh: "DNS over HTTPS"
+  zh-HK: "DNS over HTTPS"

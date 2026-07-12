@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "%s is ready to connect"
+platforms:
+  - android
+placeholders:
+  - name: network_name
+    type: string
+localizations:
+  ar: "{network_name} جاهزة للاتصال"
+  cs: "Síť {network_name} je připravená k připojení"
+  de: "{network_name} ist bereit zur Verbindung"
+  el: "{network_name} είναι έτοιμο για σύνδεση"
+  en: "{network_name} is ready to connect"
+  es: "{network_name} está listo para conectar"
+  es-419: "{network_name} está listo para conectar"
+  es-MX: "{network_name} está listo para conectar"
+  fr: "{network_name} est prêt à connecter"
+  he: "{network_name} מוכנה להתחבר"
+  hi: "{network_name} कनेक्ट करने के लिए तैयार है"
+  id: "{network_name} siap terhubung"
+  it: "{network_name} è pronta per connettersi"
+  ja: "{network_name} は接続準備完了です"
+  ko: "{network_name} 연결 준비 완료"
+  nl: "{network_name} is klaar om te verbinden"
+  pl: "{network_name} jest gotowy do połączenia"
+  pt: "{network_name} está pronto para conectar"
+  pt-BR: "{network_name} está pronto para conectar"
+  pt-PT: "{network_name} está pronto para conectar"
+  ru: "{network_name} готово к подключению"
+  sv: "{network_name} är redo att ansluta"
+  sw: "{network_name} iko tayari kuunganisha"
+  th: "เครือข่าย {network_name} พร้อมให้เชื่อมต่อแล้ว"
+  uk: "{network_name} готова до підключення"
+  vi: "{network_name} đã sẵn sàng kết nối"
+  zh: "{network_name} 已准备好连接"
+  zh-HK: "{network_name} 已準備好連接"

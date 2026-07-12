@@ -1,0 +1,36 @@
+description: "Label for the blocked traffic relayed for remote clients."
+description_auto: true
+source: "Blocked"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "محظور"
+  cs: "Blokováno"
+  de: "Blockiert"
+  el: "Αποκλεισμένα"
+  en: "Blocked"
+  es: "Bloqueadas"
+  es-419: "Bloqueadas"
+  es-MX: "Bloqueadas"
+  fr: "Bloqué"
+  he: "חסום"
+  hi: "अवरुद्ध"
+  id: "Diblokir"
+  it: "Bloccato"
+  ja: "ブロック"
+  ko: "차단"
+  nl: "Geblokkeerd"
+  pl: "Zablokowane"
+  pt: "Bloqueados"
+  pt-BR: "Bloqueados"
+  pt-PT: "Bloqueados"
+  ru: "Заблокировано"
+  sv: "Blockerade"
+  sw: "Imezuiwa"
+  th: "ถูกบล็อก"
+  uk: "Заблоковано"
+  vi: "Bị chặn"
+  zh: "已拦截"
+  zh-HK: "已攔截"

@@ -1,0 +1,36 @@
+description: "A heading for the list of current block actions."
+description_auto: true
+source: "Activity"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "النشاط"
+  cs: "Aktivita"
+  de: "Aktivität"
+  el: "Δραστηριότητα"
+  en: "Activity"
+  es: "Actividad"
+  es-419: "Actividad"
+  es-MX: "Actividad"
+  fr: "Activité"
+  he: "פעילות"
+  hi: "गतिविधि"
+  id: "Aktivitas"
+  it: "Attività"
+  ja: "アクティビティ"
+  ko: "활동"
+  nl: "Activiteit"
+  pl: "Aktywność"
+  pt: "Atividade"
+  pt-BR: "Atividade"
+  pt-PT: "Atividade"
+  ru: "Активность"
+  sv: "Aktivitet"
+  sw: "Shughuli"
+  th: "กิจกรรม"
+  uk: "Активність"
+  vi: "Hoạt động"
+  zh: "活动"
+  zh-HK: "活動"

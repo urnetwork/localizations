@@ -1,0 +1,37 @@
+description: "Label for the network name input field"
+source: "Network name"
+platforms:
+  - android
+  - apple
+  - web
+aliases:
+  - network_name_input_label
+localizations:
+  ar: "اسم الشبكة"
+  cs: "Název sítě"
+  de: "Netzwerkname"
+  el: "Όνομα δικτύου"
+  en: "Network name"
+  es: "Nombre de la red"
+  es-419: "Nombre de la red"
+  es-MX: "Nombre de la red"
+  fr: "Nom du réseau"
+  he: "שם הרשת"
+  hi: "नेटवर्क का नाम"
+  id: "Nama jaringan"
+  it: "Nome della rete"
+  ja: "ネットワーク名"
+  ko: "네트워크 이름"
+  nl: "Netwerk naam"
+  pl: "Nazwa sieci"
+  pt: "Nome da rede"
+  pt-BR: "Nome da rede"
+  pt-PT: "Nome da rede"
+  ru: "Имя сети"
+  sv: "Nätverksnamn"
+  sw: "Jina la mtandao"
+  th: "ชื่อเครือข่าย"
+  uk: "Назва мережі"
+  vi: "Tên mạng"
+  zh: "网络名称"
+  zh-HK: "網絡名稱"

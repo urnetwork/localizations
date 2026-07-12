@@ -1,0 +1,36 @@
+description: "Toggle label for the local DNS over HTTPS switch."
+description_auto: true
+source: "local"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "محلي"
+  cs: "lokálně"
+  de: "lokal"
+  el: "τοπικό"
+  en: "local"
+  es: "local"
+  es-419: "local"
+  es-MX: "local"
+  fr: "local"
+  he: "מקומי"
+  hi: "स्थानीय"
+  id: "lokal"
+  it: "locale"
+  ja: "ローカル"
+  ko: "로컬"
+  nl: "lokaal"
+  pl: "lokalnie"
+  pt: "local"
+  pt-BR: "local"
+  pt-PT: "local"
+  ru: "локально"
+  sv: "lokal"
+  sw: "ya ndani"
+  th: "ภายในเครื่อง"
+  uk: "локально"
+  vi: "cục bộ"
+  zh: "本地"
+  zh-HK: "本地"

@@ -1,0 +1,32 @@
+description: "General UI string."
+source: "You can adjust the setting to Always to fill the free data faster."
+deprecated:
+  - apple
+platforms:
+  - apple
+localizations:
+  ar: "يمكنك ضبط الإعداد على \"دائمًا\" لزيادة البيانات المجانية بشكل أسرع."
+  cs: "Můžete nastavit možnost na \"Vždy\" pro rychlejší získání bezplatných dat."
+  de: "Sie können die Einstellung auf \"Immer\" setzen, um schneller kostenlose Daten zu erhalten."
+  el: "Μπορείτε να ρυθμίσετε την επιλογή σε \"Πάντα\" για να γεμίσετε τα δωρεάν δεδομένα πιο γρήγορα."
+  en: "You can adjust the setting to Always to fill the free data faster."
+  es: "Puedes ajustar la configuración a \"Siempre\" para llenar los datos gratis más rápido."
+  es-419: "Puedes ajustar la configuración a \"Siempre\" para llenar los datos gratis más rápido."
+  fr: "Vous pouvez régler le paramètre sur \"Toujours\" pour remplir les données gratuites plus rapidement."
+  he: "ניתן להגדיר את ההגדרה ל\"תמיד\" כדי לקבל נתונים חינמיים מהר יותר."
+  hi: "आप सेटिंग को \"हमेशा\" पर सेट कर सकते हैं ताकि मुफ्त डेटा जल्दी भर सके।"
+  id: "Anda dapat mengatur pengaturan ke \"Selalu\" untuk mengisi data gratis lebih cepat."
+  it: "Puoi impostare l’opzione su \"Sempre\" per accumulare dati gratuiti più velocemente."
+  ja: "設定を「常時」に変更すると、無料データをより早く獲得できます。"
+  ko: "설정을 \"항상\"으로 조정하면 무료 데이터를 더 빨리 채울 수 있습니다."
+  nl: "Je kunt de instelling op \"Altijd\" zetten om sneller gratis data te verdienen."
+  pl: "Możesz ustawić opcję na \"Zawsze\", aby szybciej zdobywać darmowe dane."
+  pt-BR: "Você pode ajustar a configuração para \"Sempre\" para ganhar dados grátis mais rápido."
+  pt-PT: "Pode ajustar a definição para \"Sempre\" para obter dados gratuitos mais rapidamente."
+  ru: "Вы можете установить настройку на \"Всегда\", чтобы быстрее получать бесплатные данные."
+  sv: "Du kan ställa in till \"Alltid\" för att fylla på gratis data snabbare."
+  th: "คุณสามารถตั้งค่าเป็น \"เสมอ\" เพื่อรับข้อมูลฟรีได้เร็วขึ้น"
+  uk: "Ви можете встановити параметр на \"Завжди\", щоб швидше отримувати безкоштовні дані."
+  vi: "Bạn có thể điều chỉnh cài đặt thành \"Luôn luôn\" để nhận dữ liệu miễn phí nhanh hơn."
+  zh: "您可以将设置调整为“始终”，以更快获得免费数据。"
+  zh-HK: "你可以將設定調整為「永遠」，以更快獲得免費數據。"

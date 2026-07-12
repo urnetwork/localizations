@@ -1,0 +1,36 @@
+description: "Placeholder text for the network name input field."
+source: "Your network name"
+platforms:
+  - android
+  - web
+aliases:
+  - network_name_input_placeholder
+localizations:
+  ar: "اسم شبكتك"
+  cs: "Název vaší sítě"
+  de: "Dein Netzwerkname"
+  el: "Το όνομα του δικτύου σας"
+  en: "Your network name"
+  es: "El nombre de tu red"
+  es-419: "El nombre de tu red"
+  es-MX: "El nombre de tu red"
+  fr: "Nom de votre réseau"
+  he: "שם הרשת שלך"
+  hi: "आपके नेटवर्क का नाम"
+  id: "Nama jaringan Anda"
+  it: "Il nome della tua rete"
+  ja: "あなたのネットワーク名"
+  ko: "당신의 네트워크 이름"
+  nl: "Jouw netwerk naam"
+  pl: "Nazwa twojej sieci"
+  pt: "Nome da sua rede"
+  pt-BR: "Nome da sua rede"
+  pt-PT: "Nome da sua rede"
+  ru: "Название вашей сети"
+  sv: "Ditt nätverksnamn"
+  sw: "Jina la mtandao wako"
+  th: "ชื่อเครือข่ายของคุณ"
+  uk: "Назва вашої мережі"
+  vi: "Tên mạng của bạn"
+  zh: "您的网络名称"
+  zh-HK: "您的網絡名稱"

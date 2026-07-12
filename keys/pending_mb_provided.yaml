@@ -1,0 +1,37 @@
+description: "Payout list row label while a payout is still pending: the amount of traffic provided that the pending payout covers. Used in apple Shared/Views/PaymentsList.swift and android ui/wallet/PayoutRow.kt."
+source: "Pending: %@ MB provided"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "قيد الانتظار: تم توفير {amount} ميغابايت"
+  cs: "Čekající: {amount} MB poskytnuto"
+  de: "Ausstehend: {amount} MB bereitgestellt"
+  el: "Σε εκκρεμότητα: παρέχονται {amount} MB"
+  en: "Pending: {amount} MB provided"
+  es: "Pendiente: {amount} MB proporcionados"
+  es-419: "Pendiente: {amount} MB proporcionados"
+  es-MX: "Pendiente: {amount} MB proporcionados"
+  fr: "En attente : {amount} MB fournis"
+  he: "ממתין: סופקו {amount} מגה-בייט"
+  hi: "लंबित: {amount} एमबी प्रदान किए गए"
+  id: "Tertunda: {amount} MB disediakan"
+  it: "In sospeso: {amount} MB forniti"
+  ja: "保留中: {amount} MB 提供済み"
+  ko: "보류 중: {amount} MB 제공됨"
+  nl: "In behandeling: {amount} MB geleverd"
+  pl: "Oczekujące: dostarczono {amount} MB"
+  pt: "Pendente: {amount} MB fornecidos"
+  pt-BR: "Pendente: {amount} MB fornecidos"
+  pt-PT: "Pendente: {amount} MB fornecidos"
+  ru: "В ожидании: предоставлено {amount} МБ"
+  sv: "Väntar: {amount} MB tillhandahållna"
+  sw: "Inasubiri: MB {amount} zimetolewa"
+  th: "รอดำเนินการ: ให้บริการ {amount} MB"
+  uk: "Очікується: надано {amount} МБ"
+  vi: "Đang chờ xử lý: đã cung cấp {amount} MB"
+  zh: "待处理：提供了 {amount} MB"
+  zh-HK: "待處理：提供了 {amount} MB"

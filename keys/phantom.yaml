@@ -1,0 +1,7 @@
+description: "Used in Main/Account/Wallets/ConnectWalletSheet/ConnectWalletSheetView.swift."
+source: "Phantom"
+translatable: false
+platforms:
+  - apple
+localizations:
+  en: "Phantom"

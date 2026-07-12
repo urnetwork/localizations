@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Participate in the network and get free access to the community edition."
+deprecated:
+  - apple
+platforms:
+  - android
+  - apple
+localizations:
+  ar: "شارك في الشبكة واحصل على وصول مجاني إلى إصدار المجتمع."
+  cs: "Zapojte se do sítě a získejte bezplatný přístup k komunitní edici."
+  de: "Nimm am Netzwerk teil und erhalte kostenlosen Zugang zur Community Edition."
+  el: "Συμμετέχετε στο δίκτυο και αποκτήστε δωρεάν πρόσβαση στην έκδοση κοινότητας."
+  en: "Participate in the network and get free access to the community edition."
+  es: "Participa en la red y obtén acceso gratuito a la edición comunitaria."
+  es-419: "Participa en la red y obtén acceso gratuito a la edición comunitaria."
+  es-MX: "Participa en la red y obtén acceso gratuito a la edición comunitaria."
+  fr: "Participez au réseau et obtenez un accès gratuit à l’édition communautaire."
+  he: "השתתף ברשת וקבל גישה חינם למהדורת הקהילה."
+  hi: "नेटवर्क में भाग लें और कम्युनिटी एडिशन तक मुफ्त पहुंच प्राप्त करें।"
+  id: "Berpartisipasi di jaringan dan dapatkan akses gratis ke edisi komunitas."
+  it: "Partecipa alla rete e ottieni l’accesso gratuito all’edizione community."
+  ja: "ネットワークに参加して、コミュニティ版に無料でアクセスしましょう。"
+  ko: "네트워크에 참여하고 커뮤니티 에디션을 무료로 이용하세요."
+  nl: "Neem deel aan het netwerk en krijg gratis toegang tot de community-editie."
+  pl: "Dołącz do sieci i uzyskaj bezpłatny dostęp do wersji społecznościowej."
+  pt: "Participe na rede e tenha acesso gratuito à edição comunitária."
+  pt-BR: "Participe da rede e tenha acesso gratuito à edição comunitária."
+  pt-PT: "Participe na rede e tenha acesso gratuito à edição comunitária."
+  ru: "Участвуйте в сети и получите бесплатный доступ к версии для сообщества."
+  sv: "Delta i nätverket och få gratis tillgång till community-utgåvan."
+  sw: "Shiriki katika mtandao na upate ufikiaji wa bure wa toleo la jamii."
+  th: "เข้าร่วมเครือข่ายและรับสิทธิ์เข้าถึงฉบับชุมชนฟรี"
+  uk: "Беріть участь у мережі та отримайте безкоштовний доступ до спільнотної версії."
+  vi: "Tham gia mạng lưới và nhận quyền truy cập miễn phí vào phiên bản cộng đồng."
+  zh: "参与网络并免费获得社区版的访问权限。"
+  zh-HK: "參與網絡，免費獲得社群版存取權限。"

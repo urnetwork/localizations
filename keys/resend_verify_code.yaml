@@ -1,0 +1,37 @@
+description: "Button text to resend the verification code"
+source: "Resend code"
+platforms:
+  - android
+  - apple
+  - web
+aliases:
+  - resend_code
+localizations:
+  ar: "إعادة إرسال الرمز"
+  cs: "Odeslat kód znovu"
+  de: "Code erneut senden"
+  el: "Επανάληψη αποστολής κωδικού"
+  en: "Resend code"
+  es: "Reenviar código"
+  es-419: "Reenviar código"
+  es-MX: "Reenviar código"
+  fr: "Renvoyer le code"
+  he: "שלח קוד מחדש"
+  hi: "कोड फिर से भेजें"
+  id: "Kirim ulang kode"
+  it: "Rinvia codice"
+  ja: "コードを再送信"
+  ko: "코드 재전송"
+  nl: "Code opnieuw versturen"
+  pl: "Wyślij kod ponownie"
+  pt: "Reenviar código"
+  pt-BR: "Reenviar código"
+  pt-PT: "Reenviar código"
+  ru: "Отправить код повторно"
+  sv: "Skicka kod igen"
+  sw: "Tuma tena msimbo"
+  th: "ส่งโค้ดใหม่"
+  uk: "Надіслати код повторно"
+  vi: "Gửi lại mã"
+  zh: "重新发送代码"
+  zh-HK: "重新發送驗證碼"

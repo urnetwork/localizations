@@ -1,0 +1,7 @@
+description: "An ellipsis character used to indicate ongoing processing."
+description_auto: true
+source: "..."
+platforms:
+  - apple
+localizations:
+  en: "..."

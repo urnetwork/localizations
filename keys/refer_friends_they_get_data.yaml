@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Your friend gets +%s GiB/month for life"
+platforms:
+  - android
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "يحصل صديقك على +{amount} GiB/شهر مدى الحياة"
+  cs: "Váš přítel získá +{amount} GiB/měsíc na celý život"
+  de: "Dein Freund erhält +{amount} GiB/Monat – ein Leben lang"
+  el: "Ο φίλος σου παίρνει +{amount} GiB/μήνα για πάντα"
+  en: "Your friend gets +{amount} GiB/month for life"
+  es: "Tu amigo obtiene +{amount} GiB/mes de por vida"
+  es-419: "Tu amigo obtiene +{amount} GiB/mes de por vida"
+  es-MX: "Tu amigo obtiene +{amount} GiB/mes de por vida"
+  fr: "Votre ami reçoit +{amount} GiB/mois à vie"
+  he: "החבר שלך מקבל +{amount} GiB/חודש לכל החיים"
+  hi: "आपके दोस्त को जीवनभर +{amount} GiB/महीना मिलेगा"
+  id: "Teman Anda mendapat +{amount} GiB/bulan seumur hidup"
+  it: "Il tuo amico riceve +{amount} GiB/mese per sempre"
+  ja: "あなたの友達も一生 +{amount} GiB/月 を獲得できます"
+  ko: "친구도 평생 +{amount} GiB/월을 받습니다"
+  nl: "Je vriend krijgt +{amount} GiB/maand voor altijd"
+  pl: "Twój znajomy otrzymuje +{amount} GiB/miesiąc na całe życie"
+  pt: "O seu amigo recebe +{amount} GiB/mês para sempre"
+  pt-BR: "Seu amigo ganha +{amount} GiB/mês para sempre"
+  pt-PT: "O seu amigo recebe +{amount} GiB/mês para sempre"
+  ru: "Ваш друг получает +{amount} GiB/месяц навсегда"
+  sv: "Din vän får +{amount} GiB/månad för alltid"
+  sw: "Rafiki yako anapata +{amount} GiB/mwezi maisha yote"
+  th: "เพื่อนของคุณได้รับ +{amount} GiB/เดือนตลอดชีวิต"
+  uk: "Ваш друг отримує +{amount} ГіБ/місяць назавжди"
+  vi: "Bạn của bạn nhận được +{amount} GiB/tháng trọn đời"
+  zh: "你的朋友获得 +{amount} GiB/月，终身享有"
+  zh-HK: "你的朋友獲得 +{amount} GiB/月，永久有效"

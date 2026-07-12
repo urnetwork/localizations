@@ -1,0 +1,36 @@
+description: "Title of a card that shows the local traffic statistics."
+description_auto: true
+source: "Local statistics"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "الإحصائيات المحلية"
+  cs: "Místní statistiky"
+  de: "Lokale Statistiken"
+  el: "Τοπικά στατιστικά"
+  en: "Local statistics"
+  es: "Estadísticas locales"
+  es-419: "Estadísticas locales"
+  es-MX: "Estadísticas locales"
+  fr: "Statistiques locales"
+  he: "סטטיסטיקה מקומית"
+  hi: "स्थानीय आँकड़े"
+  id: "Statistik lokal"
+  it: "Statistiche locali"
+  ja: "ローカル統計"
+  ko: "로컬 통계"
+  nl: "Lokale statistieken"
+  pl: "Statystyki lokalne"
+  pt: "Estatísticas locais"
+  pt-BR: "Estatísticas locais"
+  pt-PT: "Estatísticas locais"
+  ru: "Локальная статистика"
+  sv: "Lokal statistik"
+  sw: "Takwimu za ndani"
+  th: "สถิติภายในเครื่อง"
+  uk: "Локальна статистика"
+  vi: "Thống kê cục bộ"
+  zh: "本地统计"
+  zh-HK: "本地統計"

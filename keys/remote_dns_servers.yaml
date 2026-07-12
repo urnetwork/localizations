@@ -1,0 +1,36 @@
+description: "A label displayed above a list of DNS servers."
+description_auto: true
+source: "Remote DNS servers"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "خوادم DNS البعيدة"
+  cs: "Vzdálené servery DNS"
+  de: "Externe DNS-Server"
+  el: "Απομακρυσμένοι διακομιστές DNS"
+  en: "Remote DNS servers"
+  es: "Servidores DNS remotos"
+  es-419: "Servidores DNS remotos"
+  es-MX: "Servidores DNS remotos"
+  fr: "Serveurs DNS distants"
+  he: "שרתי DNS מרוחקים"
+  hi: "रिमोट DNS सर्वर"
+  id: "Server DNS jarak jauh"
+  it: "Server DNS remoti"
+  ja: "リモートDNSサーバー"
+  ko: "원격 DNS 서버"
+  nl: "Externe DNS-servers"
+  pl: "Zdalne serwery DNS"
+  pt: "Servidores DNS remotos"
+  pt-BR: "Servidores DNS remotos"
+  pt-PT: "Servidores DNS remotos"
+  ru: "Удалённые DNS-серверы"
+  sv: "Fjärr-DNS-servrar"
+  sw: "Seva za DNS za mbali"
+  th: "เซิร์ฟเวอร์ DNS ระยะไกล"
+  uk: "Віддалені DNS-сервери"
+  vi: "Máy chủ DNS từ xa"
+  zh: "远程 DNS 服务器"
+  zh-HK: "遠端 DNS 伺服器"

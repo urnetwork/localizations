@@ -1,0 +1,104 @@
+description: "A message indicating that the device is connected to a certain number of providers. The argument is the number of providers."
+description_auto: true
+source: "Connected to %d providers"
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "متصل بـ {count} من مزودي الخدمة"
+    one: "متصل بمزود خدمة واحد"
+    two: "متصل بمزودَي خدمة"
+    few: "متصل بـ {count} من مزودي الخدمة"
+    many: "متصل بـ {count} من مزودي الخدمة"
+    other: "متصل بـ {count} من مزودي الخدمة"
+  cs:
+    one: "Připojení k {count} poskytovateli"
+    few: "Připojení k {count} poskytovatelům"
+    many: "Připojení k {count} poskytovatelům"
+    other: "Připojení k {count} poskytovatelům"
+  de:
+    one: "Mit {count} Anbieter verbunden"
+    other: "Mit {count} Anbietern verbunden"
+  el:
+    one: "Συνδεδεμένο με {count} πάροχο"
+    other: "Συνδεδεμένο με {count} παρόχους"
+  en:
+    one: "Connected to {count} provider"
+    other: "Connected to {count} providers"
+  es:
+    one: "Conectado a {count} proveedor"
+    other: "Conectado a {count} proveedores"
+  es-419:
+    one: "Conectado a {count} proveedor"
+    other: "Conectado a {count} proveedores"
+  es-MX:
+    one: "Conectado a {count} proveedor"
+    other: "Conectado a {count} proveedores"
+  fr:
+    one: "Connecté à {count} fournisseur"
+    other: "Connecté à {count} fournisseurs"
+  he:
+    one: "מחובר לספק אחד"
+    two: "מחובר ל-{count} ספקים"
+    many: "מחובר ל-{count} ספקים"
+    other: "מחובר ל-{count} ספקים"
+  hi:
+    one: "{count} प्रदाता से कनेक्ट किया गया"
+    other: "{count} प्रदाताओं से कनेक्ट किया गया"
+  id:
+    other: "Terhubung ke {count} penyedia"
+  it:
+    one: "Connesso a {count} provider"
+    other: "Connesso a {count} provider"
+  ja:
+    other: "{count} プロバイダーに接続済み"
+  ko:
+    other: "{count}개의 제공업체에 연결됨"
+  nl:
+    one: "Verbonden met {count} provider"
+    other: "Verbonden met {count} providers"
+  pl:
+    one: "Połączono z {count} dostawcą"
+    few: "Połączono z {count} dostawcami"
+    many: "Połączono z {count} dostawcami"
+    other: "Połączono z {count} dostawcami"
+  pt:
+    one: "Ligado a {count} fornecedor"
+    other: "Ligado a {count} fornecedores"
+  pt-BR:
+    one: "Conectado a {count} provedor"
+    other: "Conectado a {count} provedores"
+  pt-PT:
+    one: "Conectado a {count} fornecedor"
+    other: "Conectado a {count} fornecedores"
+  ru:
+    one: "Подключено к {count} провайдеру"
+    few: "Подключено к {count} провайдерам"
+    many: "Подключено к {count} провайдерам"
+    other: "Подключено к {count} провайдерам"
+  sv:
+    one: "Ansluten till {count} leverantör"
+    other: "Ansluten till {count} leverantörer"
+  sw:
+    one: "Imeunganishwa na mtoa huduma {count}"
+    other: "Imeunganishwa na watoa huduma {count}"
+  th:
+    other: "เชื่อมต่อกับผู้ให้บริการ {count} แล้ว"
+  uk:
+    one: "Підключено до {count} провайдера"
+    few: "Підключено до {count} провайдерів"
+    many: "Підключено до {count} провайдерів"
+    other: "Підключено до {count} провайдерів"
+  vi:
+    other: "Đã kết nối với {count} nhà cung cấp"
+  zh:
+    other: "已连接到 {count} 个提供商"
+  zh-HK:
+    other: "已連接到 {count} 個供應商"

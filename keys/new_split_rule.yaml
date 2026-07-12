@@ -1,0 +1,36 @@
+description: "A label displayed above the form for creating a new split rule."
+description_auto: true
+source: "New split rule"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "قاعدة تقسيم جديدة"
+  cs: "Nové pravidlo rozdělení"
+  de: "Neue Split-Regel"
+  el: "Νέος κανόνας διαχωρισμού"
+  en: "New split rule"
+  es: "Nueva regla de división"
+  es-419: "Nueva regla de división"
+  es-MX: "Nueva regla de división"
+  fr: "Nouvelle règle de séparation"
+  he: "כלל פיצול חדש"
+  hi: "नया स्प्लिट नियम"
+  id: "Aturan pemisahan baru"
+  it: "Nuova regola di suddivisione"
+  ja: "新しい分割ルール"
+  ko: "새 분할 규칙"
+  nl: "Nieuwe splitsregel"
+  pl: "Nowa reguła podziału"
+  pt: "Nova regra de divisão"
+  pt-BR: "Nova regra de divisão"
+  pt-PT: "Nova regra de divisão"
+  ru: "Новое правило разделения"
+  sv: "Ny delningsregel"
+  sw: "Sheria mpya ya mgawanyo"
+  th: "กฎแยกเส้นทางใหม่"
+  uk: "Нове правило розділення"
+  vi: "Quy tắc tách luồng mới"
+  zh: "新建分流规则"
+  zh-HK: "新增分流規則"

@@ -1,0 +1,32 @@
+description: "General UI string."
+source: "Boost Your Bandwidth - Earn More Every Day"
+deprecated:
+  - apple
+platforms:
+  - apple
+localizations:
+  ar: "عزّز عرض النطاق الترددي لديك - اربح المزيد كل يوم"
+  cs: "Zvyšte svou šířku pásma – vydělávejte více každý den"
+  de: "Steigern Sie Ihre Bandbreite – verdienen Sie jeden Tag mehr"
+  el: "Ενισχύστε το εύρος ζώνης σας - Κερδίστε περισσότερα κάθε μέρα"
+  en: "Boost Your Bandwidth - Earn More Every Day"
+  es: "Aumenta tu ancho de banda - Gana más cada día"
+  es-419: "Aumenta tu ancho de banda - Gana más cada día"
+  fr: "Boostez votre bande passante - Gagnez plus chaque jour"
+  he: "הגבר את רוחב הפס שלך - תרוויח יותר כל יום"
+  hi: "अपना बैंडविड्थ बढ़ाएं - हर दिन अधिक कमाएँ"
+  id: "Tingkatkan bandwidth Anda - Dapatkan lebih banyak setiap hari"
+  it: "Aumenta la tua larghezza di banda - Guadagna di più ogni giorno"
+  ja: "帯域幅を増やして毎日もっと稼ごう"
+  ko: "대역폭을 높이고 매일 더 많이 벌기"
+  nl: "Vergroot je bandbreedte - Verdien elke dag meer"
+  pl: "Zwiększ swoje pasmo – zarabiaj więcej każdego dnia"
+  pt-BR: "Aumente sua largura de banda - Ganhe mais todo dia"
+  pt-PT: "Aumente a sua largura de banda - Ganhe mais todos os dias"
+  ru: "Увеличьте свою пропускную способность — зарабатывайте больше каждый день"
+  sv: "Öka din bandbredd – tjäna mer varje dag"
+  th: "เพิ่มแบนด์วิดท์ของคุณ - รับรายได้มากขึ้นทุกวัน"
+  uk: "Збільшіть свою пропускну здатність — заробляйте більше щодня"
+  vi: "Tăng băng thông của bạn - Kiếm nhiều hơn mỗi ngày"
+  zh: "提升你的带宽——每天赚更多"
+  zh-HK: "提升你的頻寬 - 每天賺取更多"

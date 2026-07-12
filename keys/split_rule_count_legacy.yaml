@@ -1,0 +1,14 @@
+description: "A label displaying the number of split rules. The argument is the count of split rules."
+description_auto: true
+source: "%lld split rule%@"
+deprecated:
+  - apple
+platforms:
+  - apple
+placeholders:
+  - name: count1
+    type: int
+  - name: value2
+    type: string
+localizations:
+  en: "{count1} split rule{value2}"

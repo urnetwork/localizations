@@ -1,0 +1,10 @@
+description: "Used in Authenticate/CreateNetwork/CreateNetworkView.swift."
+source: "***%@"
+translatable: false
+platforms:
+  - apple
+placeholders:
+  - name: value
+    type: string
+localizations:
+  en: "***{value}"

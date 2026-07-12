@@ -1,0 +1,36 @@
+description: "A label displayed next to a companion contract."
+description_auto: true
+source: "Companion"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "الطرف المقابل"
+  cs: "Protějšek"
+  de: "Gegenstelle"
+  el: "Συμβαλλόμενος"
+  en: "Companion"
+  es: "Compañero"
+  es-419: "Compañero"
+  es-MX: "Compañero"
+  fr: "Partenaire"
+  he: "הצד השני"
+  hi: "साथी"
+  id: "Rekan"
+  it: "Partner"
+  ja: "相手"
+  ko: "상대방"
+  nl: "Tegenpartij"
+  pl: "Partner"
+  pt: "Parceiro"
+  pt-BR: "Parceiro"
+  pt-PT: "Parceiro"
+  ru: "Партнёр"
+  sv: "Motpart"
+  sw: "Mshirika"
+  th: "คู่สัญญา"
+  uk: "Партнер"
+  vi: "Đối tác"
+  zh: "对端"
+  zh-HK: "對端"

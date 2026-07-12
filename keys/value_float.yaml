@@ -1,0 +1,10 @@
+description: "General UI string."
+source: "%lf"
+translatable: false
+platforms:
+  - apple
+placeholders:
+  - name: value
+    type: float
+localizations:
+  en: "{value}"

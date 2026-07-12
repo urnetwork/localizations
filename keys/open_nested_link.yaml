@@ -1,0 +1,38 @@
+description: "Call to action"
+source: "Connect to %1$s and open link %2$s"
+platforms:
+  - android
+placeholders:
+  - name: location
+    type: string
+  - name: link
+    type: string
+localizations:
+  ar: "الاتصال بـ {location} وفتح الرابط {link}"
+  cs: "Připojit k {location} a otevřít odkaz {link}"
+  de: "Verbinden mit {location} und Link {link} öffnen"
+  el: "Σύνδεση με {location} και άνοιγμα συνδέσμου {link}"
+  en: "Connect to {location} and open link {link}"
+  es: "Conectar a {location} y abrir enlace {link}"
+  es-419: "Conectar a {location} y abrir enlace {link}"
+  es-MX: "Conectar a {location} y abrir enlace {link}"
+  fr: "Se connecter à {location} et ouvrir le lien {link}"
+  he: "התחבר אל {location} ופתח את הקישור {link}"
+  hi: "{location} से कनेक्ट करें और लिंक {link} खोलें"
+  id: "Hubungkan ke {location} dan buka tautan {link}"
+  it: "Connettiti a {location} e apri il link {link}"
+  ja: "{location}に接続してリンク{link}を開く"
+  ko: "{location}에 연결하고 링크 {link}을(를) 엽니다"
+  nl: "Verbind met {location} en open link {link}"
+  pl: "Połącz z {location} i otwórz link {link}"
+  pt: "Conectar a {location} e abrir link {link}"
+  pt-BR: "Conectar a {location} e abrir link {link}"
+  pt-PT: "Conectar a {location} e abrir link {link}"
+  ru: "Подключиться к {location} и открыть ссылку {link}"
+  sv: "Anslut till {location} och öppna länken {link}"
+  sw: "Unganisha kwa {location} na ufungue kiungo {link}"
+  th: "เชื่อมต่อ {location} และเปิดลิงก์ {link}"
+  uk: "Підключитися до {location} та відкрити посилання {link}"
+  vi: "Kết nối đến {location} và mở liên kết {link}"
+  zh: "连接到 {location} 并打开链接 {link}"
+  zh-HK: "連接到 {location} 並開啟連結 {link}"

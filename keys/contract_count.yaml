@@ -1,0 +1,104 @@
+description: "A label that shows the number of contracts for a given client. The argument is the number of contracts."
+description_auto: true
+source: "%lld contracts"
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} عقد"
+    one: "عقد واحد"
+    two: "عقدان"
+    few: "{count} عقود"
+    many: "{count} عقدًا"
+    other: "{count} عقد"
+  cs:
+    one: "{count} kontrakt"
+    few: "{count} kontrakty"
+    many: "{count} kontraktu"
+    other: "Kontrakty: {count}"
+  de:
+    one: "{count} Vertrag"
+    other: "{count} Verträge"
+  el:
+    one: "{count} συμβόλαιο"
+    other: "{count} συμβόλαια"
+  en:
+    one: "{count} contract"
+    other: "{count} contracts"
+  es:
+    one: "{count} contrato"
+    other: "{count} contratos"
+  es-419:
+    one: "{count} contrato"
+    other: "{count} contratos"
+  es-MX:
+    one: "{count} contrato"
+    other: "{count} contratos"
+  fr:
+    one: "{count} contrat"
+    other: "{count} contrats"
+  he:
+    one: "{count} חוזה"
+    two: "{count} חוזים"
+    many: "{count} חוזים"
+    other: "{count} חוזים"
+  hi:
+    one: "{count} कॉन्ट्रैक्ट"
+    other: "{count} कॉन्ट्रैक्ट"
+  id:
+    other: "{count} kontrak"
+  it:
+    one: "{count} contratto"
+    other: "{count} contratti"
+  ja:
+    other: "{count}件の契約"
+  ko:
+    other: "계약 {count}개"
+  nl:
+    one: "{count} contract"
+    other: "{count} contracten"
+  pl:
+    one: "{count} kontrakt"
+    few: "{count} kontrakty"
+    many: "{count} kontraktów"
+    other: "Kontrakty: {count}"
+  pt:
+    one: "{count} contrato"
+    other: "{count} contratos"
+  pt-BR:
+    one: "{count} contrato"
+    other: "{count} contratos"
+  pt-PT:
+    one: "{count} contrato"
+    other: "{count} contratos"
+  ru:
+    one: "{count} контракт"
+    few: "{count} контракта"
+    many: "{count} контрактов"
+    other: "Контрактов: {count}"
+  sv:
+    one: "{count} kontrakt"
+    other: "{count} kontrakt"
+  sw:
+    one: "{count} mkataba"
+    other: "{count} mikataba"
+  th:
+    other: "สัญญา {count} รายการ"
+  uk:
+    one: "{count} контракт"
+    few: "{count} контракти"
+    many: "{count} контрактів"
+    other: "Контрактів: {count}"
+  vi:
+    other: "{count} hợp đồng"
+  zh:
+    other: "{count} 个合约"
+  zh-HK:
+    other: "{count} 個合約"

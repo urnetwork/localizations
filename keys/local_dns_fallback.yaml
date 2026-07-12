@@ -1,0 +1,36 @@
+description: "A label displayed in the custom dns settings section."
+description_auto: true
+source: "Local DNS fallback"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "الرجوع إلى DNS المحلي"
+  cs: "Záložní místní DNS"
+  de: "Lokales DNS-Fallback"
+  el: "Εφεδρικό τοπικό DNS"
+  en: "Local DNS fallback"
+  es: "DNS local de reserva"
+  es-419: "DNS local de respaldo"
+  es-MX: "DNS local de respaldo"
+  fr: "DNS local de secours"
+  he: "גיבוי DNS מקומי"
+  hi: "स्थानीय DNS फ़ॉलबैक"
+  id: "Cadangan DNS lokal"
+  it: "Fallback DNS locale"
+  ja: "ローカルDNSフォールバック"
+  ko: "로컬 DNS 폴백"
+  nl: "Lokale DNS-fallback"
+  pl: "Awaryjny lokalny DNS"
+  pt: "Fallback de DNS local"
+  pt-BR: "Fallback de DNS local"
+  pt-PT: "Fallback de DNS local"
+  ru: "Резервный локальный DNS"
+  sv: "Lokal DNS-reserv"
+  sw: "Mbadala wa DNS ya ndani"
+  th: "DNS สำรองภายในเครื่อง"
+  uk: "Резервний локальний DNS"
+  vi: "DNS dự phòng cục bộ"
+  zh: "本地 DNS 回退"
+  zh-HK: "本地 DNS 後備"

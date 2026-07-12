@@ -1,5 +1,7 @@
-description: |
-  Used as a headline in the Initial Auth carousel.
+description: "Used as a headline in the Initial Auth carousel."
+source: "Stay completely private and anonymous"
+platforms:
+  - web
 localizations:
   ar: "ابق خاصًا ومجهول الهوية تمامًا"
   cs: "Zůstaňte zcela soukromí a anonymní"
@@ -7,19 +9,25 @@ localizations:
   el: "Μείνετε εντελώς ιδιωτικοί και ανώνυμοι"
   en: "Stay completely private and anonymous"
   es: "Mantente completamente privado y anónimo"
+  es-419: "Mantente completamente privado y anónimo"
   es-MX: "Mantente completamente privado y anónimo"
   fr: "Restez totalement privé et anonyme"
   he: "הישאר פרטי ואנונימי לחלוטין"
   hi: "पूरी तरह से निजी और गुमनाम रहें"
+  id: "Tetap sepenuhnya pribadi dan anonim"
+  it: "Rimani completamente privato e anonimo"
   ja: "完全にプライベートかつ匿名でいましょう"
   ko: "완전히 비공개 및 익명으로 유지하세요"
   nl: "Blijf volledig privé en anoniem"
   pl: "Pozostań całkowicie prywatny i anonimowy"
   pt: "Mantenha-se completamente privado e anônimo"
   pt-BR: "Mantenha-se completamente privado e anônimo"
+  pt-PT: "Mantenha-se completamente privado e anónimo"
   ru: "Оставайтесь полностью приватными и анонимными"
+  sv: "Förbli helt privat och anonym"
   sw: "Kaa faragha kabisa na bila kujulikana"
   th: "รักษาความเป็นส่วนตัวและไม่เปิดเผยตัวตนอย่างสมบูรณ์"
   uk: "Залишайтеся повністю приватними та анонімними"
   vi: "Giữ hoàn toàn riêng tư và ẩn danh"
   zh: "保持完全私密和匿名"
+  zh-HK: "保持完全私密和匿名"

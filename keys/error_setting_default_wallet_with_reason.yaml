@@ -1,0 +1,36 @@
+description: "Snackbar shown when setting the default payout wallet fails, with the underlying error message. Used in Main/Account/Wallet/WalletView.swift."
+source: "Error setting default wallet: %@"
+platforms:
+  - apple
+placeholders:
+  - name: error
+    type: string
+localizations:
+  ar: "خطأ في تعيين المحفظة الافتراضية: {error}"
+  cs: "Chyba při nastavování výchozí peněženky: {error}"
+  de: "Fehler beim Festlegen der Standard-Wallet: {error}"
+  el: "Σφάλμα κατά τον ορισμό του προεπιλεγμένου πορτοφολιού: {error}"
+  en: "Error setting default wallet: {error}"
+  es: "Error al establecer la billetera predeterminada: {error}"
+  es-419: "Error al establecer la billetera predeterminada: {error}"
+  es-MX: "Error al establecer la cartera predeterminada: {error}"
+  fr: "Erreur lors de la définition du portefeuille par défaut : {error}"
+  he: "שגיאה בהגדרת ארנק ברירת המחדל: {error}"
+  hi: "डिफ़ॉल्ट वॉलेट सेट करने में त्रुटि: {error}"
+  id: "Kesalahan saat mengatur dompet default: {error}"
+  it: "Errore durante l'impostazione del portafoglio predefinito: {error}"
+  ja: "デフォルトウォレットの設定中にエラーが発生しました：{error}"
+  ko: "기본 지갑을 설정하는 중 오류가 발생했습니다: {error}"
+  nl: "Fout bij het instellen van de standaardwallet: {error}"
+  pl: "Błąd podczas ustawiania domyślnego portfela: {error}"
+  pt: "Erro ao definir a carteira predefinida: {error}"
+  pt-BR: "Erro ao definir a carteira padrão: {error}"
+  pt-PT: "Erro ao definir a carteira predefinida: {error}"
+  ru: "Ошибка при установке кошелька по умолчанию: {error}"
+  sv: "Fel vid inställning av standardplånbok: {error}"
+  sw: "Hitilafu wakati wa kuweka pochi chaguomsingi: {error}"
+  th: "เกิดข้อผิดพลาดในการตั้งค่ากระเป๋าเงินเริ่มต้น: {error}"
+  uk: "Помилка під час встановлення гаманця за замовчуванням: {error}"
+  vi: "Lỗi khi đặt ví mặc định: {error}"
+  zh: "设置默认钱包时出错：{error}"
+  zh-HK: "設定預設錢包時發生錯誤：{error}"

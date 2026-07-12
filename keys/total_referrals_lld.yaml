@@ -1,0 +1,39 @@
+description: "Usage-bar referral row: the number of referrals the network has made. Was Shared/Views/UsageBar.swift on apple; now the windows usage bar."
+source: "Total Referrals: %lld"
+deprecated:
+  - apple
+platforms:
+  - apple
+  - windows
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "إجمالي الإحالات: {count}"
+  cs: "Celkem doporučení: {count}"
+  de: "Gesamtanzahl Empfehlungen: {count}"
+  el: "Σύνολο παραπομπών: {count}"
+  en: "Total Referrals: {count}"
+  es: "Total de referidos: {count}"
+  es-419: "Total de referidos: {count}"
+  es-MX: "Total de referidos: {count}"
+  fr: "Total des parrainages : {count}"
+  he: "סך ההפניות: {count}"
+  hi: "कुल रेफ़रल: {count}"
+  id: "Total Referensi: {count}"
+  it: "Totale inviti: {count}"
+  ja: "総紹介数: {count}"
+  ko: "총 추천: {count}"
+  nl: "Totaal aantal verwijzingen: {count}"
+  pl: "Łączna liczba poleceń: {count}"
+  pt: "Total de referências: {count}"
+  pt-BR: "Total de indicações: {count}"
+  pt-PT: "Total de referências: {count}"
+  ru: "Всего рефералов: {count}"
+  sv: "Totalt antal rekommendationer: {count}"
+  sw: "Jumla ya marejeleo: {count}"
+  th: "จำนวนการแนะนำทั้งหมด: {count}"
+  uk: "Всього рефералів: {count}"
+  vi: "Tổng số giới thiệu: {count}"
+  zh: "推荐总数：{count}"
+  zh-HK: "推薦總數：{count}"

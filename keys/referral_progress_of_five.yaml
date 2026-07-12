@@ -1,0 +1,37 @@
+description: "A label displaying the number of referrals a user has made. The argument is the number of referrals."
+description_auto: true
+source: "%lld/5"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "{count}/5"
+  cs: "{count}/5"
+  de: "{count}/5"
+  el: "{count}/5"
+  en: "{count}/5"
+  es: "{count}/5"
+  es-419: "{count}/5"
+  es-MX: "{count}/5"
+  fr: "{count}/5"
+  he: "{count}/5"
+  hi: "{count}/5"
+  id: "{count}/5"
+  it: "{count}/5"
+  ja: "{count}/5"
+  ko: "{count}/5"
+  nl: "{count}/5"
+  pl: "{count}/5"
+  pt: "{count}/5"
+  pt-BR: "{count}/5"
+  pt-PT: "{count}/5"
+  ru: "{count}/5"
+  sv: "{count}/5"
+  sw: "{count}/5"
+  th: "{count}/5"
+  uk: "{count}/5"
+  vi: "{count}/5"
+  zh: "{count}/5"
+  zh-HK: "{count}/5"

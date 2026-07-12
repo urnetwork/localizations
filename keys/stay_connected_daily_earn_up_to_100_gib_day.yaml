@@ -1,0 +1,32 @@
+description: "General UI string."
+source: "Stay connected daily = Earn up to 100 GiB/Day"
+deprecated:
+  - apple
+platforms:
+  - apple
+localizations:
+  ar: "ابق متصلاً يوميًا = اربح حتى 100 غيغابايت/يوم"
+  cs: "Zůstaňte připojeni denně = Získejte až 100 GiB/den"
+  de: "Täglich verbunden bleiben = Verdienen Sie bis zu 100 GiB/Tag"
+  el: "Μείνετε συνδεδεμένοι καθημερινά = Κερδίστε έως και 100 GiB/ημέρα"
+  en: "Stay connected daily = Earn up to 100 GiB/Day"
+  es: "Permanece conectado diariamente = Gana hasta 100 GiB/día"
+  es-419: "Permanece conectado diariamente = Gana hasta 100 GiB/día"
+  fr: "Restez connecté chaque jour = Gagnez jusqu’à 100 Go/jour"
+  he: "הישאר מחובר מדי יום = תרוויח עד 100 GiB/יום"
+  hi: "रोज़ाना जुड़े रहें = प्रति दिन 100 GiB तक कमाएँ"
+  id: "Tetap terhubung setiap hari = Dapatkan hingga 100 GiB/hari"
+  it: "Rimani connesso ogni giorno = Guadagna fino a 100 GiB/giorno"
+  ja: "毎日接続を維持 = 最大100 GiB/日を獲得"
+  ko: "매일 연결 유지 = 하루 최대 100 GiB 획득"
+  nl: "Blijf dagelijks verbonden = Verdien tot 100 GiB/dag"
+  pl: "Pozostań codziennie połączony = Zarabiaj do 100 GiB/dzień"
+  pt-BR: "Fique conectado diariamente = Ganhe até 100 GiB/dia"
+  pt-PT: "Mantenha-se ligado diariamente = Ganhe até 100 GiB/dia"
+  ru: "Оставайтесь на связи ежедневно = Зарабатывайте до 100 ГиБ/день"
+  sv: "Var ansluten dagligen = Tjäna upp till 100 GiB/dag"
+  th: "เชื่อมต่อทุกวัน = รับสูงสุด 100 GiB/วัน"
+  uk: "Залишайтеся на зв’язку щодня = Заробляйте до 100 ГіБ/день"
+  vi: "Kết nối hàng ngày = Kiếm tới 100 GiB/ngày"
+  zh: "每日保持连接 = 每天赚取高达100 GiB"
+  zh-HK: "每天保持連接 = 每日賺取高達100 GiB"

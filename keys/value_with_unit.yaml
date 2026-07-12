@@ -1,0 +1,38 @@
+description: "General UI string."
+source: "%lf %@"
+platforms:
+  - apple
+placeholders:
+  - name: value
+    type: float
+  - name: unit
+    type: string
+localizations:
+  ar: "{value} {unit}"
+  cs: "{value} {unit}"
+  de: "{value} {unit}"
+  el: "{value} {unit}"
+  en: "{value} {unit}"
+  es: "{value} {unit}"
+  es-419: "{value} {unit}"
+  es-MX: "{value} {unit}"
+  fr: "{value} {unit}"
+  he: "{value} {unit}"
+  hi: "{value} {unit}"
+  id: "{value} {unit}"
+  it: "{value} {unit}"
+  ja: "{value} {unit}"
+  ko: "{value} {unit}"
+  nl: "{value} {unit}"
+  pl: "{value} {unit}"
+  pt: "{value} {unit}"
+  pt-BR: "{value} {unit}"
+  pt-PT: "{value} {unit}"
+  ru: "{value} {unit}"
+  sv: "{value} {unit}"
+  sw: "{value} {unit}"
+  th: "{value} {unit}"
+  uk: "{value} {unit}"
+  vi: "{value} {unit}"
+  zh: "{value} {unit}"
+  zh-HK: "{value} {unit}"

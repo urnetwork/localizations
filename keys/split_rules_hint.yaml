@@ -1,0 +1,36 @@
+description: "A description of how to route traffic locally."
+description_auto: true
+source: "Tap traffic below to route it locally, bypassing the tunnel."
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "انقر على حركة المرور أدناه لتوجيهها محليًا وتجاوز النفق."
+  cs: "Klepnutím na provoz níže jej nasměrujete lokálně, mimo tunel."
+  de: "Tippe unten auf Datenverkehr, um ihn lokal zu leiten und den Tunnel zu umgehen."
+  el: "Πατήστε την κίνηση παρακάτω για να δρομολογηθεί τοπικά, παρακάμπτοντας το τούνελ."
+  en: "Tap traffic below to route it locally, bypassing the tunnel."
+  es: "Pulsa el tráfico de abajo para enrutarlo localmente, evitando el túnel."
+  es-419: "Toca el tráfico de abajo para enrutarlo localmente, evitando el túnel."
+  es-MX: "Toca el tráfico de abajo para enrutarlo localmente, evitando el túnel."
+  fr: "Appuyez sur le trafic ci-dessous pour le router localement, en contournant le tunnel."
+  he: "הקש על התעבורה שלמטה כדי לנתב אותה מקומית ולעקוף את המנהרה."
+  hi: "नीचे किसी ट्रैफ़िक पर टैप करें ताकि वह टनल को बायपास कर स्थानीय रूप से रूट हो।"
+  id: "Ketuk lalu lintas di bawah untuk merutekannya secara lokal, melewati terowongan."
+  it: "Tocca il traffico qui sotto per instradarlo localmente, bypassando il tunnel."
+  ja: "下のトラフィックをタップすると、トンネルを迂回してローカルにルーティングされます。"
+  ko: "아래 트래픽을 탭하면 터널을 우회하여 로컬로 라우팅됩니다."
+  nl: "Tik hieronder op verkeer om het lokaal te routeren, buiten de tunnel om."
+  pl: "Dotknij ruchu poniżej, aby kierować go lokalnie, z pominięciem tunelu."
+  pt: "Toque no tráfego abaixo para o encaminhar localmente, contornando o túnel."
+  pt-BR: "Toque no tráfego abaixo para roteá-lo localmente, contornando o túnel."
+  pt-PT: "Toque no tráfego abaixo para o encaminhar localmente, contornando o túnel."
+  ru: "Нажмите на трафик ниже, чтобы направить его локально, в обход туннеля."
+  sv: "Tryck på trafik nedan för att dirigera den lokalt, förbi tunneln."
+  sw: "Gusa trafiki hapa chini ili ipitishwe ndani, ikiepuka tuneli."
+  th: "แตะทราฟฟิกด้านล่างเพื่อส่งผ่านภายในเครื่องโดยไม่ผ่านอุโมงค์"
+  uk: "Торкніться трафіку нижче, щоб спрямувати його локально, в обхід тунелю."
+  vi: "Chạm vào lưu lượng bên dưới để định tuyến cục bộ, không qua đường hầm."
+  zh: "点击下方流量，将其改走本地路由，绕过隧道。"
+  zh-HK: "點擊下方流量，將其改走本地路由，繞過隧道。"

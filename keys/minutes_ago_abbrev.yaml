@@ -1,0 +1,37 @@
+description: "Compact relative-time label with an abbreviated minutes unit (\"7m ago\"), shown by the windows and linux stats formatters for events 1-59 minutes old. The argument is the elapsed minutes. Not a plural: the abbreviated unit does not inflect, but the word order and the unit abbreviation localize."
+source: "{count}m ago"
+platforms:
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "قبل {count} د"
+  cs: "před {count} min"
+  de: "vor {count} Min."
+  el: "πριν από {count} λεπ."
+  en: "{count}m ago"
+  es: "hace {count} min"
+  es-419: "hace {count} min"
+  es-MX: "hace {count} min"
+  fr: "il y a {count} min"
+  he: "לפני {count} דק׳"
+  hi: "{count} मि. पहले"
+  id: "{count} mnt lalu"
+  it: "{count} min fa"
+  ja: "{count}分前"
+  ko: "{count}분 전"
+  nl: "{count} min geleden"
+  pl: "{count} min temu"
+  pt: "há {count} min"
+  pt-BR: "há {count} min"
+  pt-PT: "há {count} min"
+  ru: "{count} мин назад"
+  sv: "för {count} min sedan"
+  sw: "dakika {count} zilizopita"
+  th: "{count} นาทีที่แล้ว"
+  uk: "{count} хв тому"
+  vi: "{count} phút trước"
+  zh: "{count}分钟前"
+  zh-HK: "{count}分鐘前"

@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Verified project on %1$s"
+platforms:
+  - android
+placeholders:
+  - name: platform
+    type: string
+localizations:
+  ar: "مشروع موثّق على {platform}"
+  cs: "Ověřený projekt na {platform}"
+  de: "Verifiziertes Projekt auf {platform}"
+  el: "Επαληθευμένο έργο στο {platform}"
+  en: "Verified project on {platform}"
+  es: "Proyecto verificado en {platform}"
+  es-419: "Proyecto verificado en {platform}"
+  es-MX: "Proyecto verificado en {platform}"
+  fr: "Projet vérifié sur {platform}"
+  he: "פרויקט מאומת ב-{platform}"
+  hi: "{platform} पर सत्यापित परियोजना"
+  id: "Proyek terverifikasi di {platform}"
+  it: "Progetto verificato su {platform}"
+  ja: "{platform}で認証されたプロジェクト"
+  ko: "{platform}에서 인증된 프로젝트"
+  nl: "Geverifieerd project op {platform}"
+  pl: "Zweryfikowany projekt na {platform}"
+  pt: "Projeto verificado no {platform}"
+  pt-BR: "Projeto verificado no {platform}"
+  pt-PT: "Projeto verificado no {platform}"
+  ru: "Проверенный проект на {platform}"
+  sv: "Verifierat projekt på {platform}"
+  sw: "Mradi uliothibitishwa kwenye {platform}"
+  th: "โปรเจกต์ที่ได้รับการยืนยันบน {platform}"
+  uk: "Перевірений проєкт на {platform}"
+  vi: "Dự án được xác minh trên {platform}"
+  zh: "在 {platform} 上已验证的项目"
+  zh-HK: "在 {platform} 上已驗證的項目"

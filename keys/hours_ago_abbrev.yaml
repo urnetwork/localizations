@@ -1,0 +1,37 @@
+description: "Compact relative-time label with an abbreviated hours unit (\"3h ago\"), shown by the windows and linux stats formatters for events an hour or more old. The argument is the elapsed hours. Not a plural: the abbreviated unit does not inflect, but the word order and the unit abbreviation localize."
+source: "{count}h ago"
+platforms:
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "قبل {count} س"
+  cs: "před {count} h"
+  de: "vor {count} Std."
+  el: "πριν από {count} ώ."
+  en: "{count}h ago"
+  es: "hace {count} h"
+  es-419: "hace {count} h"
+  es-MX: "hace {count} h"
+  fr: "il y a {count} h"
+  he: "לפני {count} שע׳"
+  hi: "{count} घं. पहले"
+  id: "{count} jam lalu"
+  it: "{count} h fa"
+  ja: "{count}時間前"
+  ko: "{count}시간 전"
+  nl: "{count} u geleden"
+  pl: "{count} godz. temu"
+  pt: "há {count} h"
+  pt-BR: "há {count} h"
+  pt-PT: "há {count} h"
+  ru: "{count} ч назад"
+  sv: "för {count} h sedan"
+  sw: "saa {count} zilizopita"
+  th: "{count} ชม.ที่แล้ว"
+  uk: "{count} год тому"
+  vi: "{count} giờ trước"
+  zh: "{count}小时前"
+  zh-HK: "{count}小時前"

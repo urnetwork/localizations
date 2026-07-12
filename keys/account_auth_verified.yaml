@@ -1,0 +1,36 @@
+description: "The account's email or phone, marked as verified. The argument is the email or phone number."
+source: "%@ (verified)"
+platforms:
+  - windows
+placeholders:
+  - name: auth
+    type: string
+localizations:
+  ar: "{auth} (تم التحقق)"
+  cs: "{auth} (ověřeno)"
+  de: "{auth} (verifiziert)"
+  el: "{auth} (επαληθευμένο)"
+  en: "{auth} (verified)"
+  es: "{auth} (verificado)"
+  es-419: "{auth} (verificado)"
+  es-MX: "{auth} (verificado)"
+  fr: "{auth} (vérifié)"
+  he: "{auth} (מאומת)"
+  hi: "{auth} (सत्यापित)"
+  id: "{auth} (terverifikasi)"
+  it: "{auth} (verificato)"
+  ja: "{auth}（確認済み）"
+  ko: "{auth}(인증됨)"
+  nl: "{auth} (geverifieerd)"
+  pl: "{auth} (zweryfikowano)"
+  pt: "{auth} (verificado)"
+  pt-BR: "{auth} (verificado)"
+  pt-PT: "{auth} (verificado)"
+  ru: "{auth} (подтверждено)"
+  sv: "{auth} (verifierad)"
+  sw: "{auth} (imethibitishwa)"
+  th: "{auth} (ยืนยันแล้ว)"
+  uk: "{auth} (підтверджено)"
+  vi: "{auth} (đã xác minh)"
+  zh: "{auth}（已验证）"
+  zh-HK: "{auth}（已驗證）"

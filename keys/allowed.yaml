@@ -1,0 +1,36 @@
+description: "Text for a chip that indicates that the action is allowed."
+description_auto: true
+source: "Allowed"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "مسموح"
+  cs: "Povoleno"
+  de: "Erlaubt"
+  el: "Επιτρεπόμενα"
+  en: "Allowed"
+  es: "Permitidas"
+  es-419: "Permitidas"
+  es-MX: "Permitidas"
+  fr: "Autorisé"
+  he: "מותר"
+  hi: "अनुमत"
+  id: "Diizinkan"
+  it: "Consentito"
+  ja: "許可"
+  ko: "허용"
+  nl: "Toegestaan"
+  pl: "Dozwolone"
+  pt: "Permitidos"
+  pt-BR: "Permitidos"
+  pt-PT: "Permitidos"
+  ru: "Разрешено"
+  sv: "Tillåtna"
+  sw: "Imeruhusiwa"
+  th: "อนุญาต"
+  uk: "Дозволено"
+  vi: "Được phép"
+  zh: "已允许"
+  zh-HK: "已允許"

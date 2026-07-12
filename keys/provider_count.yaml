@@ -1,0 +1,102 @@
+description: "A label that shows the number of providers for a location. The argument is the number of providers."
+source: "%d providers"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} مزود"
+    one: "مزود واحد"
+    two: "مزودان"
+    few: "{count} مزودين"
+    many: "{count} مزودًا"
+    other: "{count} مزود"
+  cs:
+    one: "{count} poskytovatel"
+    few: "{count} poskytovatelé"
+    many: "{count} poskytovatele"
+    other: "{count} poskytovatelů"
+  de:
+    one: "{count} Anbieter"
+    other: "{count} Anbieter"
+  el:
+    one: "{count} πάροχος"
+    other: "{count} πάροχοι"
+  en:
+    one: "{count} provider"
+    other: "{count} providers"
+  es:
+    one: "{count} proveedor"
+    other: "{count} proveedores"
+  es-419:
+    one: "{count} proveedor"
+    other: "{count} proveedores"
+  es-MX:
+    one: "{count} proveedor"
+    other: "{count} proveedores"
+  fr:
+    one: "{count} fournisseur"
+    other: "{count} fournisseurs"
+  he:
+    one: "{count} ספק"
+    two: "{count} ספקים"
+    many: "{count} ספקים"
+    other: "{count} ספקים"
+  hi:
+    one: "{count} प्रदाता"
+    other: "{count} प्रदाता"
+  id:
+    other: "{count} penyedia"
+  it:
+    one: "{count} provider"
+    other: "{count} provider"
+  ja:
+    other: "{count} プロバイダー"
+  ko:
+    other: "{count}개 제공자"
+  nl:
+    one: "{count} aanbieder"
+    other: "{count} aanbieders"
+  pl:
+    one: "{count} dostawca"
+    few: "{count} dostawców"
+    many: "{count} dostawców"
+    other: "{count} dostawców"
+  pt:
+    one: "{count} fornecedor"
+    other: "{count} fornecedores"
+  pt-BR:
+    one: "{count} provedor"
+    other: "{count} provedores"
+  pt-PT:
+    one: "{count} fornecedor"
+    other: "{count} fornecedores"
+  ru:
+    one: "{count} провайдер"
+    few: "{count} провайдера"
+    many: "{count} провайдеров"
+    other: "{count} провайдеров"
+  sv:
+    one: "{count} leverantör"
+    other: "{count} leverantörer"
+  sw:
+    one: "{count} mtoa huduma"
+    other: "{count} watoa huduma"
+  th:
+    other: "{count} ผู้ให้บริการ"
+  uk:
+    one: "{count} провайдер"
+    few: "{count} провайдери"
+    many: "{count} провайдерів"
+    other: "{count} провайдера"
+  vi:
+    other: "{count} nhà cung cấp"
+  zh:
+    other: "{count} 个提供商"
+  zh-HK:
+    other: "{count} 個供應商"

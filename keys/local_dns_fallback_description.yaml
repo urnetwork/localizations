@@ -1,0 +1,36 @@
+description: "A description of the local DNS fallback setting."
+description_auto: true
+source: "Races a local resolver while the tunnel starts. When off, DNS only resolves through the tunnel."
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "يستعلم من محلّل محلي بالتوازي أثناء بدء النفق. عند الإيقاف، يتم حل DNS عبر النفق فقط."
+  cs: "Během startu tunelu se souběžně dotazuje místního resolveru. Když je vypnuto, DNS se překládá jen přes tunel."
+  de: "Fragt beim Start des Tunnels parallel einen lokalen Resolver ab. Wenn aus, wird DNS nur über den Tunnel aufgelöst."
+  el: "Εκτελεί παράλληλα έναν τοπικό επιλυτή όσο ξεκινά το τούνελ. Όταν είναι ανενεργό, το DNS επιλύεται μόνο μέσω του τούνελ."
+  en: "Races a local resolver while the tunnel starts. When off, DNS only resolves through the tunnel."
+  es: "Consulta en paralelo un resolutor local mientras se inicia el túnel. Si está desactivado, el DNS solo se resuelve a través del túnel."
+  es-419: "Consulta en paralelo un resolutor local mientras se inicia el túnel. Si está desactivado, el DNS solo se resuelve a través del túnel."
+  es-MX: "Consulta en paralelo un resolutor local mientras se inicia el túnel. Si está desactivado, el DNS solo se resuelve a través del túnel."
+  fr: "Interroge en parallèle un résolveur local pendant le démarrage du tunnel. Désactivé, le DNS ne se résout qu'à travers le tunnel."
+  he: "מריץ פותר מקומי במקביל בזמן שהמנהרה עולה. כשהאפשרות כבויה, DNS נפתר רק דרך המנהרה."
+  hi: "टनल शुरू होते समय स्थानीय रिज़ॉल्वर को साथ-साथ आज़माता है। बंद होने पर DNS केवल टनल से ही रिज़ॉल्व होता है।"
+  id: "Menjalankan resolver lokal secara bersamaan saat terowongan dimulai. Jika nonaktif, DNS hanya diselesaikan melalui terowongan."
+  it: "Interroga in parallelo un resolver locale mentre il tunnel si avvia. Se disattivato, il DNS si risolve solo attraverso il tunnel."
+  ja: "トンネルの起動中はローカルリゾルバーにも並行して問い合わせます。オフの場合、DNSはトンネル経由でのみ解決されます。"
+  ko: "터널이 시작되는 동안 로컬 리졸버에도 동시에 질의합니다. 끄면 DNS는 터널을 통해서만 확인됩니다."
+  nl: "Bevraagt tijdens het opstarten van de tunnel tegelijk een lokale resolver. Als dit uitstaat, wordt DNS alleen via de tunnel opgelost."
+  pl: "Podczas uruchamiania tunelu równolegle odpytuje lokalny resolver. Po wyłączeniu DNS jest rozwiązywany tylko przez tunel."
+  pt: "Consulta um resolvedor local em paralelo enquanto o túnel arranca. Quando desativado, o DNS só é resolvido através do túnel."
+  pt-BR: "Consulta um resolvedor local em paralelo enquanto o túnel inicia. Quando desativado, o DNS só é resolvido através do túnel."
+  pt-PT: "Consulta um resolvedor local em paralelo enquanto o túnel arranca. Quando desativado, o DNS só é resolvido através do túnel."
+  ru: "Пока запускается туннель, параллельно опрашивает локальный резолвер и берёт первый ответ. Если выключено, DNS разрешается только через туннель."
+  sv: "Kör en lokal resolver parallellt medan tunneln startar. När det är av sker DNS-uppslag endast genom tunneln."
+  sw: "Hushindanisha kisuluhishi cha ndani wakati tuneli inaanza. Ikizimwa, DNS husuluhishwa kupitia tuneli pekee."
+  th: "ใช้รีโซลเวอร์ภายในเครื่องแข่งกันไปด้วยขณะที่อุโมงค์กำลังเริ่มทำงาน เมื่อปิดอยู่ DNS จะทำงานผ่านอุโมงค์เท่านั้น"
+  uk: "Поки запускається тунель, паралельно опитує локальний резолвер і бере першу відповідь. Якщо вимкнено, DNS розв'язується лише через тунель."
+  vi: "Chạy song song một bộ phân giải cục bộ trong khi đường hầm khởi động. Khi tắt, DNS chỉ phân giải qua đường hầm."
+  zh: "隧道启动时并行查询本地解析器，取最先返回的结果。关闭后，DNS 仅通过隧道解析。"
+  zh-HK: "隧道啟動時並行查詢本地解析器，取最先返回的結果。關閉後，DNS 只會透過隧道解析。"

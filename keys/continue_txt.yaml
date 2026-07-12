@@ -1,0 +1,37 @@
+description: "Continue button label."
+source: "Continue"
+platforms:
+  - android
+  - apple
+  - web
+aliases:
+  - continue
+localizations:
+  ar: "تابع"
+  cs: "Pokračovat"
+  de: "Weiter"
+  el: "Συνέχεια"
+  en: "Continue"
+  es: "Continúa"
+  es-419: "Continuar"
+  es-MX: "Continúa"
+  fr: "Continue"
+  he: "המשך"
+  hi: "जारी रखें"
+  id: "Lanjutkan"
+  it: "Continua"
+  ja: "続ける"
+  ko: "계속"
+  nl: "Doorgaan"
+  pl: "Kontynuuj"
+  pt: "Continua"
+  pt-BR: "Continua"
+  pt-PT: "Continuar"
+  ru: "Продолжить"
+  sv: "Fortsätt"
+  sw: "Endelea"
+  th: "ดำเนินการต่อ"
+  uk: "Продовжити"
+  vi: "Tiếp tục"
+  zh: "继续"
+  zh-HK: "繼續"

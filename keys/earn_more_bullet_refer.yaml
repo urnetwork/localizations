@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Refer a friend = +%s GiB/Month"
+platforms:
+  - android
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "إحالة صديق = +{amount} GiB/شهر"
+  cs: "Doporučte přítele = +{amount} GiB/měsíc"
+  de: "Freund empfehlen = +{amount} GiB/Monat"
+  el: "Προτείνετε έναν φίλο = +{amount} GiB/μήνα"
+  en: "Refer a friend = +{amount} GiB/Month"
+  es: "Recomienda a un amigo = +{amount} GiB/mes"
+  es-419: "Recomienda a un amigo = +{amount} GiB/mes"
+  es-MX: "Recomienda a un amigo = +{amount} GiB/mes"
+  fr: "Parrainer un ami = +{amount} GiB/mois"
+  he: "המלץ על חבר = +{amount} GiB/חודש"
+  hi: "मित्र को रेफ़र करें = +{amount} GiB/महीना"
+  id: "Referensikan teman = +{amount} GiB/bulan"
+  it: "Invita un amico = +{amount} GiB/mese"
+  ja: "友達を紹介 = +{amount} GiB/月"
+  ko: "친구 추천 = +{amount} GiB/월"
+  nl: "Vriend doorverwijzen = +{amount} GiB/maand"
+  pl: "Poleć znajomego = +{amount} GiB/miesiąc"
+  pt: "Recomende um amigo = +{amount} GiB/mês"
+  pt-BR: "Indique um amigo = +{amount} GiB/mês"
+  pt-PT: "Recomende um amigo = +{amount} GiB/mês"
+  ru: "Пригласите друга = +{amount} GiB/месяц"
+  sv: "Tipsa en vän = +{amount} GiB/månad"
+  sw: "Rejelea rafiki = +{amount} GiB/mwezi"
+  th: "แนะนำเพื่อน = +{amount} GiB/เดือน"
+  uk: "Порекомендуйте друга = +{amount} ГіБ/місяць"
+  vi: "Giới thiệu bạn bè = +{amount} GiB/tháng"
+  zh: "推荐好友 = +{amount} GiB/月"
+  zh-HK: "推薦朋友 = +{amount} GiB/月"

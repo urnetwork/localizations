@@ -1,5 +1,7 @@
-description: |
-  Placeholder text for the user authentication input field.
+description: "Placeholder text for the user authentication input field."
+source: "Enter your email or phone number"
+platforms:
+  - web
 localizations:
   ar: "أدخل بريدك الإلكتروني أو رقم هاتفك"
   cs: "Zadejte svůj e-mail nebo telefonní číslo"
@@ -7,19 +9,25 @@ localizations:
   el: "Εισαγάγετε το email ή τον αριθμό τηλεφώνου σας"
   en: "Enter your email or phone number"
   es: "Ingresa tu correo electrónico o número de teléfono"
+  es-419: "Ingresa tu correo electrónico o número de teléfono"
   es-MX: "Ingresa tu correo electrónico o número de teléfono"
   fr: "Entrez votre e-mail ou numéro de téléphone"
   he: "הזן את האימייל או מספר הטלפון שלך"
   hi: "अपना ईमेल या फ़ोन नंबर दर्ज करें"
+  id: "Masukkan email atau nomor telepon Anda"
+  it: "Inserisci la tua email o il tuo numero di telefono"
   ja: "メールアドレスまたは電話番号を入力してください"
   ko: "이메일 또는 전화번호를 입력하세요"
   nl: "Voer uw e-mail of telefoonnummer in"
   pl: "Wprowadź swój e-mail lub numer telefonu"
   pt: "Insira seu e-mail ou número de telefone"
   pt-BR: "Insira seu e-mail ou número de telefone"
+  pt-PT: "Introduza o seu e-mail ou número de telefone"
   ru: "Введите ваш электронный адрес или номер телефона"
+  sv: "Ange din e-postadress eller ditt telefonnummer"
   sw: "Weka barua pepe yako au nambari ya simu"
   th: "ป้อนอีเมลหรือหมายเลขโทรศัพท์ของคุณ"
   uk: "Введіть свою електронну пошту або номер телефону"
   vi: "Nhập email hoặc số điện thoại của bạn"
   zh: "输入您的电子邮件或电话号码"
+  zh-HK: "輸入您的電郵或電話號碼"

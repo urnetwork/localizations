@@ -1,0 +1,101 @@
+description: "transfer stats and split rules"
+source: "%1$d apps excluded"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "{count} تطبيق مستثنى"
+    one: "تطبيق واحد مستثنى"
+    two: "تطبيقان مستثنيان"
+    few: "{count} تطبيقات مستثناة"
+    many: "{count} تطبيقًا مستثنى"
+    other: "{count} تطبيق مستثنى"
+  cs:
+    one: "{count} vyloučená aplikace"
+    few: "{count} vyloučené aplikace"
+    many: "{count} vyloučené aplikace"
+    other: "Vyloučené aplikace: {count}"
+  de:
+    one: "{count} App ausgeschlossen"
+    other: "{count} Apps ausgeschlossen"
+  el:
+    one: "{count} εξαιρούμενη εφαρμογή"
+    other: "{count} εξαιρούμενες εφαρμογές"
+  en:
+    one: "{count} app excluded"
+    other: "{count} apps excluded"
+  es:
+    one: "{count} app excluida"
+    other: "{count} apps excluidas"
+  es-419:
+    one: "{count} app excluida"
+    other: "{count} apps excluidas"
+  es-MX:
+    one: "{count} app excluida"
+    other: "{count} apps excluidas"
+  fr:
+    one: "{count} application exclue"
+    other: "{count} applications exclues"
+  he:
+    one: "{count} אפליקציה מוחרגת"
+    two: "{count} אפליקציות מוחרגות"
+    many: "{count} אפליקציות מוחרגות"
+    other: "{count} אפליקציות מוחרגות"
+  hi:
+    one: "{count} ऐप बाहर रखा गया"
+    other: "{count} ऐप्स बाहर रखे गए"
+  id:
+    other: "{count} aplikasi dikecualikan"
+  it:
+    one: "{count} app esclusa"
+    other: "{count} app escluse"
+  ja:
+    other: "{count}個のアプリを除外"
+  ko:
+    other: "제외된 앱 {count}개"
+  nl:
+    one: "{count} app uitgesloten"
+    other: "{count} apps uitgesloten"
+  pl:
+    one: "{count} wykluczona aplikacja"
+    few: "{count} wykluczone aplikacje"
+    many: "{count} wykluczonych aplikacji"
+    other: "Wykluczone aplikacje: {count}"
+  pt:
+    one: "{count} aplicação excluída"
+    other: "{count} aplicações excluídas"
+  pt-BR:
+    one: "{count} app excluído"
+    other: "{count} apps excluídos"
+  pt-PT:
+    one: "{count} aplicação excluída"
+    other: "{count} aplicações excluídas"
+  ru:
+    one: "{count} приложение исключено"
+    few: "{count} приложения исключены"
+    many: "{count} приложений исключено"
+    other: "Исключено приложений: {count}"
+  sv:
+    one: "{count} app exkluderad"
+    other: "{count} appar exkluderade"
+  sw:
+    one: "{count} programu imetengwa"
+    other: "{count} programu zimetengwa"
+  th:
+    other: "ยกเว้น {count} แอป"
+  uk:
+    one: "{count} застосунок виключено"
+    few: "{count} застосунки виключено"
+    many: "{count} застосунків виключено"
+    other: "{count} застосунка виключено"
+  vi:
+    other: "{count} ứng dụng bị loại trừ"
+  zh:
+    other: "已排除 {count} 个应用"
+  zh-HK:
+    other: "已排除 {count} 個應用程式"

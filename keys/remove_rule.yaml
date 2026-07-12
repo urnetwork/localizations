@@ -1,0 +1,36 @@
+description: "A button to remove a split rule."
+description_auto: true
+source: "Remove rule"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "إزالة القاعدة"
+  cs: "Odstranit pravidlo"
+  de: "Regel entfernen"
+  el: "Αφαίρεση κανόνα"
+  en: "Remove rule"
+  es: "Eliminar regla"
+  es-419: "Eliminar regla"
+  es-MX: "Eliminar regla"
+  fr: "Supprimer la règle"
+  he: "הסר כלל"
+  hi: "नियम हटाएं"
+  id: "Hapus aturan"
+  it: "Rimuovi regola"
+  ja: "ルールを削除"
+  ko: "규칙 제거"
+  nl: "Regel verwijderen"
+  pl: "Usuń regułę"
+  pt: "Remover regra"
+  pt-BR: "Remover regra"
+  pt-PT: "Remover regra"
+  ru: "Удалить правило"
+  sv: "Ta bort regel"
+  sw: "Ondoa sheria"
+  th: "ลบกฎ"
+  uk: "Видалити правило"
+  vi: "Xóa quy tắc"
+  zh: "移除规则"
+  zh-HK: "移除規則"

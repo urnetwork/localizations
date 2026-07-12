@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "By default, you get %d GiB/month. Here's how you can earn extra bandwidth:"
+platforms:
+  - android
+placeholders:
+  - name: amount
+    type: int
+localizations:
+  ar: "بشكل افتراضي، تحصل على {amount} GiB/شهر. إليك كيفية كسب عرض نطاق إضافي:"
+  cs: "Ve výchozím nastavení získáte {amount} GiB/měsíc. Zde je návod, jak získat další šířku pásma:"
+  de: "Standardmäßig erhältst du {amount} GiB/Monat. So kannst du zusätzliche Bandbreite verdienen:"
+  el: "Από προεπιλογή, λαμβάνετε {amount} GiB/μήνα. Δείτε πώς μπορείτε να κερδίσετε επιπλέον εύρος ζώνης:"
+  en: "By default, you get {amount} GiB/month. Here's how you can earn extra bandwidth:"
+  es: "Por defecto, obtienes {amount} GiB/mes. Así puedes ganar ancho de banda extra:"
+  es-419: "Por defecto, obtienes {amount} GiB/mes. Así puedes ganar ancho de banda extra:"
+  es-MX: "Por defecto, obtienes {amount} GiB/mes. Así puedes ganar ancho de banda extra:"
+  fr: "Par défaut, vous recevez {amount} GiB/mois. Voici comment gagner de la bande passante supplémentaire :"
+  he: "כברירת מחדל תקבל {amount} GiB/חודש. כך תוכל להרוויח רוחב פס נוסף:"
+  hi: "डिफ़ॉल्ट रूप से, आपको {amount} GiB/महीना मिलता है। ऐसे आप अतिरिक्त बैंडविड्थ कमा सकते हैं:"
+  id: "Secara default Anda mendapatkan {amount} GiB/bulan. Berikut cara mendapatkan bandwidth tambahan:"
+  it: "Di default ricevi {amount} GiB/mese. Ecco come puoi guadagnare larghezza di banda extra:"
+  ja: "デフォルトでは、{amount} GiB/月が付与されます。追加の帯域幅を獲得する方法はこちらです："
+  ko: "기본적으로 매월 {amount} GiB를 받습니다. 추가 대역폭을 얻는 방법은 다음과 같습니다:"
+  nl: "Standaard krijg je {amount} GiB/maand. Zo kun je extra bandbreedte verdienen:"
+  pl: "Domyślnie otrzymujesz {amount} GiB/miesiąc. Oto jak możesz zdobyć dodatkową przepustowość:"
+  pt: "Por defeito, recebe {amount} GiB/mês. Veja como pode ganhar largura de banda extra:"
+  pt-BR: "Por padrão, você recebe {amount} GiB/mês. Veja como ganhar largura de banda extra:"
+  pt-PT: "Por defeito, recebe {amount} GiB/mês. Veja como pode ganhar largura de banda extra:"
+  ru: "По умолчанию вы получаете {amount} GiB/месяц. Вот как можно заработать дополнительную пропускную способность:"
+  sv: "Som standard får du {amount} GiB/månad. Så här kan du tjäna extra bandbredd:"
+  sw: "Kwa chaguo-msingi, unapata {amount} GiB/mwezi. Hivi ndivyo unaweza kupata upana wa ziada wa bendi:"
+  th: "โดยค่าเริ่มต้น คุณจะได้รับ {amount} GiB/เดือน นี่คือวิธีที่คุณสามารถรับแบนด์วิดท์เพิ่มเติม:"
+  uk: "За замовчуванням ви отримуєте {amount} ГіБ/місяць. Ось як можна отримати додаткову пропускну здатність:"
+  vi: "Mặc định bạn nhận được {amount} GiB/tháng. Đây là cách bạn có thể kiếm thêm băng thông:"
+  zh: "默认情况下，您每月获得 {amount} GiB。以下是赚取额外带宽的方法："
+  zh-HK: "預設每月獲得 {amount} GiB。以下是賺取額外頻寬的方法："

@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Do you want to disconnect from %1$s and switch accounts?"
+platforms:
+  - android
+placeholders:
+  - name: network_name
+    type: string
+localizations:
+  ar: "هل تريد قطع الاتصال من {network_name} والتبديل بين الحسابات؟"
+  cs: "Chcete se odpojit od {network_name} a změnit účet?"
+  de: "Möchten Sie die Verbindung zu {network_name} trennen und das Konto wechseln?"
+  el: "Θέλετε να αποσυνδεθείτε από το {network_name} και να αλλάξετε λογαριασμούς;"
+  en: "Do you want to disconnect from {network_name} and switch accounts?"
+  es: "¿Quieres desconectarte de {network_name} y cambiar de cuenta?"
+  es-419: "¿Quieres desconectarte de {network_name} y cambiar de cuenta?"
+  es-MX: "¿Quieres desconectarte de {network_name} y cambiar de cuenta?"
+  fr: "Voulez-vous vous déconnecter de {network_name} et changer de compte ?"
+  he: "האם ברצונך להתנתק מ-{network_name} ולהחליף חשבון?"
+  hi: "क्या आप {network_name} से डिस्कनेक्ट करना और खाते बदलना चाहते हैं?"
+  id: "Apakah Anda ingin memutuskan koneksi dari {network_name} dan berganti akun?"
+  it: "Vuoi disconnetterti da {network_name} e cambiare account?"
+  ja: "{network_name} から切断してアカウントを切り替えますか？"
+  ko: "{network_name}에서 연결을 끊고 계정을 전환하시겠습니까?"
+  nl: "Wil je de verbinding met {network_name} verbreken en van account wisselen?"
+  pl: "Czy chcesz rozłączyć się z {network_name} i przełączyć konta?"
+  pt: "Você quer se desconectar de {network_name} e trocar de conta?"
+  pt-BR: "Você quer se desconectar de {network_name} e trocar de conta?"
+  pt-PT: "Você quer se desconectar de {network_name} e trocar de conta?"
+  ru: "Вы хотите отключиться от {network_name} и сменить аккаунт?"
+  sv: "Vill du koppla från {network_name} och byta konto?"
+  sw: "Je, unataka kukata muunganisho kutoka {network_name} na kubadilisha akaunti?"
+  th: "คุณต้องการยกเลิกเชื่อมต่อกับ {network_name} และสลับบัญชีหรือไม่?"
+  uk: "Бажаєте відключитися від {network_name} і змінити обліковий запис?"
+  vi: "Bạn có muốn ngắt kết nối khỏi {network_name} và chuyển tài khoản?"
+  zh: "您要断开与 {network_name} 的连接并切换帐户吗？"
+  zh-HK: "您要斷開與 {network_name} 的連接並切換帳戶嗎？"

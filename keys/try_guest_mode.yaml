@@ -1,0 +1,36 @@
+description: "Login initial"
+source: "Try Guest Mode"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "جرب وضع الضيف"
+  cs: "Zkuste režim hosta"
+  de: "Gastmodus testen"
+  el: "Δοκιμάστε τη λειτουργία επισκέπτη"
+  en: "Try Guest Mode"
+  es: "Probar el modo invitado"
+  es-419: "Probar Modo Invitado"
+  es-MX: "Probar el modo invitado"
+  fr: "Essayer le mode invité"
+  he: "נסה מצב אורח"
+  hi: "गेस्ट मोड आज़माएँ"
+  id: "Coba Mode Tamu"
+  it: "Prova Modalità Ospite"
+  ja: "ゲストモードを試す"
+  ko: "게스트 모드 시도하기"
+  nl: "Probeer de gastmodus"
+  pl: "Wypróbuj tryb gościa"
+  pt: "Experimentar o Modo Convidado"
+  pt-BR: "Experimentar o Modo Convidado"
+  pt-PT: "Experimente o Modo Convidado"
+  ru: "Попробуйте гостевой режим"
+  sv: "Prova Gästläge"
+  sw: "Jaribu Hali ya Mgeni"
+  th: "ลองใช้ในโหมดผู้เยี่ยมชม"
+  uk: "Спробувати Гостьовий Режим"
+  vi: "Thử Chế Độ Khách"
+  zh: "尝试访客模式"
+  zh-HK: "試用訪客模式"

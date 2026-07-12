@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Send us your feedback directly or join our %1$s for direct support."
+platforms:
+  - android
+placeholders:
+  - name: community
+    type: string
+localizations:
+  ar: "أرسل لنا ملاحظاتك مباشرة أو انضم إلى {community} الخاص بنا للحصول على دعم مباشر."
+  cs: "Pošlete nám svůj názor přímo nebo se připojte k našemu {community} pro přímou podporu."
+  de: "Senden Sie uns Ihr Feedback direkt oder treten Sie unserem {community} bei, um direkten Support zu erhalten."
+  el: "Στείλτε μας τα σχόλιά σας απευθείας ή μπείτε στο {community} μας για άμεση υποστήριξη."
+  en: "Send us your feedback directly or join our {community} for direct support."
+  es: "Envíanos tus comentarios directamente o únete a nuestro {community} para soporte directo."
+  es-419: "Envíanos tus comentarios directamente o únete a nuestro {community} para soporte directo."
+  es-MX: "Envíanos tus comentarios directamente o únete a nuestro {community} para soporte directo."
+  fr: "Envoyez-nous directement vos retours ou rejoignez notre {community} pour un support direct."
+  he: "שלח לנו משוב ישירות או הצטרף ל-{community} שלנו לתמיכה ישירה."
+  hi: "हमें सीधे अपनी प्रतिक्रिया भेजें या सीधे समर्थन के लिए हमारे {community} से जुड़ें।"
+  id: "Kirimkan masukan Anda langsung atau bergabung dengan {community} kami untuk dukungan langsung."
+  it: "Inviaci direttamente i tuoi feedback o unisciti alla nostra {community} per un supporto diretto."
+  ja: "ご意見を直接お送りいただくか、直接サポートのために私たちの{community}にご参加ください。"
+  ko: "직접 피드백을 보내주시거나, 직접 지원을 위해 저희 {community}에 참여하세요."
+  nl: "Stuur je feedback rechtstreeks naar ons of sluit je aan bij onze {community} voor directe hulp."
+  pl: "Prześlij nam swoją opinię bezpośrednio lub dołącz do naszego {community}, aby uzyskać bezpośrednie wsparcie."
+  pt: "Envie-nos o seu feedback diretamente ou junte-se ao nosso {community} para suporte direto."
+  pt-BR: "Envie seu feedback diretamente ou entre no nosso {community} para suporte direto."
+  pt-PT: "Envie-nos o seu feedback diretamente ou junte-se ao nosso {community} para suporte direto."
+  ru: "Отправьте нам свой отзыв напрямую или присоединяйтесь к нашему {community} для прямой поддержки."
+  sv: "Skicka din feedback direkt till oss eller gå med i vår {community} för direkt support."
+  sw: "Tuma maoni yako moja kwa moja au jiunge na {community} yetu kwa msaada wa moja kwa moja."
+  th: "ส่งความเห็นของคุณตรงๆมาหาเรา หรือเข้าร่วมกลุ่ม {community} เพื่อรับการช่วยเหลือของเราโดยตรง"
+  uk: "Надішліть нам свій відгук безпосередньо або приєднайтеся до нашого {community} для прямої підтримки."
+  vi: "Gửi phản hồi của bạn trực tiếp cho chúng tôi hoặc tham gia {community} của chúng tôi để được hỗ trợ trực tiếp."
+  zh: "直接向我们反馈，或加入我们的 {community} 获取直接支持。"
+  zh-HK: "直接向我們發送反饋，或加入我們的 {community} 獲取直接支持。"

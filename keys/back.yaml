@@ -1,5 +1,7 @@
-description: |
-  	Button text for going back to the previous screen.
+description: "\tButton text for going back to the previous screen."
+source: "Back"
+platforms:
+  - web
 localizations:
   ar: "رجوع"
   cs: "Zpět"
@@ -7,19 +9,25 @@ localizations:
   el: "Πίσω"
   en: "Back"
   es: "Atrás"
+  es-419: "Atrás"
   es-MX: "Atrás"
   fr: "Retour"
   he: "חזור"
   hi: "वापस"
+  id: "Kembali"
+  it: "Indietro"
   ja: "戻る"
   ko: "뒤로"
   nl: "Terug"
   pl: "Wstecz"
   pt: "Voltar"
   pt-BR: "Voltar"
+  pt-PT: "Voltar"
   ru: "Назад"
+  sv: "Tillbaka"
   sw: "Rudi"
   th: "ย้อนกลับ"
   uk: "Назад"
   vi: "Quay lại"
   zh: "返回"
+  zh-HK: "返回"

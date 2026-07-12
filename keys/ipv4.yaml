@@ -1,0 +1,36 @@
+description: "Label for a list of IPv4 addresses."
+description_auto: true
+source: "IPv4"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "IPv4"
+  cs: "IPv4"
+  de: "IPv4"
+  el: "IPv4"
+  en: "IPv4"
+  es: "IPv4"
+  es-419: "IPv4"
+  es-MX: "IPv4"
+  fr: "IPv4"
+  he: "IPv4"
+  hi: "IPv4"
+  id: "IPv4"
+  it: "IPv4"
+  ja: "IPv4"
+  ko: "IPv4"
+  nl: "IPv4"
+  pl: "IPv4"
+  pt: "IPv4"
+  pt-BR: "IPv4"
+  pt-PT: "IPv4"
+  ru: "IPv4"
+  sv: "IPv4"
+  sw: "IPv4"
+  th: "IPv4"
+  uk: "IPv4"
+  vi: "IPv4"
+  zh: "IPv4"
+  zh-HK: "IPv4"

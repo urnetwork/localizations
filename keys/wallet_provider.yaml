@@ -1,0 +1,36 @@
+description: "General UI string."
+source: "%@ Wallet"
+platforms:
+  - apple
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "محفظة {provider}"
+  cs: "{provider} Peněženka"
+  de: "{provider} Wallet"
+  el: "Πορτοφόλι {provider}"
+  en: "{provider} Wallet"
+  es: "Billetera {provider}"
+  es-419: "Billetera {provider}"
+  es-MX: "Cartera {provider}"
+  fr: "Portefeuille {provider}"
+  he: "ארנק {provider}"
+  hi: "{provider} वॉलेट"
+  id: "Dompet {provider}"
+  it: "Portafoglio {provider}"
+  ja: "{provider}ウォレット"
+  ko: "{provider} 지갑"
+  nl: "{provider} Wallet"
+  pl: "Portfel {provider}"
+  pt: "Carteira {provider}"
+  pt-BR: "Carteira {provider}"
+  pt-PT: "Carteira {provider}"
+  ru: "Кошелек {provider}"
+  sv: "{provider}-plånbok"
+  sw: "Pochi ya {provider}"
+  th: "กระเป๋าเงิน {provider}"
+  uk: "Гаманець {provider}"
+  vi: "Ví {provider}"
+  zh: "{provider} 钱包"
+  zh-HK: "{provider} 錢包"

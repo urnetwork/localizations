@@ -1,0 +1,32 @@
+description: "General UI string."
+source: "By participating in the network and providing bandwidth you can earn rewards."
+deprecated:
+  - apple
+platforms:
+  - apple
+localizations:
+  ar: "من خلال المشاركة في الشبكة وتوفير عرض النطاق الترددي، يمكنك كسب المكافآت."
+  cs: "Účastí v síti a poskytováním šířky pásma můžete získat odměny."
+  de: "Durch die Teilnahme am Netzwerk und das Bereitstellen von Bandbreite können Sie Belohnungen verdienen."
+  el: "Συμμετέχοντας στο δίκτυο και παρέχοντας εύρος ζώνης μπορείτε να κερδίσετε ανταμοιβές."
+  en: "By participating in the network and providing bandwidth you can earn rewards."
+  es: "Al participar en la red y proporcionar ancho de banda puedes ganar recompensas."
+  es-419: "Al participar en la red y proporcionar ancho de banda puedes ganar recompensas."
+  fr: "En participant au réseau et en fournissant de la bande passante, vous pouvez gagner des récompenses."
+  he: "בהשתתפות ברשת ובמתן רוחב פס תוכל להרוויח תגמולים."
+  hi: "नेटवर्क में भाग लेकर और बैंडविड्थ प्रदान करके आप पुरस्कार कमा सकते हैं।"
+  id: "Dengan berpartisipasi di jaringan dan menyediakan bandwidth, Anda dapat memperoleh hadiah."
+  it: "Partecipando alla rete e fornendo larghezza di banda puoi guadagnare ricompense."
+  ja: "ネットワークに参加して帯域幅を提供することで報酬を獲得できます。"
+  ko: "네트워크에 참여하고 대역폭을 제공하면 보상을 받을 수 있습니다."
+  nl: "Door deel te nemen aan het netwerk en bandbreedte te leveren kun je beloningen verdienen."
+  pl: "Uczestnicząc w sieci i udostępniając przepustowość, możesz zdobywać nagrody."
+  pt-BR: "Ao participar da rede e fornecer largura de banda, você pode ganhar recompensas."
+  pt-PT: "Ao participar na rede e fornecer largura de banda, pode ganhar recompensas."
+  ru: "Участвуя в сети и предоставляя пропускную способность, вы можете получать награды."
+  sv: "Genom att delta i nätverket och tillhandahålla bandbredd kan du tjäna belöningar."
+  th: "โดยเข้าร่วมเครือข่ายและให้แบนด์วิดท์ คุณสามารถรับรางวัลได้"
+  uk: "Беріть участь у мережі та надавайте пропускну здатність, щоб отримувати винагороди."
+  vi: "Tham gia mạng lưới và cung cấp băng thông, bạn có thể nhận phần thưởng."
+  zh: "参与网络并提供带宽即可获得奖励。"
+  zh-HK: "參與網絡並提供頻寬即可獲得獎勵。"

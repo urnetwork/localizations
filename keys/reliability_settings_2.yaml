@@ -1,0 +1,32 @@
+description: "General UI string."
+source: "Reliability Settings"
+deprecated:
+  - apple
+platforms:
+  - apple
+localizations:
+  ar: "إعدادات الموثوقية"
+  cs: "Nastavení spolehlivosti"
+  de: "Zuverlässigkeitseinstellungen"
+  el: "Ρυθμίσεις αξιοπιστίας"
+  en: "Reliability Settings"
+  es: "Configuración de fiabilidad"
+  es-419: "Configuración de fiabilidad"
+  fr: "Paramètres de fiabilité"
+  he: "הגדרות אמינות"
+  hi: "विश्वसनीयता सेटिंग्स"
+  id: "Pengaturan Keandalan"
+  it: "Impostazioni di affidabilità"
+  ja: "信頼性設定"
+  ko: "신뢰도 설정"
+  nl: "Betrouwbaarheidsinstellingen"
+  pl: "Ustawienia niezawodności"
+  pt-BR: "Configurações de confiabilidade"
+  pt-PT: "Definições de fiabilidade"
+  ru: "Настройки надежности"
+  sv: "Inställningar för tillförlitlighet"
+  th: "การตั้งค่าความน่าเชื่อถือ"
+  uk: "Налаштування надійності"
+  vi: "Cài đặt độ tin cậy"
+  zh: "可靠性设置"
+  zh-HK: "可靠性設定"

@@ -1,0 +1,41 @@
+description: "A label displaying the number of allowed and blocked actions."
+description_auto: true
+source: "%lld allowed · %lld blocked"
+platforms:
+  - android
+  - apple
+  - linux
+placeholders:
+  - name: allowed
+    type: int
+  - name: blocked
+    type: int
+localizations:
+  ar: "{allowed} مسموح · {blocked} محظور"
+  cs: "Povoleno: {allowed} · Blokováno: {blocked}"
+  de: "{allowed} erlaubt · {blocked} blockiert"
+  el: "{allowed} επιτρεπόμενα · {blocked} αποκλεισμένα"
+  en: "{allowed} allowed · {blocked} blocked"
+  es: "{allowed} permitidas · {blocked} bloqueadas"
+  es-419: "{allowed} permitidas · {blocked} bloqueadas"
+  es-MX: "{allowed} permitidas · {blocked} bloqueadas"
+  fr: "{allowed} autorisés · {blocked} bloqués"
+  he: "{allowed} מותרים · {blocked} חסומים"
+  hi: "{allowed} अनुमत · {blocked} अवरुद्ध"
+  id: "{allowed} diizinkan · {blocked} diblokir"
+  it: "{allowed} consentiti · {blocked} bloccati"
+  ja: "許可 {allowed} · ブロック {blocked}"
+  ko: "허용 {allowed} · 차단 {blocked}"
+  nl: "{allowed} toegestaan · {blocked} geblokkeerd"
+  pl: "Dozwolone: {allowed} · Zablokowane: {blocked}"
+  pt: "{allowed} permitidos · {blocked} bloqueados"
+  pt-BR: "{allowed} permitidos · {blocked} bloqueados"
+  pt-PT: "{allowed} permitidos · {blocked} bloqueados"
+  ru: "{allowed} разрешено · {blocked} заблокировано"
+  sv: "{allowed} tillåtna · {blocked} blockerade"
+  sw: "{allowed} zimeruhusiwa · {blocked} zimezuiwa"
+  th: "อนุญาต {allowed} · บล็อก {blocked}"
+  uk: "{allowed} дозволено · {blocked} заблоковано"
+  vi: "{allowed} được phép · {blocked} bị chặn"
+  zh: "{allowed} 已允许 · {blocked} 已拦截"
+  zh-HK: "{allowed} 已允許 · {blocked} 已攔截"

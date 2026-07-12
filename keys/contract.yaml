@@ -1,0 +1,36 @@
+description: "A label displayed in the center of a contract circle."
+description_auto: true
+source: "Contract"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "عقد"
+  cs: "Kontrakt"
+  de: "Vertrag"
+  el: "Συμβόλαιο"
+  en: "Contract"
+  es: "Contrato"
+  es-419: "Contrato"
+  es-MX: "Contrato"
+  fr: "Contrat"
+  he: "חוזה"
+  hi: "कॉन्ट्रैक्ट"
+  id: "Kontrak"
+  it: "Contratto"
+  ja: "契約"
+  ko: "계약"
+  nl: "Contract"
+  pl: "Kontrakt"
+  pt: "Contrato"
+  pt-BR: "Contrato"
+  pt-PT: "Contrato"
+  ru: "Контракт"
+  sv: "Kontrakt"
+  sw: "Mkataba"
+  th: "สัญญา"
+  uk: "Контракт"
+  vi: "Hợp đồng"
+  zh: "合约"
+  zh-HK: "合約"

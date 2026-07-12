@@ -1,0 +1,9 @@
+description: "General UI string."
+source: "#%@"
+platforms:
+  - apple
+placeholders:
+  - name: value
+    type: string
+localizations:
+  en: "#{value}"

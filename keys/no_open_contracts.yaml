@@ -1,0 +1,36 @@
+description: "A label displayed when there are no open contracts."
+description_auto: true
+source: "No open contracts"
+platforms:
+  - android
+  - apple
+  - linux
+localizations:
+  ar: "لا توجد عقود مفتوحة"
+  cs: "Žádné otevřené kontrakty"
+  de: "Keine offenen Verträge"
+  el: "Δεν υπάρχουν ανοιχτά συμβόλαια"
+  en: "No open contracts"
+  es: "No hay contratos abiertos"
+  es-419: "No hay contratos abiertos"
+  es-MX: "No hay contratos abiertos"
+  fr: "Aucun contrat ouvert"
+  he: "אין חוזים פתוחים"
+  hi: "कोई खुला कॉन्ट्रैक्ट नहीं"
+  id: "Tidak ada kontrak terbuka"
+  it: "Nessun contratto aperto"
+  ja: "有効な契約はありません"
+  ko: "진행 중인 계약 없음"
+  nl: "Geen open contracten"
+  pl: "Brak otwartych kontraktów"
+  pt: "Nenhum contrato aberto"
+  pt-BR: "Nenhum contrato aberto"
+  pt-PT: "Nenhum contrato aberto"
+  ru: "Нет открытых контрактов"
+  sv: "Inga öppna kontrakt"
+  sw: "Hakuna mikataba wazi"
+  th: "ไม่มีสัญญาที่เปิดอยู่"
+  uk: "Немає відкритих контрактів"
+  vi: "Không có hợp đồng đang mở"
+  zh: "没有进行中的合约"
+  zh-HK: "沒有進行中的合約"

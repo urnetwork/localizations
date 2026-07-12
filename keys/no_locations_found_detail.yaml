@@ -1,0 +1,36 @@
+description: "Call to action"
+source: "Sorry, we couldn't find any locations related to %1$s."
+platforms:
+  - android
+placeholders:
+  - name: query
+    type: string
+localizations:
+  ar: "عذرًا، تعذر علينا العثور على أي مواقع ذات صلة بـ {query}."
+  cs: "Je nám líto, ale nenašli jsme žádná místa související s {query}."
+  de: "Leider konnten wir keine Standorte finden, die mit {query} in Verbindung stehen."
+  el: "Λυπούμαστε, δεν μπορέσαμε να βρούμε τοποθεσίες που σχετίζονται με {query}."
+  en: "Sorry, we couldn't find any locations related to {query}."
+  es: "Lo sentimos, no pudimos encontrar ninguna ubicación relacionada con {query}."
+  es-419: "Lo sentimos, no pudimos encontrar ninguna ubicación relacionada con {query}."
+  es-MX: "Lo sentimos, no pudimos encontrar ninguna ubicación relacionada con {query}."
+  fr: "Désolé, nous n'avons trouvé aucun emplacement lié à {query}."
+  he: "מצטערים, לא הצלחנו למצוא מיקומים הקשורים ל-{query}."
+  hi: "क्षमा करें, हमें {query} से संबंधित कोई स्थान नहीं मिला."
+  id: "Maaf, kami tidak dapat menemukan lokasi yang terkait dengan {query}."
+  it: "Spiacenti, non abbiamo trovato posizioni relative a {query}."
+  ja: "申し訳ありませんが、{query}に関連する場所が見つかりませんでした。"
+  ko: "죄송합니다. {query} 관련 위치를 찾을 수 없습니다."
+  nl: "Helaas, we hebben geen locaties gevonden gerelateerd aan {query}."
+  pl: "Przepraszamy, nie mogliśmy znaleźć żadnych lokalizacji powiązanych z {query}."
+  pt: "Desculpe, não conseguimos encontrar nenhum local relacionado a {query}."
+  pt-BR: "Desculpe, não conseguimos encontrar nenhum local relacionado a {query}."
+  pt-PT: "Desculpe, não conseguimos encontrar nenhum local relacionado a {query}."
+  ru: "К сожалению, нам не удалось найти локации, связанные с {query}."
+  sv: "Tyvärr kunde vi inte hitta några platser relaterade till {query}."
+  sw: "Samahani, hatukuweza kupata maeneo yoyote yanayohusiana na {query}."
+  th: "ขออภัยด้วย เราไม่พบที่อยู่ใดๆที่เกี่ยวข้องกับ {query} เลย"
+  uk: "На жаль, ми не змогли знайти локації, пов'язані з {query}."
+  vi: "Rất tiếc, chúng tôi không tìm thấy vị trí nào liên quan đến {query}."
+  zh: "抱歉，我们找不到与 {query} 相关的任何位置。"
+  zh-HK: "抱歉，我們找不到與 {query} 相關的任何位置。"

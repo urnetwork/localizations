@@ -1,0 +1,37 @@
+description: "Placeholder text for the authentication code input field"
+source: "Enter your one-time auth code"
+platforms:
+  - android
+  - apple
+  - web
+aliases:
+  - auth_code_input_placeholder
+localizations:
+  ar: "أدخل رمز المصادقة لمرة واحدة"
+  cs: "Zadejte svůj jednorázový ověřovací kód"
+  de: "Geben Sie Ihren einmaligen Authentifizierungscode ein"
+  el: "Εισαγάγετε τον μοναδικό κωδικό ταυτοποίησης"
+  en: "Enter your one-time auth code"
+  es: "Ingresa tu código de autenticación de un solo uso"
+  es-419: "Ingresa tu código de autenticación de una sola vez"
+  es-MX: "Ingresa tu código de autenticación de un solo uso"
+  fr: "Entrez votre code d’authentification à usage unique"
+  he: "הזן את קוד האימות החד-פעמי שלך"
+  hi: "अपना एक बार का ऑथ कोड दर्ज करें"
+  id: "Masukkan kode autentikasi satu kali Anda"
+  it: "Inserisci il tuo codice di autenticazione monouso"
+  ja: "ワンタイム認証コードを入力してください"
+  ko: "일회용 인증 코드를 입력하세요"
+  nl: "Voer uw eenmalige authenticatiecode in"
+  pl: "Wpisz swój jednorazowy kod uwierzytelniający"
+  pt: "Insira o seu código de autenticação único"
+  pt-BR: "Insira seu código de autenticação único"
+  pt-PT: "Introduza o seu código de autenticação único"
+  ru: "Введите ваш одноразовый код аутентификации"
+  sv: "Ange din engångsautentiseringskod"
+  sw: "Weka nambari yako ya uthibitishaji ya mara moja"
+  th: "ป้อนรหัสยืนยันตัวตนแบบใช้ครั้งเดียวของคุณ"
+  uk: "Введіть ваш одноразовий код авторизації"
+  vi: "Nhập mã xác thực một lần của bạn"
+  zh: "输入您的一次性验证码"
+  zh-HK: "輸入你的一次性認證碼"
