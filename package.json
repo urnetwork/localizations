@@ -1,41 +1,41 @@
 {
-	"name": "@urnetwork/localizations",
-	"version": "0.0.7",
-	"description": "URnetwork interface localizations",
-	"homepage": "https://github.com/urnetwork/localizations#readme",
-	"bugs": {
-		"url": "https://github.com/urnetwork/localizations/issues"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/urnetwork/localizations.git"
-	},
-	"files": [
-		"keys/",
-		"index.js"
-	],
-	"license": "ISC",
-	"author": "",
-	"type": "module",
-	"main": "index.js",
-	"scripts": {
-		"gen": "node gen/generate.mjs",
-		"gen:android": "node gen/generate.mjs android",
-		"gen:apple": "node gen/generate.mjs apple",
-		"gen:windows": "node gen/generate.mjs windows",
-		"gen:linux": "node gen/generate.mjs linux",
-		"check": "node gen/generate.mjs --check",
-		"verify-lossless": "node gen/verify-lossless.mjs",
-		"test": "node gen/generate.mjs --check",
-		"prepublishOnly": "npm pack --dry-run",
-		"release:patch": "npm version patch && git push && git push --tags && npm publish --access public",
-		"release:minor": "npm version minor && git push && git push --tags && npm publish --access public",
-		"release:major": "npm version major && git push && git push --tags && npm publish --access public"
-	},
-	"dependencies": {
-		"js-yaml": "^4.1.1"
-	}
+  "name": "@urnetwork/localizations",
+  "version": "2026.7.16-993865310",
+  "description": "URnetwork interface localizations",
+  "homepage": "https://github.com/urnetwork/localizations#readme",
+  "bugs": {
+    "url": "https://github.com/urnetwork/localizations/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urnetwork/localizations.git"
+  },
+  "files": [
+    "keys/",
+    "index.js"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "gen": "node gen/generate.mjs",
+    "gen:android": "node gen/generate.mjs android",
+    "gen:apple": "node gen/generate.mjs apple",
+    "gen:windows": "node gen/generate.mjs windows",
+    "gen:linux": "node gen/generate.mjs linux",
+    "check": "node gen/generate.mjs --check",
+    "verify-lossless": "node gen/verify-lossless.mjs",
+    "test": "node gen/generate.mjs --check",
+    "prepublishOnly": "npm pack --dry-run",
+    "release:patch": "npm version patch && git push && git push --tags && npm publish --access public",
+    "release:minor": "npm version minor && git push && git push --tags && npm publish --access public",
+    "release:major": "npm version major && git push && git push --tags && npm publish --access public"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.1"
+  }
 }
