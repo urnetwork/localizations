@@ -1,0 +1,11 @@
+description: "App blocked locations: empty state"
+source: "No blocked locations yet"
+platforms:
+  - site
+localizations:
+  ar: "لا توجد مواقع محظورة بعد"
+  de: "Noch keine blockierten Standorte"
+  en: "No blocked locations yet"
+  es: "Aún no hay ubicaciones bloqueadas"
+  ru: "Пока нет заблокированных локаций"
+  zh: "暂无已拦截的位置"

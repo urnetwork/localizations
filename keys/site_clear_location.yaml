@@ -1,0 +1,11 @@
+description: "Account panel: clear the chosen location"
+source: "Clear location"
+platforms:
+  - site
+localizations:
+  ar: "مسح الموقع"
+  de: "Standort löschen"
+  en: "Clear location"
+  es: "Borrar ubicación"
+  ru: "Сбросить локацию"
+  zh: "清除位置"

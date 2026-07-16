@@ -1,0 +1,11 @@
+description: "App payout detail: canceled time"
+source: "Canceled"
+platforms:
+  - site
+localizations:
+  ar: "تاريخ الإلغاء"
+  de: "Storniert"
+  en: "Canceled"
+  es: "Cancelado"
+  ru: "Отменено"
+  zh: "取消时间"

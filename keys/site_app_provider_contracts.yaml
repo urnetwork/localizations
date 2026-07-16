@@ -1,0 +1,11 @@
+description: "App provider: contracts section"
+source: "Provider contracts"
+platforms:
+  - site
+localizations:
+  ar: "عقود المزوّد"
+  de: "Provider-Verträge"
+  en: "Provider contracts"
+  es: "Contratos del proveedor"
+  ru: "Контракты раздачи"
+  zh: "提供者合约"

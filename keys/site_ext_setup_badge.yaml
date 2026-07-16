@@ -1,0 +1,11 @@
+description: "Extension status: compact 'set up extension' badge next to the account pill"
+source: "Set up extension"
+platforms:
+  - site
+localizations:
+  ar: "إعداد الإضافة"
+  de: "Erweiterung einrichten"
+  en: "Set up extension"
+  es: "Configurar extensión"
+  ru: "Настроить расширение"
+  zh: "设置扩展"

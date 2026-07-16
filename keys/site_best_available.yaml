@@ -1,0 +1,11 @@
+description: "Account panel: any-provider location option"
+source: "Best available"
+platforms:
+  - site
+localizations:
+  ar: "الأفضل المتاح"
+  de: "Bestmöglich"
+  en: "Best available"
+  es: "Mejor disponible"
+  ru: "Лучший доступный"
+  zh: "最佳可用"

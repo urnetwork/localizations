@@ -1,0 +1,11 @@
+description: "Account panel: concurrent-client-limit upgrade prompt"
+source: "Your plan is at its concurrent client limit — Pro raises it to 1,000."
+platforms:
+  - site
+localizations:
+  ar: "بلغت خطتك الحد الأقصى للعملاء المتزامنين — يرفعه Pro إلى 1,000."
+  de: "Ihr Tarif hat sein Limit für gleichzeitige Clients erreicht — Pro erhöht es auf 1.000."
+  en: "Your plan is at its concurrent client limit — Pro raises it to 1,000."
+  es: "Tu plan alcanzó su límite de clientes simultáneos; Pro lo amplía a 1000."
+  ru: "Достигнут лимит одновременных клиентов вашего тарифа — Pro повышает его до 1000."
+  zh: "您的套餐已达并发客户端上限——Pro可将上限提升至1,000。"

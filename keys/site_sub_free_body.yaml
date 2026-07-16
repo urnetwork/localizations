@@ -1,0 +1,6 @@
+description: "Subscription: free plan body"
+source: "You're on the Free plan. Upgrade to Pro for more data and features."
+platforms:
+  - site
+localizations:
+  en: "You're on the Free plan. Upgrade to Pro for more data and features."

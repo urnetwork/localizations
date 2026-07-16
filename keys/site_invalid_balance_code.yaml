@@ -1,0 +1,11 @@
+description: "Account panel: invalid balance code"
+source: "Invalid balance code."
+platforms:
+  - site
+localizations:
+  ar: "رمز رصيد غير صالح."
+  de: "Ungültiger Guthabencode."
+  en: "Invalid balance code."
+  es: "Código de saldo no válido."
+  ru: "Неверный код баланса."
+  zh: "余额码无效。"

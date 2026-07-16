@@ -1,0 +1,11 @@
+description: "App settings: kill switch note"
+source: "Block browser traffic when URnetwork is disconnected"
+platforms:
+  - site
+localizations:
+  ar: "حظر حركة بيانات المتصفح عند قطع اتصال URnetwork"
+  de: "Browser-Datenverkehr blockieren, wenn URnetwork getrennt ist"
+  en: "Block browser traffic when URnetwork is disconnected"
+  es: "Bloquear el tráfico del navegador cuando URnetwork está desconectado"
+  ru: "Блокировать трафик браузера, когда URnetwork отключён"
+  zh: "URnetwork断开连接时阻止浏览器流量"

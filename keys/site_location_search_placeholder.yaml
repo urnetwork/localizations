@@ -1,0 +1,11 @@
+description: "Account panel: location chooser search field"
+source: "Search for any location"
+platforms:
+  - site
+localizations:
+  ar: "ابحث عن أي موقع"
+  de: "Nach einem Standort suchen"
+  en: "Search for any location"
+  es: "Busca cualquier ubicación"
+  ru: "Поиск любой локации"
+  zh: "搜索任意位置"

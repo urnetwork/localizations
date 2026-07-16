@@ -1,0 +1,6 @@
+description: "App account: proxies row/screen title"
+source: "Proxies"
+platforms:
+  - site
+localizations:
+  en: "Proxies"

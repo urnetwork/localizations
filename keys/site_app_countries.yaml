@@ -1,0 +1,11 @@
+description: "App connect location picker: countries section"
+source: "Countries"
+platforms:
+  - site
+localizations:
+  ar: "الدول"
+  de: "Länder"
+  en: "Countries"
+  es: "Países"
+  ru: "Страны"
+  zh: "国家/地区"

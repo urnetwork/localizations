@@ -1,0 +1,11 @@
+description: "Account panel: proxy-type picker aria-label"
+source: "Proxy type"
+platforms:
+  - site
+localizations:
+  ar: "نوع الوكيل"
+  de: "Proxy-Typ"
+  en: "Proxy type"
+  es: "Tipo de proxy"
+  ru: "Тип прокси"
+  zh: "代理类型"

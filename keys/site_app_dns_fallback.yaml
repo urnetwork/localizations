@@ -1,0 +1,11 @@
+description: "App connect DNS: fallback toggle"
+source: "Fast fallback during startup"
+platforms:
+  - site
+localizations:
+  ar: "احتياطي سريع أثناء بدء التشغيل"
+  de: "Schneller Fallback beim Start"
+  en: "Fast fallback during startup"
+  es: "Respaldo rápido durante el inicio"
+  ru: "Быстрый резерв при запуске"
+  zh: "启动期间的快速回退"

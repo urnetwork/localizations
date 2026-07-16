@@ -1,0 +1,11 @@
+description: "App profile: email label"
+source: "Email"
+platforms:
+  - site
+localizations:
+  ar: "البريد الإلكتروني"
+  de: "E-Mail"
+  en: "Email"
+  es: "Correo electrónico"
+  ru: "Email"
+  zh: "电子邮箱"

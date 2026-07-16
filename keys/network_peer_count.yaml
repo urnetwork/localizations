@@ -1,0 +1,15 @@
+description: "A label showing the number of connected network peers that have provide enabled. Shown under the location in the connect drawer and as the pinned section title in the location chooser. The argument is the number of peers."
+source: "You have %d other devices online"
+platforms:
+  - android
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "You have {count} other device online"
+    other: "You have {count} other devices online"

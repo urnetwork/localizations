@@ -1,0 +1,11 @@
+description: "App connect: allowed count label"
+source: "allowed"
+platforms:
+  - site
+localizations:
+  ar: "مسموح"
+  de: "erlaubt"
+  en: "allowed"
+  es: "permitidos"
+  ru: "разрешено"
+  zh: "已允许"

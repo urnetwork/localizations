@@ -1,0 +1,11 @@
+description: "App provider: no reliability data"
+source: "No reliability data yet."
+platforms:
+  - site
+localizations:
+  ar: "لا توجد بيانات موثوقية بعد."
+  de: "Noch keine Zuverlässigkeitsdaten."
+  en: "No reliability data yet."
+  es: "Aún no hay datos de fiabilidad."
+  ru: "Пока нет данных о надёжности."
+  zh: "暂无可靠性数据。"

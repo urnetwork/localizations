@@ -1,0 +1,11 @@
+description: "App settings: auth code expiry note"
+source: "Created auth codes expire after 5 minutes"
+platforms:
+  - site
+localizations:
+  ar: "تنتهي صلاحية رموز المصادقة المُنشأة بعد 5 دقائق"
+  de: "Erstellte Auth-Codes verfallen nach 5 Minuten"
+  en: "Created auth codes expire after 5 minutes"
+  es: "Los códigos de autenticación creados caducan después de 5 minutos"
+  ru: "Созданные коды авторизации истекают через 5 минут"
+  zh: "创建的授权码将在5分钟后过期"

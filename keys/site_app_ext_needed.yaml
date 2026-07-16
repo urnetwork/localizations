@@ -1,0 +1,11 @@
+description: "App settings: extension unavailable note"
+source: "The URnetwork browser extension is not available in this browser"
+platforms:
+  - site
+localizations:
+  ar: "إضافة متصفح URnetwork غير متوفرة في هذا المتصفح"
+  de: "Die URnetwork-Browser-Erweiterung ist in diesem Browser nicht verfügbar"
+  en: "The URnetwork browser extension is not available in this browser"
+  es: "La extensión de navegador de URnetwork no está disponible en este navegador"
+  ru: "Расширение URnetwork недоступно в этом браузере"
+  zh: "此浏览器不支持URnetwork浏览器扩展"

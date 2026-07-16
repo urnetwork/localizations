@@ -1,0 +1,6 @@
+description: "App sidebar: manage subscription button (opens the Stripe billing portal)"
+source: "Manage Subscription"
+platforms:
+  - site
+localizations:
+  en: "Manage Subscription"

@@ -1,0 +1,11 @@
+description: "Account panel: launch the client-manager app"
+source: "Open client manager"
+platforms:
+  - site
+localizations:
+  ar: "فتح مدير العملاء"
+  de: "Client-Manager öffnen"
+  en: "Open client manager"
+  es: "Abrir gestor de clientes"
+  ru: "Открыть менеджер клиентов"
+  zh: "打开客户端管理器"

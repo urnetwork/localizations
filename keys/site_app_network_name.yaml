@@ -1,0 +1,11 @@
+description: "App profile: network name label"
+source: "Network name"
+platforms:
+  - site
+localizations:
+  ar: "اسم الشبكة"
+  de: "Netzwerkname"
+  en: "Network name"
+  es: "Nombre de la red"
+  ru: "Имя сети"
+  zh: "网络名称"

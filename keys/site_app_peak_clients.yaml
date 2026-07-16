@@ -1,0 +1,11 @@
+description: "App provider: peak clients metric"
+source: "Peak clients"
+platforms:
+  - site
+localizations:
+  ar: "ذروة العملاء"
+  de: "Max. Clients"
+  en: "Peak clients"
+  es: "Pico de clientes"
+  ru: "Пик клиентов"
+  zh: "峰值客户端数"

@@ -1,0 +1,11 @@
+description: "App connect: blocked count label"
+source: "blocked"
+platforms:
+  - site
+localizations:
+  ar: "محظور"
+  de: "blockiert"
+  en: "blocked"
+  es: "bloqueados"
+  ru: "заблокировано"
+  zh: "已拦截"

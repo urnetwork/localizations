@@ -1,0 +1,6 @@
+description: "Connect: extension install alert title"
+source: "Install the extension to connect"
+platforms:
+  - site
+localizations:
+  en: "Install the extension to connect"

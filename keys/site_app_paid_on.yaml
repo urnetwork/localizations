@@ -1,0 +1,11 @@
+description: "App payout detail: paid time"
+source: "Paid"
+platforms:
+  - site
+localizations:
+  ar: "تاريخ الدفع"
+  de: "Bezahlt"
+  en: "Paid"
+  es: "Pagado"
+  ru: "Оплачено"
+  zh: "付款时间"

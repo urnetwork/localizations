@@ -1,0 +1,6 @@
+description: "Connect drawer: connection mode Streaming"
+source: "Streaming"
+platforms:
+  - site
+localizations:
+  en: "Streaming"

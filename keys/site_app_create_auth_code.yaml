@@ -1,0 +1,11 @@
+description: "App settings: create auth code button"
+source: "Create auth code"
+platforms:
+  - site
+localizations:
+  ar: "إنشاء رمز مصادقة"
+  de: "Auth-Code erstellen"
+  en: "Create auth code"
+  es: "Crear código de autenticación"
+  ru: "Создать код авторизации"
+  zh: "创建授权码"

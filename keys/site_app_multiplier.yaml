@@ -1,0 +1,6 @@
+description: "Reliability: multiplier column"
+source: "Multiplier"
+platforms:
+  - site
+localizations:
+  en: "Multiplier"

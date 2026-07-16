@@ -1,0 +1,11 @@
+description: "App connect screen: disconnecting state"
+source: "Disconnecting…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ قطع الاتصال…"
+  de: "Verbindung wird getrennt…"
+  en: "Disconnecting…"
+  es: "Desconectando…"
+  ru: "Отключение…"
+  zh: "正在断开…"

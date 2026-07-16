@@ -1,0 +1,11 @@
+description: "App provider: throughput section"
+source: "Provider statistics"
+platforms:
+  - site
+localizations:
+  ar: "إحصائيات المزوّد"
+  de: "Provider-Statistik"
+  en: "Provider statistics"
+  es: "Estadísticas del proveedor"
+  ru: "Статистика раздачи"
+  zh: "提供者统计"

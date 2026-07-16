@@ -1,0 +1,11 @@
+description: "Account panel: loading balance codes"
+source: "Loading balance codes…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ تحميل رموز الرصيد…"
+  de: "Guthabencodes werden geladen…"
+  en: "Loading balance codes…"
+  es: "Cargando códigos de saldo…"
+  ru: "Загрузка кодов баланса…"
+  zh: "正在加载余额码…"

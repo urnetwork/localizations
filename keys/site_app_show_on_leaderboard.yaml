@@ -1,0 +1,11 @@
+description: "App leaderboard: public visibility toggle"
+source: "Show my network on the leaderboard"
+platforms:
+  - site
+localizations:
+  ar: "إظهار شبكتي في لوحة المتصدرين"
+  de: "Mein Netzwerk in der Bestenliste anzeigen"
+  en: "Show my network on the leaderboard"
+  es: "Mostrar mi red en la clasificación"
+  ru: "Показывать мою сеть в рейтинге"
+  zh: "在排行榜上显示我的网络"

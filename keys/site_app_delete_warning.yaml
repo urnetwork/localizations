@@ -1,0 +1,11 @@
+description: "App settings: delete warning"
+source: "This permanently deletes your network, its data, and its earnings. This cannot be undone."
+platforms:
+  - site
+localizations:
+  ar: "سيؤدي هذا إلى حذف شبكتك وبياناتها وأرباحها نهائياً. لا يمكن التراجع عن هذا الإجراء."
+  de: "Dadurch werden Ihr Netzwerk, seine Daten und seine Einnahmen dauerhaft gelöscht. Dies kann nicht rückgängig gemacht werden."
+  en: "This permanently deletes your network, its data, and its earnings. This cannot be undone."
+  es: "Esto elimina de forma permanente tu red, sus datos y sus ganancias. No se puede deshacer."
+  ru: "Это навсегда удалит вашу сеть, её данные и заработок. Отменить это действие нельзя."
+  zh: "这将永久删除您的网络、其数据及收益。此操作无法撤销。"

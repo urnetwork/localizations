@@ -1,0 +1,11 @@
+description: "Account panel: tools section heading"
+source: "Account tools"
+platforms:
+  - site
+localizations:
+  ar: "أدوات الحساب"
+  de: "Konto-Tools"
+  en: "Account tools"
+  es: "Herramientas de la cuenta"
+  ru: "Инструменты аккаунта"
+  zh: "账户工具"

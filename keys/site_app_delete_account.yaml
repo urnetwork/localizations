@@ -1,0 +1,11 @@
+description: "App settings: delete account button"
+source: "Delete account"
+platforms:
+  - site
+localizations:
+  ar: "حذف الحساب"
+  de: "Konto löschen"
+  en: "Delete account"
+  es: "Eliminar cuenta"
+  ru: "Удалить аккаунт"
+  zh: "删除账户"

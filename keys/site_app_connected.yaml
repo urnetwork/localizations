@@ -1,0 +1,11 @@
+description: "App connect screen: connected state"
+source: "Connected"
+platforms:
+  - site
+localizations:
+  ar: "متصل"
+  de: "Verbunden"
+  en: "Connected"
+  es: "Conectado"
+  ru: "Подключено"
+  zh: "已连接"

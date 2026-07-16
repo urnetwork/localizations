@@ -1,0 +1,11 @@
+description: "App account: network earnings card"
+source: "Network earnings"
+platforms:
+  - site
+localizations:
+  ar: "أرباح الشبكة"
+  de: "Netzwerkeinnahmen"
+  en: "Network earnings"
+  es: "Ganancias de la red"
+  ru: "Заработок сети"
+  zh: "网络收益"

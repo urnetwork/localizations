@@ -1,0 +1,11 @@
+description: "Extension status: label before the extension's current network name"
+source: "Currently set up for"
+platforms:
+  - site
+localizations:
+  ar: "مُعدّة حالياً لـ"
+  de: "Derzeit eingerichtet für"
+  en: "Currently set up for"
+  es: "Configurada actualmente para"
+  ru: "Сейчас настроено для"
+  zh: "当前设置用于"

@@ -1,0 +1,11 @@
+description: "App support: Discord community card"
+source: "Join the community on Discord"
+platforms:
+  - site
+localizations:
+  ar: "انضم إلى المجتمع على Discord"
+  de: "Der Community auf Discord beitreten"
+  en: "Join the community on Discord"
+  es: "Únete a la comunidad en Discord"
+  ru: "Присоединяйтесь к сообществу в Discord"
+  zh: "在Discord上加入社区"

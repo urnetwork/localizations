@@ -1,0 +1,6 @@
+description: "Subscription: other-platform body ({platform})"
+source: "Your Pro subscription is billed through {platform}. To change or cancel it, manage your subscriptions in {platform}."
+platforms:
+  - site
+localizations:
+  en: "Your Pro subscription is billed through {platform}. To change or cancel it, manage your subscriptions in {platform}."

@@ -1,0 +1,11 @@
+description: "Account panel: create another proxy"
+source: "Create another"
+platforms:
+  - site
+localizations:
+  ar: "إنشاء آخر"
+  de: "Weiteren erstellen"
+  en: "Create another"
+  es: "Crear otro"
+  ru: "Создать ещё"
+  zh: "再创建一个"

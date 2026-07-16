@@ -1,0 +1,11 @@
+description: "Account panel: preference saved flash"
+source: "Saved"
+platforms:
+  - site
+localizations:
+  ar: "تم الحفظ"
+  de: "Gespeichert"
+  en: "Saved"
+  es: "Guardado"
+  ru: "Сохранено"
+  zh: "已保存"

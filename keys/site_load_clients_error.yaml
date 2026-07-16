@@ -1,0 +1,11 @@
+description: "Account panel: online-clients load error"
+source: "Could not load clients"
+platforms:
+  - site
+localizations:
+  ar: "تعذّر تحميل العملاء"
+  de: "Clients konnten nicht geladen werden"
+  en: "Could not load clients"
+  es: "No se pudieron cargar los clientes"
+  ru: "Не удалось загрузить клиентов"
+  zh: "无法加载客户端"

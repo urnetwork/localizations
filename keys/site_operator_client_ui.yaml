@@ -1,0 +1,11 @@
+description: "App sidebar: open the operator client UI (formerly the client admin UI)"
+source: "Operator Client UI"
+platforms:
+  - site
+localizations:
+  ar: "واجهة عميل المشغّل"
+  de: "Operator-Client-UI"
+  en: "Operator Client UI"
+  es: "Interfaz de cliente del operador"
+  ru: "Интерфейс клиента оператора"
+  zh: "运营者客户端界面"

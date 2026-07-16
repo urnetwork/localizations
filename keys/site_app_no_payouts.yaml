@@ -1,0 +1,11 @@
+description: "App wallets: payouts empty state"
+source: "No payouts yet"
+platforms:
+  - site
+localizations:
+  ar: "لا توجد دفعات بعد"
+  de: "Noch keine Auszahlungen"
+  en: "No payouts yet"
+  es: "Aún no hay pagos"
+  ru: "Пока нет выплат"
+  zh: "暂无收款"

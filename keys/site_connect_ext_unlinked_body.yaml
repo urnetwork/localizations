@@ -1,0 +1,6 @@
+description: "Connect: extension logged-out alert body"
+source: "The extension is installed but signed out. Set it up with your network to connect."
+platforms:
+  - site
+localizations:
+  en: "The extension is installed but signed out. Set it up with your network to connect."

@@ -1,0 +1,11 @@
+description: "App account: check my IP quick action"
+source: "Check my IP"
+platforms:
+  - site
+localizations:
+  ar: "التحقق من عنوان IP الخاص بي"
+  de: "Meine IP prüfen"
+  en: "Check my IP"
+  es: "Comprobar mi IP"
+  ru: "Проверить мой IP"
+  zh: "查看我的IP"

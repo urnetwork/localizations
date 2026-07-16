@@ -1,0 +1,11 @@
+description: "App balance codes: redeemed date row"
+source: "Redeemed {date}"
+platforms:
+  - site
+localizations:
+  ar: "تم الاستبدال في {date}"
+  de: "Eingelöst {date}"
+  en: "Redeemed {date}"
+  es: "Canjeado el {date}"
+  ru: "Активировано {date}"
+  zh: "兑换于{date}"

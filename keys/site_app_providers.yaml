@@ -1,0 +1,11 @@
+description: "App connect screen: provider grid section title"
+source: "Providers"
+platforms:
+  - site
+localizations:
+  ar: "المزوّدون"
+  de: "Provider"
+  en: "Providers"
+  es: "Proveedores"
+  ru: "Провайдеры"
+  zh: "提供者"

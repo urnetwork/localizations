@@ -1,0 +1,11 @@
+description: "App connect: custom DNS section"
+source: "DNS"
+platforms:
+  - site
+localizations:
+  ar: "DNS"
+  de: "DNS"
+  en: "DNS"
+  es: "DNS"
+  ru: "DNS"
+  zh: "DNS"

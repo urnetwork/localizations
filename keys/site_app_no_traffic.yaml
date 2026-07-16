@@ -1,0 +1,6 @@
+description: "Connect drawer: throughput empty state"
+source: "No traffic yet"
+platforms:
+  - site
+localizations:
+  en: "No traffic yet"

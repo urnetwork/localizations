@@ -1,0 +1,11 @@
+description: "App leaderboard: empty state"
+source: "No networks on the leaderboard yet."
+platforms:
+  - site
+localizations:
+  ar: "لا توجد شبكات في لوحة المتصدرين بعد."
+  de: "Noch keine Netzwerke in der Bestenliste."
+  en: "No networks on the leaderboard yet."
+  es: "Aún no hay redes en la clasificación."
+  ru: "Пока нет сетей в рейтинге."
+  zh: "排行榜上暂无网络。"

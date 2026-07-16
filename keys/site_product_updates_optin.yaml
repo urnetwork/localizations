@@ -1,0 +1,11 @@
+description: "Account panel: product-updates opt-in checkbox"
+source: "You can send me occasional product updates"
+platforms:
+  - site
+localizations:
+  ar: "يمكنكم إرسال تحديثات المنتج إليّ من حين لآخر"
+  de: "Sie dürfen mir gelegentlich Produkt-Updates senden"
+  en: "You can send me occasional product updates"
+  es: "Pueden enviarme novedades ocasionales del producto"
+  ru: "Можно иногда присылать мне новости о продукте"
+  zh: "可以偶尔向我发送产品更新"

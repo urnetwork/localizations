@@ -1,0 +1,6 @@
+description: "Connect drawer: strong-anonymization toggle"
+source: "Strong Anonymization"
+platforms:
+  - site
+localizations:
+  en: "Strong Anonymization"

@@ -1,0 +1,11 @@
+description: "App connect DNS: reset to default"
+source: "Reset to recommended"
+platforms:
+  - site
+localizations:
+  ar: "إعادة التعيين إلى الموصى به"
+  de: "Auf Empfohlen zurücksetzen"
+  en: "Reset to recommended"
+  es: "Restablecer a lo recomendado"
+  ru: "Сбросить до рекомендуемых"
+  zh: "重置为推荐设置"

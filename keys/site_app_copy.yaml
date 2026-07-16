@@ -1,0 +1,11 @@
+description: "App: copy button"
+source: "Copy"
+platforms:
+  - site
+localizations:
+  ar: "نسخ"
+  de: "Kopieren"
+  en: "Copy"
+  es: "Copiar"
+  ru: "Копировать"
+  zh: "复制"

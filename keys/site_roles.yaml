@@ -1,0 +1,11 @@
+description: "Account panel: client info — roles label"
+source: "Roles"
+platforms:
+  - site
+localizations:
+  ar: "الأدوار"
+  de: "Rollen"
+  en: "Roles"
+  es: "Roles"
+  ru: "Роли"
+  zh: "角色"

@@ -1,0 +1,11 @@
+description: "App settings: referral code input placeholder"
+source: "Enter referral code"
+platforms:
+  - site
+localizations:
+  ar: "أدخل رمز الإحالة"
+  de: "Empfehlungscode eingeben"
+  en: "Enter referral code"
+  es: "Introduce el código de referido"
+  ru: "Введите реферальный код"
+  zh: "输入推荐码"

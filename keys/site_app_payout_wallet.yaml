@@ -1,0 +1,11 @@
+description: "App wallets: payout wallet label"
+source: "Payout wallet"
+platforms:
+  - site
+localizations:
+  ar: "محفظة الدفعات"
+  de: "Auszahlungs-Wallet"
+  en: "Payout wallet"
+  es: "Billetera de pagos"
+  ru: "Кошелёк для выплат"
+  zh: "收款钱包"

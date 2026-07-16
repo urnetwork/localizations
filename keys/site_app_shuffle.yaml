@@ -1,0 +1,11 @@
+description: "App connect screen: shuffle providers button"
+source: "Shuffle"
+platforms:
+  - site
+localizations:
+  ar: "خلط"
+  de: "Mischen"
+  en: "Shuffle"
+  es: "Aleatorio"
+  ru: "Перемешать"
+  zh: "随机切换"

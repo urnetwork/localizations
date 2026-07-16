@@ -1,0 +1,11 @@
+description: "App provider: no provider throughput"
+source: "No providing activity in this window."
+platforms:
+  - site
+localizations:
+  ar: "لا يوجد نشاط تزويد في هذه الفترة."
+  de: "Keine Bereitstellungsaktivität in diesem Zeitraum."
+  en: "No providing activity in this window."
+  es: "No hay actividad de proveedor en este periodo."
+  ru: "Нет активности раздачи за этот период."
+  zh: "此时段内暂无提供活动。"

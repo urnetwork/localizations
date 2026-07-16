@@ -1,0 +1,11 @@
+description: "Account panel: download a WireGuard config file"
+source: "Download .conf"
+platforms:
+  - site
+localizations:
+  ar: "تنزيل ملف .conf"
+  de: ".conf herunterladen"
+  en: "Download .conf"
+  es: "Descargar .conf"
+  ru: "Скачать .conf"
+  zh: "下载.conf"

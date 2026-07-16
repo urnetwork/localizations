@@ -1,0 +1,6 @@
+description: "Reliability: weight series"
+source: "Reliability weight"
+platforms:
+  - site
+localizations:
+  en: "Reliability weight"

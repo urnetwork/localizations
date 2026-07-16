@@ -1,0 +1,11 @@
+description: "App settings: kill switch toggle"
+source: "Kill switch"
+platforms:
+  - site
+localizations:
+  ar: "مفتاح الإيقاف"
+  de: "Kill Switch"
+  en: "Kill switch"
+  es: "Kill switch"
+  ru: "Kill switch"
+  zh: "断网保护"

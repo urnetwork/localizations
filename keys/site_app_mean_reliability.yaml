@@ -1,0 +1,11 @@
+description: "App provider: mean reliability metric"
+source: "Mean reliability"
+platforms:
+  - site
+localizations:
+  ar: "متوسط الموثوقية"
+  de: "Durchschnittliche Zuverlässigkeit"
+  en: "Mean reliability"
+  es: "Fiabilidad media"
+  ru: "Средняя надёжность"
+  zh: "平均可靠性"

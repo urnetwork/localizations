@@ -1,0 +1,11 @@
+description: "App leaderboard: hidden network row label"
+source: "Private network"
+platforms:
+  - site
+localizations:
+  ar: "شبكة خاصة"
+  de: "Privates Netzwerk"
+  en: "Private network"
+  es: "Red privada"
+  ru: "Частная сеть"
+  zh: "私有网络"

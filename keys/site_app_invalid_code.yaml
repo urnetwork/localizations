@@ -1,0 +1,11 @@
+description: "App settings: invalid referral code error"
+source: "This referral code is not valid"
+platforms:
+  - site
+localizations:
+  ar: "رمز الإحالة هذا غير صالح"
+  de: "Dieser Empfehlungscode ist ungültig"
+  en: "This referral code is not valid"
+  es: "Este código de referido no es válido"
+  ru: "Этот реферальный код недействителен"
+  zh: "此推荐码无效"

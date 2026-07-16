@@ -1,0 +1,11 @@
+description: "Account panel: proxy creation failed"
+source: "Could not create the proxy."
+platforms:
+  - site
+localizations:
+  ar: "تعذّر إنشاء الوكيل."
+  de: "Der Proxy konnte nicht erstellt werden."
+  en: "Could not create the proxy."
+  es: "No se pudo crear el proxy."
+  ru: "Не удалось создать прокси."
+  zh: "无法创建代理。"

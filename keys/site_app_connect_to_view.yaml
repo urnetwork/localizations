@@ -1,0 +1,6 @@
+description: "Disabled stat cards: connect-to-view hint"
+source: "Connect to view live activity"
+platforms:
+  - site
+localizations:
+  en: "Connect to view live activity"

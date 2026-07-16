@@ -1,0 +1,11 @@
+description: "App account: blocked locations row/screen title"
+source: "Blocked locations"
+platforms:
+  - site
+localizations:
+  ar: "المواقع المحظورة"
+  de: "Blockierte Standorte"
+  en: "Blocked locations"
+  es: "Ubicaciones bloqueadas"
+  ru: "Заблокированные локации"
+  zh: "已拦截的位置"

@@ -1,0 +1,11 @@
+description: "Extension status: hand the page session to the extension"
+source: "Set up extension to use your network"
+platforms:
+  - site
+localizations:
+  ar: "إعداد الإضافة لاستخدام شبكتك"
+  de: "Erweiterung einrichten, um Ihr Netzwerk zu nutzen"
+  en: "Set up extension to use your network"
+  es: "Configura la extensión para usar tu red"
+  ru: "Настроить расширение для вашей сети"
+  zh: "设置扩展以使用您的网络"

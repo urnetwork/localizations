@@ -1,0 +1,11 @@
+description: "App wallets: canceled payout status"
+source: "Canceled"
+platforms:
+  - site
+localizations:
+  ar: "ملغى"
+  de: "Storniert"
+  en: "Canceled"
+  es: "Cancelado"
+  ru: "Отменено"
+  zh: "已取消"

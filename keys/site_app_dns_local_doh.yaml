@@ -1,0 +1,11 @@
+description: "App connect DNS: local DoH toggle"
+source: "Encrypted DNS on this device"
+platforms:
+  - site
+localizations:
+  ar: "DNS مُشفّر على هذا الجهاز"
+  de: "Verschlüsseltes DNS auf diesem Gerät"
+  en: "Encrypted DNS on this device"
+  es: "DNS cifrado en este dispositivo"
+  ru: "Зашифрованный DNS на этом устройстве"
+  zh: "本设备上的加密DNS"

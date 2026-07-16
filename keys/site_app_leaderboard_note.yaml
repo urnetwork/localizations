@@ -1,0 +1,11 @@
+description: "App leaderboard: explainer note"
+source: "The leaderboard is the sum of the last 4 payments. It is updated each payment cycle."
+platforms:
+  - site
+localizations:
+  ar: "لوحة المتصدرين هي مجموع آخر 4 دفعات. ويتم تحديثها في كل دورة دفع."
+  de: "Die Bestenliste ist die Summe der letzten 4 Zahlungen. Sie wird in jedem Zahlungszyklus aktualisiert."
+  en: "The leaderboard is the sum of the last 4 payments. It is updated each payment cycle."
+  es: "La clasificación es la suma de los últimos 4 pagos. Se actualiza en cada ciclo de pago."
+  ru: "Рейтинг — это сумма последних 4 выплат. Он обновляется каждый платёжный цикл."
+  zh: "排行榜为最近4次付款的总和，每个付款周期更新一次。"

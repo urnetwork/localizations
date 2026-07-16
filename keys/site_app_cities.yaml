@@ -1,0 +1,11 @@
+description: "App connect location picker: cities section"
+source: "Cities"
+platforms:
+  - site
+localizations:
+  ar: "المدن"
+  de: "Städte"
+  en: "Cities"
+  es: "Ciudades"
+  ru: "Города"
+  zh: "城市"

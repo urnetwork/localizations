@@ -1,0 +1,11 @@
+description: "App account: profile row/screen title"
+source: "Profile"
+platforms:
+  - site
+localizations:
+  ar: "الملف الشخصي"
+  de: "Profil"
+  en: "Profile"
+  es: "Perfil"
+  ru: "Профиль"
+  zh: "个人资料"

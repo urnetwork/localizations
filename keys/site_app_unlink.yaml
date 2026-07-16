@@ -1,0 +1,11 @@
+description: "App settings: unlink referral network"
+source: "Unlink"
+platforms:
+  - site
+localizations:
+  ar: "إلغاء الربط"
+  de: "Verknüpfung aufheben"
+  en: "Unlink"
+  es: "Desvincular"
+  ru: "Отвязать"
+  zh: "解除关联"

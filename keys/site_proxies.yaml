@@ -1,0 +1,11 @@
+description: "Account panel: proxies section heading"
+source: "Proxies"
+platforms:
+  - site
+localizations:
+  ar: "الوكلاء"
+  de: "Proxys"
+  en: "Proxies"
+  es: "Proxies"
+  ru: "Прокси"
+  zh: "代理"

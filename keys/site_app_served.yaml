@@ -1,0 +1,11 @@
+description: "App provider: bytes served metric"
+source: "Served"
+platforms:
+  - site
+localizations:
+  ar: "المُقدَّم"
+  de: "Bereitgestellt"
+  en: "Served"
+  es: "Servido"
+  ru: "Отдано"
+  zh: "已发送"

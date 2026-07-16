@@ -1,0 +1,11 @@
+description: "App payout detail: completed time"
+source: "Completed"
+platforms:
+  - site
+localizations:
+  ar: "تاريخ الإكمال"
+  de: "Abgeschlossen"
+  en: "Completed"
+  es: "Completado"
+  ru: "Завершено"
+  zh: "完成时间"

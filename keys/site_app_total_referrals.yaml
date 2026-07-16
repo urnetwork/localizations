@@ -1,0 +1,11 @@
+description: "App account: total referrals label"
+source: "Total referrals"
+platforms:
+  - site
+localizations:
+  ar: "إجمالي الإحالات"
+  de: "Empfehlungen gesamt"
+  en: "Total referrals"
+  es: "Total de referidos"
+  ru: "Всего рефералов"
+  zh: "推荐总数"

@@ -1,0 +1,6 @@
+description: "Mobile app panel: install-the-native-app CTA"
+source: "Install the app"
+platforms:
+  - site
+localizations:
+  en: "Install the app"

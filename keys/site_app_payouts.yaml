@@ -1,0 +1,11 @@
+description: "App wallets: payouts section"
+source: "Payouts"
+platforms:
+  - site
+localizations:
+  ar: "الدفعات"
+  de: "Auszahlungen"
+  en: "Payouts"
+  es: "Pagos"
+  ru: "Выплаты"
+  zh: "收款"

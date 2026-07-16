@@ -1,0 +1,11 @@
+description: "App settings: referral network section"
+source: "Referral network"
+platforms:
+  - site
+localizations:
+  ar: "شبكة الإحالة"
+  de: "Empfehlungsnetzwerk"
+  en: "Referral network"
+  es: "Red de referidos"
+  ru: "Реферальная сеть"
+  zh: "推荐网络"

@@ -1,0 +1,11 @@
+description: "App wallets: empty state"
+source: "No wallets yet — add one to receive payouts"
+platforms:
+  - site
+localizations:
+  ar: "لا توجد محافظ بعد — أضف واحدة لاستلام الدفعات"
+  de: "Noch keine Wallets — fügen Sie eine hinzu, um Auszahlungen zu erhalten"
+  en: "No wallets yet — add one to receive payouts"
+  es: "Aún no hay billeteras: añade una para recibir pagos"
+  ru: "Пока нет кошельков — добавьте, чтобы получать выплаты"
+  zh: "暂无钱包——添加一个以接收收款"

@@ -1,0 +1,11 @@
+description: "App connect location picker: regions section"
+source: "Regions"
+platforms:
+  - site
+localizations:
+  ar: "المناطق"
+  de: "Regionen"
+  en: "Regions"
+  es: "Regiones"
+  ru: "Регионы"
+  zh: "地区"

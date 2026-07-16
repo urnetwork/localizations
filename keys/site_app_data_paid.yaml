@@ -1,0 +1,11 @@
+description: "App payout detail: data paid for"
+source: "Data paid for"
+platforms:
+  - site
+localizations:
+  ar: "البيانات المدفوعة"
+  de: "Bezahlte Daten"
+  en: "Data paid for"
+  es: "Datos pagados"
+  ru: "Оплаченные данные"
+  zh: "已付费流量"

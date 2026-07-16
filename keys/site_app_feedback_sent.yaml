@@ -1,0 +1,11 @@
+description: "App support: sent confirmation"
+source: "Sent! Thanks for your feedback."
+platforms:
+  - site
+localizations:
+  ar: "تم الإرسال! شكراً لملاحظاتك."
+  de: "Gesendet! Danke für Ihr Feedback."
+  en: "Sent! Thanks for your feedback."
+  es: "¡Enviado! Gracias por tus comentarios."
+  ru: "Отправлено! Спасибо за ваш отзыв."
+  zh: "已发送！感谢您的反馈。"

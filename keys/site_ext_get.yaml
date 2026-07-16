@@ -1,0 +1,11 @@
+description: "Extension status: install pitch"
+source: "Protect this browser with URnetwork."
+platforms:
+  - site
+localizations:
+  ar: "احمِ هذا المتصفح باستخدام URnetwork."
+  de: "Schützen Sie diesen Browser mit URnetwork."
+  en: "Protect this browser with URnetwork."
+  es: "Protege este navegador con URnetwork."
+  ru: "Защитите этот браузер с помощью URnetwork."
+  zh: "使用URnetwork保护此浏览器。"

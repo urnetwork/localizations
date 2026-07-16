@@ -1,0 +1,6 @@
+description: "Reliability: average label"
+source: "Average reliability"
+platforms:
+  - site
+localizations:
+  en: "Average reliability"

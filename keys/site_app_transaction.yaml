@@ -1,0 +1,11 @@
+description: "App payout detail: transaction hash"
+source: "Transaction"
+platforms:
+  - site
+localizations:
+  ar: "المعاملة"
+  de: "Transaktion"
+  en: "Transaction"
+  es: "Transacción"
+  ru: "Транзакция"
+  zh: "交易"

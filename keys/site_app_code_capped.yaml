@@ -1,0 +1,11 @@
+description: "App settings: referral code capped error"
+source: "This referral code has reached its referral limit"
+platforms:
+  - site
+localizations:
+  ar: "لقد بلغ رمز الإحالة هذا حدّ الإحالات الخاص به"
+  de: "Dieser Empfehlungscode hat sein Empfehlungslimit erreicht"
+  en: "This referral code has reached its referral limit"
+  es: "Este código de referido alcanzó su límite de referidos"
+  ru: "Этот реферальный код достиг лимита рефералов"
+  zh: "此推荐码已达推荐上限"

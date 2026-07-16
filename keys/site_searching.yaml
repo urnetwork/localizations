@@ -1,0 +1,11 @@
+description: "Account panel: location search in progress"
+source: "Searching…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ البحث…"
+  de: "Wird gesucht…"
+  en: "Searching…"
+  es: "Buscando…"
+  ru: "Поиск…"
+  zh: "正在搜索…"

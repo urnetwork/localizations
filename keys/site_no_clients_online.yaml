@@ -1,0 +1,11 @@
+description: "Account panel: empty online-clients list"
+source: "No clients online"
+platforms:
+  - site
+localizations:
+  ar: "لا يوجد عملاء متصلون"
+  de: "Keine Clients online"
+  en: "No clients online"
+  es: "No hay clientes en línea"
+  ru: "Нет клиентов в сети"
+  zh: "暂无在线客户端"

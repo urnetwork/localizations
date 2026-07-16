@@ -1,0 +1,6 @@
+description: "Connect: extension install alert body"
+source: "URnetwork routes this browser through the extension. Install it to start connecting."
+platforms:
+  - site
+localizations:
+  en: "URnetwork routes this browser through the extension. Install it to start connecting."

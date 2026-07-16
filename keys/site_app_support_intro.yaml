@@ -1,0 +1,11 @@
+description: "App support: intro line"
+source: "Send us your feedback directly, or join the community for direct support."
+platforms:
+  - site
+localizations:
+  ar: "أرسل لنا ملاحظاتك مباشرةً، أو انضم إلى المجتمع للحصول على دعم مباشر."
+  de: "Senden Sie uns Ihr Feedback direkt oder treten Sie der Community für direkten Support bei."
+  en: "Send us your feedback directly, or join the community for direct support."
+  es: "Envíanos tus comentarios directamente o únete a la comunidad para recibir soporte directo."
+  ru: "Отправьте нам отзыв напрямую или присоединяйтесь к сообществу для поддержки."
+  zh: "直接向我们发送反馈，或加入社区获取直接支持。"

@@ -1,0 +1,11 @@
+description: "App connect screen: change location button"
+source: "Change"
+platforms:
+  - site
+localizations:
+  ar: "تغيير"
+  de: "Ändern"
+  en: "Change"
+  es: "Cambiar"
+  ru: "Изменить"
+  zh: "更改"

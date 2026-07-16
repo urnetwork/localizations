@@ -1,0 +1,11 @@
+description: "App account: provider row + screen title"
+source: "Providing"
+platforms:
+  - site
+localizations:
+  ar: "التزويد"
+  de: "Bereitstellung"
+  en: "Providing"
+  es: "Proveer"
+  ru: "Раздача"
+  zh: "提供带宽"

@@ -1,0 +1,11 @@
+description: "Extension status: setup in flight"
+source: "Setting up…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ الإعداد…"
+  de: "Wird eingerichtet…"
+  en: "Setting up…"
+  es: "Configurando…"
+  ru: "Настройка…"
+  zh: "正在设置…"

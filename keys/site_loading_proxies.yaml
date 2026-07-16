@@ -1,0 +1,11 @@
+description: "Account panel: loading proxies"
+source: "Loading proxies…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ تحميل الوكلاء…"
+  de: "Proxys werden geladen…"
+  en: "Loading proxies…"
+  es: "Cargando proxies…"
+  ru: "Загрузка прокси…"
+  zh: "正在加载代理…"

@@ -1,0 +1,11 @@
+description: "App settings: delete confirm prompt"
+source: "Type your network name to confirm"
+platforms:
+  - site
+localizations:
+  ar: "اكتب اسم شبكتك للتأكيد"
+  de: "Geben Sie zur Bestätigung Ihren Netzwerknamen ein"
+  en: "Type your network name to confirm"
+  es: "Escribe el nombre de tu red para confirmar"
+  ru: "Введите имя вашей сети для подтверждения"
+  zh: "输入您的网络名称以确认"

@@ -1,0 +1,11 @@
+description: "App account: wallets row/screen title"
+source: "Wallets"
+platforms:
+  - site
+localizations:
+  ar: "المحافظ"
+  de: "Wallets"
+  en: "Wallets"
+  es: "Billeteras"
+  ru: "Кошельки"
+  zh: "钱包"

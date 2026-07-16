@@ -1,0 +1,6 @@
+description: "Connect: extension ready status"
+source: "Extension detected and signed in"
+platforms:
+  - site
+localizations:
+  en: "Extension detected and signed in"

@@ -1,0 +1,11 @@
+description: "App connect: DNS summary encrypted"
+source: "Encrypted (DoH)"
+platforms:
+  - site
+localizations:
+  ar: "مُشفّر (DoH)"
+  de: "Verschlüsselt (DoH)"
+  en: "Encrypted (DoH)"
+  es: "Cifrado (DoH)"
+  ru: "Зашифрованный (DoH)"
+  zh: "加密(DoH)"

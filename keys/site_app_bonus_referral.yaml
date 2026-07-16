@@ -1,0 +1,11 @@
+description: "App settings: bonus referral code section"
+source: "Bonus referral code"
+platforms:
+  - site
+localizations:
+  ar: "رمز الإحالة الإضافي"
+  de: "Bonus-Empfehlungscode"
+  en: "Bonus referral code"
+  es: "Código de referido con bono"
+  ru: "Бонусный реферальный код"
+  zh: "奖励推荐码"

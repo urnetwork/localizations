@@ -1,0 +1,11 @@
+description: "App payout detail: blockchain"
+source: "Blockchain"
+platforms:
+  - site
+localizations:
+  ar: "سلسلة الكتل"
+  de: "Blockchain"
+  en: "Blockchain"
+  es: "Blockchain"
+  ru: "Блокчейн"
+  zh: "区块链"

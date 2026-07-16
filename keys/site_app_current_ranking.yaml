@@ -1,0 +1,11 @@
+description: "App leaderboard: own rank label"
+source: "Current ranking"
+platforms:
+  - site
+localizations:
+  ar: "الترتيب الحالي"
+  de: "Aktuelles Ranking"
+  en: "Current ranking"
+  es: "Clasificación actual"
+  ru: "Текущий рейтинг"
+  zh: "当前排名"

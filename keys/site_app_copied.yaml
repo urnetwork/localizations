@@ -1,0 +1,11 @@
+description: "App: copied flash"
+source: "Copied"
+platforms:
+  - site
+localizations:
+  ar: "تم النسخ"
+  de: "Kopiert"
+  en: "Copied"
+  es: "Copiado"
+  ru: "Скопировано"
+  zh: "已复制"

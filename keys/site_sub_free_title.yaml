@@ -1,0 +1,6 @@
+description: "Subscription: free plan title"
+source: "Free plan"
+platforms:
+  - site
+localizations:
+  en: "Free plan"

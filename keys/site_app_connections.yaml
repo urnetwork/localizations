@@ -1,0 +1,11 @@
+description: "App settings: connections section"
+source: "Connections"
+platforms:
+  - site
+localizations:
+  ar: "الاتصالات"
+  de: "Verbindungen"
+  en: "Connections"
+  es: "Conexiones"
+  ru: "Подключения"
+  zh: "连接"

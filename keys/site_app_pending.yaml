@@ -1,0 +1,11 @@
+description: "App wallets: pending payout status"
+source: "Pending"
+platforms:
+  - site
+localizations:
+  ar: "قيد الانتظار"
+  de: "Ausstehend"
+  en: "Pending"
+  es: "Pendiente"
+  ru: "В ожидании"
+  zh: "待处理"

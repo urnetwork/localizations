@@ -1,0 +1,11 @@
+description: "Account panel: proxies load error"
+source: "Could not load proxies"
+platforms:
+  - site
+localizations:
+  ar: "تعذّر تحميل الوكلاء"
+  de: "Proxys konnten nicht geladen werden"
+  en: "Could not load proxies"
+  es: "No se pudieron cargar los proxies"
+  ru: "Не удалось загрузить прокси"
+  zh: "无法加载代理"

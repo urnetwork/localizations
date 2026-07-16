@@ -1,0 +1,11 @@
+description: "Extension status: install CTA"
+source: "Install the extension"
+platforms:
+  - site
+localizations:
+  ar: "تثبيت الإضافة"
+  de: "Erweiterung installieren"
+  en: "Install the extension"
+  es: "Instalar la extensión"
+  ru: "Установить расширение"
+  zh: "安装扩展"

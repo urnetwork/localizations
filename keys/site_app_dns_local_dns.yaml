@@ -1,0 +1,11 @@
+description: "App connect DNS: local plain DNS toggle"
+source: "Standard DNS on this device"
+platforms:
+  - site
+localizations:
+  ar: "DNS قياسي على هذا الجهاز"
+  de: "Standard-DNS auf diesem Gerät"
+  en: "Standard DNS on this device"
+  es: "DNS estándar en este dispositivo"
+  ru: "Стандартный DNS на этом устройстве"
+  zh: "本设备上的标准DNS"

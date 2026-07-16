@@ -1,0 +1,11 @@
+description: "App connect: block ads and trackers toggle"
+source: "Block ads and trackers"
+platforms:
+  - site
+localizations:
+  ar: "حظر الإعلانات والمتتبعات"
+  de: "Werbung und Tracker blockieren"
+  en: "Block ads and trackers"
+  es: "Bloquear anuncios y rastreadores"
+  ru: "Блокировать рекламу и трекеры"
+  zh: "拦截广告和跟踪器"

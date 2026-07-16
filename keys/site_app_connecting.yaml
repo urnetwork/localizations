@@ -1,0 +1,11 @@
+description: "App connect screen: connecting state"
+source: "Connecting…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ الاتصال…"
+  de: "Verbindung wird hergestellt…"
+  en: "Connecting…"
+  es: "Conectando…"
+  ru: "Подключение…"
+  zh: "正在连接…"

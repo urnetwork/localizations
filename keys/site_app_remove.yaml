@@ -1,0 +1,11 @@
+description: "App: remove button"
+source: "Remove"
+platforms:
+  - site
+localizations:
+  ar: "إزالة"
+  de: "Entfernen"
+  en: "Remove"
+  es: "Quitar"
+  ru: "Удалить"
+  zh: "移除"

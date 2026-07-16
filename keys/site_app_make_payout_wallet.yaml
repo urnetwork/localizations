@@ -1,0 +1,11 @@
+description: "App wallets: make payout wallet action"
+source: "Make payout wallet"
+platforms:
+  - site
+localizations:
+  ar: "تعيين محفظة الدفعات"
+  de: "Als Auszahlungs-Wallet festlegen"
+  en: "Make payout wallet"
+  es: "Usar como billetera de pagos"
+  ru: "Назначить кошельком для выплат"
+  zh: "设为收款钱包"

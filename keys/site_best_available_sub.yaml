@@ -1,0 +1,11 @@
+description: "Account panel: 'best available' location subtitle"
+source: "Any provider on the network"
+platforms:
+  - site
+localizations:
+  ar: "أي مزوّد على الشبكة"
+  de: "Beliebiger Provider im Netzwerk"
+  en: "Any provider on the network"
+  es: "Cualquier proveedor de la red"
+  ru: "Любой провайдер в сети"
+  zh: "网络上的任意提供者"

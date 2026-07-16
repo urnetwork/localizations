@@ -1,0 +1,11 @@
+description: "Extension status: linked with the browser connection active"
+source: "Browser connection active"
+platforms:
+  - site
+localizations:
+  ar: "اتصال المتصفح نشط"
+  de: "Browser-Verbindung aktiv"
+  en: "Browser connection active"
+  es: "Conexión del navegador activa"
+  ru: "Подключение браузера активно"
+  zh: "浏览器连接已激活"

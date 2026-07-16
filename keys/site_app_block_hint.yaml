@@ -1,0 +1,11 @@
+description: "App blocked locations: search hint"
+source: "Search for a location to block"
+platforms:
+  - site
+localizations:
+  ar: "ابحث عن موقع لحظره"
+  de: "Nach einem zu blockierenden Standort suchen"
+  en: "Search for a location to block"
+  es: "Busca una ubicación para bloquear"
+  ru: "Найдите локацию для блокировки"
+  zh: "搜索要拦截的位置"

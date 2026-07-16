@@ -1,0 +1,11 @@
+description: "App account: refer friends card"
+source: "Refer friends"
+platforms:
+  - site
+localizations:
+  ar: "دعوة الأصدقاء"
+  de: "Freunde einladen"
+  en: "Refer friends"
+  es: "Invita a amigos"
+  ru: "Пригласить друзей"
+  zh: "推荐好友"

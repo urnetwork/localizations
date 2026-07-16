@@ -1,0 +1,11 @@
+description: "App settings: stay in touch section"
+source: "Stay in touch"
+platforms:
+  - site
+localizations:
+  ar: "ابقَ على تواصل"
+  de: "In Kontakt bleiben"
+  en: "Stay in touch"
+  es: "Mantente en contacto"
+  ru: "Оставайтесь на связи"
+  zh: "保持联系"

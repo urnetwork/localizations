@@ -1,0 +1,6 @@
+description: "Connect: extension different-network alert body"
+source: "The extension is signed into a different network:"
+platforms:
+  - site
+localizations:
+  en: "The extension is signed into a different network:"

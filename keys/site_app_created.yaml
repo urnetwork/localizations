@@ -1,0 +1,11 @@
+description: "App payout detail: created time"
+source: "Created"
+platforms:
+  - site
+localizations:
+  ar: "تاريخ الإنشاء"
+  de: "Erstellt"
+  en: "Created"
+  es: "Creado"
+  ru: "Создано"
+  zh: "创建时间"

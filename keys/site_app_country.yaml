@@ -1,0 +1,6 @@
+description: "Reliability: country column"
+source: "Country"
+platforms:
+  - site
+localizations:
+  en: "Country"

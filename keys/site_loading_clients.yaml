@@ -1,0 +1,11 @@
+description: "Account panel: loading online clients"
+source: "Loading clients…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ تحميل العملاء…"
+  de: "Clients werden geladen…"
+  en: "Loading clients…"
+  es: "Cargando clientes…"
+  ru: "Загрузка клиентов…"
+  zh: "正在加载客户端…"

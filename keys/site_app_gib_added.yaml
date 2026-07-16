@@ -1,0 +1,11 @@
+description: "App balance codes: redeem success flash"
+source: "+{gib} GiB added"
+platforms:
+  - site
+localizations:
+  ar: "تمت إضافة +{gib} GiB"
+  de: "+{gib} GiB hinzugefügt"
+  en: "+{gib} GiB added"
+  es: "+{gib} GiB añadidos"
+  ru: "+{gib} GiB добавлено"
+  zh: "已添加+{gib} GiB"

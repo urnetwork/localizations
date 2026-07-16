@@ -1,0 +1,6 @@
+description: "Connect drawer: options section label"
+source: "Connect options"
+platforms:
+  - site
+localizations:
+  en: "Connect options"

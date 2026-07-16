@@ -1,0 +1,11 @@
+description: "App settings: auth code limit error"
+source: "Auth code limit reached. Try again later."
+platforms:
+  - site
+localizations:
+  ar: "تم بلوغ حد رموز المصادقة. حاول مرة أخرى لاحقاً."
+  de: "Auth-Code-Limit erreicht. Später erneut versuchen."
+  en: "Auth code limit reached. Try again later."
+  es: "Se alcanzó el límite de códigos de autenticación. Inténtalo más tarde."
+  ru: "Достигнут лимит кодов авторизации. Попробуйте позже."
+  zh: "已达授权码上限。请稍后重试。"

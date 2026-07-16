@@ -1,0 +1,6 @@
+description: "Connect drawer: fixed-IP toggle"
+source: "Fixed IP"
+platforms:
+  - site
+localizations:
+  en: "Fixed IP"

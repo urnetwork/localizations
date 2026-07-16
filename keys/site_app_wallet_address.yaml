@@ -1,0 +1,11 @@
+description: "App wallets: wallet address input"
+source: "Wallet address"
+platforms:
+  - site
+localizations:
+  ar: "عنوان المحفظة"
+  de: "Wallet-Adresse"
+  en: "Wallet address"
+  es: "Dirección de la billetera"
+  ru: "Адрес кошелька"
+  zh: "钱包地址"

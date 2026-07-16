@@ -1,0 +1,11 @@
+description: "Account panel: open the in-site web app (/app)"
+source: "Open app"
+platforms:
+  - site
+localizations:
+  ar: "فتح التطبيق"
+  de: "App öffnen"
+  en: "Open app"
+  es: "Abrir la app"
+  ru: "Открыть приложение"
+  zh: "打开应用"

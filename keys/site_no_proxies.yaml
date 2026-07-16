@@ -1,0 +1,11 @@
+description: "Account panel: empty proxies list"
+source: "No proxies yet"
+platforms:
+  - site
+localizations:
+  ar: "لا يوجد وكلاء بعد"
+  de: "Noch keine Proxys"
+  en: "No proxies yet"
+  es: "Aún no hay proxies"
+  ru: "Пока нет прокси"
+  zh: "暂无代理"

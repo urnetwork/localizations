@@ -1,0 +1,11 @@
+description: "Account panel: billing portal failed to open"
+source: "Could not open the billing portal."
+platforms:
+  - site
+localizations:
+  ar: "تعذّر فتح بوابة الفوترة."
+  de: "Abrechnungsportal konnte nicht geöffnet werden."
+  en: "Could not open the billing portal."
+  es: "No se pudo abrir el portal de facturación."
+  ru: "Не удалось открыть платёжный портал."
+  zh: "无法打开账单门户。"

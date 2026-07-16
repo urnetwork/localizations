@@ -1,0 +1,6 @@
+description: "Connect drawer: live transfer timeseries section"
+source: "Transfer"
+platforms:
+  - site
+localizations:
+  en: "Transfer"

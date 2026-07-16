@@ -1,0 +1,11 @@
+description: "Account panel: copy a proxy's URL"
+source: "Copy URL"
+platforms:
+  - site
+localizations:
+  ar: "نسخ الرابط"
+  de: "URL kopieren"
+  en: "Copy URL"
+  es: "Copiar URL"
+  ru: "Копировать URL"
+  zh: "复制URL"

@@ -1,0 +1,11 @@
+description: "App wallets: invalid address error"
+source: "This address is not valid for the selected chain"
+platforms:
+  - site
+localizations:
+  ar: "هذا العنوان غير صالح للسلسلة المحددة"
+  de: "Diese Adresse ist für die gewählte Chain nicht gültig"
+  en: "This address is not valid for the selected chain"
+  es: "Esta dirección no es válida para la cadena seleccionada"
+  ru: "Этот адрес недействителен для выбранной сети"
+  zh: "此地址对所选链无效"

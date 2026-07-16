@@ -1,0 +1,6 @@
+description: "Connect drawer: plan section label"
+source: "Plan"
+platforms:
+  - site
+localizations:
+  en: "Plan"

@@ -1,0 +1,11 @@
+description: "Account panel: balance codes load error"
+source: "Could not load balance codes"
+platforms:
+  - site
+localizations:
+  ar: "تعذّر تحميل رموز الرصيد"
+  de: "Guthabencodes konnten nicht geladen werden"
+  en: "Could not load balance codes"
+  es: "No se pudieron cargar los códigos de saldo"
+  ru: "Не удалось загрузить коды баланса"
+  zh: "无法加载余额码"

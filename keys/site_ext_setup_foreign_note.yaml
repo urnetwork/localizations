@@ -1,0 +1,11 @@
+description: "Extension status: warning when replacing another network"
+source: "This will log the extension out of its current network and disconnect the browser."
+platforms:
+  - site
+localizations:
+  ar: "سيؤدي هذا إلى تسجيل خروج الإضافة من شبكتها الحالية وقطع اتصال المتصفح."
+  de: "Dadurch wird die Erweiterung von ihrem aktuellen Netzwerk abgemeldet und der Browser getrennt."
+  en: "This will log the extension out of its current network and disconnect the browser."
+  es: "Esto cerrará la sesión de la extensión en su red actual y desconectará el navegador."
+  ru: "Это отключит расширение от текущей сети и отсоединит браузер."
+  zh: "这将使扩展退出当前网络并断开浏览器连接。"

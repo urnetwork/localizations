@@ -1,0 +1,6 @@
+description: "Subscription: manage-on-platform button ({platform})"
+source: "Manage in {platform}"
+platforms:
+  - site
+localizations:
+  en: "Manage in {platform}"

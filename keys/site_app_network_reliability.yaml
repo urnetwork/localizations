@@ -1,0 +1,11 @@
+description: "App provider: reliability section"
+source: "Network reliability"
+platforms:
+  - site
+localizations:
+  ar: "موثوقية الشبكة"
+  de: "Netzwerkzuverlässigkeit"
+  en: "Network reliability"
+  es: "Fiabilidad de la red"
+  ru: "Надёжность сети"
+  zh: "网络可靠性"

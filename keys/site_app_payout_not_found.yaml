@@ -1,0 +1,11 @@
+description: "App payout detail: not found"
+source: "This payout could not be found."
+platforms:
+  - site
+localizations:
+  ar: "تعذّر العثور على هذه الدفعة."
+  de: "Diese Auszahlung konnte nicht gefunden werden."
+  en: "This payout could not be found."
+  es: "No se encontró este pago."
+  ru: "Эта выплата не найдена."
+  zh: "找不到此笔收款。"

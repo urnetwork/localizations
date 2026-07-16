@@ -1,0 +1,11 @@
+description: "App provider: bytes received metric"
+source: "Received"
+platforms:
+  - site
+localizations:
+  ar: "المُستَلَم"
+  de: "Empfangen"
+  en: "Received"
+  es: "Recibido"
+  ru: "Получено"
+  zh: "已接收"

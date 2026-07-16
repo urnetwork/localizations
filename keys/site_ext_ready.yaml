@@ -1,0 +1,11 @@
+description: "Extension status: linked and idle"
+source: "Extension connected and ready to use"
+platforms:
+  - site
+localizations:
+  ar: "الإضافة متصلة وجاهزة للاستخدام"
+  de: "Erweiterung verbunden und einsatzbereit"
+  en: "Extension connected and ready to use"
+  es: "Extensión conectada y lista para usar"
+  ru: "Расширение подключено и готово к работе"
+  zh: "扩展已连接，可以使用"

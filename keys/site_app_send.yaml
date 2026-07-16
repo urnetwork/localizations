@@ -1,0 +1,11 @@
+description: "App support: send button"
+source: "Send"
+platforms:
+  - site
+localizations:
+  ar: "إرسال"
+  de: "Senden"
+  en: "Send"
+  es: "Enviar"
+  ru: "Отправить"
+  zh: "发送"

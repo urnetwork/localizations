@@ -1,0 +1,11 @@
+description: "App connect: DNS summary plain"
+source: "Standard"
+platforms:
+  - site
+localizations:
+  ar: "قياسي"
+  de: "Standard"
+  en: "Standard"
+  es: "Estándar"
+  ru: "Стандартный"
+  zh: "标准"

@@ -1,0 +1,11 @@
+description: "Account panel: generic retry error"
+source: "Something went wrong. Please try again."
+platforms:
+  - site
+localizations:
+  ar: "حدث خطأ ما. يُرجى المحاولة مرة أخرى."
+  de: "Etwas ist schiefgelaufen. Bitte erneut versuchen."
+  en: "Something went wrong. Please try again."
+  es: "Algo salió mal. Inténtalo de nuevo."
+  ru: "Что-то пошло не так. Попробуйте ещё раз."
+  zh: "出错了。请重试。"

@@ -1,0 +1,11 @@
+description: "App wallets: wallet label"
+source: "Wallet"
+platforms:
+  - site
+localizations:
+  ar: "محفظة"
+  de: "Wallet"
+  en: "Wallet"
+  es: "Billetera"
+  ru: "Кошелёк"
+  zh: "钱包"

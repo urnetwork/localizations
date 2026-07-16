@@ -1,0 +1,11 @@
+description: "App wallets: add wallet heading"
+source: "Add wallet"
+platforms:
+  - site
+localizations:
+  ar: "إضافة محفظة"
+  de: "Wallet hinzufügen"
+  en: "Add wallet"
+  es: "Añadir billetera"
+  ru: "Добавить кошелёк"
+  zh: "添加钱包"

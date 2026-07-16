@@ -1,0 +1,11 @@
+description: "Account panel: create-proxy button"
+source: "Create proxy"
+platforms:
+  - site
+localizations:
+  ar: "إنشاء وكيل"
+  de: "Proxy erstellen"
+  en: "Create proxy"
+  es: "Crear proxy"
+  ru: "Создать прокси"
+  zh: "创建代理"

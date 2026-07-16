@@ -1,0 +1,11 @@
+description: "Account panel: client info — principal label"
+source: "Principal"
+platforms:
+  - site
+localizations:
+  ar: "الكيان الأساسي"
+  de: "Principal"
+  en: "Principal"
+  es: "Principal"
+  ru: "Принципал"
+  zh: "主体"

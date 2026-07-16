@@ -1,0 +1,11 @@
+description: "Account panel: download WireGuard config (created card)"
+source: "Download WireGuard config"
+platforms:
+  - site
+localizations:
+  ar: "تنزيل إعدادات WireGuard"
+  de: "WireGuard-Konfiguration herunterladen"
+  en: "Download WireGuard config"
+  es: "Descargar configuración de WireGuard"
+  ru: "Скачать конфиг WireGuard"
+  zh: "下载WireGuard配置"

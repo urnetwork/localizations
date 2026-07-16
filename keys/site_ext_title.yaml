@@ -1,0 +1,11 @@
+description: "Extension status: section title"
+source: "Browser extension"
+platforms:
+  - site
+localizations:
+  ar: "إضافة المتصفح"
+  de: "Browser-Erweiterung"
+  en: "Browser extension"
+  es: "Extensión del navegador"
+  ru: "Расширение для браузера"
+  zh: "浏览器扩展"

@@ -1,0 +1,11 @@
+description: "App support: star rating label"
+source: "How are we doing?"
+platforms:
+  - site
+localizations:
+  ar: "ما رأيك في أدائنا؟"
+  de: "Wie machen wir uns?"
+  en: "How are we doing?"
+  es: "¿Cómo lo estamos haciendo?"
+  ru: "Как мы справляемся?"
+  zh: "我们做得怎么样？"

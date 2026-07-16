@@ -1,0 +1,11 @@
+description: "App connect screen: contract details section title"
+source: "Contracts"
+platforms:
+  - site
+localizations:
+  ar: "العقود"
+  de: "Verträge"
+  en: "Contracts"
+  es: "Contratos"
+  ru: "Контракты"
+  zh: "合约"

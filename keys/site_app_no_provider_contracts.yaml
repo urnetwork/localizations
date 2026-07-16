@@ -1,0 +1,11 @@
+description: "App provider: no provider contracts"
+source: "No active provider contracts."
+platforms:
+  - site
+localizations:
+  ar: "لا توجد عقود مزوّد نشطة."
+  de: "Keine aktiven Provider-Verträge."
+  en: "No active provider contracts."
+  es: "No hay contratos de proveedor activos."
+  ru: "Нет активных контрактов раздачи."
+  zh: "暂无活跃的提供者合约。"

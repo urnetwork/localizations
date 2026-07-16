@@ -1,0 +1,11 @@
+description: "App wallets/blocked: add button"
+source: "Add"
+platforms:
+  - site
+localizations:
+  ar: "إضافة"
+  de: "Hinzufügen"
+  en: "Add"
+  es: "Añadir"
+  ru: "Добавить"
+  zh: "添加"

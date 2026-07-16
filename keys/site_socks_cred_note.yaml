@@ -1,0 +1,11 @@
+description: "Account panel: SOCKS credential note"
+source: "Username is the token in the URL; password is empty."
+platforms:
+  - site
+localizations:
+  ar: "اسم المستخدم هو الرمز الموجود في الرابط؛ وكلمة المرور فارغة."
+  de: "Der Benutzername ist das Token in der URL; das Passwort ist leer."
+  en: "Username is the token in the URL; password is empty."
+  es: "El usuario es el token de la URL; la contraseña está vacía."
+  ru: "Имя пользователя — это токен из URL; пароль пустой."
+  zh: "用户名为URL中的令牌；密码为空。"

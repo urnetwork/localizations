@@ -1,0 +1,11 @@
+description: "App leaderboard: data shared label"
+source: "Data shared"
+platforms:
+  - site
+localizations:
+  ar: "البيانات المُشارَكة"
+  de: "Geteilte Daten"
+  en: "Data shared"
+  es: "Datos compartidos"
+  ru: "Передано данных"
+  zh: "已共享流量"

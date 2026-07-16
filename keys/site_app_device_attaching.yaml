@@ -1,0 +1,11 @@
+description: "App connect screen: device rpc attaching hint"
+source: "Attaching device controls…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ إرفاق عناصر التحكم بالجهاز…"
+  de: "Gerätesteuerung wird verbunden…"
+  en: "Attaching device controls…"
+  es: "Vinculando los controles del dispositivo…"
+  ru: "Подключение управления устройством…"
+  zh: "正在加载设备控制…"

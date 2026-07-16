@@ -1,0 +1,6 @@
+description: "Subscription: unknown platform fallback"
+source: "another platform"
+platforms:
+  - site
+localizations:
+  en: "another platform"

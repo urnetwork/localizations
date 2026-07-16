@@ -1,0 +1,6 @@
+description: "Connect drawer: connection mode Web"
+source: "Web"
+platforms:
+  - site
+localizations:
+  en: "Web"

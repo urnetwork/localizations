@@ -1,0 +1,11 @@
+description: "App: save button"
+source: "Save"
+platforms:
+  - site
+localizations:
+  ar: "حفظ"
+  de: "Speichern"
+  en: "Save"
+  es: "Guardar"
+  ru: "Сохранить"
+  zh: "保存"

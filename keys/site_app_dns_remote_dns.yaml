@@ -1,0 +1,11 @@
+description: "App connect DNS: remote plain DNS toggle"
+source: "Standard DNS through the tunnel"
+platforms:
+  - site
+localizations:
+  ar: "DNS قياسي عبر النفق"
+  de: "Standard-DNS durch den Tunnel"
+  en: "Standard DNS through the tunnel"
+  es: "DNS estándar a través del túnel"
+  ru: "Стандартный DNS через туннель"
+  zh: "通过隧道的标准DNS"

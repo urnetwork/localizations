@@ -1,0 +1,11 @@
+description: "App wallets: completed payout status"
+source: "Complete"
+platforms:
+  - site
+localizations:
+  ar: "مكتمل"
+  de: "Abgeschlossen"
+  en: "Complete"
+  es: "Completado"
+  ru: "Завершено"
+  zh: "已完成"

@@ -1,0 +1,11 @@
+description: "App profile: verified badge"
+source: "Verified"
+platforms:
+  - site
+localizations:
+  ar: "تم التحقق"
+  de: "Verifiziert"
+  en: "Verified"
+  es: "Verificado"
+  ru: "Подтверждено"
+  zh: "已验证"

@@ -1,0 +1,11 @@
+description: "App screens: retry button"
+source: "Try again"
+platforms:
+  - site
+localizations:
+  ar: "حاول مرة أخرى"
+  de: "Erneut versuchen"
+  en: "Try again"
+  es: "Intentar de nuevo"
+  ru: "Попробовать ещё раз"
+  zh: "重试"

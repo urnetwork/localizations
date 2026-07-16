@@ -1,0 +1,11 @@
+description: "App balance codes: empty state"
+source: "No balance codes redeemed yet"
+platforms:
+  - site
+localizations:
+  ar: "لم يتم استبدال أي رموز رصيد بعد"
+  de: "Noch keine Guthabencodes eingelöst"
+  en: "No balance codes redeemed yet"
+  es: "Aún no has canjeado códigos de saldo"
+  ru: "Пока нет активированных кодов баланса"
+  zh: "尚未兑换余额码"

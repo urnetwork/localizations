@@ -1,0 +1,11 @@
+description: "Account panel: location chooser list aria-label"
+source: "Locations"
+platforms:
+  - site
+localizations:
+  ar: "المواقع"
+  de: "Standorte"
+  en: "Locations"
+  es: "Ubicaciones"
+  ru: "Локации"
+  zh: "位置"

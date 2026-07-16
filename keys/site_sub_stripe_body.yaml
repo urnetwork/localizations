@@ -1,0 +1,6 @@
+description: "Subscription: Stripe-billed body"
+source: "Your Pro subscription is billed through Stripe. Update your payment details or cancel anytime below."
+platforms:
+  - site
+localizations:
+  en: "Your Pro subscription is billed through Stripe. Update your payment details or cancel anytime below."

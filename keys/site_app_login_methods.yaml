@@ -1,0 +1,11 @@
+description: "App profile: login methods section"
+source: "Login methods"
+platforms:
+  - site
+localizations:
+  ar: "طرق تسجيل الدخول"
+  de: "Anmeldemethoden"
+  en: "Login methods"
+  es: "Métodos de inicio de sesión"
+  ru: "Способы входа"
+  zh: "登录方式"

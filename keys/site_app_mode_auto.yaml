@@ -1,0 +1,6 @@
+description: "Connect drawer: connection mode Auto"
+source: "Auto"
+platforms:
+  - site
+localizations:
+  en: "Auto"

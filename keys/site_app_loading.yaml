@@ -1,0 +1,11 @@
+description: "App: loading state"
+source: "Loading…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ التحميل…"
+  de: "Wird geladen…"
+  en: "Loading…"
+  es: "Cargando…"
+  ru: "Загрузка…"
+  zh: "加载中…"
