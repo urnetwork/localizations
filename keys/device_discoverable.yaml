@@ -1,0 +1,36 @@
+description: "Status label shown when this device can be discovered by peers on the network."
+source: "This device is discoverable"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "هذا الجهاز قابل للاكتشاف"
+  cs: "Toto zařízení je viditelné pro ostatní"
+  de: "Dieses Gerät ist auffindbar"
+  el: "Αυτή η συσκευή είναι ανιχνεύσιμη"
+  en: "This device is discoverable"
+  es: "Este dispositivo es detectable"
+  es-419: "Este dispositivo es detectable"
+  es-MX: "Este dispositivo es detectable"
+  fr: "Cet appareil est détectable"
+  he: "מכשיר זה ניתן לגילוי"
+  hi: "यह डिवाइस खोजा जा सकता है"
+  id: "Perangkat ini dapat ditemukan"
+  it: "Questo dispositivo è rilevabile"
+  ja: "このデバイスは検出可能です"
+  ko: "이 기기는 검색될 수 있습니다"
+  nl: "Dit apparaat is vindbaar"
+  pl: "To urządzenie jest wykrywalne"
+  pt: "Este dispositivo é detetável"
+  pt-BR: "Este dispositivo é detectável"
+  pt-PT: "Este dispositivo é detetável"
+  ru: "Это устройство доступно для обнаружения"
+  sv: "Den här enheten är upptäckbar"
+  sw: "Kifaa hiki kinaweza kupatikana"
+  th: "อุปกรณ์นี้สามารถถูกค้นพบได้"
+  uk: "Цей пристрій доступний для виявлення"
+  vi: "Thiết bị này có thể được phát hiện"
+  zh: "此设备可被发现"
+  zh-HK: "此裝置可被發現"

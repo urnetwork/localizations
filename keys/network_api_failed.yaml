@@ -1,0 +1,36 @@
+description: "Error shown when switching the network API fails. The argument is the error message."
+source: "Failed: {error}"
+platforms:
+  - android
+placeholders:
+  - name: error
+    type: string
+localizations:
+  ar: "فشل: {error}"
+  cs: "Selhalo: {error}"
+  de: "Fehlgeschlagen: {error}"
+  el: "Απέτυχε: {error}"
+  en: "Failed: {error}"
+  es: "Falló: {error}"
+  es-419: "Falló: {error}"
+  es-MX: "Falló: {error}"
+  fr: "Échec : {error}"
+  he: "נכשל: {error}"
+  hi: "विफल: {error}"
+  id: "Gagal: {error}"
+  it: "Non riuscito: {error}"
+  ja: "失敗: {error}"
+  ko: "실패: {error}"
+  nl: "Mislukt: {error}"
+  pl: "Niepowodzenie: {error}"
+  pt: "Falhou: {error}"
+  pt-BR: "Falhou: {error}"
+  pt-PT: "Falhou: {error}"
+  ru: "Сбой: {error}"
+  sv: "Misslyckades: {error}"
+  sw: "Imeshindikana: {error}"
+  th: "ล้มเหลว: {error}"
+  uk: "Помилка: {error}"
+  vi: "Thất bại: {error}"
+  zh: "失败：{error}"
+  zh-HK: "失敗：{error}"

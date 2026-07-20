@@ -1,0 +1,36 @@
+description: "Confirmation after switching the network API. The argument is the new network domain."
+source: "Switched to {domain}"
+platforms:
+  - android
+placeholders:
+  - name: domain
+    type: string
+localizations:
+  ar: "تم التبديل إلى {domain}"
+  cs: "Přepnuto na {domain}"
+  de: "Gewechselt zu {domain}"
+  el: "Έγινε εναλλαγή σε {domain}"
+  en: "Switched to {domain}"
+  es: "Cambiado a {domain}"
+  es-419: "Cambiado a {domain}"
+  es-MX: "Cambiado a {domain}"
+  fr: "Passé à {domain}"
+  he: "הוחלף אל {domain}"
+  hi: "{domain} पर स्विच किया गया"
+  id: "Beralih ke {domain}"
+  it: "Passato a {domain}"
+  ja: "{domain} に切り替えました"
+  ko: "{domain}(으)로 전환했습니다"
+  nl: "Overgeschakeld naar {domain}"
+  pl: "Przełączono na {domain}"
+  pt: "Mudou para {domain}"
+  pt-BR: "Alterado para {domain}"
+  pt-PT: "Mudou para {domain}"
+  ru: "Переключено на {domain}"
+  sv: "Bytte till {domain}"
+  sw: "Imebadilishwa hadi {domain}"
+  th: "สลับไปที่ {domain} แล้ว"
+  uk: "Переключено на {domain}"
+  vi: "Đã chuyển sang {domain}"
+  zh: "已切换到 {domain}"
+  zh-HK: "已切換至 {domain}"

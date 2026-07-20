@@ -1,6 +1,8 @@
 description: "Direction label for the stack of contracts receiving data from a peer, shown next to Send."
 source: "Receive"
 platforms:
+  - android
+  - apple
   - windows
 localizations:
   ar: "استقبل"

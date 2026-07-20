@@ -3,6 +3,7 @@ description_auto: true
 source: "%lld IPs"
 platforms:
   - android
+  - apple
   - linux
   - windows
 placeholders:

@@ -1,8 +1,7 @@
-description: "dns settings"
+description: "DNS status pill shown when the default safe DNS settings are not applied."
 source: "The default safe settings are not applied"
 platforms:
-  - apple
-  - linux
+  - android
 localizations:
   ar: "الإعدادات الآمنة الافتراضية غير مطبقة"
   cs: "Výchozí bezpečná nastavení nejsou použita"

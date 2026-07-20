@@ -1,6 +1,8 @@
 description: "A faint scale-reference label under a stack of contract circles, giving the size of the largest contract in the stack. The argument is a formatted byte size (e.g. \"128 MiB\")."
 source: "max {size}"
 platforms:
+  - android
+  - linux
   - windows
 placeholders:
   - name: size

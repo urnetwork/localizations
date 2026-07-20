@@ -2,5 +2,6 @@ description: "Provide control mode option that provides bandwidth only to peers 
 source: "Network"
 platforms:
   - android
+  - apple
 localizations:
   en: "Network"

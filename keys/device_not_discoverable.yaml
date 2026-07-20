@@ -1,0 +1,36 @@
+description: "Hint shown when the device is not discoverable because provide mode is off."
+source: "Enable provide mode to make this device discoverable"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "فعّل وضع التوفير لجعل هذا الجهاز قابلاً للاكتشاف"
+  cs: "Zapněte režim poskytování, aby bylo toto zařízení viditelné"
+  de: "Aktiviere den Bereitstellungsmodus, um dieses Gerät auffindbar zu machen"
+  el: "Ενεργοποιήστε τη λειτουργία παροχής για να γίνει αυτή η συσκευή ανιχνεύσιμη"
+  en: "Enable provide mode to make this device discoverable"
+  es: "Activa el modo de provisión para que este dispositivo sea detectable"
+  es-419: "Activa el modo de provisión para que este dispositivo sea detectable"
+  es-MX: "Activa el modo de provisión para que este dispositivo sea detectable"
+  fr: "Activez le mode de fourniture pour rendre cet appareil détectable"
+  he: "הפעל את מצב האספקה כדי שהמכשיר יהיה ניתן לגילוי"
+  hi: "इस डिवाइस को खोजने योग्य बनाने के लिए प्रदान मोड चालू करें"
+  id: "Aktifkan mode penyediaan agar perangkat ini dapat ditemukan"
+  it: "Attiva la modalità di fornitura per rendere rilevabile questo dispositivo"
+  ja: "提供モードを有効にすると、このデバイスが検出可能になります"
+  ko: "제공 모드를 켜면 이 기기가 검색될 수 있습니다"
+  nl: "Schakel de leveringsmodus in om dit apparaat vindbaar te maken"
+  pl: "Włącz tryb udostępniania, aby to urządzenie było wykrywalne"
+  pt: "Ative o modo de fornecimento para tornar este dispositivo detetável"
+  pt-BR: "Ative o modo de fornecimento para tornar este dispositivo detectável"
+  pt-PT: "Ative o modo de fornecimento para tornar este dispositivo detetável"
+  ru: "Включите режим предоставления, чтобы это устройство было доступно для обнаружения"
+  sv: "Aktivera tillhandahållandeläget för att göra enheten upptäckbar"
+  sw: "Washa hali ya utoaji ili kifaa hiki kiweze kupatikana"
+  th: "เปิดโหมดการให้บริการเพื่อให้อุปกรณ์นี้ถูกค้นพบได้"
+  uk: "Увімкніть режим надання, щоб цей пристрій був доступний для виявлення"
+  vi: "Bật chế độ cung cấp để thiết bị này có thể được phát hiện"
+  zh: "启用提供模式以使此设备可被发现"
+  zh-HK: "啟用提供模式以使此裝置可被發現"

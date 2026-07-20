@@ -1,0 +1,37 @@
+description: "Shows the connect URL currently in use. The argument is the URL."
+source: "Current connect: {url}"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: url
+    type: string
+localizations:
+  ar: "Connect الحالي: {url}"
+  cs: "Aktuální connect: {url}"
+  de: "Aktueller Connect: {url}"
+  el: "Τρέχον connect: {url}"
+  en: "Current connect: {url}"
+  es: "Connect actual: {url}"
+  es-419: "Connect actual: {url}"
+  es-MX: "Connect actual: {url}"
+  fr: "Connect actuel : {url}"
+  he: "ה-connect הנוכחי: {url}"
+  hi: "वर्तमान connect: {url}"
+  id: "Connect saat ini: {url}"
+  it: "Connect attuale: {url}"
+  ja: "現在の Connect: {url}"
+  ko: "현재 connect: {url}"
+  nl: "Huidige connect: {url}"
+  pl: "Bieżący connect: {url}"
+  pt: "Connect atual: {url}"
+  pt-BR: "Connect atual: {url}"
+  pt-PT: "Connect atual: {url}"
+  ru: "Текущий connect: {url}"
+  sv: "Aktuell connect: {url}"
+  sw: "Connect ya sasa: {url}"
+  th: "Connect ปัจจุบัน: {url}"
+  uk: "Поточний connect: {url}"
+  vi: "Connect hiện tại: {url}"
+  zh: "当前 connect：{url}"
+  zh-HK: "目前 connect：{url}"

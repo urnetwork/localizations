@@ -1,0 +1,37 @@
+description: "Shows the API URL currently in use. The argument is the URL."
+source: "Current API: {url}"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: url
+    type: string
+localizations:
+  ar: "واجهة API الحالية: {url}"
+  cs: "Aktuální API: {url}"
+  de: "Aktuelle API: {url}"
+  el: "Τρέχον API: {url}"
+  en: "Current API: {url}"
+  es: "API actual: {url}"
+  es-419: "API actual: {url}"
+  es-MX: "API actual: {url}"
+  fr: "API actuelle : {url}"
+  he: "ה-API הנוכחי: {url}"
+  hi: "वर्तमान API: {url}"
+  id: "API saat ini: {url}"
+  it: "API attuale: {url}"
+  ja: "現在のAPI: {url}"
+  ko: "현재 API: {url}"
+  nl: "Huidige API: {url}"
+  pl: "Bieżące API: {url}"
+  pt: "API atual: {url}"
+  pt-BR: "API atual: {url}"
+  pt-PT: "API atual: {url}"
+  ru: "Текущий API: {url}"
+  sv: "Aktuellt API: {url}"
+  sw: "API ya sasa: {url}"
+  th: "API ปัจจุบัน: {url}"
+  uk: "Поточний API: {url}"
+  vi: "API hiện tại: {url}"
+  zh: "当前 API：{url}"
+  zh-HK: "目前 API：{url}"

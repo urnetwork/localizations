@@ -1,0 +1,36 @@
+description: "Status label shown when this device can be discovered by peers, with the device's visible name. The argument is the device name."
+source: "This device is discoverable as {name}"
+platforms:
+  - android
+placeholders:
+  - name: name
+    type: string
+localizations:
+  ar: "هذا الجهاز قابل للاكتشاف باسم {name}"
+  cs: "Toto zařízení je viditelné jako {name}"
+  de: "Dieses Gerät ist auffindbar als {name}"
+  el: "Αυτή η συσκευή είναι ανιχνεύσιμη ως {name}"
+  en: "This device is discoverable as {name}"
+  es: "Este dispositivo es detectable como {name}"
+  es-419: "Este dispositivo es detectable como {name}"
+  es-MX: "Este dispositivo es detectable como {name}"
+  fr: "Cet appareil est détectable sous le nom {name}"
+  he: "מכשיר זה ניתן לגילוי בשם {name}"
+  hi: "यह डिवाइस {name} के रूप में खोजा जा सकता है"
+  id: "Perangkat ini dapat ditemukan sebagai {name}"
+  it: "Questo dispositivo è rilevabile come {name}"
+  ja: "このデバイスは {name} として検出可能です"
+  ko: "이 기기는 {name}(으)로 검색될 수 있습니다"
+  nl: "Dit apparaat is vindbaar als {name}"
+  pl: "To urządzenie jest wykrywalne jako {name}"
+  pt: "Este dispositivo é detetável como {name}"
+  pt-BR: "Este dispositivo é detectável como {name}"
+  pt-PT: "Este dispositivo é detetável como {name}"
+  ru: "Это устройство доступно для обнаружения как {name}"
+  sv: "Den här enheten är upptäckbar som {name}"
+  sw: "Kifaa hiki kinaweza kupatikana kama {name}"
+  th: "อุปกรณ์นี้สามารถถูกค้นพบในชื่อ {name}"
+  uk: "Цей пристрій доступний для виявлення як {name}"
+  vi: "Thiết bị này có thể được phát hiện với tên {name}"
+  zh: "此设备可被发现，名称为 {name}"
+  zh-HK: "此裝置可被發現，名稱為 {name}"
