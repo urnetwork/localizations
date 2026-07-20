@@ -1,0 +1,6 @@
+description: "Provide control mode option that provides bandwidth only to peers in the same network."
+source: "Network"
+platforms:
+  - android
+localizations:
+  en: "Network"
