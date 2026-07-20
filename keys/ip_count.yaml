@@ -1,0 +1,16 @@
+description: "A label showing the number of IP addresses in a block action cluster, rendered as a single pill. The argument is the number of IPs."
+description_auto: true
+source: "%lld IPs"
+platforms:
+  - android
+  - linux
+  - windows
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} IP"
+    other: "{count} IPs"

@@ -1,0 +1,6 @@
+description: "Subtitle shown under the Quick Settings tile when the VPN is connected."
+source: "Connected"
+platforms:
+  - android
+localizations:
+  en: "Connected"

@@ -1,0 +1,7 @@
+description: "dns settings"
+source: "The default safe settings are not applied"
+platforms:
+  - apple
+  - linux
+localizations:
+  en: "The default safe settings are not applied"

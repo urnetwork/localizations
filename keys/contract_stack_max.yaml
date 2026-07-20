@@ -1,0 +1,36 @@
+description: "A faint scale-reference label under a stack of contract circles, giving the size of the largest contract in the stack. The argument is a formatted byte size (e.g. \"128 MiB\")."
+source: "max {size}"
+platforms:
+  - windows
+placeholders:
+  - name: size
+    type: string
+localizations:
+  ar: "الحد الأقصى {size}"
+  cs: "max {size}"
+  de: "max {size}"
+  el: "μέγ. {size}"
+  en: "max {size}"
+  es: "máx {size}"
+  es-419: "máx {size}"
+  es-MX: "máx {size}"
+  fr: "max {size}"
+  he: "מקס׳ {size}"
+  hi: "अधिकतम {size}"
+  id: "maks {size}"
+  it: "max {size}"
+  ja: "最大 {size}"
+  ko: "최대 {size}"
+  nl: "max {size}"
+  pl: "maks {size}"
+  pt: "máx {size}"
+  pt-BR: "máx {size}"
+  pt-PT: "máx {size}"
+  ru: "макс {size}"
+  sv: "max {size}"
+  sw: "kiwango cha juu {size}"
+  th: "สูงสุด {size}"
+  uk: "макс {size}"
+  vi: "tối đa {size}"
+  zh: "最大 {size}"
+  zh-HK: "最大 {size}"

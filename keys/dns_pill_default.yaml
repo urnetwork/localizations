@@ -1,0 +1,6 @@
+description: "dns settings"
+source: "The default safe settings are not applied"
+platforms:
+  - windows
+localizations:
+  en: "The default safe settings are not applied"

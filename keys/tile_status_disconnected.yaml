@@ -1,0 +1,6 @@
+description: "Subtitle shown under the Quick Settings tile when the VPN is disconnected."
+source: "Disconnected"
+platforms:
+  - android
+localizations:
+  en: "Disconnected"

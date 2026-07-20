@@ -1,0 +1,10 @@
+description: "dns settings"
+source: "There are unapplied recommended settings for %@"
+platforms:
+  - apple
+  - linux
+placeholders:
+  - name: country
+    type: string
+localizations:
+  en: "There are unapplied recommended settings for {country}"

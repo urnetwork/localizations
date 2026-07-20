@@ -1,0 +1,7 @@
+description: "Generic starter label on the app-split panel when no apps are included or excluded yet (shown instead of \"0 apps excluded\")."
+description_auto: true
+source: "0 split apps"
+platforms:
+  - android
+localizations:
+  en: "0 split apps"
