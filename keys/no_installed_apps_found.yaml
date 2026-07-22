@@ -1,0 +1,6 @@
+description: "App split rules: empty state when no installed apps were enumerated."
+source: "No installed apps found. (Store apps aren't listed.)"
+platforms:
+  - windows
+localizations:
+  en: "No installed apps found. (Store apps aren't listed.)"

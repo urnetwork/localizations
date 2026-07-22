@@ -2,6 +2,7 @@ description: "A choice for connecting to a tunnel in streaming mode."
 description_auto: true
 source: "Streaming"
 platforms:
+  - windows
   - android
   - apple
   - linux

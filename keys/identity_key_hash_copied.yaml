@@ -1,0 +1,10 @@
+description: "Post quantum identity: toast after tapping an identity key hash to copy it."
+source: "Identity key hash copied"
+platforms:
+  - site
+  - linux
+  - windows
+  - android
+  - apple
+localizations:
+  en: "Identity key hash copied"

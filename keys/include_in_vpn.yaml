@@ -1,0 +1,6 @@
+description: "App split rules: rule choice routing the app through the VPN."
+source: "Include in VPN"
+platforms:
+  - windows
+localizations:
+  en: "Include in VPN"

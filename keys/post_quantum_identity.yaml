@@ -1,0 +1,10 @@
+description: "Account tab: post quantum identity panel title."
+source: "Post Quantum Identity"
+platforms:
+  - site
+  - linux
+  - windows
+  - android
+  - apple
+localizations:
+  en: "Post Quantum Identity"

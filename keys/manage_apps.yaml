@@ -1,0 +1,6 @@
+description: "Split tunnel settings: button opening the app split rules sheet."
+source: "Manage apps"
+platforms:
+  - windows
+localizations:
+  en: "Manage apps"

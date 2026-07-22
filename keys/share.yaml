@@ -1,6 +1,10 @@
 description: "Call to action"
 source: "Share"
 platforms:
+  - site
+  - linux
+  - windows
+  - apple
   - android
 localizations:
   ar: "شارك"

@@ -1,0 +1,10 @@
+description: "Connect drawer: note under the post quantum encryption toggle. Plaintext fallback applies when the provider does not support the e2e sessions."
+source: "Fallback enabled (temporary)"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - site
+localizations:
+  en: "Fallback enabled (temporary)"

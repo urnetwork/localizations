@@ -1,0 +1,6 @@
+description: "App split rules: rule choice sending the app around the VPN (local route)."
+source: "Bypass VPN"
+platforms:
+  - windows
+localizations:
+  en: "Bypass VPN"

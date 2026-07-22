@@ -1,6 +1,8 @@
 description: "transfer stats and split rules"
 source: "Client ID copied"
 platforms:
+  - site
+  - windows
   - android
   - apple
   - linux

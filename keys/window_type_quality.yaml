@@ -2,6 +2,7 @@ description: "A button label that says \"Web\"."
 description_auto: true
 source: "Web"
 platforms:
+  - windows
   - android
   - apple
   - linux

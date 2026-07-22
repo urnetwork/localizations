@@ -1,7 +1,8 @@
-description: "Used in Main/Account/BlockedLocations/BlockedLocationsView.swift."
+description: "Delete button label. Apple: Main/Account/BlockedLocations/BlockedLocationsView.swift. Android: the swipe-to-reveal delete button label (SwipeToRevealRow)."
 source: "Delete"
 platforms:
   - apple
+  - android
 localizations:
   ar: "حذف"
   cs: "Odstranit"

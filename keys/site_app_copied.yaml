@@ -1,7 +1,8 @@
-description: "App: copied flash"
+description: "App: copied flash. Also the linux share-dialog toast after copying the identity payload."
 source: "Copied"
 platforms:
   - site
+  - linux
 localizations:
   ar: "تم النسخ"
   de: "Kopiert"

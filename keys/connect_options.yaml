@@ -2,6 +2,8 @@ description: "A label displayed above the options for connecting to a tunnel."
 description_auto: true
 source: "Connect options"
 platforms:
+  - android
+  - windows
   - apple
   - linux
 localizations:

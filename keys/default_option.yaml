@@ -1,0 +1,6 @@
+description: "Generic default choice label, e.g. the app split rule combo state meaning no rule."
+source: "Default"
+platforms:
+  - windows
+localizations:
+  en: "Default"

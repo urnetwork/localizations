@@ -1,0 +1,10 @@
+description: "Connect drawer: post quantum encryption toggle label."
+source: "Post Quantum Encryption"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - site
+localizations:
+  en: "Post Quantum Encryption"

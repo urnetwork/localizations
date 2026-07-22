@@ -2,6 +2,7 @@ description: "A toggle that allows users to enable or disable a fixed IP for the
 description_auto: true
 source: "Fixed IP"
 platforms:
+  - windows
   - android
   - apple
   - linux

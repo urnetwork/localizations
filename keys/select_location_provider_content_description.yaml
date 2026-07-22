@@ -1,0 +1,6 @@
+description: "Connect drawer: accessibility label for the globe icon that opens the provider selection list."
+source: "Select location provider globe"
+platforms:
+  - android
+localizations:
+  en: "Select location provider globe"
