@@ -1,0 +1,8 @@
+description: "Replaces the network peer count/list while the app is not attached to its remote device (the network extension or service rpc is down — not connected): the peer state lives in the remote device, so the stat is unavailable rather than zero. Shown with a gray dot."
+source: "Peer discovery disabled until connected"
+platforms:
+  - apple
+  - windows
+  - site
+localizations:
+  en: "Peer discovery disabled until connected"
