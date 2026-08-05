@@ -1,0 +1,7 @@
+description: "Placeholder text for the email field."
+description_auto: true
+source: "your@email.com"
+platforms:
+  - apple
+localizations:
+  en: "your@email.com"

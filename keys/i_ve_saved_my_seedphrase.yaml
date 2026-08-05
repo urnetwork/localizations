@@ -1,0 +1,7 @@
+description: "Button text for confirming that the user has saved their seedphrase."
+description_auto: true
+source: "I've Saved My Seedphrase"
+platforms:
+  - apple
+localizations:
+  en: "I've Saved My Seedphrase"

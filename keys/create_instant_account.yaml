@@ -1,0 +1,7 @@
+description: "A title for the screen where a user can create an instant account."
+description_auto: true
+source: "Create Instant Account"
+platforms:
+  - apple
+localizations:
+  en: "Create Instant Account"

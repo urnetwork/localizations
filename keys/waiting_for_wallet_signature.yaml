@@ -1,0 +1,7 @@
+description: "A message displayed when waiting for a wallet signature."
+description_auto: true
+source: "Waiting for wallet signature..."
+platforms:
+  - apple
+localizations:
+  en: "Waiting for wallet signature..."

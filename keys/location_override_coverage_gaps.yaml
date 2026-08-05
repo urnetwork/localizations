@@ -1,0 +1,6 @@
+description: "Setup guide and info popup on linux: the honest limits of the device location override. Paired with location_override_coverage_geoclue."
+source: "It does not cover everything. Chrome and KDE Plasma never ask GeoClue, and any app that works out your location from your IP address on its own is unaffected. Firefox falls back to its own lookup if the system does not answer quickly."
+platforms:
+  - linux
+localizations:
+  en: "It does not cover everything. Chrome and KDE Plasma never ask GeoClue, and any app that works out your location from your IP address on its own is unaffected. Firefox falls back to its own lookup if the system does not answer quickly."

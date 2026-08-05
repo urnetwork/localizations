@@ -1,0 +1,7 @@
+description: "A method of adding a sign-in method."
+description_auto: true
+source: "Apple"
+platforms:
+  - apple
+localizations:
+  en: "Apple"

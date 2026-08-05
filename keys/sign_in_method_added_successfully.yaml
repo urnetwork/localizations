@@ -1,0 +1,7 @@
+description: "Snackbar message displayed when a sign-in method is successfully added."
+description_auto: true
+source: "Sign-in method added successfully"
+platforms:
+  - apple
+localizations:
+  en: "Sign-in method added successfully"

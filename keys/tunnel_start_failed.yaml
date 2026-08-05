@@ -1,0 +1,6 @@
+description: "Generic fallback on the linux home screen when the urnetworkd system service accepted the request but starting the VPN tunnel failed and no more specific error text is available."
+source: "Could not start the connection"
+platforms:
+  - linux
+localizations:
+  en: "Could not start the connection"

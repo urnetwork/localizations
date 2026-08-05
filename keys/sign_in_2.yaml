@@ -1,0 +1,7 @@
+description: "Button text for signing in with a seedphrase."
+description_auto: true
+source: "Sign In"
+platforms:
+  - apple
+localizations:
+  en: "Sign In"

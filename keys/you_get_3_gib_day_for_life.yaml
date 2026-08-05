@@ -1,0 +1,7 @@
+description: "Text displayed in a scrollable view within a VStack in the body of a view that is displayed when the user is viewing their referral code."
+description_auto: true
+source: "You get 3 GiB/day for life"
+platforms:
+  - apple
+localizations:
+  en: "You get 3 GiB/day for life"

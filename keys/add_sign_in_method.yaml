@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "Add sign-in method"
+platforms:
+  - apple
+localizations:
+  en: "Add sign-in method"

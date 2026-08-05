@@ -1,0 +1,7 @@
+description: "A placeholder text for the seedphrase field."
+description_auto: true
+source: "Paste your 24-word seedphrase here"
+platforms:
+  - apple
+localizations:
+  en: "Paste your 24-word seedphrase here"

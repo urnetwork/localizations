@@ -1,0 +1,7 @@
+description: "Shown instead of the provider list when the device's window state cannot be read, because the network extension hosting it is not running. Never present an empty list as \"no providers\" in that case."
+source: "Provider details are unavailable until connected"
+platforms:
+  - apple
+  - windows
+localizations:
+  en: "Provider details are unavailable until connected"

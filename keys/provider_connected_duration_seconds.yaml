@@ -1,0 +1,39 @@
+description: "Compact duration a provider has been connected, as seconds (e.g. 42s)."
+source: "%llds"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: seconds
+    type: int
+localizations:
+  ar: "{seconds} ث"
+  cs: "{seconds} s"
+  de: "{seconds} Sek."
+  el: "{seconds} δ."
+  en: "{seconds}s"
+  es: "{seconds} s"
+  es-419: "{seconds} s"
+  es-MX: "{seconds} s"
+  fr: "{seconds} s"
+  he: "{seconds} שנ׳"
+  hi: "{seconds} से."
+  id: "{seconds} dtk"
+  it: "{seconds} s"
+  ja: "{seconds}秒"
+  ko: "{seconds}초"
+  nl: "{seconds} s"
+  pl: "{seconds} s"
+  pt: "{seconds} s"
+  pt-BR: "{seconds} s"
+  pt-PT: "{seconds} s"
+  ru: "{seconds} с"
+  sv: "{seconds} s"
+  sw: "sek {seconds}"
+  th: "{seconds} วิ"
+  uk: "{seconds} с"
+  vi: "{seconds} giây"
+  zh: "{seconds}秒"
+  zh-HK: "{seconds}秒"

@@ -1,0 +1,10 @@
+description: "A progress bar that shows how many friends you've invited. The first argument is the number of friends you've invited. The second argument is the maximum number of friends you can invite."
+description_auto: true
+source: "%lld/20"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "{count}/20"

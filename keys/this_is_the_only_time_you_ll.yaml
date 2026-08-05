@@ -1,0 +1,7 @@
+description: "A warning message displayed in the seedphrase display view."
+description_auto: true
+source: "⚠️ This is the ONLY time you'll see this."
+platforms:
+  - apple
+localizations:
+  en: "⚠️ This is the ONLY time you'll see this."

@@ -1,0 +1,36 @@
+description: "Empty state of the provider locations sheet when no providers are connected."
+source: "No providers connected"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "لم يتم الاتصال بأي مزود خدمة"
+  cs: "Žádní připojení poskytovatelé"
+  de: "Keine Anbieter verbunden"
+  el: "Δεν υπάρχουν συνδεδεμένοι πάροχοι"
+  en: "No providers connected"
+  es: "No hay proveedores conectados"
+  es-419: "No hay proveedores conectados"
+  es-MX: "No hay proveedores conectados"
+  fr: "Aucun fournisseur connecté"
+  he: "אין ספקים מחוברים"
+  hi: "कोई प्रदाता कनेक्ट नहीं है"
+  id: "Tidak ada penyedia yang terhubung"
+  it: "Nessun provider connesso"
+  ja: "接続中のプロバイダーはありません"
+  ko: "연결된 제공업체가 없습니다"
+  nl: "Geen providers verbonden"
+  pl: "Brak połączonych dostawców"
+  pt: "Nenhum fornecedor ligado"
+  pt-BR: "Nenhum provedor conectado"
+  pt-PT: "Nenhum fornecedor conectado"
+  ru: "Нет подключенных провайдеров"
+  sv: "Inga leverantörer anslutna"
+  sw: "Hakuna watoa huduma waliounganishwa"
+  th: "ไม่มีผู้ให้บริการที่เชื่อมต่ออยู่"
+  uk: "Немає підключених провайдерів"
+  vi: "Không có nhà cung cấp nào được kết nối"
+  zh: "未连接任何提供商"
+  zh-HK: "未連接任何供應商"

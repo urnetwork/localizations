@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "Loading sign-in methods..."
+platforms:
+  - apple
+localizations:
+  en: "Loading sign-in methods..."

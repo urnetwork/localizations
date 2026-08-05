@@ -1,0 +1,6 @@
+description: "Error state on linux: URnetwork wrote the system location file and can no longer remove it, so the machine may still be reporting a provider's location. Gives the user the recovery steps."
+source: "URnetwork could not remove the system location file, so this machine may still report a provider's location. Start the URnetwork system service and turn this off, or remove /etc/geolocation as an administrator."
+platforms:
+  - linux
+localizations:
+  en: "URnetwork could not remove the system location file, so this machine may still report a provider's location. Start the URnetwork system service and turn this off, or remove /etc/geolocation as an administrator."

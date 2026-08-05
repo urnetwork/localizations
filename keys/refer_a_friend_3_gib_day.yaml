@@ -1,0 +1,7 @@
+description: "A bullet point in the introduction view that describes how much extra bandwidth you can earn by referring a friend."
+description_auto: true
+source: "Refer a friend = +3 GiB/Day"
+platforms:
+  - apple
+localizations:
+  en: "Refer a friend = +3 GiB/Day"

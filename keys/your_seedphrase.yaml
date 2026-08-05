@@ -1,0 +1,7 @@
+description: "A title displayed above the user's seedphrase."
+description_auto: true
+source: "Your Seedphrase"
+platforms:
+  - apple
+localizations:
+  en: "Your Seedphrase"

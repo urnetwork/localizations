@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "Sign in with Seedphrase"
+platforms:
+  - apple
+localizations:
+  en: "Sign in with Seedphrase"

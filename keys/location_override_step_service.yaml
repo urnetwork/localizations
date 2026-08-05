@@ -1,0 +1,6 @@
+description: "Setup guide step on linux: the privileged helper needed to write the system location file. Reassures the user that the app itself never needs root."
+source: "Install the URnetwork system service. The system location file lives under /etc, so a privileged helper has to write it — URnetwork never asks you to run the app itself as an administrator."
+platforms:
+  - linux
+localizations:
+  en: "Install the URnetwork system service. The system location file lives under /etc, so a privileged helper has to write it — URnetwork never asks you to run the app itself as an administrator."

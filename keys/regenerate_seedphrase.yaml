@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "Regenerate Seedphrase"
+platforms:
+  - apple
+localizations:
+  en: "Regenerate Seedphrase"

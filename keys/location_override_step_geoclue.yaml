@@ -1,0 +1,6 @@
+description: "Setup guide step on linux: the GeoClue version requirement for the device location override."
+source: "Install GeoClue 2.7 or newer. It is not on every system, and Ubuntu 22.04 and Debian 12 ship an older version that cannot do this."
+platforms:
+  - linux
+localizations:
+  en: "Install GeoClue 2.7 or newer. It is not on every system, and Ubuntu 22.04 and Debian 12 ship an older version that cannot do this."

@@ -1,0 +1,7 @@
+description: "Text displayed in a scrollable view within a VStack in the body of a view that is displayed in a modal."
+description_auto: true
+source: "Your friend gets 3 GiB/day for life"
+platforms:
+  - apple
+localizations:
+  en: "Your friend gets 3 GiB/day for life"

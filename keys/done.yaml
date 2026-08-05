@@ -1,0 +1,7 @@
+description: "A button that dismisses a sheet."
+description_auto: true
+source: "Done"
+platforms:
+  - apple
+localizations:
+  en: "Done"

@@ -1,0 +1,10 @@
+description: "A label displaying the current connect URL."
+description_auto: true
+source: "Current connect: %@"
+platforms:
+  - apple
+placeholders:
+  - name: host
+    type: string
+localizations:
+  en: "Current connect: {host}"

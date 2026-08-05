@@ -1,0 +1,10 @@
+description: "A label at the bottom of the contract stack"
+description_auto: true
+source: "max %@"
+platforms:
+  - apple
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  en: "max {amount}"

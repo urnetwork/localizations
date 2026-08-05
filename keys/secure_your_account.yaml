@@ -1,0 +1,7 @@
+description: "The title of the screen."
+description_auto: true
+source: "Secure Your Account"
+platforms:
+  - apple
+localizations:
+  en: "Secure Your Account"

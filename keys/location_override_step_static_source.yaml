@@ -1,0 +1,6 @@
+description: "Setup guide step on linux: keep GeoClue's static location source enabled so the override is read."
+source: "Keep GeoClue's static location source enabled. It is on by default; check /etc/geoclue/geoclue.conf if you have changed it."
+platforms:
+  - linux
+localizations:
+  en: "Keep GeoClue's static location source enabled. It is on by default; check /etc/geoclue/geoclue.conf if you have changed it."

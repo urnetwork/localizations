@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "Generate"
+platforms:
+  - apple
+localizations:
+  en: "Generate"

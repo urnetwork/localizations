@@ -1,0 +1,10 @@
+description: "A label showing the public key of the connected wallet."
+description_auto: true
+source: "Connected: %@..."
+platforms:
+  - apple
+placeholders:
+  - name: address
+    type: string
+localizations:
+  en: "Connected: {address}..."

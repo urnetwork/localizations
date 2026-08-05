@@ -1,0 +1,7 @@
+description: "A description of the Apple Sign-In process."
+description_auto: true
+source: "Sign in with your Apple ID to add it as a sign-in method."
+platforms:
+  - apple
+localizations:
+  en: "Sign in with your Apple ID to add it as a sign-in method."

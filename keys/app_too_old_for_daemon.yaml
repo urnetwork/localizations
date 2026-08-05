@@ -1,0 +1,6 @@
+description: "Shown on the linux home screen when the urnetworkd system service rejected this app for speaking an older control protocol than the service supports. The fix is updating the app, not the service."
+source: "This app is older than the installed URnetwork system service. Update the app to connect."
+platforms:
+  - linux
+localizations:
+  en: "This app is older than the installed URnetwork system service. Update the app to connect."

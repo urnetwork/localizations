@@ -1,0 +1,6 @@
+description: "Shown on the linux home screen when the privileged urnetworkd system service cannot be reached over its control socket (not installed, not running, or the user lacks access). Distinct from daemon_too_old by contract."
+source: "The URnetwork system service is not running. Install or start it, then try again."
+platforms:
+  - linux
+localizations:
+  en: "The URnetwork system service is not running. Install or start it, then try again."

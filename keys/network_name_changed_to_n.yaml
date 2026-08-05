@@ -1,0 +1,10 @@
+description: "A message that is displayed in a snackbar when the user changes the network name. The argument is the new network name."
+description_auto: true
+source: "Network name changed to %@"
+platforms:
+  - apple
+placeholders:
+  - name: name
+    type: string
+localizations:
+  en: "Network name changed to {name}"

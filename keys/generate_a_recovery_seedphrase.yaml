@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "Generate a recovery seedphrase?"
+platforms:
+  - apple
+localizations:
+  en: "Generate a recovery seedphrase?"

@@ -1,0 +1,7 @@
+description: "A description of how to sign in with Google."
+description_auto: true
+source: "Sign in with Google to add it as a sign-in method."
+platforms:
+  - apple
+localizations:
+  en: "Sign in with Google to add it as a sign-in method."

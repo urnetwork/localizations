@@ -1,0 +1,41 @@
+description: "Compact duration a provider has been connected, as hours and minutes (e.g. 3h 24m). {hours} is the whole hours, {minutes} the remaining minutes."
+source: "%1$lldh %2$lldm"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: hours
+    type: int
+  - name: minutes
+    type: int
+localizations:
+  ar: "{hours} س {minutes} د"
+  cs: "{hours} h {minutes} min"
+  de: "{hours} Std. {minutes} Min."
+  el: "{hours} ώ. {minutes} λ."
+  en: "{hours}h {minutes}m"
+  es: "{hours} h {minutes} min"
+  es-419: "{hours} h {minutes} min"
+  es-MX: "{hours} h {minutes} min"
+  fr: "{hours} h {minutes} min"
+  he: "{hours} שע׳ {minutes} דק׳"
+  hi: "{hours} घं. {minutes} मि."
+  id: "{hours} j {minutes} mnt"
+  it: "{hours} h {minutes} min"
+  ja: "{hours}時間{minutes}分"
+  ko: "{hours}시간 {minutes}분"
+  nl: "{hours} u {minutes} min"
+  pl: "{hours} godz. {minutes} min"
+  pt: "{hours} h {minutes} min"
+  pt-BR: "{hours} h {minutes} min"
+  pt-PT: "{hours} h {minutes} min"
+  ru: "{hours} ч {minutes} мин"
+  sv: "{hours} tim {minutes} min"
+  sw: "saa {hours} dak {minutes}"
+  th: "{hours} ชม. {minutes} นาที"
+  uk: "{hours} год {minutes} хв"
+  vi: "{hours} giờ {minutes} phút"
+  zh: "{hours}小时{minutes}分钟"
+  zh-HK: "{hours}小時{minutes}分鐘"

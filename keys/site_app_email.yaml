@@ -1,6 +1,7 @@
 description: "App profile: email label"
 source: "Email"
 platforms:
+  - apple
   - site
 localizations:
   ar: "البريد الإلكتروني"

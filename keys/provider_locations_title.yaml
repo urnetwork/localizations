@@ -1,0 +1,36 @@
+description: "Title of the sheet that lists the connected providers and their locations."
+source: "Provider Locations"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "مواقع مزودي الخدمة"
+  cs: "Lokality poskytovatelů"
+  de: "Anbieter-Standorte"
+  el: "Τοποθεσίες παρόχων"
+  en: "Provider Locations"
+  es: "Ubicaciones de proveedores"
+  es-419: "Ubicaciones de proveedores"
+  es-MX: "Ubicaciones de proveedores"
+  fr: "Emplacements des fournisseurs"
+  he: "מיקומי ספקים"
+  hi: "प्रदाताओं के स्थान"
+  id: "Lokasi Penyedia"
+  it: "Posizioni dei provider"
+  ja: "プロバイダーの場所"
+  ko: "제공업체 위치"
+  nl: "Providerlocaties"
+  pl: "Lokalizacje dostawców"
+  pt: "Localizações dos fornecedores"
+  pt-BR: "Localizações dos provedores"
+  pt-PT: "Localizações dos fornecedores"
+  ru: "Локации провайдеров"
+  sv: "Leverantörsplatser"
+  sw: "Maeneo ya watoa huduma"
+  th: "ตำแหน่งผู้ให้บริการ"
+  uk: "Локації провайдерів"
+  vi: "Vị trí nhà cung cấp"
+  zh: "提供商位置"
+  zh-HK: "供應商位置"

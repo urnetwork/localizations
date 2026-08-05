@@ -1,0 +1,7 @@
+description: "A label for a text field where a user can enter a custom network name."
+description_auto: true
+source: "Enter network name"
+platforms:
+  - apple
+localizations:
+  en: "Enter network name"

@@ -1,0 +1,7 @@
+description: "A label for Google sign-in."
+description_auto: true
+source: "Google"
+platforms:
+  - apple
+localizations:
+  en: "Google"

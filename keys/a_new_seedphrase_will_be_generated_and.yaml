@@ -1,0 +1,7 @@
+description: "A description of the seedphrase generation process."
+description_auto: true
+source: "A new seedphrase will be generated and linked to your account."
+platforms:
+  - apple
+localizations:
+  en: "A new seedphrase will be generated and linked to your account."

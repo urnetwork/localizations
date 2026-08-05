@@ -1,0 +1,7 @@
+description: "Error message displayed in a snackbar when there was an error changing the network name."
+description_auto: true
+source: "Error changing network name"
+platforms:
+  - apple
+localizations:
+  en: "Error changing network name"

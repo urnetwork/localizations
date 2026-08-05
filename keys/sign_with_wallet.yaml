@@ -1,0 +1,7 @@
+description: "Button text for signing in with a wallet."
+description_auto: true
+source: "Sign with Wallet"
+platforms:
+  - apple
+localizations:
+  en: "Sign with Wallet"

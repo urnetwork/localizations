@@ -1,0 +1,7 @@
+description: "A message displayed when a user is connecting a wallet."
+description_auto: true
+source: "Connecting to wallet..."
+platforms:
+  - apple
+localizations:
+  en: "Connecting to wallet..."

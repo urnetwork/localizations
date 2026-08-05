@@ -1,0 +1,6 @@
+description: "Shown on the linux home screen when the app and the urnetworkd system service carry different URnetwork SDK builds (they update on independent schedules and must match exactly). The fix is updating both to the same release."
+source: "The app and the URnetwork system service are different builds. Update both to the same version."
+platforms:
+  - linux
+localizations:
+  en: "The app and the URnetwork system service are different builds. Update both to the same version."

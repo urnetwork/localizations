@@ -1,0 +1,9 @@
+description: "General UI string."
+source: "Are you sure you want to remove %@ as a sign-in method?"
+platforms:
+  - apple
+placeholders:
+  - name: method
+    type: string
+localizations:
+  en: "Are you sure you want to remove {method} as a sign-in method?"

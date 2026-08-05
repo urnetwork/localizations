@@ -1,0 +1,7 @@
+description: "A label for the picker that lets the user select the sign-in method."
+description_auto: true
+source: "Method"
+platforms:
+  - apple
+localizations:
+  en: "Method"

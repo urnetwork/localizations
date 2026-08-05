@@ -1,0 +1,39 @@
+description: "Compact duration a provider has been connected, as minutes (e.g. 24m)."
+source: "%lldm"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: minutes
+    type: int
+localizations:
+  ar: "{minutes} د"
+  cs: "{minutes} min"
+  de: "{minutes} Min."
+  el: "{minutes} λ."
+  en: "{minutes}m"
+  es: "{minutes} min"
+  es-419: "{minutes} min"
+  es-MX: "{minutes} min"
+  fr: "{minutes} min"
+  he: "{minutes} דק׳"
+  hi: "{minutes} मि."
+  id: "{minutes} mnt"
+  it: "{minutes} min"
+  ja: "{minutes}分"
+  ko: "{minutes}분"
+  nl: "{minutes} min"
+  pl: "{minutes} min"
+  pt: "{minutes} min"
+  pt-BR: "{minutes} min"
+  pt-PT: "{minutes} min"
+  ru: "{minutes} мин"
+  sv: "{minutes} min"
+  sw: "dak {minutes}"
+  th: "{minutes} นาที"
+  uk: "{minutes} хв"
+  vi: "{minutes} phút"
+  zh: "{minutes}分钟"
+  zh-HK: "{minutes}分鐘"

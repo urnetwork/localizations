@@ -1,0 +1,6 @@
+description: "Setup guide state on linux: every prerequisite for the device location override is met."
+source: "Ready. Turn on the toggle to report the connected provider's location as this machine's location."
+platforms:
+  - linux
+localizations:
+  en: "Ready. Turn on the toggle to report the connected provider's location as this machine's location."

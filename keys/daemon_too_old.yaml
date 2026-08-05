@@ -1,0 +1,6 @@
+description: "Shown on the linux home screen when the installed urnetworkd system service speaks an older control protocol than this app supports. Distinct from daemon_unreachable by contract; the fix is updating the service, not the app."
+source: "The URnetwork system service is out of date. Update it to connect."
+platforms:
+  - linux
+localizations:
+  en: "The URnetwork system service is out of date. Update it to connect."

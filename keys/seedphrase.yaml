@@ -1,0 +1,7 @@
+description: "A label displayed above a field for entering a seedphrase."
+description_auto: true
+source: "Seedphrase"
+platforms:
+  - apple
+localizations:
+  en: "Seedphrase"

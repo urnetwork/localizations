@@ -1,0 +1,9 @@
+description: "General UI string."
+source: "You have %lld other devices online"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "You have {count} other devices online"

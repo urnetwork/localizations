@@ -1,0 +1,10 @@
+description: "A label that shows the daily data usage from referrals. The argument is the number of referrals."
+description_auto: true
+source: "+%lld GiB/Day"
+platforms:
+  - apple
+placeholders:
+  - name: amount
+    type: int
+localizations:
+  en: "+{amount} GiB/Day"

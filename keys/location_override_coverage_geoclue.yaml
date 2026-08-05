@@ -1,0 +1,6 @@
+description: "Setup guide and info popup on linux: what the device location override actually covers. Shown alongside location_override_coverage_gaps, which states the limits."
+source: "Apps that ask the system for your location through GeoClue — including GNOME Settings and Maps, Firefox, and sandboxed Flatpak and Snap apps — report the provider's location instead of yours."
+platforms:
+  - linux
+localizations:
+  en: "Apps that ask the system for your location through GeoClue — including GNOME Settings and Maps, Firefox, and sandboxed Flatpak and Snap apps — report the provider's location instead of yours."

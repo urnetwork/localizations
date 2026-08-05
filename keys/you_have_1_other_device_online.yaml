@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "You have 1 other device online"
+platforms:
+  - apple
+localizations:
+  en: "You have 1 other device online"

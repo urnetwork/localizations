@@ -1,0 +1,7 @@
+description: "Snackbar message displayed when an Apple sign-in method is added."
+description_auto: true
+source: "Apple sign-in method added"
+platforms:
+  - apple
+localizations:
+  en: "Apple sign-in method added"

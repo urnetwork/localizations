@@ -1,0 +1,7 @@
+description: "Button text for adding a sign-in method."
+description_auto: true
+source: "Add Sign-In Method"
+platforms:
+  - apple
+localizations:
+  en: "Add Sign-In Method"

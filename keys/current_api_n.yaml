@@ -1,0 +1,10 @@
+description: "A label showing the current network API and connect URLs."
+description_auto: true
+source: "Current API: %@"
+platforms:
+  - apple
+placeholders:
+  - name: host
+    type: string
+localizations:
+  en: "Current API: {host}"

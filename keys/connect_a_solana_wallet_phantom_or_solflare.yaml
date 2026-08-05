@@ -1,0 +1,7 @@
+description: "A description of how to connect a Solana wallet to add it as a sign-in method."
+description_auto: true
+source: "Connect a Solana wallet (Phantom or Solflare) to add it as a sign-in method."
+platforms:
+  - apple
+localizations:
+  en: "Connect a Solana wallet (Phantom or Solflare) to add it as a sign-in method."

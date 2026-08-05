@@ -1,0 +1,7 @@
+description: "A warning message that instructs the user to write down their seedphrase and store it in a secure location."
+description_auto: true
+source: "Write it down and store it somewhere safe. If you lose it, you'll lose access to your account."
+platforms:
+  - apple
+localizations:
+  en: "Write it down and store it somewhere safe. If you lose it, you'll lose access to your account."

@@ -1,0 +1,38 @@
+description: "Status shown while the device location is being synced with a provider. The argument is the provider's city or country."
+source: "Syncing with %1$s"
+platforms:
+  - android
+  - linux
+  - web
+placeholders:
+  - name: location
+    type: string
+localizations:
+  ar: "تتم المزامنة مع {location}"
+  cs: "Synchronizace: {location}"
+  de: "Wird mit {location} synchronisiert"
+  el: "Συγχρονισμός με {location}"
+  en: "Syncing with {location}"
+  es: "Sincronizando con {location}"
+  es-419: "Sincronizando con {location}"
+  es-MX: "Sincronizando con {location}"
+  fr: "Synchronisation avec {location}"
+  he: "מתבצע סנכרון עם {location}"
+  hi: "{location} के साथ सिंक हो रहा है"
+  id: "Menyinkronkan dengan {location}"
+  it: "Sincronizzazione con {location}"
+  ja: "{location} と同期中"
+  ko: "{location}와(과) 동기화 중"
+  nl: "Synchroniseren met {location}"
+  pl: "Synchronizacja z: {location}"
+  pt: "A sincronizar com {location}"
+  pt-BR: "Sincronizando com {location}"
+  pt-PT: "A sincronizar com {location}"
+  ru: "Синхронизация: {location}"
+  sv: "Synkroniserar med {location}"
+  sw: "Inasawazisha na {location}"
+  th: "กำลังซิงค์กับ {location}"
+  uk: "Синхронізація: {location}"
+  vi: "Đang đồng bộ với {location}"
+  zh: "正在与 {location} 同步"
+  zh-HK: "正在與 {location} 同步"

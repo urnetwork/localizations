@@ -1,0 +1,7 @@
+description: "Snackbar message displayed when a wallet sign-in method is successfully added."
+description_auto: true
+source: "Wallet sign-in method added"
+platforms:
+  - apple
+localizations:
+  en: "Wallet sign-in method added"

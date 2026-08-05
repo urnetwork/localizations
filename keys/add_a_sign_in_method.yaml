@@ -1,0 +1,7 @@
+description: "A title for the screen that lets the user add a new sign-in method."
+description_auto: true
+source: "Add a sign-in method"
+platforms:
+  - apple
+localizations:
+  en: "Add a sign-in method"

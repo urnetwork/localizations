@@ -1,0 +1,7 @@
+description: "Button text to copy the seedphrase to the clipboard."
+description_auto: true
+source: "Copy to Clipboard"
+platforms:
+  - apple
+localizations:
+  en: "Copy to Clipboard"

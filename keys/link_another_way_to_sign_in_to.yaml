@@ -1,0 +1,7 @@
+description: "A description of the add auth sheet."
+description_auto: true
+source: "Link another way to sign in to your account."
+platforms:
+  - apple
+localizations:
+  en: "Link another way to sign in to your account."

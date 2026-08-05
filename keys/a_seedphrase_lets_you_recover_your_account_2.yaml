@@ -1,0 +1,6 @@
+description: "General UI string."
+source: "A seedphrase lets you recover your account if you lose access. Store it safely."
+platforms:
+  - apple
+localizations:
+  en: "A seedphrase lets you recover your account if you lose access. Store it safely."
