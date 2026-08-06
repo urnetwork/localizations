@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'blackhole receive' control."
+source: "How long a provider still acknowledging traffic may return nothing before it is dropped. Off keeps them until they stop acknowledging"
+platforms:
+  - android
+localizations:
+  en: "How long a provider still acknowledging traffic may return nothing before it is dropped. Off keeps them until they stop acknowledging"

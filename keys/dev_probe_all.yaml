@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): probe all control label."
+source: "Probe all exits now"
+platforms:
+  - android
+localizations:
+  en: "Probe all exits now"

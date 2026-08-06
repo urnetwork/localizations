@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'probe sample hosts' control."
+source: "How many health sites one qualification pass dials through an exit. 0 probes the entire embedded list; a smaller number rotates through it in blocks"
+platforms:
+  - android
+localizations:
+  en: "How many health sites one qualification pass dials through an exit. 0 probes the entire embedded list; a smaller number rotates through it in blocks"

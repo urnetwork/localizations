@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): group follow window control label."
+source: "Follow window"
+platforms:
+  - android
+localizations:
+  en: "Follow window"

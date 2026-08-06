@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): quic rebind control label."
+source: "Rebind QUIC on exit loss"
+platforms:
+  - android
+localizations:
+  en: "Rebind QUIC on exit loss"

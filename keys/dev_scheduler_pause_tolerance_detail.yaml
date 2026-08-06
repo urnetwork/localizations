@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'scheduler pause tolerance' control."
+source: "How much timer overshoot reads as the phone being suspended rather than an exit stalling, so a resumed phone does not convict every exit at once. Off disables it"
+platforms:
+  - android
+localizations:
+  en: "How much timer overshoot reads as the phone being suspended rather than an exit stalling, so a resumed phone does not convict every exit at once. Off disables it"

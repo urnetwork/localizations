@@ -1,0 +1,9 @@
+description: "Android app string: via exit."
+source: "via {exit}"
+platforms:
+  - android
+placeholders:
+  - name: exit
+    type: string
+localizations:
+  en: "via {exit}"

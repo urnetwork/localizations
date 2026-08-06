@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'cluster affinity' control."
+source: "Keeps a site on one exit when its hostname is not visible"
+platforms:
+  - android
+localizations:
+  en: "Keeps a site on one exit when its hostname is not visible"

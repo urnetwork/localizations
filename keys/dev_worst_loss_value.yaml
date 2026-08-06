@@ -1,0 +1,9 @@
+description: "Developer tools screen: formatted value readout for 'worst loss'."
+source: "{count} connections"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "{count} connections"

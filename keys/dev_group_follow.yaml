@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): group follow control label."
+source: "Follow benched exits"
+platforms:
+  - android
+localizations:
+  en: "Follow benched exits"

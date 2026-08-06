@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): flows opened control label."
+source: "Flows opened"
+platforms:
+  - android
+localizations:
+  en: "Flows opened"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'affinity sticky' control."
+source: "A site's new connections stay on the exit its earlier ones already use, even past the flow cap, so a busy site keeps one egress IP. The cap still limits which exits collect new sites. Off restores the strict cap"
+platforms:
+  - android
+localizations:
+  en: "A site's new connections stay on the exit its earlier ones already use, even past the flow cap, so a busy site keeps one egress IP. The cap still limits which exits collect new sites. Off restores the strict cap"

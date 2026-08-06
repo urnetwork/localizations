@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): drop exit control label."
+source: "Drop"
+platforms:
+  - android
+localizations:
+  en: "Drop"

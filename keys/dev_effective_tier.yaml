@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): effective tier control label."
+source: "Live tier demotion"
+platforms:
+  - android
+localizations:
+  en: "Live tier demotion"

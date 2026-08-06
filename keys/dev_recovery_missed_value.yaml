@@ -1,0 +1,11 @@
+description: "Developer tools screen: formatted value readout for 'recovery missed'."
+source: "{missed} of {total}"
+platforms:
+  - android
+placeholders:
+  - name: missed
+    type: int
+  - name: total
+    type: int
+localizations:
+  en: "{missed} of {total}"

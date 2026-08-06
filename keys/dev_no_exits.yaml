@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): no exits control label."
+source: "No exits. Connect first."
+platforms:
+  - android
+localizations:
+  en: "No exits. Connect first."

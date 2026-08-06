@@ -1,0 +1,6 @@
+description: "Developer tools screen: section heading for the observability controls."
+source: "Observability"
+platforms:
+  - android
+localizations:
+  en: "Observability"

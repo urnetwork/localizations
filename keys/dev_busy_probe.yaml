@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): busy probe control label."
+source: "Probe stalled exits before dropping"
+platforms:
+  - android
+localizations:
+  en: "Probe stalled exits before dropping"

@@ -1,0 +1,11 @@
+description: "Developer tools screen: formatted value readout for 'recovery'."
+source: "avg {average}, worst {worst}"
+platforms:
+  - android
+placeholders:
+  - name: average
+    type: string
+  - name: worst
+    type: string
+localizations:
+  en: "avg {average}, worst {worst}"

@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): blast radius control label."
+source: "Blast radius"
+platforms:
+  - android
+localizations:
+  en: "Blast radius"

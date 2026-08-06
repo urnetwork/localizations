@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): busy probe budget control label."
+source: "Busy probe wait"
+platforms:
+  - android
+localizations:
+  en: "Busy probe wait"

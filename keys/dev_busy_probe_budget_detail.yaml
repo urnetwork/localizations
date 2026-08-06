@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'busy probe budget' control."
+source: "How long the stall probe waits for an answer before convicting. Off derives half the stall bar"
+platforms:
+  - android
+localizations:
+  en: "How long the stall probe waits for an answer before convicting. Off derives half the stall bar"

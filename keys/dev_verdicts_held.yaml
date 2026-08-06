@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): verdicts held control label."
+source: "Verdicts held"
+platforms:
+  - android
+localizations:
+  en: "Verdicts held"

@@ -1,0 +1,9 @@
+description: "Developer tools screen (reliability surface): exit flows control label."
+source: "{count} flows"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "{count} flows"

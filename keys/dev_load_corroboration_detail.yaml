@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'load corroboration' control."
+source: "Extra silent destinations required per this many flows before a busy exit can be benched on soft evidence: a 24-flow exit at 8 needs 3 silent sites, not 2. Off keeps the flat minimum"
+platforms:
+  - android
+localizations:
+  en: "Extra silent destinations required per this many flows before a busy exit can be benched on soft evidence: a 24-flow exit at 8 needs 3 silent sites, not 2. Off keeps the flat minimum"

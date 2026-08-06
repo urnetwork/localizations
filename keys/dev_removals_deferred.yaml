@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): removals deferred control label."
+source: "Removals deferred"
+platforms:
+  - android
+localizations:
+  en: "Removals deferred"

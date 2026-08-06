@@ -1,0 +1,9 @@
+description: "Android app string: app pinned toast."
+source: "{app} will use one provider"
+platforms:
+  - android
+placeholders:
+  - name: app
+    type: string
+localizations:
+  en: "{app} will use one provider"

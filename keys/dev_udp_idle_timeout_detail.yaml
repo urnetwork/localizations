@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'udp idle timeout' control."
+source: "How long a non-TCP flow may sit idle before it is reaped"
+platforms:
+  - android
+localizations:
+  en: "How long a non-TCP flow may sit idle before it is reaped"

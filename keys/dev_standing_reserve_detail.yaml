@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'standing reserve' control."
+source: "Size each window one exit beyond its target so a replacement is already connected. Off waits until a loss to backfill"
+platforms:
+  - android
+localizations:
+  en: "Size each window one exit beyond its target so a replacement is already connected. Off waits until a loss to backfill"

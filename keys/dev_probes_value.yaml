@@ -1,0 +1,11 @@
+description: "Developer tools screen: formatted value readout for 'probes'."
+source: "{sent} sent / {answered} answered"
+platforms:
+  - android
+placeholders:
+  - name: sent
+    type: int
+  - name: answered
+    type: int
+localizations:
+  en: "{sent} sent / {answered} answered"

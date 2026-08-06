@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): removal budget count control label."
+source: "Removal storm limit"
+platforms:
+  - android
+localizations:
+  en: "Removal storm limit"

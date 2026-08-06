@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): shuffle exits control label."
+source: "Shuffle all exits"
+platforms:
+  - android
+localizations:
+  en: "Shuffle all exits"

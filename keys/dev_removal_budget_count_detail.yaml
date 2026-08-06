@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'removal budget count' control."
+source: "How many verdict removals are allowed per window before the rest are deferred; a burst is more likely one local cause than many failures. Off removes without limit"
+platforms:
+  - android
+localizations:
+  en: "How many verdict removals are allowed per window before the rest are deferred; a burst is more likely one local cause than many failures. Off removes without limit"

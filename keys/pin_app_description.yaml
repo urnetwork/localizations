@@ -1,0 +1,6 @@
+description: "Android app string: pin app description."
+source: "Keeps all of this app's connections on a single provider, so its API and images share one IP address. Use for apps whose content fails to load through the VPN"
+platforms:
+  - android
+localizations:
+  en: "Keeps all of this app's connections on a single provider, so its API and images share one IP address. Use for apps whose content fails to load through the VPN"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'probes' control."
+source: "Qualification probes this session"
+platforms:
+  - android
+localizations:
+  en: "Qualification probes this session"

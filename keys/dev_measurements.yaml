@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): measurements control label."
+source: "Measurements"
+platforms:
+  - android
+localizations:
+  en: "Measurements"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: section heading for the probing controls."
+source: "Probing"
+platforms:
+  - android
+localizations:
+  en: "Probing"

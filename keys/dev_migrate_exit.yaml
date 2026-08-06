@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): migrate exit control label."
+source: "Migrate"
+platforms:
+  - android
+localizations:
+  en: "Migrate"

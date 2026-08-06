@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): removal budget window control label."
+source: "Removal storm window"
+platforms:
+  - android
+localizations:
+  en: "Removal storm window"

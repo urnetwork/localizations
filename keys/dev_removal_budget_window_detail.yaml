@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'removal budget window' control."
+source: "The window the removal limit is counted over. Off (like a limit of 0) turns the breaker off"
+platforms:
+  - android
+localizations:
+  en: "The window the removal limit is counted over. Off (like a limit of 0) turns the breaker off"

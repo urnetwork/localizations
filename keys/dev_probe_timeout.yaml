@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): probe timeout control label."
+source: "Probe wait"
+platforms:
+  - android
+localizations:
+  en: "Probe wait"

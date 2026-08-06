@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'busy probes' control."
+source: "Liveness pings fired at stalled exits; acquitted ones answered and were kept, the removals the probe prevented"
+platforms:
+  - android
+localizations:
+  en: "Liveness pings fired at stalled exits; acquitted ones answered and were kept, the removals the probe prevented"

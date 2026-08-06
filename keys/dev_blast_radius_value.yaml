@@ -1,0 +1,9 @@
+description: "Developer tools screen: formatted value readout for 'blast radius'."
+source: "{flows} per failure"
+platforms:
+  - android
+placeholders:
+  - name: flows
+    type: string
+localizations:
+  en: "{flows} per failure"

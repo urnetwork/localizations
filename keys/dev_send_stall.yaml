@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): send stall control label."
+source: "Drop stalled exits fast"
+platforms:
+  - android
+localizations:
+  en: "Drop stalled exits fast"

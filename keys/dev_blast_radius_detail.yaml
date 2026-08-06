@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'blast radius' control."
+source: "Connections lost per provider failure. Lower is better"
+platforms:
+  - android
+localizations:
+  en: "Connections lost per provider failure. Lower is better"

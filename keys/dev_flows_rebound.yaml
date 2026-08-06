@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): flows rebound control label."
+source: "QUIC flows rebound"
+platforms:
+  - android
+localizations:
+  en: "QUIC flows rebound"

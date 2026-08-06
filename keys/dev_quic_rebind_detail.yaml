@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'quic rebind' control."
+source: "Re-pin established QUIC flows to a live exit inside the removal instead of tearing them down"
+platforms:
+  - android
+localizations:
+  en: "Re-pin established QUIC flows to a live exit inside the removal instead of tearing them down"

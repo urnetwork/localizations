@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'probe timeout' control."
+source: "How long a qualification probe waits for an answer. Off uses the built-in 4s. It only bounds waiting for proof, it never convicts"
+platforms:
+  - android
+localizations:
+  en: "How long a qualification probe waits for an answer. Off uses the built-in 4s. It only bounds waiting for proof, it never convicts"

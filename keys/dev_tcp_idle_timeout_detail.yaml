@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'tcp idle timeout' control."
+source: "How long a TCP connection may sit idle. Off uses the UDP bound"
+platforms:
+  - android
+localizations:
+  en: "How long a TCP connection may sit idle. Off uses the UDP bound"

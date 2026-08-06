@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): stall exit control label."
+source: "Stall"
+platforms:
+  - android
+localizations:
+  en: "Stall"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'dial failure rerace' control."
+source: "When a provider can't reach a site, move the connection to another exit instead of letting it hang"
+platforms:
+  - android
+localizations:
+  en: "When a provider can't reach a site, move the connection to another exit instead of letting it hang"

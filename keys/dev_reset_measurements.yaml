@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): reset measurements control label."
+source: "Reset measurements"
+platforms:
+  - android
+localizations:
+  en: "Reset measurements"

@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): evaluation pool control label."
+source: "Candidates evaluated per slot"
+platforms:
+  - android
+localizations:
+  en: "Candidates evaluated per slot"

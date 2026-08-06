@@ -1,0 +1,6 @@
+description: "Developer tools screen: developer disconnected."
+source: "Connect to use these tools."
+platforms:
+  - android
+localizations:
+  en: "Connect to use these tools."

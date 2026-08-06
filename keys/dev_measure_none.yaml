@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): measure none control label."
+source: "No provider failures yet. Stall an exit below to cause one."
+platforms:
+  - android
+localizations:
+  en: "No provider failures yet. Stall an exit below to cause one."

@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'flows opened' control."
+source: "Total since reset, so runs of different lengths compare"
+platforms:
+  - android
+localizations:
+  en: "Total since reset, so runs of different lengths compare"

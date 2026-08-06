@@ -1,0 +1,6 @@
+description: "Developer tools screen: section heading for the detection controls."
+source: "Detection"
+platforms:
+  - android
+localizations:
+  en: "Detection"

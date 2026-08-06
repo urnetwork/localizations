@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'scheduler pauses' control."
+source: "Host suspends the detector caught, each one a batch of verdicts held instead of executed on a just-resumed phone"
+platforms:
+  - android
+localizations:
+  en: "Host suspends the detector caught, each one a batch of verdicts held instead of executed on a just-resumed phone"

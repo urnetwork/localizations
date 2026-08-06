@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'dial failures' control."
+source: "Times a provider reported it could not open the upstream connection"
+platforms:
+  - android
+localizations:
+  en: "Times a provider reported it could not open the upstream connection"

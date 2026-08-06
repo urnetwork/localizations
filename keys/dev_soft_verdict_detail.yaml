@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'soft verdict' control."
+source: "Ambiguous verdicts bench an exit instead of tearing down its flows; removal needs sustained evidence or an empty exit"
+platforms:
+  - android
+localizations:
+  en: "Ambiguous verdicts bench an exit instead of tearing down its flows; removal needs sustained evidence or an empty exit"

@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): comparative connect control label."
+source: "Cut dead connects early"
+platforms:
+  - android
+localizations:
+  en: "Cut dead connects early"

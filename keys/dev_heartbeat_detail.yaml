@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'heartbeat' control."
+source: "How often one line summarizing live state is written to the log for later forensics. Off silences it; shorter spots a transition, longer keeps more buffer"
+platforms:
+  - android
+localizations:
+  en: "How often one line summarizing live state is written to the log for later forensics. Off silences it; shorter spots a transition, longer keeps more buffer"

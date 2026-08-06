@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'recovery missed' control."
+source: "Sites abandoned rather than recovered"
+platforms:
+  - android
+localizations:
+  en: "Sites abandoned rather than recovered"

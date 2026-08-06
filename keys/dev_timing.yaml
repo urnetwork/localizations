@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): timing control label."
+source: "Timing"
+platforms:
+  - android
+localizations:
+  en: "Timing"

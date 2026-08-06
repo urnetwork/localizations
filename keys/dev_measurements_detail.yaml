@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'measurements' control."
+source: "What a provider failure costs. Reset, run a test, read back."
+platforms:
+  - android
+localizations:
+  en: "What a provider failure costs. Reset, run a test, read back."

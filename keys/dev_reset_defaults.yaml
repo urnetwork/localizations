@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): reset defaults control label."
+source: "Reset to shipped defaults"
+platforms:
+  - android
+localizations:
+  en: "Reset to shipped defaults"

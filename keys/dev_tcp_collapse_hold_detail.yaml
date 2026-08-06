@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'tcp collapse hold' control."
+source: "How long retransmits are held before one is released. Off waits 30s"
+platforms:
+  - android
+localizations:
+  en: "How long retransmits are held before one is released. Off waits 30s"

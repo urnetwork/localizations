@@ -1,0 +1,6 @@
+description: "Developer tools screen: developer description."
+source: "Tools for diagnosing connection freezes. These act on the live connection."
+platforms:
+  - android
+localizations:
+  en: "Tools for diagnosing connection freezes. These act on the live connection."

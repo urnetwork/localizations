@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): recovery control label."
+source: "Recovery time"
+platforms:
+  - android
+localizations:
+  en: "Recovery time"

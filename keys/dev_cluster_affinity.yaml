@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): cluster affinity control label."
+source: "Group IPs by site"
+platforms:
+  - android
+localizations:
+  en: "Group IPs by site"

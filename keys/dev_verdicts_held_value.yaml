@@ -1,0 +1,11 @@
+description: "Developer tools screen: formatted value readout for 'verdicts held'."
+source: "{held} / {total}"
+platforms:
+  - android
+placeholders:
+  - name: held
+    type: int
+  - name: total
+    type: int
+localizations:
+  en: "{held} / {total}"

@@ -1,0 +1,6 @@
+description: "Android app string: multiple ips."
+source: "Multiple IPs"
+platforms:
+  - android
+localizations:
+  en: "Multiple IPs"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'max flows per exit' control."
+source: "Losing an exit kills every connection on it. Lower spreads the damage; a site may then use more than one exit IP"
+platforms:
+  - android
+localizations:
+  en: "Losing an exit kills every connection on it. Lower spreads the damage; a site may then use more than one exit IP"

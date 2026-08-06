@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): udp idle timeout control label."
+source: "UDP idle timeout"
+platforms:
+  - android
+localizations:
+  en: "UDP idle timeout"

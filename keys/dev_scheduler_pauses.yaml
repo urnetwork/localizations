@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): scheduler pauses control label."
+source: "Suspends caught"
+platforms:
+  - android
+localizations:
+  en: "Suspends caught"

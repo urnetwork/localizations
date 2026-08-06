@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): max flows per exit control label."
+source: "Max connections per exit"
+platforms:
+  - android
+localizations:
+  en: "Max connections per exit"

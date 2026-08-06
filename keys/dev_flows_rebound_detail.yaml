@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'flows rebound' control."
+source: "Flows moved to a warm exit inside a removal; accepted means the server took the path change without a re-dial"
+platforms:
+  - android
+localizations:
+  en: "Flows moved to a warm exit inside a removal; accepted means the server took the path change without a re-dial"

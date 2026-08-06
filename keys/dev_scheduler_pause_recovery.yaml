@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): scheduler pause recovery control label."
+source: "Suspend recovery window"
+platforms:
+  - android
+localizations:
+  en: "Suspend recovery window"

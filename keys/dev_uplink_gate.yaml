@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): uplink gate control label."
+source: "Uplink silence gate"
+platforms:
+  - android
+localizations:
+  en: "Uplink silence gate"

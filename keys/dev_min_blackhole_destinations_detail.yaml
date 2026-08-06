@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'min blackhole destinations' control."
+source: "How many distinct destinations must be silent before an exit is convicted on no-receive, so one dead site cannot remove a working exit. Off lets a single destination convict"
+platforms:
+  - android
+localizations:
+  en: "How many distinct destinations must be silent before an exit is convicted on no-receive, so one dead site cannot remove a working exit. Off lets a single destination convict"

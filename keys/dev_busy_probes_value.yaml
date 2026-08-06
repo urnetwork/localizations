@@ -1,0 +1,11 @@
+description: "Developer tools screen: formatted value readout for 'busy probes'."
+source: "{sent} sent / {acquitted} acquitted"
+platforms:
+  - android
+placeholders:
+  - name: sent
+    type: int
+  - name: acquitted
+    type: int
+localizations:
+  en: "{sent} sent / {acquitted} acquitted"

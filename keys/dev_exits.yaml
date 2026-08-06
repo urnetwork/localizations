@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): exits control label."
+source: "Exits"
+platforms:
+  - android
+localizations:
+  en: "Exits"

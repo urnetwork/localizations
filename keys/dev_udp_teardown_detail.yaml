@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'udp teardown' control."
+source: "Tells DNS and QUIC the path is gone instead of going silent"
+platforms:
+  - android
+localizations:
+  en: "Tells DNS and QUIC the path is gone instead of going silent"

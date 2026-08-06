@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): affinity sticky control label."
+source: "Sticky site affinity"
+platforms:
+  - android
+localizations:
+  en: "Sticky site affinity"

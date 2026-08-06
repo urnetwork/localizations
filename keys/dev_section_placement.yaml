@@ -1,0 +1,6 @@
+description: "Developer tools screen: section heading for the placement controls."
+source: "Placement"
+platforms:
+  - android
+localizations:
+  en: "Placement"

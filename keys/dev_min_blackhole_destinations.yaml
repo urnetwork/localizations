@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): min blackhole destinations control label."
+source: "Corroborate silent exits"
+platforms:
+  - android
+localizations:
+  en: "Corroborate silent exits"

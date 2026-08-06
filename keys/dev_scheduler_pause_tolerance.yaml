@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): scheduler pause tolerance control label."
+source: "Suspend detector"
+platforms:
+  - android
+localizations:
+  en: "Suspend detector"

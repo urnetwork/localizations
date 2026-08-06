@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): busy probes control label."
+source: "Busy probes"
+platforms:
+  - android
+localizations:
+  en: "Busy probes"

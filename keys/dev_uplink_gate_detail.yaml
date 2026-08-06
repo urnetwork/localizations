@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'uplink gate' control."
+source: "How long the whole tunnel may be silent before provider verdicts are held as inadmissible. 0 convicts as before"
+platforms:
+  - android
+localizations:
+  en: "How long the whole tunnel may be silent before provider verdicts are held as inadmissible. 0 convicts as before"

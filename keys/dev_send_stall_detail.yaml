@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'send stall' control."
+source: "How long an exit may stop delivering before it is dropped. Off waits 30s"
+platforms:
+  - android
+localizations:
+  en: "How long an exit may stop delivering before it is dropped. Off waits 30s"

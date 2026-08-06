@@ -1,0 +1,6 @@
+description: "Android app string: pin app."
+source: "Pin to one provider"
+platforms:
+  - android
+localizations:
+  en: "Pin to one provider"

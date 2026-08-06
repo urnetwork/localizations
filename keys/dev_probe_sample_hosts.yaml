@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): probe sample hosts control label."
+source: "Probe hosts per pass"
+platforms:
+  - android
+localizations:
+  en: "Probe hosts per pass"

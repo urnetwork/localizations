@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'comparative connect' control."
+source: "Drop an exit that has established nothing sooner when two sibling exits are receiving. Off waits the full 30s connect bar"
+platforms:
+  - android
+localizations:
+  en: "Drop an exit that has established nothing sooner when two sibling exits are receiving. Off waits the full 30s connect bar"

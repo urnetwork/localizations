@@ -1,0 +1,6 @@
+description: "Developer tools screen: section heading for the recovery controls."
+source: "Recovery"
+platforms:
+  - android
+localizations:
+  en: "Recovery"

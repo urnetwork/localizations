@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): server name bridge control label."
+source: "Converge late-named flows"
+platforms:
+  - android
+localizations:
+  en: "Converge late-named flows"

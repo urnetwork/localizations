@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): blackhole receive control label."
+source: "Keep quiet providers longer"
+platforms:
+  - android
+localizations:
+  en: "Keep quiet providers longer"

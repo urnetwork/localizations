@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'flows reraced' control."
+source: "How many of those failures were quietly moved instead of hanging"
+platforms:
+  - android
+localizations:
+  en: "How many of those failures were quietly moved instead of hanging"

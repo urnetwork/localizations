@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): refresh control label."
+source: "Refresh"
+platforms:
+  - android
+localizations:
+  en: "Refresh"

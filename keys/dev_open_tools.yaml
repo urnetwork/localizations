@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): open tools control label."
+source: "Open developer tools"
+platforms:
+  - android
+localizations:
+  en: "Open developer tools"

@@ -1,0 +1,9 @@
+description: "Developer tools screen (reliability surface): exit dial failures control label."
+source: "{count} failed dials"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "{count} failed dials"

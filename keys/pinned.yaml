@@ -1,0 +1,6 @@
+description: "Android app string: pinned."
+source: "Pinned"
+platforms:
+  - android
+localizations:
+  en: "Pinned"

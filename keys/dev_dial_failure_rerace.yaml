@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): dial failure rerace control label."
+source: "Retry refused connects elsewhere"
+platforms:
+  - android
+localizations:
+  en: "Retry refused connects elsewhere"

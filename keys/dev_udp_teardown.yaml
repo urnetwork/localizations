@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): udp teardown control label."
+source: "Signal UDP teardown"
+platforms:
+  - android
+localizations:
+  en: "Signal UDP teardown"

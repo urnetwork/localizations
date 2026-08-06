@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): simulate network change control label."
+source: "Simulate network change"
+platforms:
+  - android
+localizations:
+  en: "Simulate network change"

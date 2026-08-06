@@ -1,0 +1,6 @@
+description: "Developer tools screen: developer."
+source: "Developer"
+platforms:
+  - android
+localizations:
+  en: "Developer"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'server name bridge' control."
+source: "Moves later connections onto the exit the first one already uses"
+platforms:
+  - android
+localizations:
+  en: "Moves later connections onto the exit the first one already uses"

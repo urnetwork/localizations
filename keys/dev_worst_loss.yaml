@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): worst loss control label."
+source: "Worst single failure"
+platforms:
+  - android
+localizations:
+  en: "Worst single failure"

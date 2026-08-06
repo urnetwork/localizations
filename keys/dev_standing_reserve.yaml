@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): standing reserve control label."
+source: "Keep a spare exit warm"
+platforms:
+  - android
+localizations:
+  en: "Keep a spare exit warm"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'verdicts held' control."
+source: "Convictions withheld because the phone's own uplink, not the provider, was silent (uplink / transport)"
+platforms:
+  - android
+localizations:
+  en: "Convictions withheld because the phone's own uplink, not the provider, was silent (uplink / transport)"

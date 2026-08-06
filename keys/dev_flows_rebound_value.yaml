@@ -1,0 +1,13 @@
+description: "Developer tools screen: formatted value readout for 'flows rebound'."
+source: "{total} ({accepted} accepted / {redialed} re-dialed)"
+platforms:
+  - android
+placeholders:
+  - name: total
+    type: int
+  - name: accepted
+    type: int
+  - name: redialed
+    type: int
+localizations:
+  en: "{total} ({accepted} accepted / {redialed} re-dialed)"

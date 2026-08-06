@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'scheduler pause recovery' control."
+source: "How long verdicts stay held after a detected suspend, giving transports time to re-register. Off uses the built-in 5s"
+platforms:
+  - android
+localizations:
+  en: "How long verdicts stay held after a detected suspend, giving transports time to re-register. Off uses the built-in 5s"

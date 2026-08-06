@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): soft verdict control label."
+source: "Demote before removing"
+platforms:
+  - android
+localizations:
+  en: "Demote before removing"

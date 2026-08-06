@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): tcp collapse hold control label."
+source: "Release stuck retransmits"
+platforms:
+  - android
+localizations:
+  en: "Release stuck retransmits"

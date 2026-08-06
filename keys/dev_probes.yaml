@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): probes control label."
+source: "Probes"
+platforms:
+  - android
+localizations:
+  en: "Probes"

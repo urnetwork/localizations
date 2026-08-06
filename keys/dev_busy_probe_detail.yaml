@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanatory subtext under the 'busy probe' control."
+source: "When an exit stalls, ping it once before convicting. A congested but alive exit answers and keeps its flows; a dead one is still dropped. Off convicts on the stall bar"
+platforms:
+  - android
+localizations:
+  en: "When an exit stalls, ping it once before convicting. A congested but alive exit answers and keeps its flows; a dead one is still dropped. Off convicts on the stall bar"

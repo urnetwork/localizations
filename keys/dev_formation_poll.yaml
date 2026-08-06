@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): formation poll control label."
+source: "Fast first-exit poll"
+platforms:
+  - android
+localizations:
+  en: "Fast first-exit poll"
