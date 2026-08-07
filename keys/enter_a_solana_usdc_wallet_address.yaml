@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "أدخل عنوان محفظة USDC على Solana"
   cs: "Zadejte adresu peněženky USDC v síti Solana"
-  de: "Geben Sie eine Solana USDC-Wallet-Adresse ein"
+  de: "Gib eine Solana USDC-Wallet-Adresse ein"
   el: "Εισαγάγετε μια διεύθυνση πορτοφολιού USDC στο Solana"
   en: "Enter a Solana USDC wallet address"
   es: "Introduce una dirección de monedero USDC en Solana"

@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "أكمل عملية الشراء في المتصفح. سيتم تحديث خطتك هنا تلقائيًا بمجرد تأكيد الدفع."
   cs: "Dokončete nákup v prohlížeči. Jakmile bude platba potvrzena, váš tarif se zde automaticky aktualizuje."
-  de: "Schließen Sie den Kauf im Browser ab. Ihr Plan wird hier automatisch aktualisiert, sobald die Zahlung bestätigt ist."
+  de: "Schließe den Kauf im Browser ab. Dein Plan wird hier automatisch aktualisiert, sobald die Zahlung bestätigt ist."
   el: "Ολοκληρώστε την αγορά στο πρόγραμμα περιήγησης. Το πρόγραμμά σας θα ενημερωθεί εδώ αυτόματα μόλις επιβεβαιωθεί η πληρωμή."
   en: "Complete your purchase in the browser. Your plan updates here automatically once payment is confirmed."
   es: "Completa tu compra en el navegador. Tu plan se actualizará aquí automáticamente cuando se confirme el pago."

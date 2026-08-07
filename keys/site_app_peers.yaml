@@ -4,7 +4,7 @@ platforms:
   - site
 localizations:
   ar: "أجهزتك المتصلة"
-  de: "Ihre Geräte online"
+  de: "Deine Geräte online"
   en: "Your devices online"
   es: "Tus dispositivos en línea"
   ru: "Ваши устройства в сети"

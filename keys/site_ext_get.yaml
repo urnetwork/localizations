@@ -4,7 +4,7 @@ platforms:
   - site
 localizations:
   ar: "احمِ هذا المتصفح باستخدام URnetwork."
-  de: "Schützen Sie diesen Browser mit URnetwork."
+  de: "Schütze diesen Browser mit URnetwork."
   en: "Protect this browser with URnetwork."
   es: "Protege este navegador con URnetwork."
   ru: "Защитите этот браузер с помощью URnetwork."

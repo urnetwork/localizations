@@ -4,7 +4,7 @@ platforms:
   - site
 localizations:
   ar: "اكتب اسم شبكتك للتأكيد"
-  de: "Geben Sie zur Bestätigung Ihren Netzwerknamen ein"
+  de: "Gib zur Bestätigung deinen Netzwerknamen ein"
   en: "Type your network name to confirm"
   es: "Escribe el nombre de tu red para confirmar"
   ru: "Введите имя вашей сети для подтверждения"

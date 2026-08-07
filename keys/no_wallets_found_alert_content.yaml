@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "لم يتم العثور على أي محافظ Solana مثبتة على هذا الجهاز. يرجى تثبيت محفظة والمحاولة مرة أخرى."
   cs: "V tomto zařízení nebyly nalezeny žádné peněženky Solana. Nainstalujte prosím peněženku a zkuste to znovu."
-  de: "Es wurden keine Solana Wallets auf diesem Gerät gefunden. Bitte installieren Sie eine Wallet und versuchen Sie es erneut."
+  de: "Es wurden keine Solana Wallets auf diesem Gerät gefunden. Bitte installiere eine Wallet und versuche es erneut."
   el: "Δεν βρέθηκαν πορτοφόλια Solana εγκατεστημένα σε αυτήν τη συσκευή. Εγκαταστήστε ένα πορτοφόλι και δοκιμάστε ξανά."
   en: "No Solana wallets were found installed on this device. Please install a wallet and try again."
   es: "No se encontraron billeteras de Solana instaladas en este dispositivo. Instale una billetera e intente nuevamente."

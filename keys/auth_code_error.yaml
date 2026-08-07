@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "حدث خطأ أثناء التحقق من الرمز. يرجى المحاولة مرة أخرى أو إنشاء رمز جديد."
   cs: "Chyba při ověřování kódu. Zkuste to prosím znovu nebo vygenerujte nový kód."
-  de: "Fehler bei der Code-Authentifizierung. Bitte versuchen Sie es erneut oder generieren Sie einen neuen Code."
+  de: "Fehler bei der Code-Authentifizierung. Bitte versuche es erneut oder generiere einen neuen Code."
   el: "Σφάλμα κατά τον έλεγχο ταυτοποίησης του κωδικού. Δοκιμάστε ξανά ή δημιουργήστε νέο κωδικό."
   en: "Error authenticating code. Please try again or generate a new code."
   es: "Error al autenticar el código. Por favor, inténtalo de nuevo o genera un nuevo código."

@@ -1,0 +1,6 @@
+description: "Subscription: warning shown when a network is billed by more than one store, because cancelling one does not cancel the others"
+source: "You're being billed for more than one subscription. Each one has to be cancelled where it was purchased."
+platforms:
+  - site
+localizations:
+  en: "You're being billed for more than one subscription. Each one has to be cancelled where it was purchased."

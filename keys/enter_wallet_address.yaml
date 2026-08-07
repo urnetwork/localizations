@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "أدخل عنوان المحفظة"
   cs: "Vložte adresu peněženky"
-  de: "Geben Sie die Wallet-Adresse ein"
+  de: "Gib die Wallet-Adresse ein"
   el: "Εισαγάγετε τη διεύθυνση πορτοφολιού"
   en: "Enter wallet address"
   es: "Ingrese la dirección de la billetera"

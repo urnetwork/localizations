@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "قد تحتاج إلى التحقق من مجلد البريد المزعج أو إلغاء حظر no-reply@ur.io"
   cs: "Možná budete muset zkontrolovat složku spamu nebo odblokovat no-reply@ur.io."
-  de: "Überprüfen Sie möglicherweise Ihren Spam-Ordner oder entsperren Sie no-reply@ur.io"
+  de: "Möglicherweise musst du deinen Spam-Ordner überprüfen oder no-reply@ur.io entsperren"
   el: "Ίσως χρειαστεί να ελέγξετε τον φάκελο ανεπιθύμητης αλληλογραφίας ή να ξεμπλοκάρετε το no-reply@ur.io"
   en: "You may need to your check spam folder or unblock no-reply@ur.io"
   es: "Es posible que necesites revisar tu carpeta de spam o desbloquear no-reply@ur.io"

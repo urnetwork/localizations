@@ -4,7 +4,7 @@ platforms:
   - site
 localizations:
   ar: "إعداد الإضافة لاستخدام شبكتك"
-  de: "Erweiterung einrichten, um Ihr Netzwerk zu nutzen"
+  de: "Erweiterung einrichten, um dein Netzwerk zu nutzen"
   en: "Set up extension to use your network"
   es: "Configura la extensión para usar tu red"
   ru: "Настроить расширение для вашей сети"

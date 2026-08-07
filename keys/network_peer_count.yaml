@@ -10,6 +10,94 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "ليس لديك أي أجهزة أخرى متصلة"
+    one: "لديك جهاز آخر متصل"
+    two: "لديك جهازان آخران متصلان"
+    few: "لديك {count} أجهزة أخرى متصلة"
+    many: "لديك {count} جهازًا آخر متصلًا"
+    other: "لديك {count} من الأجهزة الأخرى المتصلة"
+  cs:
+    one: "Máte {count} další zařízení online"
+    few: "Máte {count} další zařízení online"
+    many: "Máte {count} dalšího zařízení online"
+    other: "Máte {count} dalších zařízení online"
+  de:
+    one: "Du hast {count} weiteres Gerät online"
+    other: "Du hast {count} weitere Geräte online"
+  el:
+    one: "Έχετε {count} ακόμη συσκευή σε σύνδεση"
+    other: "Έχετε {count} ακόμη συσκευές σε σύνδεση"
   en:
     one: "You have {count} other device online"
     other: "You have {count} other devices online"
+  es:
+    one: "Tienes {count} dispositivo más en línea"
+    other: "Tienes {count} dispositivos más en línea"
+  es-419:
+    one: "Tienes {count} dispositivo más en línea"
+    other: "Tienes {count} dispositivos más en línea"
+  es-MX:
+    one: "Tienes {count} dispositivo más en línea"
+    other: "Tienes {count} dispositivos más en línea"
+  fr:
+    one: "Vous avez {count} autre appareil en ligne"
+    other: "Vous avez {count} autres appareils en ligne"
+  he:
+    one: "יש לך מכשיר נוסף אחד מחובר"
+    two: "יש לך שני מכשירים נוספים מחוברים"
+    many: "יש לך {count} מכשירים נוספים מחוברים"
+    other: "יש לך {count} מכשירים נוספים מחוברים"
+  hi:
+    one: "आपका {count} अन्य डिवाइस ऑनलाइन है"
+    other: "आपके {count} अन्य डिवाइस ऑनलाइन हैं"
+  id:
+    other: "Anda memiliki {count} perangkat lain yang online"
+  it:
+    one: "Hai {count} altro dispositivo online"
+    other: "Hai altri {count} dispositivi online"
+  ja:
+    other: "他に{count}台のデバイスがオンラインです"
+  ko:
+    other: "다른 기기 {count}대가 온라인 상태입니다"
+  nl:
+    one: "Je hebt nog {count} ander apparaat online"
+    other: "Je hebt nog {count} andere apparaten online"
+  pl:
+    one: "Masz {count} inne urządzenie online"
+    few: "Masz {count} inne urządzenia online"
+    many: "Masz {count} innych urządzeń online"
+    other: "Masz {count} innych urządzeń online"
+  pt:
+    one: "Tem {count} outro dispositivo online"
+    other: "Tem {count} outros dispositivos online"
+  pt-BR:
+    one: "Você tem {count} outro dispositivo online"
+    other: "Você tem {count} outros dispositivos online"
+  pt-PT:
+    one: "Tem {count} outro dispositivo online"
+    other: "Tem {count} outros dispositivos online"
+  ru:
+    one: "У вас {count} другое устройство онлайн"
+    few: "У вас {count} других устройства онлайн"
+    many: "У вас {count} других устройств онлайн"
+    other: "У вас {count} других устройств онлайн"
+  sv:
+    one: "Du har {count} annan enhet online"
+    other: "Du har {count} andra enheter online"
+  sw:
+    one: "Una kifaa kingine {count} mtandaoni"
+    other: "Una vifaa vingine {count} mtandaoni"
+  th:
+    other: "คุณมีอุปกรณ์อื่นออนไลน์อยู่ {count} เครื่อง"
+  uk:
+    one: "У вас {count} інший пристрій онлайн"
+    few: "У вас {count} інші пристрої онлайн"
+    many: "У вас {count} інших пристроїв онлайн"
+    other: "У вас {count} інших пристроїв онлайн"
+  vi:
+    other: "Bạn có {count} thiết bị khác đang trực tuyến"
+  zh:
+    other: "你还有 {count} 台其他设备在线"
+  zh-HK:
+    other: "您還有 {count} 部其他裝置在線"

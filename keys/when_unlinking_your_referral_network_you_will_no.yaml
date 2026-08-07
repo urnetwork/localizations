@@ -8,7 +8,7 @@ placeholders:
 localizations:
   ar: "عند إلغاء ربط شبكة الإحالة الخاصة بك، لن تتمكن بعد الآن من كسب النقاط من {network_name}."
   cs: "Když odpojíte svou referální síť, nebudete moci získavat body z {network_name}."
-  de: "Wenn Sie Ihr Empfehlungsnetzwerk trennen, können Sie keine Punkte mehr von {network_name} verdienen."
+  de: "Wenn du dein Empfehlungsnetzwerk trennst, kannst du keine Punkte mehr von {network_name} verdienen."
   el: "Όταν αποσυνδέετε το δίκτυο παραπομπών σας, δεν θα μπορείτε πλέον να κερδίζετε πόντους από {network_name}."
   en: "When unlinking your referral network, you will no longer be able to earn points from {network_name}."
   es: "Al desvincular tu red de referidos, ya no podrás ganar puntos de {network_name}."

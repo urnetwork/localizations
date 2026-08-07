@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "حدثت مشكلة في التحقق من رمز التحقق الخاص بك."
   cs: "Vyskytl se problém s ověřením vašeho ověřovacího kódu."
-  de: "Es gab ein Problem bei der Authentifizierung Ihres Bestätigungscodes."
+  de: "Es gab ein Problem bei der Authentifizierung deines Bestätigungscodes."
   el: "Υπήρξε πρόβλημα με την επαλήθευση του κωδικού σας."
   en: "There was a problem authenticating your verification code."
   es: "Hubo un problema al autenticar tu código de verificación."

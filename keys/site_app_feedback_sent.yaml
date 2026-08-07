@@ -4,7 +4,7 @@ platforms:
   - site
 localizations:
   ar: "تم الإرسال! شكراً لملاحظاتك."
-  de: "Gesendet! Danke für Ihr Feedback."
+  de: "Gesendet! Danke für dein Feedback."
   en: "Sent! Thanks for your feedback."
   es: "¡Enviado! Gracias por tus comentarios."
   ru: "Отправлено! Спасибо за ваш отзыв."

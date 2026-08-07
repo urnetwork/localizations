@@ -1,0 +1,6 @@
+description: "Subscription: heading above the list, shown only when more than one store is billing the network"
+source: "Your subscriptions"
+platforms:
+  - site
+localizations:
+  en: "Your subscriptions"

@@ -7,7 +7,7 @@ platforms:
 localizations:
   ar: "اضبط الإعدادات لتعظيم الموثوقية. يعمل التطبيق في الخلفية عند الاتصال وعند استخدام الواي فاي. الموثوقية هي عدد عناوين IP التي تجعلها متاحة باستمرار للشبكة."
   cs: "Upravte nastavení pro maximalizaci spolehlivosti. Aplikace běží na pozadí, když jste připojeni a na Wi-Fi. Spolehlivost znamená, kolik IP adres trvale zpřístupníte síti."
-  de: "Passen Sie die Einstellungen an, um die Zuverlässigkeit zu maximieren. Die App läuft im Hintergrund, wenn Sie verbunden sind und sich im WLAN befinden. Zuverlässigkeit bedeutet, wie viele IPs Sie dem Netzwerk kontinuierlich zur Verfügung stellen."
+  de: "Passe die Einstellungen an, um die Zuverlässigkeit zu maximieren. Die App läuft im Hintergrund, wenn du verbunden bist und dich im WLAN befindest. Zuverlässigkeit bedeutet, wie viele IPs du dem Netzwerk kontinuierlich zur Verfügung stellst."
   el: "Ρυθμίστε τις ρυθμίσεις για μέγιστη αξιοπιστία. Η εφαρμογή λειτουργεί στο παρασκήνιο όταν είστε συνδεδεμένοι και σε Wi-Fi. Η αξιοπιστία είναι πόσες διευθύνσεις IP διαθέτετε συνεχώς στο δίκτυο."
   en: "Adjust settings to maximize reliability. App runs in the background when connected and on Wi-Fi. Reliability is how many IPs you make continually available to the network"
   es: "Ajusta la configuración para maximizar la fiabilidad. La app se ejecuta en segundo plano cuando está conectada y en Wi-Fi. La fiabilidad es cuántas IPs mantienes disponibles continuamente para la red."

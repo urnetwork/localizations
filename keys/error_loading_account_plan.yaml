@@ -6,7 +6,7 @@ platforms:
 localizations:
   ar: "حدث خطأ أثناء تحميل خطة حسابك."
   cs: "Chyba při načítání plánu vašeho účtu."
-  de: "Fehler beim Laden Ihres Kontoplans."
+  de: "Fehler beim Laden deines Kontoplans."
   el: "Σφάλμα κατά τη φόρτωση του προγράμματος λογαριασμού σας."
   en: "Error loading your account plan."
   es: "Error al cargar el plan de tu cuenta."

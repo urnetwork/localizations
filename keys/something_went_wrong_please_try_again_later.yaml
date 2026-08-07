@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "حدث خطأ ما. يرجى المحاولة مرة أخرى لاحقًا."
   cs: "Něco se pokazilo. Zkuste to prosím později."
-  de: "Etwas ist schief gelaufen. Bitte versuchen Sie es später noch einmal."
+  de: "Etwas ist schief gelaufen. Bitte versuche es später noch einmal."
   el: "Κάτι πήγε στραβά. Παρακαλώ δοκιμάστε ξανά αργότερα."
   en: "Something went wrong. Please try again later."
   es: "Algo salió mal. Por favor, inténtalo de nuevo más tarde."

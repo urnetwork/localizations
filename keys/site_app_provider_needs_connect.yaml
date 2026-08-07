@@ -4,7 +4,7 @@ platforms:
   - site
 localizations:
   ar: "اتصل لعرض إحصائيات التزويد المباشرة."
-  de: "Verbinden Sie sich, um Live-Statistiken zur Bereitstellung zu sehen."
+  de: "Verbinde dich, um Live-Statistiken zur Bereitstellung zu sehen."
   en: "Connect to see live providing statistics."
   es: "Conéctate para ver las estadísticas de proveedor en vivo."
   ru: "Подключитесь, чтобы видеть статистику раздачи в реальном времени."

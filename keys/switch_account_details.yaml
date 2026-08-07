@@ -8,7 +8,7 @@ placeholders:
 localizations:
   ar: "هل تريد قطع الاتصال من {network_name} والتبديل بين الحسابات؟"
   cs: "Chcete se odpojit od {network_name} a změnit účet?"
-  de: "Möchten Sie die Verbindung zu {network_name} trennen und das Konto wechseln?"
+  de: "Möchtest du die Verbindung zu {network_name} trennen und das Konto wechseln?"
   el: "Θέλετε να αποσυνδεθείτε από το {network_name} και να αλλάξετε λογαριασμούς;"
   en: "Do you want to disconnect from {network_name} and switch accounts?"
   es: "¿Quieres desconectarte de {network_name} y cambiar de cuenta?"

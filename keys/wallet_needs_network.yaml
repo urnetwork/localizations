@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "هذه المحفظة غير مرتبطة بشبكة بعد. اختر اسمًا للشبكة لإنشاء واحدة."
   cs: "Tato peněženka zatím není propojena s žádnou sítí. Zvolte název sítě a vytvořte ji."
-  de: "Dieses Wallet ist noch mit keinem Netzwerk verknüpft. Wählen Sie einen Netzwerknamen, um eines zu erstellen."
+  de: "Dieses Wallet ist noch mit keinem Netzwerk verknüpft. Wähle einen Netzwerknamen, um eines zu erstellen."
   el: "Αυτό το πορτοφόλι δεν είναι ακόμη συνδεδεμένο με κάποιο δίκτυο. Επιλέξτε ένα όνομα δικτύου για να δημιουργήσετε ένα."
   en: "This wallet isn't linked to a network yet. Pick a network name to create one."
   es: "Esta billetera aún no está vinculada a una red. Elige un nombre de red para crear una."

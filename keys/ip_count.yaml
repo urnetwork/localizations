@@ -12,6 +12,94 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} عنوان IP"
+    one: "عنوان IP واحد"
+    two: "عنوانا IP"
+    few: "{count} عناوين IP"
+    many: "{count} عنوان IP"
+    other: "{count} عنوان IP"
+  cs:
+    one: "{count} IP adresa"
+    few: "{count} IP adresy"
+    many: "{count} IP adresy"
+    other: "{count} IP adres"
+  de:
+    one: "{count} IP"
+    other: "{count} IPs"
+  el:
+    one: "{count} IP"
+    other: "{count} IP"
   en:
     one: "{count} IP"
     other: "{count} IPs"
+  es:
+    one: "{count} IP"
+    other: "{count} IPs"
+  es-419:
+    one: "{count} IP"
+    other: "{count} IPs"
+  es-MX:
+    one: "{count} IP"
+    other: "{count} IPs"
+  fr:
+    one: "{count} IP"
+    other: "{count} IP"
+  he:
+    one: "כתובת IP אחת"
+    two: "{count} כתובות IP"
+    many: "{count} כתובות IP"
+    other: "{count} כתובות IP"
+  hi:
+    one: "{count} IP"
+    other: "{count} IP"
+  id:
+    other: "{count} IP"
+  it:
+    one: "{count} IP"
+    other: "{count} IP"
+  ja:
+    other: "{count} 個の IP"
+  ko:
+    other: "IP {count}개"
+  nl:
+    one: "{count} IP"
+    other: "{count} IP's"
+  pl:
+    one: "{count} adres IP"
+    few: "{count} adresy IP"
+    many: "{count} adresów IP"
+    other: "{count} adresów IP"
+  pt:
+    one: "{count} IP"
+    other: "{count} IPs"
+  pt-BR:
+    one: "{count} IP"
+    other: "{count} IPs"
+  pt-PT:
+    one: "{count} IP"
+    other: "{count} IPs"
+  ru:
+    one: "{count} IP-адрес"
+    few: "{count} IP-адреса"
+    many: "{count} IP-адресов"
+    other: "{count} IP-адресов"
+  sv:
+    one: "{count} IP"
+    other: "{count} IP:er"
+  sw:
+    one: "anwani {count} ya IP"
+    other: "anwani {count} za IP"
+  th:
+    other: "{count} IP"
+  uk:
+    one: "{count} IP-адреса"
+    few: "{count} IP-адреси"
+    many: "{count} IP-адрес"
+    other: "{count} IP-адреси"
+  vi:
+    other: "{count} IP"
+  zh:
+    other: "{count} 个 IP"
+  zh-HK:
+    other: "{count} 個 IP"

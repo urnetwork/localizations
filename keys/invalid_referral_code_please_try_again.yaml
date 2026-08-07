@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "رمز الإحالة غير صالح. يرجى المحاولة مرة أخرى."
   cs: "Neplatný referální kód. Prosím, zkuste to znovu."
-  de: "Ungültiger Empfehlungscode. Bitte versuchen Sie es erneut."
+  de: "Ungültiger Empfehlungscode. Bitte versuche es erneut."
   el: "Μη έγκυρος κωδικός παραπομπής. Παρακαλώ δοκιμάστε ξανά."
   en: "Invalid referral code. Please try again."
   es: "Código de referencia no válido. Por favor, inténtalo de nuevo."

@@ -6,7 +6,7 @@ platforms:
 localizations:
   ar: "هل أنت متأكد أنك تريد حذف حسابك؟"
   cs: "Opravdu chcete svůj účet odstranit?"
-  de: "Sind Sie sicher, dass Sie Ihr Konto löschen möchten?"
+  de: "Bist du sicher, dass du dein Konto löschen möchtest?"
   el: "Είστε βέβαιοι ότι θέλετε να διαγράψετε τον λογαριασμό σας;"
   en: "Are you sure you want to delete your account?"
   es: "¿Está seguro de que desea eliminar su cuenta?"

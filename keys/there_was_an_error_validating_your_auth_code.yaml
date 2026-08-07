@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "حدث خطأ أثناء التحقق من رمز المصادقة الخاص بك. يرجى المحاولة مرة أخرى أو إنشاء رمز جديد."
   cs: "Došlo k chybě při ověřování vašeho ověřovacího kódu. Zkuste to prosím znovu nebo vygenerujte nový kód."
-  de: "Beim Validieren Ihres Auth-Codes ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder generieren Sie einen neuen."
+  de: "Beim Validieren deines Auth-Codes ist ein Fehler aufgetreten. Bitte versuche es erneut oder generiere einen neuen."
   el: "Υπήρξε σφάλμα κατά την επικύρωση του κωδικού ταυτοποίησης. Παρακαλώ δοκιμάστε ξανά ή δημιουργήστε έναν νέο."
   en: "There was an error validating your auth code. Please try again or generate a new one"
   es: "Hubo un error al validar tu código de autenticación. Por favor, inténtalo de nuevo o genera uno nuevo."

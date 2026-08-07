@@ -9,7 +9,7 @@ aliases:
 localizations:
   ar: "أدخل رمز المصادقة لمرة واحدة"
   cs: "Zadejte svůj jednorázový ověřovací kód"
-  de: "Geben Sie Ihren einmaligen Authentifizierungscode ein"
+  de: "Gib deinen einmaligen Authentifizierungscode ein"
   el: "Εισαγάγετε τον μοναδικό κωδικό ταυτοποίησης"
   en: "Enter your one-time auth code"
   es: "Ingresa tu código de autenticación de un solo uso"

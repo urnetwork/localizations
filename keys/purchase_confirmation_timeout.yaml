@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "لم نتمكن من تأكيد عملية الشراء بعد. إذا أكملت الدفع، فسيتم تحديث خطتك تلقائيًا خلال دقائق قليلة — لا حاجة للشراء مرة أخرى."
   cs: "Zatím se nám nepodařilo potvrdit váš nákup. Pokud jste platbu dokončili, váš tarif se během několika minut aktualizuje automaticky — není třeba nakupovat znovu."
-  de: "Wir konnten Ihren Kauf noch nicht bestätigen. Wenn Sie den Bezahlvorgang abgeschlossen haben, wird Ihr Plan in wenigen Minuten automatisch aktualisiert — Sie müssen nicht erneut kaufen."
+  de: "Wir konnten deinen Kauf noch nicht bestätigen. Wenn du den Bezahlvorgang abgeschlossen hast, wird dein Plan in wenigen Minuten automatisch aktualisiert — du musst nicht erneut kaufen."
   el: "Δεν μπορέσαμε ακόμη να επιβεβαιώσουμε την αγορά σας. Αν ολοκληρώσατε την πληρωμή, το πρόγραμμά σας θα ενημερωθεί αυτόματα σε λίγα λεπτά — δεν χρειάζεται να αγοράσετε ξανά."
   en: "We couldn't confirm your purchase yet. If you completed checkout, your plan will update automatically in a few minutes — there's no need to buy again."
   es: "Aún no hemos podido confirmar tu compra. Si completaste el pago, tu plan se actualizará automáticamente en unos minutos; no es necesario volver a comprar."

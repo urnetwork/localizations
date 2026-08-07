@@ -1,0 +1,6 @@
+description: "Subscription: body for a Pro account with no store subscription to cancel (e.g. Pro from a balance code or a grant)"
+source: "Your Pro plan is active. There's no store subscription to manage on this account."
+platforms:
+  - site
+localizations:
+  en: "Your Pro plan is active. There's no store subscription to manage on this account."
