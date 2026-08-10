@@ -1,0 +1,6 @@
+description: "Shown inline in the upgrade flow when a StoreKit purchase attempt throws (Shared/ViewModels/AppStoreSubscriptionManager.swift). Every purchase failure is shown to the user — a payment error they cannot see is one they will hit again. User cancellation is not an error and never shows this."
+source: "The purchase could not be completed. Please try again."
+platforms:
+  - apple
+localizations:
+  en: "The purchase could not be completed. Please try again."

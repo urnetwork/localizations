@@ -1,0 +1,6 @@
+description: "Title for the post-purchase overlay and the confirmation-timeout dialog. Deliberately claims only what is known -- the payment was received -- not that the plan is active yet."
+source: "Payment received"
+platforms:
+  - android
+localizations:
+  en: "Payment received"

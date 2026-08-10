@@ -1,0 +1,8 @@
+description: "Redeem balance code: the request never got a server answer (network failure). Must NOT be worded as 'bad code' -- the redeem may have committed server-side, so tell the user to check their balance before retrying."
+source: "We couldn't reach the server — check your connection. If you were charged, the code may already be applied; check your balance before trying again."
+platforms:
+  - android
+  - linux
+  - windows
+localizations:
+  en: "We couldn't reach the server — check your connection. If you were charged, the code may already be applied; check your balance before trying again."

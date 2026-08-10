@@ -1,0 +1,6 @@
+description: "Title of the post-purchase screen while the server has not yet confirmed the entitlement (Shared/Views/PurchaseSuccessView.swift). StoreKit took the payment; the confirmation poll is still running — the copy must not claim premium yet."
+source: "Payment received."
+platforms:
+  - apple
+localizations:
+  en: "Payment received."

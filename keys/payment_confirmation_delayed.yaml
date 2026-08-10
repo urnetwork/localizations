@@ -1,0 +1,6 @@
+description: "Shown when the post-payment confirmation poll exhausts its budget (2 minutes) without the server confirming the subscription. The payment evidence is real (store or payment sheet reported success), so say that plainly, and head off a second purchase."
+source: "Confirmation is taking longer than expected. Your plan will update automatically once it's confirmed — there's no need to buy again."
+platforms:
+  - android
+localizations:
+  en: "Confirmation is taking longer than expected. Your plan will update automatically once it's confirmed — there's no need to buy again."

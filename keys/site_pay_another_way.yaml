@@ -1,0 +1,6 @@
+description: "Upgrade sheet: escape from the waiting state back to the payment options"
+source: "Pay another way"
+platforms:
+  - site
+localizations:
+  en: "Pay another way"

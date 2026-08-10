@@ -1,0 +1,6 @@
+description: "Restore-purchases outcome: the App Store sync failed (e.g. the user cancelled the credentials prompt or the store was unreachable) and no entitlement was found locally (Shared/ViewModels/AppStoreSubscriptionManager.swift)."
+source: "Couldn't restore purchases. Please try again."
+platforms:
+  - apple
+localizations:
+  en: "Couldn't restore purchases. Please try again."

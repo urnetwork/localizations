@@ -1,0 +1,6 @@
+description: "Shown in the upgrade sheet and intro funnel when the App Store product fetch failed, with a retry action — replaces the eternal spinner (Shared/Views/UpgradeSubscriptionSheet.swift, Shared/Views/Introduction/IntroductionView.swift)."
+source: "Couldn't load subscription options. Check your connection and retry."
+platforms:
+  - apple
+localizations:
+  en: "Couldn't load subscription options. Check your connection and retry."

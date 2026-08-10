@@ -1,0 +1,6 @@
+description: "Shown in the payment-problem dialog when the Stripe payment sheet reports a failure. The sheet's own error detail is appended by the caller."
+source: "Your payment could not be completed."
+platforms:
+  - android
+localizations:
+  en: "Your payment could not be completed."

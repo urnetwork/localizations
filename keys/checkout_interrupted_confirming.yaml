@@ -1,0 +1,6 @@
+description: "Upgrade sheet waiting page: the embedded checkout webview crashed after the payment form had rendered, so a charge may already have gone through with only the redirect lost. Shown while the confirmation poll asks the server for the payment webhook; must never invite buying again."
+source: "The checkout view closed unexpectedly. If your payment went through, your plan updates here automatically — there's no need to buy again."
+platforms:
+  - windows
+localizations:
+  en: "The checkout view closed unexpectedly. If your payment went through, your plan updates here automatically — there's no need to buy again."

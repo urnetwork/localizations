@@ -1,0 +1,6 @@
+description: "Redeem balance code: the server answered that this code was already redeemed. Distinct from invalid -- the user may have redeemed it on an earlier attempt that looked like a failure."
+source: "This balance code has already been redeemed. If you redeemed it earlier, the data is already on your balance."
+platforms:
+  - android
+localizations:
+  en: "This balance code has already been redeemed. If you redeemed it earlier, the data is already on your balance."

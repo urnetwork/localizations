@@ -1,0 +1,7 @@
+description: "The store purchase belongs to a different network than the one logged in — crediting must not go to the wrong account, so tell the user which way out exists. Apple: restore-purchases outcome (Shared/ViewModels/AppStoreSubscriptionManager.swift). Android: terminal `wrong_network` answer from the Play purchase report (google/PlanViewModel.kt); the purchase is still acknowledged so Play does not auto-refund it."
+source: "Your subscription was purchased under a different account. Log in to that account to use it."
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Your subscription was purchased under a different account. Log in to that account to use it."

@@ -1,0 +1,6 @@
+description: "Restore-purchases outcome: an entitlement for the current network was found; the confirmation poll now bridges the gap until the server credits it (Shared/ViewModels/AppStoreSubscriptionManager.swift)."
+source: "Purchase found. Confirming your plan — it will update automatically."
+platforms:
+  - apple
+localizations:
+  en: "Purchase found. Confirming your plan — it will update automatically."

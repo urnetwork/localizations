@@ -1,0 +1,6 @@
+description: "Action label that resyncs App Store purchases (AppStore.sync + entitlement scan). Shown in Settings and in the upgrade flow's failure states (Main/Account/Settings/SettingsForm-iOS.swift, SettingsForm-macOS.swift, Shared/Views/UpgradeSubscriptionSheet.swift, Shared/Views/PurchaseSuccessView.swift, Shared/Views/Introduction/IntroductionView.swift)."
+source: "Restore purchases"
+platforms:
+  - apple
+localizations:
+  en: "Restore purchases"

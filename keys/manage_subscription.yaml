@@ -2,6 +2,7 @@ description: "Call to action"
 source: "Manage subscription"
 platforms:
   - android
+  - windows
 localizations:
   ar: "إدارة الاشتراك"
   cs: "Správa předplatného"

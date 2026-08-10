@@ -2,6 +2,7 @@ description: "Used in Shared/Views/RedeemBalanceCodeSheet/RedeemBalanceCodeSheet
 source: "Invalid balance code"
 platforms:
   - apple
+  - linux
 localizations:
   ar: "رمز الرصيد غير صالح"
   cs: "Neplatný kód na zůstatek"

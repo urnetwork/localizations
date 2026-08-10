@@ -1,0 +1,6 @@
+description: "Body of the post-purchase overlay while the server has not yet confirmed the subscription. Replaces the optimistic 'You're premium.' claim until currentSubscription actually confirms."
+source: "We're confirming your payment now. Your plan will update automatically — you don't need to do anything."
+platforms:
+  - android
+localizations:
+  en: "We're confirming your payment now. Your plan will update automatically — you don't need to do anything."

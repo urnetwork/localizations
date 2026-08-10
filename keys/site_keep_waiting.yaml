@@ -1,0 +1,6 @@
+description: "Upgrade sheet: give-up state action to resume waiting for the payment"
+source: "Keep waiting"
+platforms:
+  - site
+localizations:
+  en: "Keep waiting"

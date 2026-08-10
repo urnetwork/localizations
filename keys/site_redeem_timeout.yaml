@@ -1,0 +1,6 @@
+description: "Balance code redeem: timeout is ambiguous — the server may have committed the redeem after the client stopped waiting"
+source: "The request timed out. If you were charged, check your balance — the code may already be applied."
+platforms:
+  - site
+localizations:
+  en: "The request timed out. If you were charged, check your balance — the code may already be applied."

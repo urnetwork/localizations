@@ -1,0 +1,6 @@
+description: "Upgrade sheet: waiting state hint — a solana: deep link with no wallet installed silently does nothing"
+source: "Nothing happened? You may need a Solana wallet installed — or pay another way."
+platforms:
+  - site
+localizations:
+  en: "Nothing happened? You may need a Solana wallet installed — or pay another way."

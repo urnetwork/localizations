@@ -1,0 +1,6 @@
+description: "Upgrade sheet: give-up state body — the payment may still be processing and will appear under Account"
+source: "We haven't seen your payment yet. If you completed it in your wallet, it may still be processing — your plan will update automatically under Account once it lands."
+platforms:
+  - site
+localizations:
+  en: "We haven't seen your payment yet. If you completed it in your wallet, it may still be processing — your plan will update automatically under Account once it lands."

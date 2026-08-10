@@ -3,6 +3,7 @@ source: "Kill switch"
 platforms:
   - android
   - apple
+  - linux
 localizations:
   ar: "مفتاح القتل"
   cs: "Kill switch"

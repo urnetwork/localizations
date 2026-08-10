@@ -1,0 +1,6 @@
+description: "Linux redeem-code sheet: shown in place of the redeemed-codes history when getNetworkRedeemedBalanceCodes FAILS (transport error, no response, or a server-side error) — distinct from the empty state's \"No balance codes found\", which is only for a successful fetch with no codes."
+source: "Couldn't load your balance codes. Check your connection and try again."
+platforms:
+  - linux
+localizations:
+  en: "Couldn't load your balance codes. Check your connection and try again."

@@ -2,6 +2,7 @@ description: "Account panel: billing portal failed to open"
 source: "Could not open the billing portal."
 platforms:
   - site
+  - windows
 localizations:
   ar: "تعذّر فتح بوابة الفوترة."
   de: "Abrechnungsportal konnte nicht geöffnet werden."

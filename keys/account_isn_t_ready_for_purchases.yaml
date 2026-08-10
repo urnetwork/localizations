@@ -1,0 +1,6 @@
+description: "Shown when a purchase is refused before contacting the App Store because the networkId is missing or unparseable — the purchase could never be credited to anyone (Shared/ViewModels/AppStoreSubscriptionManager.swift). This used to be a silent no-op."
+source: "Your account isn't ready for purchases. Please restart the app and try again."
+platforms:
+  - apple
+localizations:
+  en: "Your account isn't ready for purchases. Please restart the app and try again."

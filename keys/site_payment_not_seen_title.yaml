@@ -1,0 +1,6 @@
+description: "Upgrade sheet: give-up state title after the payment wait deadline"
+source: "Payment not confirmed yet"
+platforms:
+  - site
+localizations:
+  en: "Payment not confirmed yet"

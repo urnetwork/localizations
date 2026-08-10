@@ -1,0 +1,6 @@
+description: "Restore-purchases outcome: the sync succeeded and there is genuinely nothing to restore (Shared/ViewModels/AppStoreSubscriptionManager.swift)."
+source: "No previous purchases were found."
+platforms:
+  - apple
+localizations:
+  en: "No previous purchases were found."

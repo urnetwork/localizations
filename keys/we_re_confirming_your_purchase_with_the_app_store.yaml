@@ -1,0 +1,6 @@
+description: "Body of the post-purchase screen while the confirmation poll runs (Shared/Views/PurchaseSuccessView.swift). Processing-shaped, not premium-shaped: the server learns of the purchase by webhook and has not confirmed yet."
+source: "We're confirming your purchase with the App Store. Your plan will update automatically."
+platforms:
+  - apple
+localizations:
+  en: "We're confirming your purchase with the App Store. Your plan will update automatically."
