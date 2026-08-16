@@ -1,0 +1,9 @@
+description: "Accessibility label for the kill switch exception information button."
+source: "Show kill switch exception"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "Show kill switch exception"

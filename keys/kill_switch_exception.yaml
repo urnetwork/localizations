@@ -1,0 +1,9 @@
+description: "Title for the disclosure explaining traffic that intentionally bypasses the VPN kill switch."
+source: "Kill switch exception"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "Kill switch exception"
