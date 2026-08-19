@@ -1,0 +1,9 @@
+description: "Footer of the provider transport mode section."
+source: "The transport this device uses while providing for others. Auto tries the enabled transports in preference order and keeps every healthy transport of the same tier connected in parallel."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "The transport this device uses while providing for others. Auto tries the enabled transports in preference order and keeps every healthy transport of the same tier connected in parallel."

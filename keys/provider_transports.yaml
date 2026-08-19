@@ -1,0 +1,9 @@
+description: "Title of the transport settings editor for the provider transport policy."
+source: "Provider transports"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Provider transports"

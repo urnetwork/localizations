@@ -1,0 +1,9 @@
+description: "One line description of the H3 transport in the transport settings editor."
+source: "Direct over QUIC. Fastest where it is not filtered."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Direct over QUIC. Fastest where it is not filtered."

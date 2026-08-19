@@ -1,0 +1,9 @@
+description: "One line description of the whodis (DNS) transport in the transport settings editor."
+source: "Disguised as DNS traffic. For networks that filter direct connections."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Disguised as DNS traffic. For networks that filter direct connections."

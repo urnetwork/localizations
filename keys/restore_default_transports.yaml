@@ -1,0 +1,9 @@
+description: "Button that resets the transport settings draft to the SDK default policy."
+source: "Restore default transports"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Restore default transports"

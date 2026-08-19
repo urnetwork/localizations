@@ -1,0 +1,9 @@
+description: "Title of the transport distribution bar under the client statistics chart and of the transport settings editor."
+source: "Transports"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Transports"

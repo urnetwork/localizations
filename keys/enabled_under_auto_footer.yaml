@@ -1,0 +1,9 @@
+description: "Footer of the Auto transports section explaining the fixed preference order."
+source: "Listed in preference order: H3 and H1 first, then whodis, then whodis pump. The order is fixed. At least one transport stays enabled."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Listed in preference order: H3 and H1 first, then whodis, then whodis pump. The order is fixed. At least one transport stays enabled."

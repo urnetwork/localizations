@@ -1,0 +1,9 @@
+description: "Section header of the per-transport enable toggles shown when the transport mode is Auto."
+source: "Enabled under Auto"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Enabled under Auto"

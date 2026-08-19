@@ -1,0 +1,9 @@
+description: "One line description of the H1 transport in the transport settings editor."
+source: "Direct over TLS. Works on most networks."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Direct over TLS. Works on most networks."

@@ -1,0 +1,9 @@
+description: "One line description of the whodis pump (DNS pump) transport in the transport settings editor."
+source: "Disguised as DNS traffic with a constant reply pump. Lowest bandwidth, highest availability."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Disguised as DNS traffic with a constant reply pump. Lowest bandwidth, highest availability."

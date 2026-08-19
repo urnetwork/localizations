@@ -1,0 +1,9 @@
+description: "Transport bar label for traffic admitted for sending but not yet attributed to a physical transport."
+source: "queued"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "queued"

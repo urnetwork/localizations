@@ -1,0 +1,9 @@
+description: "Section header of the transport mode selection (Auto or a single transport)."
+source: "Transport"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Transport"

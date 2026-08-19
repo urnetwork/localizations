@@ -1,0 +1,9 @@
+description: "Prefix of the transport bar footer listing the enabled transports that carried no traffic in the stats window."
+source: "unused"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "unused"

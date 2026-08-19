@@ -1,0 +1,9 @@
+description: "Subtitle of the Auto transport mode row."
+source: "Recommended. Uses the enabled transports below."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Recommended. Uses the enabled transports below."
