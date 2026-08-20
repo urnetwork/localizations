@@ -1,0 +1,9 @@
+description: "Warning banner in the transport settings editor when the Auto policy is degraded because the platform memory budget cannot admit every enabled transport."
+source: "Auto is degraded because system memory limits prevent some enabled transports from running."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Auto is degraded because system memory limits prevent some enabled transports from running."

@@ -1,0 +1,9 @@
+description: "Accessibility label / tooltip on the warning icon next to a transport that is enabled under Auto but not currently eligible under a system constraint (for example the platform memory budget). A runtime warning, not a settings restriction: the toggle stays editable."
+source: "Unavailable due to system constraints"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Unavailable due to system constraints"

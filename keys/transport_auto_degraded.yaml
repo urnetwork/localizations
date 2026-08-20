@@ -1,0 +1,9 @@
+description: "Generic warning banner in the transport settings editor when the Auto policy is degraded for a constraint this app version does not recognize (the SDK may report new constraint kinds; \"memory\" has its own banner)."
+source: "Auto is degraded because system constraints prevent some enabled transports from running."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Auto is degraded because system constraints prevent some enabled transports from running."
