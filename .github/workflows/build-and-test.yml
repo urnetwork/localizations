@@ -1,0 +1,132 @@
+# Build and test @urnetwork/localizations on every push and pull request.
+#
+# There is nothing to compile here -- the "build" IS the codegen. `npm run gen`
+# loads and validates all 1,224 keys/*.yaml through gen/store.mjs validate()
+# (snake_case ids; a required source/description/en; known locales; one
+# xcstrings key per source text on apple; every declared placeholder present in
+# every localization; exactly the CLDR plural categories a locale actually has;
+# product names never translated) and then runs all four emitters: android
+# strings.xml, apple Localizable.xcstrings, windows Resources.resw, linux
+# .po/.pot/LINGUAS. A key that breaks any of that is a real break, and today
+# nothing catches it until the release build regenerates the app trees.
+#
+# WHAT THIS DELIBERATELY DOES NOT DO
+#
+#   * Publish. package.json's release:patch/minor/major run `npm publish` and
+#     need an npm token. Nothing here reaches them; this workflow uses no
+#     secret at all.
+#
+#   * Diff against the sibling app checkouts. `npm test` is
+#     `node gen/generate.mjs --check`, which compares the generated files with
+#     $URNETWORK_ROOT/{android,apple,windows,linux}/... -- four OTHER
+#     repositories' working trees. This job points URNETWORK_ROOT at the tree
+#     the build step just wrote, so `npm test` gates on the codegen being
+#     complete and deterministic without making this repo's CI a function of
+#     four other repos' latest commits (server/test.yml documents the same
+#     trade-off where it is forced to take it). See the PR for how to opt in.
+#
+#   * Run gen/verify-lossless.mjs. It needs `--baseline <dir>`, a snapshot of
+#     the pre-migration app tree that is not in this repo; run bare -- which is
+#     all the `verify-lossless` script does -- it exits 2.
+name: Build and test — localizations
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: npm run gen + npm test
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          # A real pin. web/build.yml uses `node-version: latest`, which floats
+          # onto whatever shipped this week. 24 is the major the release build
+          # runs from (build/all/run.sh gates on node v24.14.1) and the one
+          # urnetwork/extension's CI uses. js-yaml is the only dependency and
+          # package.json declares no `engines`, so nothing narrower is implied.
+          node-version: '24'
+          cache: npm
+
+      # npm ci, not `npm i`: it installs package-lock.json exactly and fails
+      # when the lockfile and package.json have drifted, which is one of the
+      # things a first CI is for. `npm i` rewrites the lockfile in place and can
+      # green-light a tree nobody else can reproduce.
+      - name: Install
+        run: npm ci
+
+      # gen/store.mjs defaults URNETWORK_ROOT to `..`, the sibling app
+      # checkouts. CI has none, so send the output to a scratch tree instead --
+      # see the header for why this stays a single-repo check.
+      - name: Point the codegen at a scratch tree
+        run: echo "URNETWORK_ROOT=$RUNNER_TEMP/generated" >> "$GITHUB_ENV"
+
+      # The real work. Both failure modes are hard: validate() exits 1 naming
+      # the offending key[locale], and an emitter that throws fails the step.
+      # The file assertions are here because `gen` reports how many files it
+      # wrote but does not fail on writing a file that is empty or absent.
+      - name: Build (validate the store, generate every platform)
+        run: |
+          npm run gen
+          for f in \
+            android/app/app/src/main/res/values/strings.xml \
+            apple/app/network/Shared/Resources/Localizable.xcstrings \
+            windows/app/src/App/Strings/en/Resources.resw \
+            linux/app/po/urnetwork.pot \
+            linux/app/po/LINGUAS
+          do
+            if [ ! -s "$URNETWORK_ROOT/$f" ]; then
+              echo "::error::codegen produced no $f"
+              exit 1
+            fi
+          done
+
+      # `npm test` is `node gen/generate.mjs --check`. Pointed at the tree the
+      # step above just wrote, it regenerates everything and asserts byte
+      # equality -- so a generator that is not deterministic (sort order, object
+      # key order, Intl collation) fails here, rather than surfacing later as a
+      # phantom diff in an app repo.
+      - name: Test (npm test -- regenerate and assert byte-for-byte equality)
+        run: npm test
+
+      # index.js is the package's entire public API: it is what the web
+      # extension imports, and no other step touches it. Exercise the three
+      # promises it makes -- the platform filter, alias resolution
+      # ("continue" -> continue_txt), and every value being a string (a plural
+      # key collapses to its `other` form).
+      - name: Test the published API (index.js)
+        run: |
+          node --input-type=module -e '
+            import { loadAllKeys, getSupportedLanguages } from "./index.js";
+            const fail = (m) => { console.error("::error::" + m); process.exit(1); };
+            const web = loadAllKeys();
+            const all = loadAllKeys({ platform: null });
+            const langs = getSupportedLanguages({ platform: null });
+            console.log("web " + Object.keys(web).length + " keys, store " +
+              Object.keys(all).length + " keys, " + langs.length + " locales");
+            if (Object.keys(web).length < 1) fail("loadAllKeys() returned nothing");
+            if (Object.keys(all).length <= Object.keys(web).length)
+              fail("loadAllKeys({ platform: null }) did not return the whole store");
+            if (!web["continue"]) fail("the alias \"continue\" no longer resolves");
+            if (!langs.includes("en")) fail("en is missing");
+            for (const [id, k] of Object.entries(all))
+              if (typeof k.localizations?.en !== "string") fail(id + ": en is not a string");
+          '
