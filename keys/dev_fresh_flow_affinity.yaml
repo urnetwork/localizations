@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): hard fresh-flow affinity control label."
+source: "Hard fresh-flow affinity"
+platforms:
+  - android
+localizations:
+  en: "Hard fresh-flow affinity"

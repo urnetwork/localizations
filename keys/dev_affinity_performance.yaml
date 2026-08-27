@@ -1,0 +1,6 @@
+description: "Developer tools screen (reliability surface): performance-aware affinity control label."
+source: "Performance-aware affinity"
+platforms:
+  - android
+localizations:
+  en: "Performance-aware affinity"
