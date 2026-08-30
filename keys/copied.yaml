@@ -2,6 +2,7 @@ description: "Text for a button that copies the seedphrase to the clipboard."
 description_auto: true
 source: "Copied!"
 platforms:
+  - android
   - apple
 localizations:
   ar: "تم النسخ!"

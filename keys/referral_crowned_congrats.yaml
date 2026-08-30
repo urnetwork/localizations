@@ -1,0 +1,104 @@
+description: "Crowned status line on the gold refer overlay once the network has referrals. {count} is total referrals, {data} the total daily GiB the referrer earns (min(count, 20) × 3)."
+source: "%1$lld friends have joined — you're earning +%2$lld GiB/day, for life."
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: count
+    type: int
+  - name: data
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "انضم {count} من الأصدقاء — تكسب +{data} GiB يوميًا، مدى الحياة."
+    one: "انضم صديق واحد — تكسب +{data} GiB يوميًا، مدى الحياة."
+    two: "انضم صديقان — تكسب +{data} GiB يوميًا، مدى الحياة."
+    few: "انضم {count} من الأصدقاء — تكسب +{data} GiB يوميًا، مدى الحياة."
+    many: "انضم {count} من الأصدقاء — تكسب +{data} GiB يوميًا، مدى الحياة."
+    other: "انضم {count} من الأصدقاء — تكسب +{data} GiB يوميًا، مدى الحياة."
+  cs:
+    one: "Připojil se přítel — získáváte +{data} GiB/den, na celý život."
+    few: "Připojili se {count} přátelé — získáváte +{data} GiB/den, na celý život."
+    many: "Připojilo se {count} přátel — získáváte +{data} GiB/den, na celý život."
+    other: "Připojilo se {count} přátel — získáváte +{data} GiB/den, na celý život."
+  de:
+    one: "Ein Freund ist beigetreten – du erhältst +{data} GiB/Tag, ein Leben lang."
+    other: "{count} Freunde sind beigetreten – du erhältst +{data} GiB/Tag, ein Leben lang."
+  el:
+    one: "Ένας φίλος μπήκε — κερδίζεις +{data} GiB/ημέρα, για πάντα."
+    other: "{count} φίλοι μπήκαν — κερδίζεις +{data} GiB/ημέρα, για πάντα."
+  en:
+    one: "A friend has joined — you're earning +{data} GiB/day, for life."
+    other: "{count} friends have joined — you're earning +{data} GiB/day, for life."
+  es:
+    one: "Un amigo se ha unido: ganas +{data} GiB/día, de por vida."
+    other: "{count} amigos se han unido: ganas +{data} GiB/día, de por vida."
+  es-419:
+    one: "Un amigo se ha unido: ganas +{data} GiB/día, de por vida."
+    other: "{count} amigos se han unido: ganas +{data} GiB/día, de por vida."
+  es-MX:
+    one: "Un amigo se ha unido: ganas +{data} GiB/día, de por vida."
+    other: "{count} amigos se han unido: ganas +{data} GiB/día, de por vida."
+  fr:
+    one: "Un ami a rejoint — vous gagnez +{data} GiB/jour, à vie."
+    other: "{count} amis ont rejoint — vous gagnez +{data} GiB/jour, à vie."
+  he:
+    one: "חבר הצטרף — אתה מרוויח +{data} GiB ליום, לכל החיים."
+    two: "שני חברים הצטרפו — אתה מרוויח +{data} GiB ליום, לכל החיים."
+    many: "{count} חברים הצטרפו — אתה מרוויח +{data} GiB ליום, לכל החיים."
+    other: "{count} חברים הצטרפו — אתה מרוויח +{data} GiB ליום, לכל החיים."
+  hi:
+    one: "एक दोस्त जुड़ चुका है — आप जीवनभर +{data} GiB/दिन कमा रहे हैं।"
+    other: "{count} दोस्त जुड़ चुके हैं — आप जीवनभर +{data} GiB/दिन कमा रहे हैं।"
+  id:
+    other: "{count} teman telah bergabung — Anda mendapat +{data} GiB/hari, seumur hidup."
+  it:
+    one: "Un amico si è unito: guadagni +{data} GiB/giorno, a vita."
+    other: "{count} amici si sono uniti: guadagni +{data} GiB/giorno, a vita."
+  ja:
+    other: "友達{count}人が参加済み。毎日+{data} GiBを一生獲得中。"
+  ko:
+    other: "친구 {count}명이 가입했습니다. 평생 +{data} GiB/일을 받는 중."
+  nl:
+    one: "Er is een vriend lid geworden — je verdient +{data} GiB/dag, levenslang."
+    other: "Er zijn {count} vrienden lid geworden — je verdient +{data} GiB/dag, levenslang."
+  pl:
+    one: "Dołączył znajomy — zarabiasz +{data} GiB/dzień, na całe życie."
+    few: "Dołączyło {count} znajomych — zarabiasz +{data} GiB/dzień, na całe życie."
+    many: "Dołączyło {count} znajomych — zarabiasz +{data} GiB/dzień, na całe życie."
+    other: "Dołączyło {count} znajomych — zarabiasz +{data} GiB/dzień, na całe życie."
+  pt:
+    one: "Um amigo aderiu — está a ganhar +{data} GiB/dia, para toda a vida."
+    other: "{count} amigos aderiram — está a ganhar +{data} GiB/dia, para toda a vida."
+  pt-BR:
+    one: "Um amigo entrou — você está ganhando +{data} GiB/dia, para sempre."
+    other: "{count} amigos entraram — você está ganhando +{data} GiB/dia, para sempre."
+  pt-PT:
+    one: "Um amigo aderiu — está a ganhar +{data} GiB/dia, para toda a vida."
+    other: "{count} amigos aderiram — está a ganhar +{data} GiB/dia, para toda a vida."
+  ru:
+    one: "Присоединился друг — вы получаете +{data} GiB в день, навсегда."
+    few: "Присоединились {count} друга — вы получаете +{data} GiB в день, навсегда."
+    many: "Присоединились {count} друзей — вы получаете +{data} GiB в день, навсегда."
+    other: "Присоединились {count} друзей — вы получаете +{data} GiB в день, навсегда."
+  sv:
+    one: "En vän har gått med – du tjänar +{data} GiB/dag, livet ut."
+    other: "{count} vänner har gått med – du tjänar +{data} GiB/dag, livet ut."
+  sw:
+    one: "Rafiki amejiunga — unapata +{data} GiB kwa siku, maisha yote."
+    other: "Marafiki {count} wamejiunga — unapata +{data} GiB kwa siku, maisha yote."
+  th:
+    other: "เพื่อน {count} คนเข้าร่วมแล้ว — คุณได้รับ +{data} GiB/วัน ตลอดชีวิต"
+  uk:
+    one: "Приєднався друг — ви отримуєте +{data} GiB на день, довічно."
+    few: "Приєдналися {count} друзі — ви отримуєте +{data} GiB на день, довічно."
+    many: "Приєдналися {count} друзів — ви отримуєте +{data} GiB на день, довічно."
+    other: "Приєдналися {count} друзів — ви отримуєте +{data} GiB на день, довічно."
+  vi:
+    other: "{count} người bạn đã tham gia — bạn đang nhận +{data} GiB/ngày, trọn đời."
+  zh:
+    other: "已有 {count} 位好友加入——你正终身每天多获得 +{data} GiB。"
+  zh-HK:
+    other: "已有 {count} 位好友加入——你正終身每日多獲得 +{data} GiB。"

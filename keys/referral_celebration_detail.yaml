@@ -1,0 +1,104 @@
+description: "Body of the one-time full-screen crowning celebration shown to the referrer when a friend joins with their code. {count} is the number of friends that just joined, {data} the daily GiB bonus per referral (currently 3)."
+source: "%1$lld friends just joined URnetwork with your code. Each one earns you +%2$lld GiB a day of free data — for life."
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: count
+    type: int
+  - name: data
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "انضم {count} من الأصدقاء للتو إلى URnetwork برمزك. كل واحد يمنحك +{data} GiB يوميًا من البيانات المجانية — مدى الحياة."
+    one: "انضم صديق للتو إلى URnetwork برمزك. كلاكما يكسب +{data} GiB يوميًا من البيانات المجانية — مدى الحياة."
+    two: "انضم صديقان للتو إلى URnetwork برمزك. كل واحد يمنحك +{data} GiB يوميًا من البيانات المجانية — مدى الحياة."
+    few: "انضم {count} من الأصدقاء للتو إلى URnetwork برمزك. كل واحد يمنحك +{data} GiB يوميًا من البيانات المجانية — مدى الحياة."
+    many: "انضم {count} من الأصدقاء للتو إلى URnetwork برمزك. كل واحد يمنحك +{data} GiB يوميًا من البيانات المجانية — مدى الحياة."
+    other: "انضم {count} من الأصدقاء للتو إلى URnetwork برمزك. كل واحد يمنحك +{data} GiB يوميًا من البيانات المجانية — مدى الحياة."
+  cs:
+    one: "Právě se přes váš kód připojil k URnetwork přítel. Oba získáváte +{data} GiB dat zdarma denně — na celý život."
+    few: "Právě se přes váš kód připojili k URnetwork {count} přátelé. Každý z nich vám vynáší +{data} GiB dat zdarma denně — na celý život."
+    many: "Právě se přes váš kód připojilo k URnetwork {count} přátel. Každý z nich vám vynáší +{data} GiB dat zdarma denně — na celý život."
+    other: "Právě se přes váš kód připojilo k URnetwork {count} přátel. Každý z nich vám vynáší +{data} GiB dat zdarma denně — na celý život."
+  de:
+    one: "Ein Freund ist gerade mit deinem Code URnetwork beigetreten. Ihr beide erhaltet +{data} GiB kostenlose Daten pro Tag – ein Leben lang."
+    other: "{count} Freunde sind gerade mit deinem Code URnetwork beigetreten. Jeder bringt dir +{data} GiB kostenlose Daten pro Tag – ein Leben lang."
+  el:
+    one: "Ένας φίλος μόλις μπήκε στο URnetwork με τον κωδικό σου. Κερδίζετε και οι δύο +{data} GiB δωρεάν δεδομένα την ημέρα — για πάντα."
+    other: "{count} φίλοι μόλις μπήκαν στο URnetwork με τον κωδικό σου. Ο καθένας σού αποφέρει +{data} GiB δωρεάν δεδομένα την ημέρα — για πάντα."
+  en:
+    one: "A friend just joined URnetwork with your code. You're both earning +{data} GiB a day of free data — for life."
+    other: "{count} friends just joined URnetwork with your code. Each one earns you +{data} GiB a day of free data — for life."
+  es:
+    one: "Un amigo acaba de unirse a URnetwork con tu código. Ambos ganan +{data} GiB de datos gratis al día, de por vida."
+    other: "{count} amigos acaban de unirse a URnetwork con tu código. Cada uno te da +{data} GiB de datos gratis al día, de por vida."
+  es-419:
+    one: "Un amigo acaba de unirse a URnetwork con tu código. Ambos ganan +{data} GiB de datos gratis al día, de por vida."
+    other: "{count} amigos acaban de unirse a URnetwork con tu código. Cada uno te da +{data} GiB de datos gratis al día, de por vida."
+  es-MX:
+    one: "Un amigo acaba de unirse a URnetwork con tu código. Ambos ganan +{data} GiB de datos gratis al día, de por vida."
+    other: "{count} amigos acaban de unirse a URnetwork con tu código. Cada uno te da +{data} GiB de datos gratis al día, de por vida."
+  fr:
+    one: "Un ami vient de rejoindre URnetwork avec votre code. Vous gagnez tous les deux +{data} GiB de données gratuites par jour — à vie."
+    other: "{count} amis viennent de rejoindre URnetwork avec votre code. Chacun vous rapporte +{data} GiB de données gratuites par jour — à vie."
+  he:
+    one: "חבר הצטרף זה עתה ל‑URnetwork עם הקוד שלך. שניכם מרוויחים +{data} GiB של נתונים חינם ביום — לכל החיים."
+    two: "שני חברים הצטרפו זה עתה ל‑URnetwork עם הקוד שלך. כל אחד מזכה אותך ב‑+{data} GiB של נתונים חינם ביום — לכל החיים."
+    many: "{count} חברים הצטרפו זה עתה ל‑URnetwork עם הקוד שלך. כל אחד מזכה אותך ב‑+{data} GiB של נתונים חינם ביום — לכל החיים."
+    other: "{count} חברים הצטרפו זה עתה ל‑URnetwork עם הקוד שלך. כל אחד מזכה אותך ב‑+{data} GiB של נתונים חינם ביום — לכל החיים."
+  hi:
+    one: "आपके कोड से एक दोस्त अभी URnetwork से जुड़ा। आप दोनों को जीवनभर हर दिन +{data} GiB मुफ़्त डेटा मिलेगा।"
+    other: "आपके कोड से {count} दोस्त अभी URnetwork से जुड़े। हर दोस्त से आपको जीवनभर हर दिन +{data} GiB मुफ़्त डेटा मिलेगा।"
+  id:
+    other: "{count} teman baru saja bergabung dengan URnetwork memakai kode Anda. Masing-masing memberi Anda +{data} GiB data gratis per hari — seumur hidup."
+  it:
+    one: "Un amico si è appena unito a URnetwork con il tuo codice. State guadagnando entrambi +{data} GiB di dati gratuiti al giorno — a vita."
+    other: "{count} amici si sono appena uniti a URnetwork con il tuo codice. Ognuno ti frutta +{data} GiB di dati gratuiti al giorno — a vita."
+  ja:
+    other: "友達{count}人があなたのコードでURnetworkに参加しました。1人につき毎日+{data} GiBの無料データを一生獲得できます。"
+  ko:
+    other: "친구 {count}명이 내 코드로 URnetwork에 가입했습니다. 한 명당 평생 매일 +{data} GiB의 무료 데이터를 받습니다."
+  nl:
+    one: "Er is zojuist een vriend via jouw code lid geworden van URnetwork. Jullie verdienen allebei +{data} GiB gratis data per dag — levenslang."
+    other: "Er zijn zojuist {count} vrienden via jouw code lid geworden van URnetwork. Elk levert je +{data} GiB gratis data per dag op — levenslang."
+  pl:
+    one: "Znajomy właśnie dołączył do URnetwork z twoim kodem. Oboje zyskujecie +{data} GiB darmowych danych dziennie — na całe życie."
+    few: "{count} znajomych właśnie dołączyło do URnetwork z twoim kodem. Każdy przynosi ci +{data} GiB darmowych danych dziennie — na całe życie."
+    many: "{count} znajomych właśnie dołączyło do URnetwork z twoim kodem. Każdy przynosi ci +{data} GiB darmowych danych dziennie — na całe życie."
+    other: "{count} znajomych właśnie dołączyło do URnetwork z twoim kodem. Każdy przynosi ci +{data} GiB darmowych danych dziennie — na całe życie."
+  pt:
+    one: "Um amigo acabou de aderir à URnetwork com o seu código. Ambos ganham +{data} GiB de dados grátis por dia — para toda a vida."
+    other: "{count} amigos acabaram de aderir à URnetwork com o seu código. Cada um rende-lhe +{data} GiB de dados grátis por dia — para toda a vida."
+  pt-BR:
+    one: "Um amigo acabou de entrar na URnetwork com o seu código. Vocês dois ganham +{data} GiB de dados grátis por dia — para sempre."
+    other: "{count} amigos acabaram de entrar na URnetwork com o seu código. Cada um rende +{data} GiB de dados grátis por dia — para sempre."
+  pt-PT:
+    one: "Um amigo acabou de aderir à URnetwork com o seu código. Ambos ganham +{data} GiB de dados grátis por dia — para toda a vida."
+    other: "{count} amigos acabaram de aderir à URnetwork com o seu código. Cada um rende-lhe +{data} GiB de dados grátis por dia — para toda a vida."
+  ru:
+    one: "Друг только что присоединился к URnetwork по вашему коду. Вы оба получаете +{data} GiB бесплатных данных в день — навсегда."
+    few: "{count} друга только что присоединились к URnetwork по вашему коду. Каждый приносит вам +{data} GiB бесплатных данных в день — навсегда."
+    many: "{count} друзей только что присоединились к URnetwork по вашему коду. Каждый приносит вам +{data} GiB бесплатных данных в день — навсегда."
+    other: "{count} друзей только что присоединились к URnetwork по вашему коду. Каждый приносит вам +{data} GiB бесплатных данных в день — навсегда."
+  sv:
+    one: "En vän gick precis med i URnetwork med din kod. Ni får båda +{data} GiB gratis data per dag — livet ut."
+    other: "{count} vänner gick precis med i URnetwork med din kod. Var och en ger dig +{data} GiB gratis data per dag — livet ut."
+  sw:
+    one: "Rafiki amejiunga sasa hivi na URnetwork kwa msimbo wako. Nyote wawili mnapata +{data} GiB za data bila malipo kwa siku — maisha yote."
+    other: "Marafiki {count} wamejiunga sasa hivi na URnetwork kwa msimbo wako. Kila mmoja anakuletea +{data} GiB za data bila malipo kwa siku — maisha yote."
+  th:
+    other: "เพื่อน {count} คนเพิ่งเข้าร่วม URnetwork ด้วยโค้ดของคุณ แต่ละคนทำให้คุณได้รับข้อมูลฟรี +{data} GiB ต่อวัน — ตลอดชีวิต"
+  uk:
+    one: "Друг щойно приєднався до URnetwork за вашим кодом. Ви обидва отримуєте +{data} GiB безкоштовних даних на день — довічно."
+    few: "{count} друзі щойно приєдналися до URnetwork за вашим кодом. Кожен приносить вам +{data} GiB безкоштовних даних на день — довічно."
+    many: "{count} друзів щойно приєдналися до URnetwork за вашим кодом. Кожен приносить вам +{data} GiB безкоштовних даних на день — довічно."
+    other: "{count} друзів щойно приєдналися до URnetwork за вашим кодом. Кожен приносить вам +{data} GiB безкоштовних даних на день — довічно."
+  vi:
+    other: "{count} người bạn vừa tham gia URnetwork bằng mã của bạn. Mỗi người mang lại cho bạn +{data} GiB dữ liệu miễn phí mỗi ngày — trọn đời."
+  zh:
+    other: "{count} 位好友刚刚通过你的推荐码加入 URnetwork。每位好友都让你终身每天多获得 +{data} GiB 免费流量。"
+  zh-HK:
+    other: "{count} 位好友剛剛透過你的推薦碼加入 URnetwork。每位好友都讓你終身每日多獲得 +{data} GiB 免費流量。"

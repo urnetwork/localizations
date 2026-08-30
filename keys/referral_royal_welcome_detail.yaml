@@ -1,0 +1,38 @@
+description: "Detail line under the royal-welcome headline when a referral code is accepted. {data} is the daily bonus in GiB each side earns (pro.yml referral, currently 3)."
+source: "Referral confirmed — you and your friend each get +%lld GiB/day of free data, for life."
+platforms:
+  - android
+  - apple
+  - site
+placeholders:
+  - name: data
+    type: int
+localizations:
+  ar: "تم تأكيد الإحالة — تحصل أنت وصديقك على +{data} GiB يوميًا من البيانات المجانية، مدى الحياة."
+  cs: "Doporučení potvrzeno — vy i váš přítel získáte každý +{data} GiB/den dat zdarma, na celý život."
+  de: "Empfehlung bestätigt – du und dein Freund erhaltet je +{data} GiB/Tag an kostenlosen Daten, ein Leben lang."
+  el: "Η παραπομπή επιβεβαιώθηκε — εσύ και ο φίλος σου παίρνετε από +{data} GiB/ημέρα δωρεάν δεδομένα, για πάντα."
+  en: "Referral confirmed — you and your friend each get +{data} GiB/day of free data, for life."
+  es: "Referido confirmado: tú y tu amigo obtienen +{data} GiB/día de datos gratis cada uno, de por vida."
+  es-419: "Referido confirmado: tú y tu amigo obtienen +{data} GiB/día de datos gratis cada uno, de por vida."
+  es-MX: "Referido confirmado: tú y tu amigo obtienen +{data} GiB/día de datos gratis cada uno, de por vida."
+  fr: "Parrainage confirmé — vous et votre ami recevez chacun +{data} GiB/jour de données gratuites, à vie."
+  he: "ההפניה אושרה — אתה וחברך מקבלים כל אחד +{data} GiB ליום של נתונים חינם, לכל החיים."
+  hi: "रेफ़रल की पुष्टि हो गई — आपको और आपके दोस्त, दोनों को जीवनभर +{data} GiB/दिन मुफ़्त डेटा मिलेगा।"
+  id: "Referensi dikonfirmasi — Anda dan teman Anda masing-masing mendapat +{data} GiB/hari data gratis, seumur hidup."
+  it: "Invito confermato: tu e il tuo amico ricevete +{data} GiB/giorno di dati gratuiti a testa, a vita."
+  ja: "紹介が確定しました。あなたと友達それぞれに毎日+{data} GiBの無料データを一生プレゼント。"
+  ko: "추천이 확인되었습니다. 나와 친구 모두 평생 매일 +{data} GiB의 무료 데이터를 받습니다."
+  nl: "Verwijzing bevestigd — jij en je vriend krijgen elk +{data} GiB/dag aan gratis data, levenslang."
+  pl: "Polecenie potwierdzone — ty i twój znajomy otrzymujecie po +{data} GiB dziennie darmowych danych, na całe życie."
+  pt: "Referência confirmada — você e o seu amigo recebem, cada um, +{data} GiB/dia de dados grátis, para toda a vida."
+  pt-BR: "Indicação confirmada — você e seu amigo ganham, cada um, +{data} GiB/dia de dados grátis, para sempre."
+  pt-PT: "Referência confirmada — você e o seu amigo recebem, cada um, +{data} GiB/dia de dados grátis, para toda a vida."
+  ru: "Реферал подтверждён — вы и ваш друг получаете по +{data} GiB бесплатных данных в день, навсегда."
+  sv: "Rekommendationen bekräftad – du och din vän får +{data} GiB/dag i gratis data var, livet ut."
+  sw: "Rufaa imethibitishwa — wewe na rafiki yako mtapata kila mmoja +{data} GiB kwa siku za data bila malipo, maisha yote."
+  th: "ยืนยันการแนะนำแล้ว — คุณและเพื่อนจะได้รับข้อมูลฟรีคนละ +{data} GiB/วัน ตลอดชีวิต"
+  uk: "Реферал підтверджено — ви та ваш друг отримуєте по +{data} GiB безкоштовних даних на день, довічно."
+  vi: "Đã xác nhận giới thiệu — bạn và bạn bè của bạn mỗi người nhận +{data} GiB/ngày dữ liệu miễn phí, trọn đời."
+  zh: "推荐已确认——你和好友每人每天获得 +{data} GiB 免费流量，终身有效。"
+  zh-HK: "推薦已確認——你和好友每人每日獲得 +{data} GiB 免費流量，終身有效。"

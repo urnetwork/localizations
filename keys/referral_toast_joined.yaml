@@ -1,0 +1,104 @@
+description: "Gold toast shown to the referrer for referrals after the first (the first gets the full-screen celebration). {count} friends just joined, {data} is the daily GiB bonus per referral (currently 3)."
+source: "%1$lld friends joined with your code! +%2$lld GiB/day each, for life."
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: count
+    type: int
+  - name: data
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "انضم {count} من الأصدقاء برمزك! +{data} GiB يوميًا لكل منهم، مدى الحياة."
+    one: "انضم صديق برمزك! +{data} GiB يوميًا، مدى الحياة."
+    two: "انضم صديقان برمزك! +{data} GiB يوميًا لكل منهما، مدى الحياة."
+    few: "انضم {count} من الأصدقاء برمزك! +{data} GiB يوميًا لكل منهم، مدى الحياة."
+    many: "انضم {count} من الأصدقاء برمزك! +{data} GiB يوميًا لكل منهم، مدى الحياة."
+    other: "انضم {count} من الأصدقاء برمزك! +{data} GiB يوميًا لكل منهم، مدى الحياة."
+  cs:
+    one: "Přes váš kód se připojil přítel! +{data} GiB/den, na celý život."
+    few: "Přes váš kód se připojili {count} přátelé! +{data} GiB/den za každého, na celý život."
+    many: "Přes váš kód se připojilo {count} přátel! +{data} GiB/den za každého, na celý život."
+    other: "Přes váš kód se připojilo {count} přátel! +{data} GiB/den za každého, na celý život."
+  de:
+    one: "Ein Freund ist mit deinem Code beigetreten! +{data} GiB/Tag, ein Leben lang."
+    other: "{count} Freunde sind mit deinem Code beigetreten! Je +{data} GiB/Tag, ein Leben lang."
+  el:
+    one: "Ένας φίλος μπήκε με τον κωδικό σου! +{data} GiB/ημέρα, για πάντα."
+    other: "{count} φίλοι μπήκαν με τον κωδικό σου! +{data} GiB/ημέρα ο καθένας, για πάντα."
+  en:
+    one: "A friend joined with your code! +{data} GiB/day, for life."
+    other: "{count} friends joined with your code! +{data} GiB/day each, for life."
+  es:
+    one: "¡Un amigo se unió con tu código! +{data} GiB/día, de por vida."
+    other: "¡{count} amigos se unieron con tu código! +{data} GiB/día por cada uno, de por vida."
+  es-419:
+    one: "¡Un amigo se unió con tu código! +{data} GiB/día, de por vida."
+    other: "¡{count} amigos se unieron con tu código! +{data} GiB/día por cada uno, de por vida."
+  es-MX:
+    one: "¡Un amigo se unió con tu código! +{data} GiB/día, de por vida."
+    other: "¡{count} amigos se unieron con tu código! +{data} GiB/día por cada uno, de por vida."
+  fr:
+    one: "Un ami a rejoint avec votre code ! +{data} GiB/jour, à vie."
+    other: "{count} amis ont rejoint avec votre code ! +{data} GiB/jour chacun, à vie."
+  he:
+    one: "חבר הצטרף עם הקוד שלך! +{data} GiB ליום, לכל החיים."
+    two: "שני חברים הצטרפו עם הקוד שלך! +{data} GiB ליום לכל אחד, לכל החיים."
+    many: "{count} חברים הצטרפו עם הקוד שלך! +{data} GiB ליום לכל אחד, לכל החיים."
+    other: "{count} חברים הצטרפו עם הקוד שלך! +{data} GiB ליום לכל אחד, לכל החיים."
+  hi:
+    one: "आपके कोड से एक दोस्त जुड़ा! जीवनभर +{data} GiB/दिन।"
+    other: "आपके कोड से {count} दोस्त जुड़े! हर एक से जीवनभर +{data} GiB/दिन।"
+  id:
+    other: "{count} teman bergabung dengan kode Anda! +{data} GiB/hari untuk setiap teman, seumur hidup."
+  it:
+    one: "Un amico si è unito con il tuo codice! +{data} GiB/giorno, a vita."
+    other: "{count} amici si sono uniti con il tuo codice! +{data} GiB/giorno ciascuno, a vita."
+  ja:
+    other: "友達{count}人があなたのコードで参加！1人につき毎日+{data} GiB、一生もらえます。"
+  ko:
+    other: "친구 {count}명이 내 코드로 가입했습니다! 한 명당 평생 +{data} GiB/일."
+  nl:
+    one: "Een vriend is met jouw code lid geworden! +{data} GiB/dag, levenslang."
+    other: "{count} vrienden zijn met jouw code lid geworden! Elk +{data} GiB/dag, levenslang."
+  pl:
+    one: "Znajomy dołączył z twoim kodem! +{data} GiB/dzień, na całe życie."
+    few: "{count} znajomych dołączyło z twoim kodem! Po +{data} GiB/dzień za każdego, na całe życie."
+    many: "{count} znajomych dołączyło z twoim kodem! Po +{data} GiB/dzień za każdego, na całe życie."
+    other: "{count} znajomych dołączyło z twoim kodem! Po +{data} GiB/dzień za każdego, na całe życie."
+  pt:
+    one: "Um amigo aderiu com o seu código! +{data} GiB/dia, para toda a vida."
+    other: "{count} amigos aderiram com o seu código! +{data} GiB/dia por cada um, para toda a vida."
+  pt-BR:
+    one: "Um amigo entrou com o seu código! +{data} GiB/dia, para sempre."
+    other: "{count} amigos entraram com o seu código! +{data} GiB/dia por cada um, para sempre."
+  pt-PT:
+    one: "Um amigo aderiu com o seu código! +{data} GiB/dia, para toda a vida."
+    other: "{count} amigos aderiram com o seu código! +{data} GiB/dia por cada um, para toda a vida."
+  ru:
+    one: "Друг присоединился по вашему коду! +{data} GiB в день, навсегда."
+    few: "{count} друга присоединились по вашему коду! По +{data} GiB в день за каждого, навсегда."
+    many: "{count} друзей присоединились по вашему коду! По +{data} GiB в день за каждого, навсегда."
+    other: "{count} друзей присоединились по вашему коду! По +{data} GiB в день за каждого, навсегда."
+  sv:
+    one: "En vän gick med via din kod! +{data} GiB/dag, livet ut."
+    other: "{count} vänner gick med via din kod! +{data} GiB/dag vardera, livet ut."
+  sw:
+    one: "Rafiki amejiunga kwa msimbo wako! +{data} GiB kwa siku, maisha yote."
+    other: "Marafiki {count} wamejiunga kwa msimbo wako! +{data} GiB kwa siku kwa kila mmoja, maisha yote."
+  th:
+    other: "เพื่อน {count} คนเข้าร่วมด้วยโค้ดของคุณ! +{data} GiB/วันต่อคน ตลอดชีวิต"
+  uk:
+    one: "Друг приєднався за вашим кодом! +{data} GiB на день, довічно."
+    few: "{count} друзі приєдналися за вашим кодом! По +{data} GiB на день за кожного, довічно."
+    many: "{count} друзів приєдналися за вашим кодом! По +{data} GiB на день за кожного, довічно."
+    other: "{count} друзів приєдналися за вашим кодом! По +{data} GiB на день за кожного, довічно."
+  vi:
+    other: "{count} người bạn đã tham gia bằng mã của bạn! +{data} GiB/ngày cho mỗi người, trọn đời."
+  zh:
+    other: "{count} 位好友通过你的推荐码加入了！每位 +{data} GiB/天，终身有效。"
+  zh-HK:
+    other: "{count} 位好友透過你的推薦碼加入了！每位 +{data} GiB/日，終身有效。"

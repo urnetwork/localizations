@@ -2,6 +2,7 @@ description: "Refer overlay"
 source: "Share your code. Friends enter it when they sign up."
 platforms:
   - android
+  - apple
 localizations:
   ar: "شارك رمزك. يدخله أصدقاؤك عند التسجيل."
   cs: "Sdílejte svůj kód. Přátelé ho zadají při registraci."
