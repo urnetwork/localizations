@@ -1,0 +1,9 @@
+description: "Developer tools screen: explanation that a diagnostic export option is unavailable."
+source: "Not available: {reason}"
+platforms:
+  - android
+placeholders:
+  - name: reason
+    type: string
+localizations:
+  en: "Not available: {reason}"

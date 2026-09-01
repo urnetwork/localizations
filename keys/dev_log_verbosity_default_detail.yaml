@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanation of the default diagnostic log detail level."
+source: "Connection errors and contract pings"
+platforms:
+  - android
+localizations:
+  en: "Connection errors and contract pings"

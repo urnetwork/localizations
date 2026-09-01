@@ -1,0 +1,6 @@
+description: "Developer tools screen: section heading for diagnostic log controls."
+source: "Diagnostics"
+platforms:
+  - android
+localizations:
+  en: "Diagnostics"

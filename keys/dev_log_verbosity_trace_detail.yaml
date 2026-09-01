@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanation of the trace diagnostic log detail level."
+source: "Transport and window internals. Very large logs"
+platforms:
+  - android
+localizations:
+  en: "Transport and window internals. Very large logs"

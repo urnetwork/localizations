@@ -1,0 +1,6 @@
+description: "Developer tools screen: progress label shown while a diagnostic bundle is being exported."
+source: "Exporting…"
+platforms:
+  - android
+localizations:
+  en: "Exporting…"

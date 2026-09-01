@@ -1,0 +1,6 @@
+description: "Developer tools screen: action for exporting the selected diagnostic log files."
+source: "Export selected"
+platforms:
+  - android
+localizations:
+  en: "Export selected"

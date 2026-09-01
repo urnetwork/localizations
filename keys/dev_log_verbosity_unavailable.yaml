@@ -1,0 +1,6 @@
+description: "Developer tools screen: label used when the diagnostic log detail level cannot be read."
+source: "Unavailable"
+platforms:
+  - android
+localizations:
+  en: "Unavailable"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: trace diagnostic log detail level."
+source: "Trace"
+platforms:
+  - android
+localizations:
+  en: "Trace"

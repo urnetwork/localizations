@@ -1,0 +1,6 @@
+description: "Developer tools screen: verbose diagnostic log detail level."
+source: "Verbose"
+platforms:
+  - android
+localizations:
+  en: "Verbose"

@@ -1,0 +1,6 @@
+description: "Developer tools screen: action for choosing individual log files to export."
+source: "Choose logs…"
+platforms:
+  - android
+localizations:
+  en: "Choose logs…"

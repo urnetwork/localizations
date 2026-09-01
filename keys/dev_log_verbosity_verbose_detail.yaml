@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanation of the verbose diagnostic log detail level."
+source: "Contract accounting and per-packet block decisions. Includes destination IP addresses"
+platforms:
+  - android
+localizations:
+  en: "Contract accounting and per-packet block decisions. Includes destination IP addresses"

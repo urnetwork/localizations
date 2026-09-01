@@ -1,0 +1,15 @@
+description: "Developer tools screen: summary of the number and total size of diagnostic log files exported."
+source: "Exported {count} log files ({size})"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+  - name: size
+    type: string
+plurals:
+  select: count
+localizations:
+  en:
+    one: "Exported {count} log file ({size})"
+    other: "Exported {count} log files ({size})"

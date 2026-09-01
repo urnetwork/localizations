@@ -1,0 +1,6 @@
+description: "Developer tools screen: action for exporting diagnostic logs with sensitive traffic details redacted."
+source: "Export redacted logs"
+platforms:
+  - android
+localizations:
+  en: "Export redacted logs"

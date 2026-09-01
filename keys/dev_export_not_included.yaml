@@ -1,0 +1,9 @@
+description: "Developer tools screen: explanation that a requested diagnostic item was omitted from an export."
+source: "Not included: {reason}"
+platforms:
+  - android
+placeholders:
+  - name: reason
+    type: string
+localizations:
+  en: "Not included: {reason}"

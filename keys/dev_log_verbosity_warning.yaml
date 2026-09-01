@@ -1,0 +1,6 @@
+description: "Developer tools screen: privacy warning shown when detailed traffic logging is enabled."
+source: "At Verbose and above the logs contain the destination IP addresses and ports of the traffic you send. Use “Export redacted logs” to share them; the raw bundle should not leave this device."
+platforms:
+  - android
+localizations:
+  en: "At Verbose and above the logs contain the destination IP addresses and ports of the traffic you send. Use “Export redacted logs” to share them; the raw bundle should not leave this device."

@@ -1,0 +1,6 @@
+description: "Developer tools screen: control label for diagnostic log detail."
+source: "Log detail"
+platforms:
+  - android
+localizations:
+  en: "Log detail"

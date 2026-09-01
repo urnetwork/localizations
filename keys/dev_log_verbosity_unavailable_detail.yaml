@@ -1,0 +1,6 @@
+description: "Developer tools screen: explanation shown when the diagnostic log detail level cannot be read."
+source: "There is no device to read the log level from yet. Sign in first"
+platforms:
+  - android
+localizations:
+  en: "There is no device to read the log level from yet. Sign in first"

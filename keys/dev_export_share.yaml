@@ -1,0 +1,6 @@
+description: "Developer tools screen: action for sharing a diagnostic bundle."
+source: "Share diagnostic bundle"
+platforms:
+  - android
+localizations:
+  en: "Share diagnostic bundle"

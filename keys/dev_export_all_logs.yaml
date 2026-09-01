@@ -1,0 +1,6 @@
+description: "Developer tools screen: action for exporting all diagnostic logs without redaction."
+source: "Export all logs (raw)"
+platforms:
+  - android
+localizations:
+  en: "Export all logs (raw)"

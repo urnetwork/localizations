@@ -1,0 +1,9 @@
+description: "Developer tools screen: error shown when diagnostic log export fails."
+source: "Export failed: {error}"
+platforms:
+  - android
+placeholders:
+  - name: error
+    type: string
+localizations:
+  en: "Export failed: {error}"

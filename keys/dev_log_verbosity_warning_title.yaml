@@ -1,0 +1,6 @@
+description: "Developer tools screen: title for the detailed traffic logging privacy warning."
+source: "Logs are recording your real traffic"
+platforms:
+  - android
+localizations:
+  en: "Logs are recording your real traffic"
