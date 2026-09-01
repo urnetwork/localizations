@@ -163,7 +163,16 @@ function windows(keys) {
 				L.push("  </data>");
 			};
 			if (k.plurals) {
-				for (const cat of CAT_ORDER) if (v[cat] != null) emit(`${k.id}.${cat}`, v[cat]);
+				// MakePri builds one resource map across all language qualifiers. If
+				// Arabic introduces e.g. `.zero` but the neutral English map has no
+				// resource with that name, PRI263 warns that lookup can throw for a
+				// user whose preferred-language fallback misses Arabic. English CLDR
+				// itself only selects one/other, so emit neutral names for every CLDR
+				// category and use `other` as the semantically correct fallback.
+				for (const cat of CAT_ORDER) {
+					const text = v[cat] ?? (loc === "en" ? v.other : null);
+					if (text != null) emit(`${k.id}.${cat}`, text);
+				}
 			} else {
 				emit(k.id, v);
 			}
