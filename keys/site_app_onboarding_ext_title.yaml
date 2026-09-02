@@ -1,0 +1,6 @@
+description: "Onboarding: install-the-extension step title"
+source: "Connect this browser"
+platforms:
+  - site
+localizations:
+  en: "Connect this browser"

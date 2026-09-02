@@ -1,0 +1,6 @@
+description: "Onboarding: install-the-extension step, supported browsers note"
+source: "Available for Chrome, Edge, Brave and Firefox."
+platforms:
+  - site
+localizations:
+  en: "Available for Chrome, Edge, Brave and Firefox."

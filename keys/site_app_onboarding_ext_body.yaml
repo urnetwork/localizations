@@ -1,0 +1,6 @@
+description: "Onboarding: install-the-extension step body"
+source: "URnetwork routes this browser through its extension. Install it, and the Connect button here is ready to go."
+platforms:
+  - site
+localizations:
+  en: "URnetwork routes this browser through its extension. Install it, and the Connect button here is ready to go."
