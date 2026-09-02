@@ -2,6 +2,7 @@ description: "Accessibility label for one contract stack in the contracts widget
 source: "%lld contracts, %@"
 platforms:
   - apple
+  - android
 placeholders:
   - name: count
     type: int

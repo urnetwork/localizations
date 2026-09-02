@@ -2,6 +2,7 @@ description: "Chart label; the argument is a formatted byte rate such as '1.2 MB
 source: "%@ peak"
 platforms:
   - apple
+  - android
 placeholders:
   - name: rate
     type: string

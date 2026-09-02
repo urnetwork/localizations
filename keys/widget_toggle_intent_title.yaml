@@ -2,5 +2,6 @@ description: "Title of the Set-Value intent behind the quick connect control and
 source: "Toggle URnetwork VPN"
 platforms:
   - apple
+  - android
 localizations:
   en: "Toggle URnetwork VPN"

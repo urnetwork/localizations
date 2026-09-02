@@ -2,5 +2,6 @@ description: "Contracts widget empty state while connected with no open client c
 source: "No contracts"
 platforms:
   - apple
+  - android
 localizations:
   en: "No contracts"

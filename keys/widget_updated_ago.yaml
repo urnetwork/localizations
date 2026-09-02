@@ -2,6 +2,7 @@ description: "Dashboard widget footer; the argument is a localized relative time
 source: "Updated %@"
 platforms:
   - apple
+  - android
 placeholders:
   - name: time
     type: string

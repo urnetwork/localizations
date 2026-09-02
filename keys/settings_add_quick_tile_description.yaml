@@ -1,0 +1,6 @@
+description: "Description under the add-tile settings row."
+source: "Connect and disconnect from the Quick Settings panel and the lock screen."
+platforms:
+  - android
+localizations:
+  en: "Connect and disconnect from the Quick Settings panel and the lock screen."

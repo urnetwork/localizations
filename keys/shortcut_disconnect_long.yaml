@@ -1,0 +1,6 @@
+description: "Long label of the launcher shortcut that disconnects the VPN."
+source: "Disconnect from URnetwork"
+platforms:
+  - android
+localizations:
+  en: "Disconnect from URnetwork"

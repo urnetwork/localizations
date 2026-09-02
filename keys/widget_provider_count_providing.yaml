@@ -2,6 +2,7 @@ description: "Widget subtitle: number of connected providers while this device i
 source: "%lld providers · providing"
 platforms:
   - apple
+  - android
 placeholders:
   - name: count
     type: int

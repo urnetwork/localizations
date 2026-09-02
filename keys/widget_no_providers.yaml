@@ -2,5 +2,6 @@ description: "Badge on the small provider globe widget when no providers are con
 source: "No providers"
 platforms:
   - apple
+  - android
 localizations:
   en: "No providers"

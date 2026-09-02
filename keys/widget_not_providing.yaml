@@ -2,5 +2,6 @@ description: "Dashboard widget provider chart label when providing is off."
 source: "Not providing"
 platforms:
   - apple
+  - android
 localizations:
   en: "Not providing"

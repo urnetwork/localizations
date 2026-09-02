@@ -2,5 +2,6 @@ description: "Dashboard widget chart title: traffic relayed for others while pro
 source: "Provider"
 platforms:
   - apple
+  - android
 localizations:
   en: "Provider"

@@ -2,5 +2,6 @@ description: "Button on the Home Screen widget that opens the app when the tunne
 source: "Open"
 platforms:
   - apple
+  - android
 localizations:
   en: "Open"

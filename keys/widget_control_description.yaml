@@ -2,5 +2,6 @@ description: "Description of the quick connect control in the Control Center gal
 source: "Connect or disconnect the URnetwork VPN."
 platforms:
   - apple
+  - android
 localizations:
   en: "Connect or disconnect the URnetwork VPN."

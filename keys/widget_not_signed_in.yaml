@@ -2,5 +2,6 @@ description: "Quick connect control / widget value when the app has no tunnel co
 source: "Not signed in"
 platforms:
   - apple
+  - android
 localizations:
   en: "Not signed in"

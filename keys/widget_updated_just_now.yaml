@@ -2,5 +2,6 @@ description: "Dashboard widget footer in the widget gallery preview."
 source: "Updated just now"
 platforms:
   - apple
+  - android
 localizations:
   en: "Updated just now"

@@ -2,6 +2,7 @@ description: "Contracts widget header: number of peers with open contracts."
 source: "%lld peers"
 platforms:
   - apple
+  - android
 placeholders:
   - name: count
     type: int

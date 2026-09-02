@@ -2,5 +2,6 @@ description: "Contracts widget empty state while the tunnel is down."
 source: "Connect to see your contracts"
 platforms:
   - apple
+  - android
 localizations:
   en: "Connect to see your contracts"

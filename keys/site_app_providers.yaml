@@ -3,6 +3,7 @@ source: "Providers"
 platforms:
   - site
   - apple
+  - android
 localizations:
   ar: "المزوّدون"
   de: "Provider"

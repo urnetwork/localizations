@@ -1,0 +1,6 @@
+description: "Long label of the launcher shortcut that connects the VPN."
+source: "Connect to URnetwork"
+platforms:
+  - android
+localizations:
+  en: "Connect to URnetwork"

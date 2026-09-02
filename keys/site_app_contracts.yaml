@@ -3,6 +3,7 @@ source: "Contracts"
 platforms:
   - site
   - apple
+  - android
 localizations:
   ar: "العقود"
   de: "Verträge"

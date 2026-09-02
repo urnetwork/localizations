@@ -1,0 +1,6 @@
+description: "Settings row that asks the system to add the Quick Settings tile (Android 13+)."
+source: "Add quick connect tile"
+platforms:
+  - android
+localizations:
+  en: "Add quick connect tile"

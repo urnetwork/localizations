@@ -2,6 +2,7 @@ description: "Provider globe widget: providers not shown in the list. The argume
 source: "+%lld more"
 platforms:
   - apple
+  - android
 placeholders:
   - name: count
     type: int

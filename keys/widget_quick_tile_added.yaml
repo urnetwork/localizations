@@ -1,0 +1,6 @@
+description: "Toast after the system added the Quick Settings tile."
+source: "Quick connect tile added"
+platforms:
+  - android
+localizations:
+  en: "Quick connect tile added"

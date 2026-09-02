@@ -1,0 +1,6 @@
+description: "Settings row that opens the widget picker to pin the app's widgets."
+source: "Add Home Screen widgets"
+platforms:
+  - android
+localizations:
+  en: "Add Home Screen widgets"

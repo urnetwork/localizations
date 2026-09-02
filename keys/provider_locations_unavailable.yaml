@@ -3,6 +3,7 @@ source: "Provider details are unavailable until connected"
 platforms:
   - apple
   - windows
+  - android
 localizations:
   ar: "تفاصيل المزود غير متاحة حتى الاتصال"
   cs: "Údaje o poskytovateli nejsou k dispozici, dokud se nepřipojíte"

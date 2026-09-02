@@ -2,5 +2,6 @@ description: "Description of the contracts widget in the widget gallery."
 source: "Your top client contracts, flowing as they come and go."
 platforms:
   - apple
+  - android
 localizations:
   en: "Your top client contracts, flowing as they come and go."
