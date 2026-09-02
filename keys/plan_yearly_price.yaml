@@ -1,0 +1,7 @@
+description: "The yearly plan card's price on the Linux onboarding page."
+source: "$40/year"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "$40/year"

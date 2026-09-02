@@ -2,6 +2,7 @@ description: "Billing period name on the monthly subscription product card in th
 source: "Monthly"
 platforms:
   - windows
+  - site
 localizations:
   ar: "شهري"
   cs: "Měsíčně"

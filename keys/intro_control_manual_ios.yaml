@@ -1,0 +1,6 @@
+description: "How to add the quick connect control on iOS (no add-control API)."
+source: "Open Control Center, tap +, then Add a Control, and pick URnetwork."
+platforms:
+  - apple
+localizations:
+  en: "Open Control Center, tap +, then Add a Control, and pick URnetwork."

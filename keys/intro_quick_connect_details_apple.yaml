@@ -1,0 +1,6 @@
+description: "Detail line of the last onboarding page on iOS/macOS (Control Center instead of Quick Settings)."
+source: "Turn URnetwork on and off from Control Center, and keep an eye on it from your Home Screen."
+platforms:
+  - apple
+localizations:
+  en: "Turn URnetwork on and off from Control Center, and keep an eye on it from your Home Screen."

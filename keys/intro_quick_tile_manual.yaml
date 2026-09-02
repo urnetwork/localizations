@@ -1,0 +1,7 @@
+description: "Manual steps for adding the quick connect tile on Android versions without the system add-tile request (before Android 13)."
+source: "Open Quick Settings, tap the pencil, and drag URnetwork into place."
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Open Quick Settings, tap the pencil, and drag URnetwork into place."

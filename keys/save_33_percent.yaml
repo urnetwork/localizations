@@ -1,0 +1,6 @@
+description: "Line under the yearly plan's price: the saving against paying monthly."
+source: "Save 33%"
+platforms:
+  - linux
+localizations:
+  en: "Save 33%"

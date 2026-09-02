@@ -1,8 +1,9 @@
 description: "A description of how users can earn more data by referring friends."
 description_auto: true
 source: "You get free data every month, and can earn more by referring friends."
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "من خلال المشاركة في الشبكة وتوفير عرض النطاق الترددي، يمكنك كسب المكافآت."

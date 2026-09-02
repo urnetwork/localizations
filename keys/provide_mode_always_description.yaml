@@ -1,0 +1,9 @@
+description: "One-line explanation of the Always provide mode in the onboarding Contribute bandwidth picker."
+source: "Provides to everyone whenever the app is running."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "Provides to everyone whenever the app is running."

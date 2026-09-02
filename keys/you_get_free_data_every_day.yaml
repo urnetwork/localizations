@@ -1,0 +1,10 @@
+description: "Detail line under the onboarding data page title."
+source: "You get free data every day."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "You get free data every day."

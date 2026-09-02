@@ -1,0 +1,10 @@
+description: "Primary button of the plan picker (onboarding and upgrade): starts the paid plan's free trial. Replaces 'Join the movement'."
+source: "Start free trial"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Start free trial"

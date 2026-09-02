@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "URnetwork is powered by the world's largest, safest,\nand most decentralized ingress and egress protocol."
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "تعمل URnetwork ببروتوكول الدخول والخروج الأكبر\nوالأكثر أمانًا ولامركزية في العالم."

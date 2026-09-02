@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "You can also allow the provider to use cell network data, which works great if you have an unlimited plan."
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "يمكنك أيضًا السماح للمزود باستخدام بيانات شبكة الجوال، وهذا يعمل بشكل رائع إذا كان لديك خطة غير محدودة."

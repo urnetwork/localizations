@@ -1,0 +1,6 @@
+description: "How to add the quick connect control on macOS."
+source: "Open Control Center, choose Edit Controls, and add URnetwork."
+platforms:
+  - apple
+localizations:
+  en: "Open Control Center, choose Edit Controls, and add URnetwork."

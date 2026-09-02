@@ -1,0 +1,9 @@
+description: "Monthly plan card label: the store-formatted price per month."
+source: "%@/month"
+platforms:
+  - android
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "{price}/month"

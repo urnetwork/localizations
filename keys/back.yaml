@@ -1,7 +1,11 @@
 description: "\tButton text for going back to the previous screen."
 source: "Back"
 platforms:
+  - android
   - web
+  - apple
+  - windows
+  - linux
 localizations:
   ar: "رجوع"
   cs: "Zpět"

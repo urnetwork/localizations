@@ -1,0 +1,7 @@
+description: "Detail line of the last onboarding page."
+source: "Turn URnetwork on and off from Quick Settings, and keep an eye on it from your home screen."
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Turn URnetwork on and off from Quick Settings, and keep an eye on it from your home screen."

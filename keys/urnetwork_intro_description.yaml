@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "URnetwork is the most local and most private network on the planet."
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "URnetwork هي الشبكة الأكثر محلية والأكثر خصوصية على الكوكب."

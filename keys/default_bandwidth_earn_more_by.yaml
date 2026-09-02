@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "By default, you get %d GiB/month. Here's how you can earn extra bandwidth:"
-platforms:
+deprecated:
   - android
+platforms: []
 placeholders:
   - name: amount
     type: int

@@ -1,0 +1,7 @@
+description: "Label shown on the last onboarding page once the quick connect tile is in Quick Settings."
+source: "Added to Quick Settings"
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Added to Quick Settings"

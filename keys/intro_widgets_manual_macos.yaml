@@ -1,0 +1,6 @@
+description: "How to add a desktop widget on macOS."
+source: "Open the widget gallery from Notification Center, search URnetwork, and drag a widget to the desktop."
+platforms:
+  - apple
+localizations:
+  en: "Open the widget gallery from Notification Center, search URnetwork, and drag a widget to the desktop."

@@ -1,0 +1,15 @@
+description: "Heading of the gold referral panel (the ur.io referral panel) before the network has a referral."
+source: "Refer a friend and you both get free data"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "أحِل صديقاً واحصلا كلاكما على بيانات مجانية"
+  de: "Freunde einladen und Sie beide bekommen kostenlose Daten"
+  en: "Refer a friend and you both get free data"
+  es: "Refiere a un amigo y los dos consiguen datos gratis"
+  ru: "Пригласите друга и вы оба получите бесплатный трафик"
+  zh: "推荐好友，双方都获得免费流量"

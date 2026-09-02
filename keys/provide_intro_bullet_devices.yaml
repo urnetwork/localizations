@@ -1,0 +1,9 @@
+description: "First bullet on the onboarding Contribute bandwidth page."
+source: "Allow your devices to share internet with each other"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "Allow your devices to share internet with each other"

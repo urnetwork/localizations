@@ -1,0 +1,10 @@
+description: "Small muted button at the top of the post-login onboarding flow that leaves the whole flow."
+source: "Skip"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Skip"

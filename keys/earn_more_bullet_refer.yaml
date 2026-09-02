@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Refer a friend = +%s GiB/Month"
-platforms:
+deprecated:
   - android
+platforms: []
 placeholders:
   - name: amount
     type: string

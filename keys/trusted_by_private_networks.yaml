@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Trusted by over %s private networks"
-platforms:
+deprecated:
   - android
+platforms: []
 placeholders:
   - name: count
     type: string

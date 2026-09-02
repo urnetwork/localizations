@@ -1,0 +1,9 @@
+description: "Yearly plan card label: the store-formatted price per year."
+source: "%@/year"
+platforms:
+  - android
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "{price}/year"

@@ -1,0 +1,7 @@
+description: "Hint under the widget previews on the last onboarding page: tapping a preview asks the launcher to add that widget."
+source: "Tap a widget to add it to your home screen."
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Tap a widget to add it to your home screen."

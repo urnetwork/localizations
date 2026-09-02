@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Boost your bandwidth"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "عزز عرض النطاق الترددي لديك - اربح المزيد كل يوم"
   cs: "Zvyšte svou šířku pásma – vydělávejte více každý den"

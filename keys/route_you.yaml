@@ -1,0 +1,10 @@
+description: "Left stop label of the onboarding route line the anonymized member travels along (you -> URnetwork -> internet)."
+source: "You"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "You"

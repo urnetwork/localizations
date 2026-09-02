@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Lowest user/IP ratio to access content"
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "أقل نسبة مستخدم/عنوان IP للوصول إلى المحتوى"

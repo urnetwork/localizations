@@ -1,0 +1,13 @@
+description: "Onboarding data page: the daily free allowance, formatted from the server's balance (pro.yml free.data per data_period)."
+source: "By default, you get %@ every day."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  en: "By default, you get {amount} every day."

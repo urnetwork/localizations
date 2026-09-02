@@ -1,0 +1,7 @@
+description: "Title of the last onboarding page: the quick connect tile and the home screen widgets."
+source: "Connect in one tap"
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Connect in one tap"

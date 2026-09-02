@@ -1,8 +1,9 @@
 description: "A description of the user's ability to provide bandwidth."
 description_auto: true
 source: "Providing is off by default. Choose when your device provides below."
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "ضبط الإعداد على \"دائمًا\" لزيادة البيانات المجانية بشكل أسرع."

@@ -1,0 +1,15 @@
+description: "Label above the referral code pill in the gold referral panel."
+source: "Your referral code"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "رمز الإحالة الخاص بك"
+  de: "Ihr Empfehlungscode"
+  en: "Your referral code"
+  es: "Tu código de referido"
+  ru: "Ваш реферальный код"
+  zh: "你的推荐码"

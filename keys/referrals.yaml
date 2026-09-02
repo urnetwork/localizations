@@ -1,7 +1,11 @@
 description: "Used in Shared/Views/ReferBar.swift."
 source: "Referrals"
 platforms:
+  - android
   - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "الإحالات"
   cs: "Doporučení"

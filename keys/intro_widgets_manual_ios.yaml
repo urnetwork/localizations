@@ -1,0 +1,6 @@
+description: "How to add a Home Screen widget on iOS (no pin-widget API)."
+source: "Long-press the Home Screen, tap +, search URnetwork, and add a widget."
+platforms:
+  - apple
+localizations:
+  en: "Long-press the Home Screen, tap +, search URnetwork, and add a widget."

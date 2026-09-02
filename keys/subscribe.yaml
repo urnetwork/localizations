@@ -1,0 +1,6 @@
+description: "Button on the plan picker for the monthly plan, which has no free trial."
+source: "Subscribe"
+platforms:
+  - android
+localizations:
+  en: "Subscribe"

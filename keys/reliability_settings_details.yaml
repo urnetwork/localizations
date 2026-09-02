@@ -1,8 +1,9 @@
 description: "A description of the benefits of providing."
 description_auto: true
 source: "Providing is optional. When you turn it on, the app can share your connection with the network while it runs in the background on Wi-Fi."
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "التوفير اختياري. عند تشغيله، يمكن للتطبيق مشاركة اتصالك مع الشبكة أثناء عمله في الخلفية على الواي فاي."

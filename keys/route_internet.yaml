@@ -1,0 +1,10 @@
+description: "Right stop label of the onboarding route line the anonymized member travels along."
+source: "Internet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Internet"

@@ -1,0 +1,7 @@
+description: "Note under the Solana payment button on the plan picker: Solana is a one-time yearly payment, the free trial is Stripe only."
+source: "Paying with Solana is a one-time yearly payment, with no free trial."
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Paying with Solana is a one-time yearly payment, with no free trial."

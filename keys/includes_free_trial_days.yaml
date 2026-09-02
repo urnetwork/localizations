@@ -1,0 +1,13 @@
+description: "Line under the annual plan card. The number of days is the free trial length."
+source: "Includes %lld day free trial"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: days
+    type: int
+localizations:
+  en: "Includes {days} day free trial"

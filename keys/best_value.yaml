@@ -1,0 +1,10 @@
+description: "Gold pill on the recommended (annual) plan card."
+source: "Best value"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Best value"

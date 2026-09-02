@@ -1,0 +1,7 @@
+description: "Manual steps for adding widgets on launchers without the pin dialog."
+source: "Long-press your home screen, choose Widgets, and pick URnetwork."
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Long-press your home screen, choose Widgets, and pick URnetwork."

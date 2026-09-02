@@ -1,0 +1,15 @@
+description: "Accessibility description of the onboarding step bubbles: the current step and the total."
+source: "Step %1$d of %2$d"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: step
+    type: int
+  - name: total
+    type: int
+localizations:
+  en: "Step {step} of {total}"

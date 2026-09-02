@@ -1,0 +1,9 @@
+description: "Lead line above the two bullets on the onboarding Contribute bandwidth page."
+source: "Your choice, completely optional:"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "Your choice, completely optional:"

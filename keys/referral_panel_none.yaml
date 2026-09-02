@@ -1,0 +1,15 @@
+description: "Status line of the gold referral panel while the network has no referral yet."
+source: "No friends yet. Share your code and watch the crown appear. 👑"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لا أصدقاء بعد. شارك رمزك وسيظهر التاج. 👑"
+  de: "Noch keine Freunde – teilen Sie Ihren Code und die Krone erscheint. 👑"
+  en: "No friends yet. Share your code and watch the crown appear. 👑"
+  es: "Aún no hay amigos. Comparte tu código y verás aparecer la corona. 👑"
+  ru: "Пока нет друзей — поделитесь кодом, и появится корона. 👑"
+  zh: "还没有好友——分享你的推荐码，皇冠即将出现。👑"

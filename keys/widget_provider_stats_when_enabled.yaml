@@ -1,0 +1,7 @@
+description: "Shown in the dashboard widget in place of the provider traffic chart while providing is off."
+source: "Provider stats will appear when the provider is enabled."
+platforms:
+  - android
+  - apple
+localizations:
+  en: "Provider stats will appear when the provider is enabled."

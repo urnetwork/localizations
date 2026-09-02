@@ -1,0 +1,9 @@
+description: "Second bullet on the onboarding Contribute bandwidth page, with a heart."
+source: "Share your internet with other people ❤️"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  en: "Share your internet with other people ❤️"

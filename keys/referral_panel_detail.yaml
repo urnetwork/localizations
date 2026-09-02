@@ -1,0 +1,18 @@
+description: "Detail line of the gold referral panel. The amount is the daily GiB each side earns per verified referral (pro.yml referral)."
+source: "Every verified referral gives each of you %lld GiB/day for free, for life."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: amount
+    type: int
+localizations:
+  ar: "كل إحالة موثّقة تمنح كلاً منكما {amount} جيبي بايت يومياً مجاناً، مدى الحياة."
+  de: "Jede verifizierte Empfehlung bringt Ihnen beiden je {amount} GiB/Tag kostenlos, auf Lebenszeit."
+  en: "Every verified referral gives each of you {amount} GiB/day for free, for life."
+  es: "Cada referido verificado les da a cada uno {amount} GiB/día gratis, de por vida."
+  ru: "Каждый подтверждённый реферал даёт каждому из вас по {amount} ГиБ в день бесплатно, навсегда."
+  zh: "每一次通过验证的推荐，都会让你们双方各获得每天 {amount} GiB 免费流量，终身有效。"

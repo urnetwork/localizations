@@ -1,0 +1,10 @@
+description: "Title of the onboarding data page (was 'Boost your bandwidth')."
+source: "Your bandwidth"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Your bandwidth"

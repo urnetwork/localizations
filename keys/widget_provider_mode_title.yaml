@@ -1,0 +1,10 @@
+description: "Title above the provider traffic chart in the dashboard widget: the chart name with the current provide mode (Auto, Always, Network, Never)."
+source: "Provider · %@"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: mode
+    type: string
+localizations:
+  en: "Provider · {mode}"

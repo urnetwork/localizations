@@ -2,6 +2,9 @@ description: "Call to action"
 source: "Join with Stripe"
 platforms:
   - android
+  - site
+  - linux
+  - windows
 localizations:
   ar: "انضم باستخدام Stripe"
   cs: "Připojit se pomocí Stripe"
