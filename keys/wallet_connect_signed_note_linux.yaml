@@ -1,0 +1,6 @@
+description: "Note under the manual address entry: the wallet only signs a proof of ownership."
+source: "Your wallet signs a message to prove it is yours. Nothing is sent on chain."
+platforms:
+  - linux
+localizations:
+  en: "Your wallet signs a message to prove it is yours. Nothing is sent on chain."

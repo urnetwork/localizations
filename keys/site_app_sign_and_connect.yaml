@@ -1,0 +1,6 @@
+description: "App earnings: manual address entry button (the wallet still signs the challenge)"
+source: "Sign and connect"
+platforms:
+  - site
+localizations:
+  en: "Sign and connect"

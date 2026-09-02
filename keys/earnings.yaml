@@ -3,6 +3,9 @@ source: "Earnings"
 platforms:
   - android
   - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "الأرباح"
   cs: "Výdělky"

@@ -1,0 +1,6 @@
+description: "App claim: epoch status when the claim window has not opened"
+source: "Opens soon"
+platforms:
+  - site
+localizations:
+  en: "Opens soon"

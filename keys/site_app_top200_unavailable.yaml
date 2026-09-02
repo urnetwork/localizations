@@ -1,0 +1,6 @@
+description: "App top200: GET /sn/head unavailable"
+source: "Head spot status is not available right now."
+platforms:
+  - site
+localizations:
+  en: "Head spot status is not available right now."

@@ -193,11 +193,16 @@ export const PRODUCT_NAMES = ["URnetwork", "Bittensor", "Solana", "USDC", "TAO",
 export const GENERIC_DESCRIPTION = "General UI string.";
 export const comment = (k) => (k.description === GENERIC_DESCRIPTION ? null : k.description);
 
-// A key is dead when every platform that carries it has stopped referencing it.
-// Apple still emits these (as `extractionState: stale`, so nothing is lost); the
-// greenfield platforms and the translators should never see them.
+// A key is dead when every platform that carries it has stopped referencing it,
+// or when its last platform retired it outright (an empty `platforms` list with
+// a non-empty `deprecated` list: android drops itself from `platforms` because
+// its emitter has no stale state). Apple still emits its own dead keys (as
+// `extractionState: stale`, so nothing is lost); the greenfield platforms and
+// the translators should never see them. A key with no tags at all is alive.
 export const isDead = (k) =>
-	k.platforms.length > 0 && k.platforms.every((p) => k.deprecated.includes(p));
+	k.platforms.length > 0
+		? k.platforms.every((p) => k.deprecated.includes(p))
+		: k.deprecated.length > 0;
 
 // -------------------------------------------------------------- ICU lowering
 // The canonical text carries named ICU placeholders: "{count} hosts".

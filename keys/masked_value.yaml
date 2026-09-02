@@ -1,6 +1,8 @@
 description: "Used in Authenticate/CreateNetwork/CreateNetworkView.swift."
 source: "***%@"
 translatable: false
+deprecated:
+  - apple
 platforms:
   - apple
 placeholders:

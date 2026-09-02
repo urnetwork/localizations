@@ -1,5 +1,7 @@
 description: "General UI string."
 source: "%@ wallet"
+deprecated:
+  - apple
 platforms:
   - apple
 placeholders:

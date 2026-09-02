@@ -1,5 +1,7 @@
 description: "Used in Main/Account/AccountRootView.swift."
 source: "Network earnings"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

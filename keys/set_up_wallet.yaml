@@ -1,7 +1,8 @@
 description: "Account Screen"
 source: "Set up wallet"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "إعداد المحفظة"
   cs: "Nastavit peněženku"

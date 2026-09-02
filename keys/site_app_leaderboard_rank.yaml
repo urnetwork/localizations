@@ -1,0 +1,6 @@
+description: "App earnings: the network's leaderboard rank, as in the epoch email"
+source: "Leaderboard rank #{rank} of {total}"
+platforms:
+  - site
+localizations:
+  en: "Leaderboard rank #{rank} of {total}"

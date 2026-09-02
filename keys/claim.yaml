@@ -2,6 +2,10 @@ description: "Call to action"
 source: "Claim"
 platforms:
   - android
+  - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "مطالبة"
   cs: "Vyzvědněte"

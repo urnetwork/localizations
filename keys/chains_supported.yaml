@@ -1,7 +1,8 @@
 description: "Wallet Screen"
 source: "Solana and Polygon wallets are currently supported"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "محافظ Solana و Polygon مدعومة حاليًا"
   cs: "V současné době jsou podporovány peněženky Solana a Polygon."

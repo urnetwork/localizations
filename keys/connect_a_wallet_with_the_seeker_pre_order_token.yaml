@@ -1,5 +1,7 @@
 description: "Used in Main/Account/Settings/SettingsForm-iOS.swift."
 source: "Connect a wallet with the Seeker Pre-Order Token"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

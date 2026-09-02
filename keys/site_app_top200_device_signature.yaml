@@ -1,0 +1,6 @@
+description: "App top200: signature textarea label"
+source: "Device signature"
+platforms:
+  - site
+localizations:
+  en: "Device signature"

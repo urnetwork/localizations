@@ -1,0 +1,10 @@
+description: "Detail under the bound status."
+source: "Emission is paid to your coldkey directly. Bindings renew per epoch."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Emission is paid to your coldkey directly. Bindings renew per epoch."

@@ -1,7 +1,9 @@
 description: "Wallets Screen"
 source: "Wallet address"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "عنوان المحفظة"

@@ -1,0 +1,6 @@
+description: "Button on the Earnings page that starts connecting a different Bittensor wallet."
+source: "Change wallet"
+platforms:
+  - windows
+localizations:
+  en: "Change wallet"

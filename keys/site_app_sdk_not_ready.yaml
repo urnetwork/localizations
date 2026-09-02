@@ -1,0 +1,6 @@
+description: "App earnings/claim: the loaded wasm SDK predates the subnet exports"
+source: "Claim data is not available in this version of the web app. Reload and try again."
+platforms:
+  - site
+localizations:
+  en: "Claim data is not available in this version of the web app. Reload and try again."

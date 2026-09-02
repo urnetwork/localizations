@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Pending payout"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "دفعة معلقة"
   cs: "Čeká se na výplatu"

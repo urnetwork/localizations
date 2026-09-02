@@ -1,7 +1,9 @@
 description: "Wallet Screen"
 source: "Payout Wallets"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "محافظ الدفع"

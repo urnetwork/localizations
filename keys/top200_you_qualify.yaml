@@ -1,0 +1,10 @@
+description: "Headline of the Top 200 tile when eligible."
+source: "You qualify"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "You qualify"

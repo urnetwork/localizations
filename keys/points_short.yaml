@@ -1,0 +1,13 @@
+description: "Points count with unit for history rows."
+source: "%@ pts"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: points
+    type: string
+localizations:
+  en: "{points} pts"

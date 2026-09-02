@@ -1,5 +1,7 @@
 description: "Used in Main/Account/Wallets/ConnectWalletSheet/ConnectWalletSheetView.swift."
 source: "These wallets are not affiliated or controlled by URnetwork. We will send earnings into the connected wallet."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

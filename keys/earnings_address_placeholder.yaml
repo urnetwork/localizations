@@ -1,0 +1,6 @@
+description: "Placeholder of the manual Bittensor address field on the Earnings page."
+source: "Enter a Bittensor address"
+platforms:
+  - windows
+localizations:
+  en: "Enter a Bittensor address"

@@ -1,0 +1,10 @@
+description: "Warning when a wallet address has no activity on the Bittensor chain yet; the user may continue."
+source: "This address has no activity on the Bittensor chain yet. It looks like a new wallet. Make sure it is yours before continuing."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "This address has no activity on the Bittensor chain yet. It looks like a new wallet. Make sure it is yours before continuing."

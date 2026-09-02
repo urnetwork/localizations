@@ -1,0 +1,10 @@
+description: "Headline label of the earnings screen."
+source: "Points earned"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Points earned"

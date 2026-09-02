@@ -1,5 +1,7 @@
 description: "Suffix on a Bittensor (TAO) wallet row: the wallet is recorded but cannot receive payouts yet."
 source: "stored for future use, no payouts yet"
+deprecated:
+  - windows
 platforms:
   - windows
 localizations:

@@ -1,0 +1,13 @@
+description: "Error when an epoch can no longer be claimed."
+source: "Claims for epoch %lld have expired."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: epoch
+    type: int
+localizations:
+  en: "Claims for epoch {epoch} have expired."

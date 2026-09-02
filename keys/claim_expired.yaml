@@ -1,0 +1,10 @@
+description: "Claim state: past the vault's expiry block."
+source: "Expired"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Expired"

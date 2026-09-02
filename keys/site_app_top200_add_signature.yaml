@@ -1,0 +1,6 @@
+description: "App top200: post a device's binding payload"
+source: "Add device"
+platforms:
+  - site
+localizations:
+  en: "Add device"

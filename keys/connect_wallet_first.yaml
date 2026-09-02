@@ -1,0 +1,10 @@
+description: "Error when claiming without a wallet."
+source: "Connect a Bittensor wallet first."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Connect a Bittensor wallet first."

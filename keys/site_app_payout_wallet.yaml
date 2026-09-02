@@ -1,5 +1,7 @@
 description: "App wallets: payout wallet label"
 source: "Payout wallet"
+deprecated:
+  - site
 platforms:
   - site
 localizations:

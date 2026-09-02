@@ -1,0 +1,6 @@
+description: "App top200: binding not complete"
+source: "Calldata appears once the device signature and the hotkey signature both verify."
+platforms:
+  - site
+localizations:
+  en: "Calldata appears once the device signature and the hotkey signature both verify."

@@ -1,0 +1,6 @@
+description: "Error when the wallet that signed the connect challenge is not the address the user entered."
+source: "The wallet that signed is not the address you entered."
+platforms:
+  - windows
+localizations:
+  en: "The wallet that signed is not the address you entered."

@@ -1,7 +1,8 @@
 description: "Wallets Screen"
 source: "USDC addresses on Solana and Polygon are currently supported."
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "عناوين USDC على Solana و Polygon مدعومة حاليًا."
   cs: "Adresa USDC na síti Solana a Polygon jsou aktuálně podporovány."

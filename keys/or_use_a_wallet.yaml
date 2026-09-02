@@ -1,5 +1,7 @@
 description: "Separator label above the wallet sign-in buttons on the sign-in panel."
 source: "Or use a wallet"
+deprecated:
+  - windows
 platforms:
   - windows
 localizations:

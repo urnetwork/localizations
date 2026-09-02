@@ -1,7 +1,8 @@
 description: "Wallets Screen"
 source: "Add wallet"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "إضافة محفظة"
   cs: "Přidat peněženku"

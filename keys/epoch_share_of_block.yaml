@@ -1,0 +1,13 @@
+description: "History row: the network's share of the block."
+source: "%@ of block"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: share
+    type: string
+localizations:
+  en: "{share} of block"

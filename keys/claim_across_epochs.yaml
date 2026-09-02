@@ -1,0 +1,13 @@
+description: "Subtitle of the claim dialog."
+source: "Across %lld finalized epochs"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "Across {count} finalized epochs"

@@ -1,0 +1,10 @@
+description: "Label of the unclaimed alpha tile."
+source: "Unclaimed"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Unclaimed"

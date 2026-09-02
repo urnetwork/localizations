@@ -1,7 +1,9 @@
 description: "Wallets Screen"
 source: "Wallets"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "محافظ"

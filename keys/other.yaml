@@ -1,5 +1,7 @@
 description: "Used in Main/Account/Wallets/ConnectWalletSheet/ConnectWalletSheetView.swift."
 source: "Other"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

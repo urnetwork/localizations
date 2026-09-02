@@ -1,5 +1,7 @@
 description: "Used in Main/Account/Settings/SettingsView.swift."
 source: "Confirm Seeker Token"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

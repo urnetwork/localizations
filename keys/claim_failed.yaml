@@ -1,0 +1,10 @@
+description: "Claim state: failed."
+source: "Failed"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Failed"

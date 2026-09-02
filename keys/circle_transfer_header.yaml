@@ -1,7 +1,8 @@
 description: "Circle Wallet Transfer Screen"
 source: "Transfer to external wallet"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "التحويل إلى محفظة خارجية"
   cs: "Převést do externí peněženky"

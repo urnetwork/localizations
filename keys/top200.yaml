@@ -1,0 +1,10 @@
+description: "Badge text for the head mining spot."
+source: "Top 200"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Top 200"

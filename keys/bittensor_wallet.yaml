@@ -1,0 +1,10 @@
+description: "Label of the connected wallet block."
+source: "Bittensor wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Bittensor wallet"

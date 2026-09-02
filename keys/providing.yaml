@@ -2,6 +2,10 @@ description: "Used in Main/Account/Wallets/WalletsView.swift."
 source: "Providing"
 platforms:
   - apple
+  - android
+  - windows
+  - linux
+  - site
 localizations:
   ar: "جاري التوفير"
   cs: "Poskytování"

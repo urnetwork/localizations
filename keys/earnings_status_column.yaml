@@ -1,0 +1,6 @@
+description: "Column header of the per-epoch history table: the claim status of the epoch's alpha."
+source: "Status"
+platforms:
+  - windows
+localizations:
+  en: "Status"

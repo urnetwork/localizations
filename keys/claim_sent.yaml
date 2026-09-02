@@ -1,0 +1,10 @@
+description: "Claim state: transaction sent."
+source: "Sent"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Sent"

@@ -1,0 +1,6 @@
+description: "History table column: points earned."
+source: "Points"
+platforms:
+  - linux
+localizations:
+  en: "Points"

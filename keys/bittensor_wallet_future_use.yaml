@@ -1,7 +1,9 @@
 description: "Call to action"
 source: "Bittensor wallets are stored for future use and can't receive payouts yet."
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "يتم حفظ محافظ Bittensor للاستخدام المستقبلي ولا يمكنها استلام المدفوعات بعد."

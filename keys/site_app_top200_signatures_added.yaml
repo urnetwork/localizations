@@ -1,0 +1,6 @@
+description: "App top200: progress"
+source: "{count} devices added"
+platforms:
+  - site
+localizations:
+  en: "{count} devices added"

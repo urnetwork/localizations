@@ -1,0 +1,6 @@
+description: "Column header of the per-epoch history table: points earned in the epoch."
+source: "Points"
+platforms:
+  - windows
+localizations:
+  en: "Points"

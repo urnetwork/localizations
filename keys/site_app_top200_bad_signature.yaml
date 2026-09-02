@@ -1,0 +1,6 @@
+description: "App top200: unparseable paste"
+source: "Paste the binding payload exactly as the app shows it."
+platforms:
+  - site
+localizations:
+  en: "Paste the binding payload exactly as the app shows it."

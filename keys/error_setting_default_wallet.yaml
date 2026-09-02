@@ -1,5 +1,7 @@
 description: "Snackbar shown when setting the default payout wallet fails. Used in Main/Account/Wallet/WalletView.swift."
 source: "Error setting default wallet"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

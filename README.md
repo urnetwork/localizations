@@ -129,6 +129,12 @@ Platforms that no longer reference the key. Apple's catalog keeps such entries
 and marks them `extractionState: stale` — xcode's own behaviour. The key is not
 deleted, so no translation is ever lost.
 
+A key is *dead* once every platform in `platforms` is also in `deprecated`, or
+once `platforms` is empty and `deprecated` is not (android retires a key by
+dropping itself from `platforms`, since its generator has no stale state). Dead
+keys are left out of the Windows and Linux outputs, which otherwise carry every
+key in the store.
+
 ## Locales
 
 28: `en ar cs de el es es-419 es-MX fr he hi id it ja ko nl pl pt pt-BR pt-PT ru

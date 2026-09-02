@@ -1,0 +1,10 @@
+description: "Fallback link to paste an ss58 address."
+source: "Enter address manually"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Enter address manually"

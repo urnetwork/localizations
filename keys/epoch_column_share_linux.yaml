@@ -1,0 +1,6 @@
+description: "History table column: the network's share of the block."
+source: "Share of block"
+platforms:
+  - linux
+localizations:
+  en: "Share of block"

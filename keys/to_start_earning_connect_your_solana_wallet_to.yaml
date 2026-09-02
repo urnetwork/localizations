@@ -1,5 +1,7 @@
 description: "Used in Main/Account/Wallets/EmptyWallets/EmptyWalletsView.swift."
 source: "To start earning, connect your Solana wallet to URnetwork."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

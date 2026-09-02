@@ -1,0 +1,6 @@
+description: "App earnings: the bridge signed with a different account than the typed address"
+source: "Sign with the wallet that holds this address."
+platforms:
+  - site
+localizations:
+  en: "Sign with the wallet that holds this address."

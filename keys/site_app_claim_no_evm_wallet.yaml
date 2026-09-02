@@ -1,0 +1,6 @@
+description: "App claim: no injected EVM wallet"
+source: "No browser wallet was found. Install an EVM wallet extension such as MetaMask and connect the key that pays gas, or claim from the URnetwork app on your device."
+platforms:
+  - site
+localizations:
+  en: "No browser wallet was found. Install an EVM wallet extension such as MetaMask and connect the key that pays gas, or claim from the URnetwork app on your device."

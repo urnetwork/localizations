@@ -1,0 +1,13 @@
+description: "History row title."
+source: "Epoch %lld"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: epoch
+    type: int
+localizations:
+  en: "Epoch {epoch}"

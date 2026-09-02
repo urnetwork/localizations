@@ -1,0 +1,6 @@
+description: "App top200: re-check every device with the hotkey signature"
+source: "Apply hotkey signature"
+platforms:
+  - site
+localizations:
+  en: "Apply hotkey signature"

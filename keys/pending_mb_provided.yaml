@@ -1,7 +1,8 @@
 description: "Payout list row label while a payout is still pending: the amount of traffic provided that the pending payout covers. Used in apple Shared/Views/PaymentsList.swift and android ui/wallet/PayoutRow.kt."
 source: "Pending: %@ MB provided"
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 placeholders:
   - name: amount

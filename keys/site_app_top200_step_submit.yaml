@@ -1,0 +1,6 @@
+description: "App top200: step 3"
+source: "Submit the binding from your own EVM wallet. URnetwork never sends transactions for you."
+platforms:
+  - site
+localizations:
+  en: "Submit the binding from your own EVM wallet. URnetwork never sends transactions for you."

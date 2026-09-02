@@ -1,5 +1,7 @@
 description: "Used in Shared/Views/PayoutWalletTag.swift."
 source: "DEFAULT"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

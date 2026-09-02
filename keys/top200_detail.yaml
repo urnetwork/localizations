@@ -1,0 +1,15 @@
+description: "Detail of the Top 200 tile when eligible."
+source: "Your network's routable IP breadth ranks about #%lld of %lld head spots. Head miners earn SN25α natively, every tempo."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: rank
+    type: int
+  - name: cutoff
+    type: int
+localizations:
+  en: "Your network's routable IP breadth ranks about #{rank} of {cutoff} head spots. Head miners earn SN25α natively, every tempo."

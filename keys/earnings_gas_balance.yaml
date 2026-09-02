@@ -1,0 +1,6 @@
+description: "Label of the gas key's TAO balance in the claim dialog."
+source: "Gas balance"
+platforms:
+  - windows
+localizations:
+  en: "Gas balance"

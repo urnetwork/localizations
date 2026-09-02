@@ -1,7 +1,9 @@
 description: "Wallets Screen"
 source: "Connect external wallet"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "ربط محفظة خارجية"

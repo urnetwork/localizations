@@ -1,5 +1,7 @@
 description: "Used in Main/Account/Wallets/ConnectWalletSheet/EnterWalletAddress/EnterWalletAddressView.swift."
 source: "Solana USDC addresses and Bittensor (TAO) addresses are supported. Bittensor wallets are stored for future use and can't receive payouts yet."
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

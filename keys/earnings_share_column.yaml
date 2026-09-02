@@ -1,0 +1,6 @@
+description: "Column header of the per-epoch history table: the network's share of the block."
+source: "Share"
+platforms:
+  - windows
+localizations:
+  en: "Share"

@@ -1,0 +1,6 @@
+description: "App claim: empty state"
+source: "Nothing to claim yet."
+platforms:
+  - site
+localizations:
+  en: "Nothing to claim yet."

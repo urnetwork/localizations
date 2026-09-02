@@ -1,0 +1,6 @@
+description: "App top200: calldata label"
+source: "Binding calldata"
+platforms:
+  - site
+localizations:
+  en: "Binding calldata"

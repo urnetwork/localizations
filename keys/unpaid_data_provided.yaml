@@ -1,7 +1,9 @@
 description: "Wallet Screen"
 source: "Unpaid data provided"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "تم توفير بيانات غير مدفوعة"

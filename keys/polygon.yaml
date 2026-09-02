@@ -1,6 +1,8 @@
 description: "Blockchain name. A product name: never translated."
 source: "Polygon"
 translatable: false
+deprecated:
+  - windows
 platforms:
   - windows
 localizations:

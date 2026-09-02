@@ -1,7 +1,8 @@
 description: "Circle Wallet Transfer Screen"
 source: "URnetwork covers your transfer fees."
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "URnetwork تغطي رسوم التحويل الخاصة بك."
   cs: "URnetwork pokrývá vaše poplatky za převod"

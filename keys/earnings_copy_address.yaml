@@ -1,0 +1,6 @@
+description: "Button that copies an address to the clipboard."
+source: "Copy address"
+platforms:
+  - windows
+localizations:
+  en: "Copy address"

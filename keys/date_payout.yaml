@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "%@ Payout"
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 placeholders:
   - name: date

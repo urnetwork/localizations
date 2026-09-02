@@ -1,0 +1,6 @@
+description: "App top200: binding digest label"
+source: "Digest"
+platforms:
+  - site
+localizations:
+  en: "Digest"

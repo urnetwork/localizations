@@ -1,0 +1,9 @@
+description: "Destination line on the claim dialog: the coldkey the alpha lands on."
+source: "To %@"
+platforms:
+  - linux
+placeholders:
+  - name: address
+    type: string
+localizations:
+  en: "To {address}"

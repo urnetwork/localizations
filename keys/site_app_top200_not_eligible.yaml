@@ -1,0 +1,6 @@
+description: "App top200: status when not eligible"
+source: "Not eligible yet. Your score is {score} and the eviction floor is {floor}."
+platforms:
+  - site
+localizations:
+  en: "Not eligible yet. Your score is {score} and the eviction floor is {floor}."

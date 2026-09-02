@@ -1,7 +1,8 @@
 description: "Circle Wallet Transfer Screen"
 source: "Transfer USDC"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "تحويل USDC"
   cs: "Prevést USDC"

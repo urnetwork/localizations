@@ -1,0 +1,6 @@
+description: "Claim status of an epoch that is still open (not yet finalized on chain)."
+source: "Open"
+platforms:
+  - windows
+localizations:
+  en: "Open"

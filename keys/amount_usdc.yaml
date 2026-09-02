@@ -1,6 +1,8 @@
 description: "General UI string."
 source: "%@ USDC"
 translatable: false
+deprecated:
+  - apple
 platforms:
   - apple
 placeholders:

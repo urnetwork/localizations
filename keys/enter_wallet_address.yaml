@@ -1,5 +1,7 @@
 description: "Used in Main/Account/Wallets/ConnectWalletSheet/EnterWalletAddress/EnterWalletAddressView.swift."
 source: "Enter wallet address"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

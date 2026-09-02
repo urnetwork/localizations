@@ -1,0 +1,10 @@
+description: "Standalone Seeker verification action (points multiplier only)."
+source: "Verify Seeker"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Verify Seeker"

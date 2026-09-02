@@ -1,0 +1,6 @@
+description: "App earnings/claim: the SDK reports chain_not_configured (release constants not published)"
+source: "Settlement on the subnet is not configured yet. Points keep accruing; check back after the next release."
+platforms:
+  - site
+localizations:
+  en: "Settlement on the subnet is not configured yet. Points keep accruing; check back after the next release."

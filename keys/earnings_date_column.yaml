@@ -1,0 +1,6 @@
+description: "Column header of the per-epoch history table: the date the epoch ended."
+source: "Date"
+platforms:
+  - windows
+localizations:
+  en: "Date"

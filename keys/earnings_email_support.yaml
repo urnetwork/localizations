@@ -1,0 +1,10 @@
+description: "Line about past payouts."
+source: "Questions about earlier payouts? Email support@ur.io."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Questions about earlier payouts? Email support@ur.io."

@@ -1,0 +1,15 @@
+description: "Instruction to fund the gas key."
+source: "Send about %@ TAO to %@ to cover gas."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: amount
+    type: string
+  - name: address
+    type: string
+localizations:
+  en: "Send about {amount} TAO to {address} to cover gas."

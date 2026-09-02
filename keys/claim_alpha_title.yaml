@@ -1,0 +1,10 @@
+description: "Title of the claim dialog."
+source: "Claim SN25α"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Claim SN25α"

@@ -1,0 +1,6 @@
+description: "Shown in place of the unclaimed figure when the app has no device session to read the chain with."
+source: "Claims load from the chain once the app has a session. Press Connect first."
+platforms:
+  - windows
+localizations:
+  en: "Claims load from the chain once the app has a session. Press Connect first."

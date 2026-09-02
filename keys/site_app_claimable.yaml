@@ -1,0 +1,6 @@
+description: "App claim: epoch status"
+source: "Claimable"
+platforms:
+  - site
+localizations:
+  en: "Claimable"

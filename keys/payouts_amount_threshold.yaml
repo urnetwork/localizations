@@ -1,7 +1,9 @@
 description: "Wallet Screen"
 source: "Payouts occur every Sunday at 00:00 UTC, and require meeting a minimum USDC threshold."
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "تحدث الدفعات كل يوم أحد في الساعة 00:00 بتوقيت UTC، ويتطلب ذلك تحقيق حد أدنى من USDC."

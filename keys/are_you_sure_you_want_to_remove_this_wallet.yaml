@@ -1,5 +1,7 @@
 description: "Used in Main/Account/AccountNavStackView.swift."
 source: "Are you sure you want to remove this wallet?"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

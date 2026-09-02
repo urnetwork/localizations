@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "Payouts"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "المدفوعات"
   cs: "Výplaty"

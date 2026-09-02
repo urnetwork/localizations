@@ -1,0 +1,10 @@
+description: "Validation error for a coldkey address."
+source: "That is not a valid Bittensor address."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "That is not a valid Bittensor address."

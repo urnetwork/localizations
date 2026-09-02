@@ -1,7 +1,8 @@
 description: "Wallets Screen"
 source: "Copy and paste here"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "انسخ والصق هنا"
   cs: "Zkopírujte a vložte sem"

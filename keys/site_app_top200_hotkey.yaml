@@ -1,0 +1,6 @@
+description: "App top200: hotkey input label"
+source: "Hotkey"
+platforms:
+  - site
+localizations:
+  en: "Hotkey"

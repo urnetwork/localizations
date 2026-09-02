@@ -1,5 +1,7 @@
 description: "Snackbar shown after the payout wallet is changed. Used in Main/Account/Wallet/WalletView.swift."
 source: "Payout wallet updated"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

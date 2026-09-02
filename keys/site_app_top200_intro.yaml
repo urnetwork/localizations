@@ -1,0 +1,6 @@
+description: "App top200: intro"
+source: "Head miners are the top {cutoff} networks by routable egress IP breadth. A head spot is paid natively by the subnet every tempo, straight to your coldkey."
+platforms:
+  - site
+localizations:
+  en: "Head miners are the top {cutoff} networks by routable egress IP breadth. A head spot is paid natively by the subnet every tempo, straight to your coldkey."

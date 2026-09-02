@@ -1,0 +1,10 @@
+description: "State when the gas key has no TAO."
+source: "Add TAO for gas"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Add TAO for gas"

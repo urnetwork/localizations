@@ -1,0 +1,6 @@
+description: "History table column: the claim status of the epoch's alpha."
+source: "Status"
+platforms:
+  - linux
+localizations:
+  en: "Status"

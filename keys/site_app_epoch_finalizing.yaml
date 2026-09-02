@@ -1,0 +1,6 @@
+description: "App claim: epoch status before finalization"
+source: "Finalizing"
+platforms:
+  - site
+localizations:
+  en: "Finalizing"

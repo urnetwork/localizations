@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "You're earning x2 points"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "أنت تكسب نقاط x2"
   cs: "Získáváte x2 body"

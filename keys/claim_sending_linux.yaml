@@ -1,0 +1,6 @@
+description: "Per-epoch status while the claim transaction is being sent."
+source: "Sending…"
+platforms:
+  - linux
+localizations:
+  en: "Sending…"

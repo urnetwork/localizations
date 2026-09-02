@@ -1,5 +1,7 @@
 description: "Used in Main/Account/PayoutItem/PayoutItemView.swift."
 source: "Payment Pending"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

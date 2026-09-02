@@ -1,0 +1,6 @@
+description: "Claim status of an epoch the vault has not finalized yet."
+source: "Not finalized"
+platforms:
+  - windows
+localizations:
+  en: "Not finalized"

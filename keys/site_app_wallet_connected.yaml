@@ -1,0 +1,6 @@
+description: "App earnings: badge next to the connected Bittensor coldkey"
+source: "Connected"
+platforms:
+  - site
+localizations:
+  en: "Connected"

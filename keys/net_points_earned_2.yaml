@@ -1,5 +1,7 @@
 description: "Used in Shared/Views/AccountPointsBreakdown.swift."
 source: "Net points earned"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

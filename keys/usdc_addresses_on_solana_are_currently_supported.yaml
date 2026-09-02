@@ -1,5 +1,7 @@
 description: "General UI string."
 source: "USDC addresses on Solana are currently supported"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

@@ -1,0 +1,10 @@
+description: "Button to connect a Bittensor coldkey."
+source: "Connect Bittensor wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Connect Bittensor wallet"

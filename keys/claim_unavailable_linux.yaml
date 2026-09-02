@@ -1,0 +1,6 @@
+description: "Shown when the device cannot send claims (no gas key on this host)."
+source: "Claiming is not available on this device yet."
+platforms:
+  - linux
+localizations:
+  en: "Claiming is not available on this device yet."

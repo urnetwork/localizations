@@ -1,0 +1,10 @@
+description: "Line on the wallet block before a wallet is connected."
+source: "Connect a wallet to earn SN25α from the next epoch. Earlier epochs are not settled retroactively."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Connect a wallet to earn SN25α from the next epoch. Earlier epochs are not settled retroactively."

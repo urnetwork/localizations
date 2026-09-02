@@ -1,7 +1,9 @@
 description: "Call to action"
 source: "Account points"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "نقاط الحساب"

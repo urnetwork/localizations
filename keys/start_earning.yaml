@@ -1,7 +1,8 @@
 description: "Setup wallet"
 source: "To start earning, connect your cryptocurrency wallet to URnetwork or set one up with Circle."
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "للبدء في الربح، اربط محفظة العملات المشفرة الخاصة بك بـ URnetwork أو قم بإعداد واحدة باستخدام Circle."
   cs: "Chcete-li začít vydělávat, připojte svou kryptoměnovou peněženku k URnetwork nebo si s pomocí Circle nastavte novou."

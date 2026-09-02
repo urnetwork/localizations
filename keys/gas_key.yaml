@@ -1,0 +1,10 @@
+description: "Label of the gas key row."
+source: "Gas key"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Gas key"

@@ -1,0 +1,10 @@
+description: "Button on the Top 200 tile."
+source: "Claim your spot"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Claim your spot"

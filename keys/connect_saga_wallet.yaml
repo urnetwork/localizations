@@ -1,7 +1,8 @@
 description: "Setup Wallet"
 source: "Connect Saga wallet"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "ربط محفظة Saga"
   cs: "Připojte peněženku Saga"

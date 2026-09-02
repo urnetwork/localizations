@@ -1,7 +1,8 @@
 description: "Account Screen"
 source: "Wallet"
-platforms:
+deprecated:
   - android
+platforms:
   - apple
 localizations:
   ar: "المحفظة"

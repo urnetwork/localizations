@@ -1,7 +1,9 @@
 description: "Wallets Screen"
 source: "total payouts"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "إجمالي المدفوعات"

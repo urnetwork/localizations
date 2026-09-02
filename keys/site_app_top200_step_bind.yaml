@@ -1,0 +1,6 @@
+description: "App top200: step 2"
+source: "Each provider device signs its fleet binding from its app under Account › Top 200. Paste each device's binding payload here, one device at a time."
+platforms:
+  - site
+localizations:
+  en: "Each provider device signs its fleet binding from its app under Account › Top 200. Paste each device's binding payload here, one device at a time."

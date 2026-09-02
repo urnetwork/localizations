@@ -1,0 +1,6 @@
+description: "Empty state of the unclaimed tile once a wallet is connected."
+source: "Nothing to claim yet. Alpha accrues from the next finalized epoch."
+platforms:
+  - linux
+localizations:
+  en: "Nothing to claim yet. Alpha accrues from the next finalized epoch."

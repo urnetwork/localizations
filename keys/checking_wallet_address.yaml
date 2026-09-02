@@ -1,0 +1,10 @@
+description: "Progress text while the address is validated."
+source: "Checking address…"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Checking address…"

@@ -1,5 +1,7 @@
 description: "Used in Main/Account/AccountNavStackView.swift."
 source: "Payout"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

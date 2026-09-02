@@ -1,0 +1,6 @@
+description: "Progress text while a claim transaction is being sent."
+source: "Sending…"
+platforms:
+  - windows
+localizations:
+  en: "Sending…"

@@ -1,0 +1,10 @@
+description: "Explainer in the claim dialog."
+source: "Claims open 48 hours after an epoch is finalized and stay open for the vault's expiry window."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Claims open 48 hours after an epoch is finalized and stay open for the vault's expiry window."

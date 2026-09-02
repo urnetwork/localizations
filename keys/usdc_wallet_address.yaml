@@ -1,5 +1,7 @@
 description: "General UI string."
 source: "USDC wallet address"
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

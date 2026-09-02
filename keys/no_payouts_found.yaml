@@ -1,7 +1,8 @@
 description: "Wallet Screen"
 source: "No payouts found for this wallet"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "لم يتم العثور على مدفوعات لهذه المحفظة"
   cs: "Pro tuto peněženku nebyly nalezeny žádné výplaty"

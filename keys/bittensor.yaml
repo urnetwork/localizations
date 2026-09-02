@@ -1,6 +1,8 @@
 description: "Used in Main/Account/Wallet/WalletView.swift."
 source: "Bittensor"
 translatable: false
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

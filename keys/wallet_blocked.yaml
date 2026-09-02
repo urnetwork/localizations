@@ -1,0 +1,10 @@
+description: "Error when a wallet address is on the operator's ban list; the user cannot continue."
+source: "This wallet can't be used with URnetwork."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "This wallet can't be used with URnetwork."

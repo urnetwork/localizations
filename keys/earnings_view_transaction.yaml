@@ -1,0 +1,6 @@
+description: "Link that opens a claim transaction in the block explorer."
+source: "View transaction"
+platforms:
+  - windows
+localizations:
+  en: "View transaction"

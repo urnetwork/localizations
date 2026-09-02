@@ -1,0 +1,10 @@
+description: "Link text under the protocol note."
+source: "Learn how it works at ur.xyz"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Learn how it works at ur.xyz"

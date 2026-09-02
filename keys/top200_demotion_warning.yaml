@@ -1,0 +1,10 @@
+description: "Warning when the score nears the floor."
+source: "Your score is close to the eviction floor. Add routable IPs to keep the spot."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Your score is close to the eviction floor. Add routable IPs to keep the spot."

@@ -1,0 +1,10 @@
+description: "Label of the per-epoch history list."
+source: "History"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "History"

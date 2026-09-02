@@ -1,0 +1,6 @@
+description: "History table column: the epoch number."
+source: "Epoch"
+platforms:
+  - linux
+localizations:
+  en: "Epoch"

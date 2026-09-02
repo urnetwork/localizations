@@ -1,0 +1,13 @@
+description: "Claim button with the amount."
+source: "Claim %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  en: "Claim {amount}"

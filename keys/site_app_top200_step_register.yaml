@@ -1,0 +1,6 @@
+description: "App top200: step 1"
+source: "Register a hotkey on subnet {netuid} with btcli, then enter it below."
+platforms:
+  - site
+localizations:
+  en: "Register a hotkey on subnet {netuid} with btcli, then enter it below."

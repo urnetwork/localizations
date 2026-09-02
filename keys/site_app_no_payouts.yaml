@@ -1,5 +1,7 @@
 description: "App wallets: payouts empty state"
 source: "No payouts yet"
+deprecated:
+  - site
 platforms:
   - site
 localizations:

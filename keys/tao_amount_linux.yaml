@@ -1,0 +1,9 @@
+description: "A TAO amount with its unit (the gas key balance)."
+source: "%@ TAO"
+platforms:
+  - linux
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  en: "{amount} TAO"

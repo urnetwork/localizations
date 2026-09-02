@@ -1,0 +1,6 @@
+description: "Error when the bridge signed with a different wallet than the address the user typed."
+source: "The wallet that signed is not the address you entered."
+platforms:
+  - linux
+localizations:
+  en: "The wallet that signed is not the address you entered."

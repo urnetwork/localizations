@@ -1,6 +1,8 @@
 description: "Used in Main/Account/AccountRootView.swift."
 source: "USDC"
 translatable: false
+deprecated:
+  - apple
 platforms:
   - apple
 localizations:

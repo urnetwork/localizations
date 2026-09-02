@@ -1,7 +1,8 @@
 description: "Call to action"
 source: "net points earned"
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "صافي النقاط المكتسبة"
   cs: "získané net body"

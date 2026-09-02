@@ -1,7 +1,9 @@
 description: "Call to action"
 source: "Points breakdown"
-platforms:
+deprecated:
+  - apple
   - android
+platforms:
   - apple
 localizations:
   ar: "تفصيل النقاط"

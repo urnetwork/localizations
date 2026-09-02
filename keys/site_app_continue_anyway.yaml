@@ -1,0 +1,6 @@
+description: "App earnings: proceed after the new-wallet warning"
+source: "Continue anyway"
+platforms:
+  - site
+localizations:
+  en: "Continue anyway"

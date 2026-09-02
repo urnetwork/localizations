@@ -1,0 +1,6 @@
+description: "Claim status of an epoch whose alpha can be claimed now."
+source: "Claimable"
+platforms:
+  - windows
+localizations:
+  en: "Claimable"

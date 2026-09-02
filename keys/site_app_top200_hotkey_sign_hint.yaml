@@ -1,0 +1,6 @@
+description: "App top200: how to produce the hotkey signature"
+source: "Sign each binding digest with the hotkey using your own tooling (snclaim bind-head) and paste the signature here."
+platforms:
+  - site
+localizations:
+  en: "Sign each binding digest with the hotkey using your own tooling (snclaim bind-head) and paste the signature here."

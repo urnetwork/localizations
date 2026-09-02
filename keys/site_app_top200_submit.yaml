@@ -1,0 +1,6 @@
+description: "App top200: send the binding tx from the injected wallet"
+source: "Submit binding"
+platforms:
+  - site
+localizations:
+  en: "Submit binding"

@@ -1,0 +1,10 @@
+description: "Error when the subnet RPC cannot be reached."
+source: "The chain RPC is unreachable. Try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "The chain RPC is unreachable. Try again."

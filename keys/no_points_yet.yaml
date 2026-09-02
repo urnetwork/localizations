@@ -1,0 +1,10 @@
+description: "Empty state of the points history."
+source: "No epochs yet. Points appear after your first finalized epoch."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "No epochs yet. Points appear after your first finalized epoch."

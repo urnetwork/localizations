@@ -1,0 +1,15 @@
+description: "Status row once bound."
+source: "UID %lld · rank #%lld"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: uid
+    type: int
+  - name: rank
+    type: int
+localizations:
+  en: "UID {uid} · rank #{rank}"

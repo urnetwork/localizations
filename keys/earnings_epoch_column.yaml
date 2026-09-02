@@ -1,0 +1,6 @@
+description: "Column header of the per-epoch history table."
+source: "Epoch"
+platforms:
+  - windows
+localizations:
+  en: "Epoch"

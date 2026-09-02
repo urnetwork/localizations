@@ -1,0 +1,10 @@
+description: "Claim state: confirmed on chain."
+source: "Claimed"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Claimed"

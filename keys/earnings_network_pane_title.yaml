@@ -1,0 +1,6 @@
+description: "Title of the Earnings destination's third pane: own rank, multipliers and reliability."
+source: "Your network"
+platforms:
+  - windows
+localizations:
+  en: "Your network"

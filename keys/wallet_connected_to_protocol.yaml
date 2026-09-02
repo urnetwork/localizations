@@ -1,0 +1,10 @@
+description: "Line under the connected coldkey."
+source: "Connected to the UR protocol. Claims land here. Alpha accrues from the next epoch after connecting."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Connected to the UR protocol. Claims land here. Alpha accrues from the next epoch after connecting."
