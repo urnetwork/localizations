@@ -2,6 +2,7 @@ description: "Wallet Screen"
 source: "Balance"
 platforms:
   - android
+  - apple
 localizations:
   ar: "الرصيد"
   cs: "Zůstatek"

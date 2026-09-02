@@ -1,0 +1,13 @@
+description: "Contracts widget header: number of peers with open contracts."
+source: "%lld peers"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} peer"
+    other: "{count} peers"

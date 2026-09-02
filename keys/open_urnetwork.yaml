@@ -2,6 +2,7 @@ description: "Tray menu item that shows the app window. The counterpart of quit_
 source: "Open URnetwork"
 platforms:
   - windows
+  - apple
 localizations:
   ar: "فتح URnetwork"
   cs: "Otevřít URnetwork"

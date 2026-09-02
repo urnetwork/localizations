@@ -1,0 +1,6 @@
+description: "Dashboard widget chart title: traffic relayed for others while providing."
+source: "Provider"
+platforms:
+  - apple
+localizations:
+  en: "Provider"

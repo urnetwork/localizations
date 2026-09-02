@@ -1,0 +1,9 @@
+description: "Chart label; the argument is a formatted byte rate such as '1.2 MB/s'."
+source: "%@ peak"
+platforms:
+  - apple
+placeholders:
+  - name: rate
+    type: string
+localizations:
+  en: "{rate} peak"

@@ -1,0 +1,6 @@
+description: "Badge on the small provider globe widget when no providers are connected."
+source: "No providers"
+platforms:
+  - apple
+localizations:
+  en: "No providers"

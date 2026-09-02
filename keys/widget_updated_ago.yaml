@@ -1,0 +1,9 @@
+description: "Dashboard widget footer; the argument is a localized relative time such as '3 min. ago'."
+source: "Updated %@"
+platforms:
+  - apple
+placeholders:
+  - name: time
+    type: string
+localizations:
+  en: "Updated {time}"

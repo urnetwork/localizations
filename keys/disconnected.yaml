@@ -2,6 +2,7 @@ description: "Connection status shown on the connect panel and in the tray toolt
 source: "Disconnected"
 platforms:
   - windows
+  - apple
 localizations:
   ar: "غير متصل"
   cs: "Odpojeno"

@@ -1,0 +1,9 @@
+description: "Provider globe widget: providers not shown in the list. The argument is a count."
+source: "+%lld more"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "+{count} more"

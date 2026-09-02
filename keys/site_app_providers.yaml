@@ -2,6 +2,7 @@ description: "App connect screen: provider grid section title"
 source: "Providers"
 platforms:
   - site
+  - apple
 localizations:
   ar: "المزوّدون"
   de: "Provider"

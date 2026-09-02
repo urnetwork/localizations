@@ -1,0 +1,6 @@
+description: "Dashboard widget chart title: this device's own traffic."
+source: "Client"
+platforms:
+  - apple
+localizations:
+  en: "Client"

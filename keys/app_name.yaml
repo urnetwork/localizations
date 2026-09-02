@@ -3,5 +3,6 @@ source: "URnetwork"
 translatable: false
 platforms:
   - android
+  - apple
 localizations:
   en: "URnetwork"

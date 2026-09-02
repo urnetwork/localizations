@@ -1,0 +1,6 @@
+description: "Description of the quick connect control in the Control Center gallery."
+source: "Connect or disconnect the URnetwork VPN."
+platforms:
+  - apple
+localizations:
+  en: "Connect or disconnect the URnetwork VPN."

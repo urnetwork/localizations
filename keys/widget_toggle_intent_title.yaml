@@ -1,0 +1,6 @@
+description: "Title of the Set-Value intent behind the quick connect control and widget toggle (shown by the system in Shortcuts/debug UI)."
+source: "Toggle URnetwork VPN"
+platforms:
+  - apple
+localizations:
+  en: "Toggle URnetwork VPN"

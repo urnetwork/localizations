@@ -1,0 +1,13 @@
+description: "Widget subtitle: number of connected providers."
+source: "%lld providers"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} provider"
+    other: "{count} providers"

@@ -1,0 +1,13 @@
+description: "Widget subtitle: number of connected providers while this device is also providing."
+source: "%lld providers · providing"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} provider · providing"
+    other: "{count} providers · providing"

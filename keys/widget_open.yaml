@@ -1,0 +1,6 @@
+description: "Button on the Home Screen widget that opens the app when the tunnel is not configured yet."
+source: "Open"
+platforms:
+  - apple
+localizations:
+  en: "Open"

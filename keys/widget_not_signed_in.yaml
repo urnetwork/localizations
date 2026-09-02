@@ -1,0 +1,6 @@
+description: "Quick connect control / widget value when the app has no tunnel configuration yet (fresh install or logged out)."
+source: "Not signed in"
+platforms:
+  - apple
+localizations:
+  en: "Not signed in"

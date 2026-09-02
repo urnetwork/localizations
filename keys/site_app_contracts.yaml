@@ -2,6 +2,7 @@ description: "App connect screen: contract details section title"
 source: "Contracts"
 platforms:
   - site
+  - apple
 localizations:
   ar: "العقود"
   de: "Verträge"

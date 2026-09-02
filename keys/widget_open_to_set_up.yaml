@@ -1,0 +1,6 @@
+description: "Widget subtitle when the app has no tunnel configuration yet."
+source: "Open URnetwork to set up"
+platforms:
+  - apple
+localizations:
+  en: "Open URnetwork to set up"

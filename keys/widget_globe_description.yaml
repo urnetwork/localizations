@@ -1,0 +1,6 @@
+description: "Description of the provider globe widget in the widget gallery."
+source: "Your connected providers on the globe."
+platforms:
+  - apple
+localizations:
+  en: "Your connected providers on the globe."

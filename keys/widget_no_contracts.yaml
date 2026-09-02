@@ -1,0 +1,6 @@
+description: "Contracts widget empty state while connected with no open client contracts."
+source: "No contracts"
+platforms:
+  - apple
+localizations:
+  en: "No contracts"

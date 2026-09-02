@@ -1,0 +1,6 @@
+description: "Description of the dashboard widget in the widget gallery."
+source: "Transfer balance, connected location and traffic, with quick connect."
+platforms:
+  - apple
+localizations:
+  en: "Transfer balance, connected location and traffic, with quick connect."

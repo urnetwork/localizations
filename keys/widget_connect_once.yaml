@@ -1,0 +1,6 @@
+description: "Dashboard widget footer before the tunnel has ever written data."
+source: "Connect once to see your traffic here"
+platforms:
+  - apple
+localizations:
+  en: "Connect once to see your traffic here"

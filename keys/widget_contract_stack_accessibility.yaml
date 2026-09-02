@@ -1,0 +1,15 @@
+description: "Accessibility label for one contract stack in the contracts widget. The arguments are the number of contracts and the bytes moved."
+source: "%lld contracts, %@"
+platforms:
+  - apple
+placeholders:
+  - name: count
+    type: int
+  - name: bytes
+    type: string
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} contract, {bytes}"
+    other: "{count} contracts, {bytes}"
