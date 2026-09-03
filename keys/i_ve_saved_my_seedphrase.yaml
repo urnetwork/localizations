@@ -3,6 +3,7 @@ description_auto: true
 source: "I've Saved My Seedphrase"
 platforms:
   - apple
+  - site
 localizations:
   ar: "حفظت عبارة الاسترداد"
   cs: "Seed frázi mám uloženou"

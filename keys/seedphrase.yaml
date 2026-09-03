@@ -4,6 +4,7 @@ source: "Seedphrase"
 platforms:
   - apple
   - android
+  - site
 localizations:
   ar: "عبارة الاسترداد"
   cs: "Seed fráze"

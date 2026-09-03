@@ -3,6 +3,7 @@ description_auto: true
 source: "Paste your 24-word seedphrase here"
 platforms:
   - apple
+  - site
 localizations:
   ar: "الصق هنا عبارة الاسترداد المكوّنة من 24 كلمة"
   cs: "Sem vložte svou 24slovnou seed frázi"
