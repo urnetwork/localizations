@@ -3,6 +3,7 @@ source: "Sign in"
 platforms:
   - apple
   - linux
+  - android
 localizations:
   ar: "تسجيل الدخول"
   cs: "Přihlásit se"

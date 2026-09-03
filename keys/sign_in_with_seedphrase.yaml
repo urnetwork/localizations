@@ -2,6 +2,7 @@ description: "General UI string."
 source: "Sign in with Seedphrase"
 platforms:
   - apple
+  - android
 localizations:
   ar: "تسجيل الدخول بعبارة الاسترداد"
   cs: "Přihlásit se pomocí seed fráze"

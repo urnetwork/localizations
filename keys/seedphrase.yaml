@@ -3,6 +3,7 @@ description_auto: true
 source: "Seedphrase"
 platforms:
   - apple
+  - android
 localizations:
   ar: "عبارة الاسترداد"
   cs: "Seed fráze"
