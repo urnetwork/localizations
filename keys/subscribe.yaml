@@ -2,5 +2,6 @@ description: "Button on the plan picker for the monthly plan, which has no free 
 source: "Subscribe"
 platforms:
   - android
+  - apple
 localizations:
   en: "Subscribe"
