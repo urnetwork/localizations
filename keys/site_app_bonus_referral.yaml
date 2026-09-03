@@ -2,6 +2,8 @@ description: "App settings: bonus referral code section"
 source: "Bonus referral code"
 platforms:
   - site
+deprecated:
+  - site
 localizations:
   ar: "رمز الإحالة الإضافي"
   de: "Bonus-Empfehlungscode"

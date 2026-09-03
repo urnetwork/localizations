@@ -2,6 +2,8 @@ description: "App account: refer friends card"
 source: "Refer friends"
 platforms:
   - site
+deprecated:
+  - site
 localizations:
   ar: "دعوة الأصدقاء"
   de: "Freunde einladen"

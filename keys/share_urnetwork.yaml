@@ -2,6 +2,7 @@ description: "Used in Shared/Views/AccountMenu.swift."
 source: "Share URnetwork"
 platforms:
   - apple
+  - site
 localizations:
   ar: "مشاركة URnetwork"
   cs: "Sdílet URnetwork"

@@ -2,6 +2,8 @@ description: "Account Screen"
 source: "Refer and earn"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "الإحالة والربح"
   cs: "Doporuč a získej"

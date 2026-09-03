@@ -3,6 +3,7 @@ source: "This code has been used up"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "تم استخدام هذا الرمز بالكامل"
   cs: "Tento kód byl již vyčerpán"

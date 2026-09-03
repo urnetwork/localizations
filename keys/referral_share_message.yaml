@@ -3,6 +3,7 @@ source: "Join me on URnetwork! Get the app and enter referral code %@ when you s
 platforms:
   - android
   - apple
+  - site
 placeholders:
   - name: code
     type: string
