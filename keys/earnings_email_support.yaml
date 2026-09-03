@@ -4,6 +4,10 @@ platforms:
   - android
   - apple
   - windows
+deprecated:
+  - android
+  - apple
+  - windows
   - linux
   - site
 localizations:
