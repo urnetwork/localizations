@@ -1,7 +1,8 @@
-description: "Call to action"
+description: "Empty value: the Referrals section shows it when no referral network is linked (apple), and the android referral network row."
 source: "None"
 platforms:
   - android
+  - apple
 localizations:
   ar: "لا يوجد"
   cs: "Žádné"
