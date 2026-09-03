@@ -1,0 +1,35 @@
+description: "Points leaderboard: how many networks hold a rank. {count} is preformatted with separators."
+source: "%@ ranked networks"
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: string
+localizations:
+  ar: "{count} شبكة مصنفة"
+  cs: "{count} hodnocených sítí"
+  de: "{count} platzierte Netzwerke"
+  el: "{count} δίκτυα με κατάταξη"
+  en: "{count} ranked networks"
+  es: "{count} redes clasificadas"
+  es-MX: "{count} redes clasificadas"
+  fr: "{count} réseaux classés"
+  he: "{count} רשתות מדורגות"
+  hi: "{count} रैंक वाले नेटवर्क"
+  id: "{count} jaringan berperingkat"
+  it: "{count} reti classificate"
+  ja: "ランク付けされたネットワーク {count}"
+  ko: "순위가 매겨진 네트워크 {count}개"
+  nl: "{count} gerangschikte netwerken"
+  pl: "{count} sklasyfikowanych sieci"
+  pt: "{count} redes classificadas"
+  pt-BR: "{count} redes classificadas"
+  pt-PT: "{count} redes classificadas"
+  ru: "Сетей в рейтинге: {count}"
+  sv: "{count} rankade nätverk"
+  sw: "Mitandao {count} iliyoorodheshwa"
+  th: "เครือข่ายที่มีอันดับ {count} รายการ"
+  uk: "Мереж у рейтингу: {count}"
+  vi: "{count} mạng được xếp hạng"
+  zh: "{count} 个已排名网络"
+  zh-HK: "{count} 個已排名網絡"

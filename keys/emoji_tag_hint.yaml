@@ -1,0 +1,35 @@
+description: "Points leaderboard: the emoji editor's explanation. {max} is the most emoji allowed (6)."
+source: "Pick 1 to %d emoji to show next to your network."
+platforms:
+  - android
+placeholders:
+  - name: max
+    type: int
+localizations:
+  ar: "اختر من 1 إلى {max} إيموجي لعرضها بجانب شبكتك."
+  cs: "Vyberte 1 až {max} emoji, které se zobrazí u vaší sítě."
+  de: "Wähle 1 bis {max} Emoji, die neben deinem Netzwerk erscheinen."
+  el: "Επιλέξτε 1 έως {max} emoji που θα εμφανίζονται δίπλα στο δίκτυό σας."
+  en: "Pick 1 to {max} emoji to show next to your network."
+  es: "Elige de 1 a {max} emojis para mostrar junto a tu red."
+  es-MX: "Elige de 1 a {max} emojis para mostrar junto a tu red."
+  fr: "Choisissez 1 à {max} emojis à afficher à côté de votre réseau."
+  he: "בחר 1 עד {max} אימוג'י שיוצגו ליד הרשת שלך."
+  hi: "अपने नेटवर्क के बगल में दिखाने के लिए 1 से {max} इमोजी चुनें।"
+  id: "Pilih 1 hingga {max} emoji untuk ditampilkan di samping jaringan Anda."
+  it: "Scegli da 1 a {max} emoji da mostrare accanto alla tua rete."
+  ja: "ネットワーク名の横に表示する絵文字を1〜{max}個選んでください。"
+  ko: "네트워크 옆에 표시할 이모지를 1~{max}개 고르세요."
+  nl: "Kies 1 tot {max} emoji om naast je netwerk te tonen."
+  pl: "Wybierz od 1 do {max} emoji wyświetlanych obok Twojej sieci."
+  pt: "Escolha de 1 a {max} emoji para mostrar junto à sua rede."
+  pt-BR: "Escolha de 1 a {max} emoji para mostrar ao lado da sua rede."
+  pt-PT: "Escolha de 1 a {max} emoji para mostrar junto à sua rede."
+  ru: "Выберите от 1 до {max} эмодзи, которые будут показаны рядом с вашей сетью."
+  sv: "Välj 1 till {max} emoji som visas bredvid ditt nätverk."
+  sw: "Chagua emoji 1 hadi {max} zitakazoonekana kando ya mtandao wako."
+  th: "เลือกอีโมจิ 1 ถึง {max} ตัวเพื่อแสดงข้างเครือข่ายของคุณ"
+  uk: "Оберіть від 1 до {max} емодзі, які показуватимуться поруч із вашою мережею."
+  vi: "Chọn 1 đến {max} emoji để hiển thị cạnh mạng của bạn."
+  zh: "选择 1 到 {max} 个表情，显示在你的网络旁边。"
+  zh-HK: "選擇 1 至 {max} 個表情，顯示在你的網絡旁邊。"

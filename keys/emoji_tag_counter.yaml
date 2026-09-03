@@ -1,0 +1,38 @@
+description: "Points leaderboard: the emoji editor's counter, {count} emoji entered out of {max} allowed."
+source: "%1$d / %2$d"
+translatable: false
+platforms:
+  - android
+placeholders:
+  - name: count
+    type: int
+  - name: max
+    type: int
+localizations:
+  ar: "{count} / {max}"
+  cs: "{count} / {max}"
+  de: "{count} / {max}"
+  el: "{count} / {max}"
+  en: "{count} / {max}"
+  es: "{count} / {max}"
+  es-MX: "{count} / {max}"
+  fr: "{count} / {max}"
+  he: "{count} / {max}"
+  hi: "{count} / {max}"
+  id: "{count} / {max}"
+  it: "{count} / {max}"
+  ja: "{count} / {max}"
+  ko: "{count} / {max}"
+  nl: "{count} / {max}"
+  pl: "{count} / {max}"
+  pt: "{count} / {max}"
+  pt-BR: "{count} / {max}"
+  pt-PT: "{count} / {max}"
+  ru: "{count} / {max}"
+  sv: "{count} / {max}"
+  sw: "{count} / {max}"
+  th: "{count} / {max}"
+  uk: "{count} / {max}"
+  vi: "{count} / {max}"
+  zh: "{count} / {max}"
+  zh-HK: "{count} / {max}"

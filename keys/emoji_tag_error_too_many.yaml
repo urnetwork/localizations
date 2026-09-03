@@ -1,0 +1,35 @@
+description: "Points leaderboard: emoji editor error when more than {max} emoji were entered."
+source: "Use at most %d emoji."
+platforms:
+  - android
+placeholders:
+  - name: max
+    type: int
+localizations:
+  ar: "استخدم {max} إيموجي كحد أقصى."
+  cs: "Použijte nejvýše {max} emoji."
+  de: "Verwende höchstens {max} Emoji."
+  el: "Χρησιμοποιήστε το πολύ {max} emoji."
+  en: "Use at most {max} emoji."
+  es: "Usa como máximo {max} emojis."
+  es-MX: "Usa como máximo {max} emojis."
+  fr: "Utilisez au plus {max} emojis."
+  he: "השתמש לכל היותר ב-{max} אימוג'י."
+  hi: "अधिकतम {max} इमोजी का उपयोग करें।"
+  id: "Gunakan paling banyak {max} emoji."
+  it: "Usa al massimo {max} emoji."
+  ja: "絵文字は最大{max}個までです。"
+  ko: "이모지는 최대 {max}개까지 사용할 수 있습니다."
+  nl: "Gebruik maximaal {max} emoji."
+  pl: "Użyj najwyżej {max} emoji."
+  pt: "Use no máximo {max} emoji."
+  pt-BR: "Use no máximo {max} emoji."
+  pt-PT: "Use no máximo {max} emoji."
+  ru: "Используйте не более {max} эмодзи."
+  sv: "Använd högst {max} emoji."
+  sw: "Tumia emoji zisizozidi {max}."
+  th: "ใช้อีโมจิได้ไม่เกิน {max} ตัว"
+  uk: "Використовуйте не більше {max} емодзі."
+  vi: "Dùng tối đa {max} emoji."
+  zh: "最多使用 {max} 个表情。"
+  zh-HK: "最多使用 {max} 個表情。"
