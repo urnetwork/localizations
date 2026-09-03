@@ -2,6 +2,8 @@ description: "Used in Shared/Views/Introduction/IntroductionView.swift."
 source: "Start 2 week free trial"
 platforms:
   - apple
+deprecated:
+  - apple
 localizations:
   ar: "ابدأ تجربة مجانية لمدة أسبوعين"
   cs: "Začněte dvoutýdenní zkušební verzi zdarma"

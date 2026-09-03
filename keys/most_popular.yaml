@@ -2,6 +2,8 @@ description: "Used in Shared/Views/ProductOptionCard.swift."
 source: "Most Popular"
 platforms:
   - apple
+deprecated:
+  - apple
 localizations:
   ar: "الأكثر شعبية"
   cs: "Nejoblíbenější"

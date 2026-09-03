@@ -2,6 +2,8 @@ description: "Used in Shared/Views/ProductOptionCard.swift."
 source: "Includes 2 week free trial"
 platforms:
   - apple
+deprecated:
+  - apple
 localizations:
   ar: "يتضمن تجربة مجانية لمدة أسبوعين"
   cs: "Zahrnuje dvoutýdenní zkušební verzi zdarma"
