@@ -1,5 +1,6 @@
 description: "Developer screen: detail line of the automatic IP family option."
 source: "Uses whichever family connects first, and routes around one that fails after connecting."
+translatable: false
 platforms:
   - android
 localizations:

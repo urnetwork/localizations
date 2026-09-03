@@ -1,5 +1,6 @@
 description: "Developer screen: detail line of the IPv4-only option."
 source: "Control-plane connections use IPv4 only. Turn this off on an IPv6-only network."
+translatable: false
 platforms:
   - android
 localizations:

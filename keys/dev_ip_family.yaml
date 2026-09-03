@@ -1,5 +1,6 @@
 description: "Developer screen: title of the control-plane IP family setting."
 source: "Control connections"
+translatable: false
 platforms:
   - android
 localizations:

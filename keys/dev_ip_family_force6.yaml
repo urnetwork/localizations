@@ -1,5 +1,6 @@
 description: "Developer screen: the IPv6-only option."
 source: "Force IPv6"
+translatable: false
 platforms:
   - android
 localizations:
