@@ -2,6 +2,8 @@ description: "Account panel: billing portal hint for Pro users"
 source: "Manage payment details, see invoices, or cancel your subscription."
 platforms:
   - site
+deprecated:
+  - site
   - windows
 localizations:
   ar: "إدارة تفاصيل الدفع، أو عرض الفواتير، أو إلغاء اشتراكك."

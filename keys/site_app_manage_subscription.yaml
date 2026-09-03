@@ -1,4 +1,4 @@
-description: "App sidebar: manage subscription button (opens the Stripe billing portal)"
+description: "App sidebar and account panel: opens Manage Subscription (every billing store, renewal date, auto-renew, cancel)"
 source: "Manage Subscription"
 platforms:
   - site
