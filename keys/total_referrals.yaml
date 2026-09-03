@@ -5,6 +5,8 @@ deprecated:
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "إجمالي الإحالات"
   cs: "Celkový počet doporučení"

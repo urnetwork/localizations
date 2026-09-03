@@ -3,6 +3,8 @@ source: "Referral points"
 platforms:
   - android
   - site
+  - windows
+  - linux
 localizations:
   ar: "نقاط الإحالة"
   cs: "Body za doporučení"

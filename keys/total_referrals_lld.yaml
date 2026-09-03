@@ -5,6 +5,7 @@ deprecated:
 platforms:
   - apple
   - windows
+  - linux
 placeholders:
   - name: count
     type: int

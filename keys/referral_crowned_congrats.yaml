@@ -3,6 +3,8 @@ source: "%1$lld friends have joined — you're earning +%2$lld GiB/day, for life
 platforms:
   - android
   - apple
+  - windows
+  - linux
 placeholders:
   - name: count
     type: int

@@ -4,6 +4,8 @@ source: "Copied!"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "تم النسخ!"
   cs: "Zkopírováno!"

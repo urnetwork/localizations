@@ -3,6 +3,8 @@ source: "Available"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "متاح"
   cs: "Dostupné"

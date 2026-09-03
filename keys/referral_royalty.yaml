@@ -3,6 +3,8 @@ source: "You're referral royalty!"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "أنت نجم الإحالات!"
   cs: "Doporučujete po královsku!"

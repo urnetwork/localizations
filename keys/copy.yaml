@@ -2,6 +2,8 @@ description: "Call to action"
 source: "Copy"
 platforms:
   - android
+  - windows
+  - linux
 localizations:
   ar: "انسخ"
   cs: "Kopírovat"

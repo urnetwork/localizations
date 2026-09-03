@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "تم استخدام هذا الرمز بالكامل"
   cs: "Tento kód byl již vyčerpán"
