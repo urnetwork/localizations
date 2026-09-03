@@ -1,0 +1,37 @@
+description: "Generic 'Learn more' link label placed after an explanatory sentence, opening an external page (e.g. the Earnings wallet note linking to the protocol site)."
+source: "Learn more"
+platforms:
+  - android
+  - apple
+  - site
+  - windows
+  - linux
+localizations:
+  ar: "اعرف المزيد"
+  cs: "Zjistit více"
+  de: "Mehr erfahren"
+  el: "Μάθετε περισσότερα"
+  en: "Learn more"
+  es: "Más información"
+  es-419: "Más información"
+  es-MX: "Más información"
+  fr: "En savoir plus"
+  he: "למידע נוסף"
+  hi: "और जानें"
+  id: "Pelajari lebih lanjut"
+  it: "Scopri di più"
+  ja: "詳しく見る"
+  ko: "자세히 알아보기"
+  nl: "Meer informatie"
+  pl: "Dowiedz się więcej"
+  pt: "Saiba mais"
+  pt-BR: "Saiba mais"
+  pt-PT: "Saber mais"
+  ru: "Подробнее"
+  sv: "Läs mer"
+  sw: "Pata maelezo zaidi"
+  th: "เรียนรู้เพิ่มเติม"
+  uk: "Дізнатися більше"
+  vi: "Tìm hiểu thêm"
+  zh: "了解更多"
+  zh-HK: "了解更多"
