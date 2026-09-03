@@ -2,6 +2,7 @@ description: "Call to action"
 source: "No Solana Wallets Found"
 platforms:
   - android
+  - apple
 localizations:
   ar: "لم يتم العثور على محافظ Solana"
   cs: "Nebyly nalezeny žádné peněženky Solana"

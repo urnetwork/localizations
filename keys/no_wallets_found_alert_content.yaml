@@ -2,6 +2,7 @@ description: "Call to action"
 source: "No Solana wallets were found installed on this device. Please install a wallet and try again."
 platforms:
   - android
+  - apple
 localizations:
   ar: "لم يتم العثور على أي محافظ Solana مثبتة على هذا الجهاز. يرجى تثبيت محفظة والمحاولة مرة أخرى."
   cs: "V tomto zařízení nebyly nalezeny žádné peněženky Solana. Nainstalujte prosím peněženku a zkuste to znovu."
