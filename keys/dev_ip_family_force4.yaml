@@ -1,0 +1,6 @@
+description: "Developer screen: the IPv4-only option."
+source: "Force IPv4"
+platforms:
+  - android
+localizations:
+  en: "Force IPv4"

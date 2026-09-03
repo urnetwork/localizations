@@ -1,0 +1,6 @@
+description: "Developer screen: the automatic IP family option."
+source: "Automatic"
+platforms:
+  - android
+localizations:
+  en: "Automatic"

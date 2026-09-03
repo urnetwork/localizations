@@ -1,0 +1,6 @@
+description: "Developer screen: detail line of the IPv6-only option."
+source: "Control-plane connections use IPv6 only. Turn this off if the app cannot reach the server."
+platforms:
+  - android
+localizations:
+  en: "Control-plane connections use IPv6 only. Turn this off if the app cannot reach the server."

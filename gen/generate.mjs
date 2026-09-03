@@ -192,7 +192,10 @@ function poEntry(k, loc, isPot) {
 	if (comment(k)) for (const line of comment(k).split("\n")) L.push(`#. ${line}`);
 	L.push(`msgctxt "${poEscape(k.id)}"`);
 	const en = k.localizations.en;
-	const v = loc === "en" ? en : k.localizations[loc];
+	// an untranslatable key (product names, symbols, numeric formats) ships its
+	// english source in every catalog so the app resolves it through the same
+	// pgettext lookup instead of falling back to a literal in the code
+	const v = loc === "en" || !k.translatable ? en : k.localizations[loc];
 	if (k.plurals) {
 		const [, order] = GETTEXT_PLURALS[loc] || GETTEXT_PLURALS.en;
 		L.push(`msgid "${poEscape(lowerCpp(en.one ?? en.other, k))}"`);
@@ -228,8 +231,8 @@ function linux(keys) {
 	};
 	const body = (loc, isPot) =>
 		keys
-			.filter((k) => k.translatable && !isDead(k))
-			.filter((k) => isPot || k.localizations[loc] != null)
+			.filter((k) => !isDead(k))
+			.filter((k) => isPot || !k.translatable || k.localizations[loc] != null)
 			.map((k) => poEntry(k, loc, isPot))
 			.join("\n\n");
 	out["linux/app/po/urnetwork.pot"] = `${header("en", true)}\n\n${body("en", true)}\n`;

@@ -1,0 +1,9 @@
+description: "Developer screen: the automatic option's detail when one family was demoted; {reason} is the demotion reason."
+source: "Automatic. %1$s."
+platforms:
+  - android
+placeholders:
+  - name: reason
+    type: string
+localizations:
+  en: "Automatic. {reason}."
