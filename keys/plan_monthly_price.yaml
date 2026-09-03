@@ -3,5 +3,6 @@ source: "$5/month"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "$5/month"

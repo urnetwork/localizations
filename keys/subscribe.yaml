@@ -3,5 +3,7 @@ source: "Subscribe"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   en: "Subscribe"

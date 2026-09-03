@@ -3,5 +3,6 @@ source: "$40/year"
 translatable: false
 platforms:
   - linux
+  - windows
 localizations:
   en: "$40/year"

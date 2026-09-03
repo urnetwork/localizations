@@ -5,6 +5,9 @@ platforms:
   - site
   - linux
   - windows
+deprecated:
+  - windows
+  - linux
 localizations:
   ar: "انضم باستخدام Stripe"
   cs: "Připojit se pomocí Stripe"

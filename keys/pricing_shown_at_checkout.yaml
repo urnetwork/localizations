@@ -2,6 +2,8 @@ description: "Note under the subscription product cards on desktop: the app has 
 source: "Pricing is shown at checkout."
 platforms:
   - windows
+deprecated:
+  - windows
 localizations:
   ar: "يظهر السعر عند الدفع."
   cs: "Cena se zobrazí při placení."
