@@ -3,6 +3,7 @@ source: "Cancel"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "ألغِ"
   cs: "Zrušit"

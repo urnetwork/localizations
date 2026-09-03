@@ -3,6 +3,7 @@ source: "Save"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "حفظ"
   cs: "Uložit"

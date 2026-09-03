@@ -3,6 +3,7 @@ source: "Leaderboard"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "لوحة الصدارة"
   cs: "Žebříček"

@@ -2,6 +2,7 @@ description: "Billing errors. Every one is shown to the user WITH a remedy: a pa
 source: "Try again"
 platforms:
   - android
+  - site
 localizations:
   ar: "حاول مرة أخرى"
   cs: "Zkusit znovu"
