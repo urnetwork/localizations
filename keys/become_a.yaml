@@ -2,6 +2,8 @@ description: "Used in Shared/Views/UpgradeSubscriptionSheet.swift."
 source: "Become a"
 platforms:
   - apple
+deprecated:
+  - apple
 localizations:
   ar: "كن"
   cs: "Staň se"

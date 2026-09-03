@@ -2,6 +2,8 @@ description: "Used in Shared/Views/UpgradeSubscriptionSheet.swift."
 source: "URnetwork Supporter"
 platforms:
   - apple
+deprecated:
+  - apple
 localizations:
   ar: "داعم URnetwork"
   cs: "Podporovatel URnetwork"

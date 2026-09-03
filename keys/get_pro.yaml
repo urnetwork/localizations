@@ -3,6 +3,8 @@ source: "Get Pro"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "احصل على Pro"
   cs: "Získat Pro"
