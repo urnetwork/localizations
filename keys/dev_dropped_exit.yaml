@@ -1,0 +1,7 @@
+description: "Developer page: report line after an exit was dropped."
+source: "Dropped exit"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Dropped exit"

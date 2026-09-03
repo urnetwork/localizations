@@ -1,0 +1,7 @@
+description: "Developer page: label before the requested value of an override."
+source: "Requested:"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Requested:"

@@ -1,0 +1,7 @@
+description: "Developer page: exit state, done."
+source: "done"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "done"

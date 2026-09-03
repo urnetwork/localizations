@@ -1,0 +1,7 @@
+description: "Developer page: exit state, p2p."
+source: "p2p"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "p2p"

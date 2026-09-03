@@ -1,0 +1,7 @@
+description: "Developer page: heading of the probed exits table."
+source: "Probed exits"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Probed exits"

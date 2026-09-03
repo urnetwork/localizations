@@ -1,0 +1,7 @@
+description: "Developer page: exit state, warned."
+source: "warned"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "warned"

@@ -1,0 +1,7 @@
+description: "Developer page: note shown when no reliability override is in force."
+source: "No reliability override is in force, so the settings sections are hidden rather than shown at zero. The measurements and exit readout below are live."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "No reliability override is in force, so the settings sections are hidden rather than shown at zero. The measurements and exit readout below are live."

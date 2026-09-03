@@ -1,0 +1,7 @@
+description: "Developer page: report line when the probe suite could not start."
+source: "Probe suite did not start: no live session, or one is already running."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Probe suite did not start: no live session, or one is already running."

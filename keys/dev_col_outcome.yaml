@@ -1,0 +1,7 @@
+description: "Developer page: table column header for a probe outcome."
+source: "Outcome"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Outcome"

@@ -1,0 +1,7 @@
+description: "Developer page: table column header for a destination host."
+source: "Destination"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Destination"

@@ -1,0 +1,12 @@
+description: "Developer page: value of the recovery time, {average} and {worst} are durations."
+source: "avg {average}, worst {worst}"
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: average
+    type: string
+  - name: worst
+    type: string
+localizations:
+  en: "avg {average}, worst {worst}"

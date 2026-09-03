@@ -1,0 +1,7 @@
+description: "Developer page: exit state, proven."
+source: "proven"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "proven"

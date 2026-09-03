@@ -1,0 +1,7 @@
+description: "Developer page: empty state of the probe results table."
+source: "No probe results yet. Start the suite."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "No probe results yet. Start the suite."

@@ -1,0 +1,7 @@
+description: "Developer page: empty state of the session log."
+source: "The daemon has not written anything yet."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "The daemon has not written anything yet."

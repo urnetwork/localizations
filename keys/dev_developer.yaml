@@ -1,0 +1,7 @@
+description: "Developer page: page title."
+source: "Developer"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Developer"

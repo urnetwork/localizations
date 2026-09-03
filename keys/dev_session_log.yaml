@@ -1,0 +1,7 @@
+description: "Developer page: heading of the daemon session log."
+source: "Session log"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Session log"

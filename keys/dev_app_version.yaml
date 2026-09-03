@@ -1,0 +1,7 @@
+description: "Developer page: label of the app version row."
+source: "App version"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "App version"

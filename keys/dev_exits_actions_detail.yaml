@@ -1,0 +1,7 @@
+description: "Developer page: explanation of the drop, stall and shuffle actions."
+source: "Drop, Stall and Shuffle degrade the live connection on purpose, immediately. Nothing here is queued or retried — an action that misses is reported, not replayed."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Drop, Stall and Shuffle degrade the live connection on purpose, immediately. Nothing here is queued or retried — an action that misses is reported, not replayed."

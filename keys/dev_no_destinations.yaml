@@ -1,0 +1,7 @@
+description: "Developer page: empty state of the destinations table."
+source: "No destinations yet."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "No destinations yet."

@@ -1,0 +1,7 @@
+description: "Developer page: button that resets the reliability settings."
+source: "Reset to shipped defaults"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Reset to shipped defaults"

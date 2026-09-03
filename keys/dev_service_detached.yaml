@@ -1,0 +1,7 @@
+description: "Developer page: shown when the system service is not attached."
+source: "The URnetwork service is not attached, so the live connection cannot be read."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "The URnetwork service is not attached, so the live connection cannot be read."

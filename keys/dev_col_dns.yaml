@@ -1,0 +1,7 @@
+description: "Developer page: table column header for the DNS timing."
+source: "DNS"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "DNS"

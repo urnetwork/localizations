@@ -1,0 +1,7 @@
+description: "Developer page: toggle that follows the session log tail."
+source: "Follow"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Follow"

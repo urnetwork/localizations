@@ -1,0 +1,7 @@
+description: "Developer page: button that migrates the live connection."
+source: "Migrate"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Migrate"

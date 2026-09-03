@@ -1,0 +1,10 @@
+description: "Developer page: value of the worst single failure, {count} connections."
+source: "{count} connections"
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "{count} connections"

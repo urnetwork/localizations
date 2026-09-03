@@ -1,0 +1,7 @@
+description: "Developer page: shown when there is no session to act on."
+source: "No session. Sign in and connect to use these tools."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "No session. Sign in and connect to use these tools."

@@ -1,0 +1,12 @@
+description: "Developer page: value of the flows that never came back, {done} of {total}."
+source: "{done} of {total}"
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: done
+    type: int
+  - name: total
+    type: int
+localizations:
+  en: "{done} of {total}"

@@ -1,0 +1,7 @@
+description: "Developer page: table column header for an exit state."
+source: "State"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "State"

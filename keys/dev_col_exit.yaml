@@ -1,0 +1,7 @@
+description: "Developer page: table column header for the exit a flow uses."
+source: "Exit"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Exit"

@@ -1,0 +1,7 @@
+description: "Developer page: report line when the SDK refused a requested action."
+source: "No change: the SDK declined that action."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "No change: the SDK declined that action."

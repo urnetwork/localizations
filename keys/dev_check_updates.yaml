@@ -1,0 +1,7 @@
+description: "Developer page: button that checks for a new release now."
+source: "Check for updates"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Check for updates"

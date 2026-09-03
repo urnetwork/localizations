@@ -1,0 +1,7 @@
+description: "Developer page: table column header for the total timing."
+source: "Total"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Total"

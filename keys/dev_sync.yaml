@@ -1,0 +1,7 @@
+description: "Developer page: button that syncs the reliability settings."
+source: "Sync"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Sync"

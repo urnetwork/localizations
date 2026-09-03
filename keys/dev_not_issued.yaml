@@ -1,0 +1,7 @@
+description: "Developer page: report line when there is no live session to act on."
+source: "Not issued: there is no live session to act on."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Not issued: there is no live session to act on."

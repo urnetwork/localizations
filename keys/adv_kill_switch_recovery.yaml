@@ -1,0 +1,35 @@
+description: "Kill switch: how to remove a block that is still in place when the device cannot reach the network; {command} is the shell command."
+source: "If this device cannot reach the network, a block installed earlier may still be in place; remove it with: {command}"
+platforms:
+  - linux
+placeholders:
+  - name: command
+    type: string
+localizations:
+  ar: "إذا تعذّر على هذا الجهاز الوصول إلى الشبكة، فقد يكون حجب مثبّت سابقًا لا يزال ساريًا؛ أزله باستخدام: {command}"
+  cs: "Pokud se toto zařízení nemůže připojit k síti, může být stále v platnosti dříve nainstalované blokování; odstraňte ho příkazem: {command}"
+  de: "Wenn dieses Gerät das Netzwerk nicht erreicht, ist womöglich noch eine früher installierte Sperre aktiv; entferne sie mit: {command}"
+  el: "Αν αυτή η συσκευή δεν μπορεί να συνδεθεί στο δίκτυο, ίσως ισχύει ακόμη ένας αποκλεισμός που εγκαταστάθηκε νωρίτερα· αφαιρέστε τον με: {command}"
+  en: "If this device cannot reach the network, a block installed earlier may still be in place; remove it with: {command}"
+  es: "Si este dispositivo no puede acceder a la red, puede que siga vigente un bloqueo instalado antes; elimínalo con: {command}"
+  es-MX: "Si este dispositivo no puede acceder a la red, puede que siga vigente un bloqueo instalado antes; elimínalo con: {command}"
+  fr: "Si cet appareil ne parvient pas à joindre le réseau, un blocage installé plus tôt est peut-être encore en place ; retirez-le avec : {command}"
+  he: "אם המכשיר הזה לא מצליח להגיע לרשת, ייתכן שחסימה שהותקנה קודם עדיין בתוקף; הסירו אותה באמצעות: {command}"
+  hi: "यदि यह डिवाइस नेटवर्क तक नहीं पहुँच पा रहा है, तो पहले लगाया गया ब्लॉक अभी भी लागू हो सकता है; इसे हटाने के लिए चलाएँ: {command}"
+  id: "Jika perangkat ini tidak bisa mencapai jaringan, pemblokiran yang dipasang sebelumnya mungkin masih berlaku; hapus dengan: {command}"
+  it: "Se questo dispositivo non raggiunge la rete, potrebbe essere ancora in vigore un blocco installato in precedenza; rimuovilo con: {command}"
+  ja: "このデバイスがネットワークに接続できない場合、以前に設定された遮断がまだ残っている可能性があります。次のコマンドで解除してください: {command}"
+  ko: "이 기기가 네트워크에 연결할 수 없다면 이전에 설치된 차단이 아직 남아 있을 수 있습니다. 다음 명령으로 제거하세요: {command}"
+  nl: "Als dit apparaat het netwerk niet kan bereiken, is een eerder ingestelde blokkade misschien nog van kracht; verwijder die met: {command}"
+  pl: "Jeśli to urządzenie nie może połączyć się z siecią, wcześniej zainstalowana blokada może nadal obowiązywać; usuń ją poleceniem: {command}"
+  pt: "Se este dispositivo não consegue acessar a rede, um bloqueio instalado antes pode ainda estar em vigor; remova-o com: {command}"
+  pt-BR: "Se este dispositivo não consegue acessar a rede, um bloqueio instalado antes pode ainda estar em vigor; remova-o com: {command}"
+  pt-PT: "Se este dispositivo não consegue aceder à rede, um bloqueio instalado antes pode ainda estar em vigor; remova-o com: {command}"
+  ru: "Если это устройство не может подключиться к сети, возможно, ещё действует установленная ранее блокировка; снимите её командой: {command}"
+  sv: "Om den här enheten inte når nätverket kan en tidigare installerad spärr fortfarande gälla; ta bort den med: {command}"
+  sw: "Ikiwa kifaa hiki hakiwezi kufikia mtandao, kizuizi kilichowekwa awali huenda bado kipo; kiondoe kwa: {command}"
+  th: "หากอุปกรณ์นี้เข้าถึงเครือข่ายไม่ได้ การบล็อกที่ติดตั้งไว้ก่อนหน้าอาจยังมีผลอยู่ ให้ลบออกด้วยคำสั่ง: {command}"
+  uk: "Якщо цей пристрій не може під’єднатися до мережі, можливо, досі діє встановлене раніше блокування; зніміть його командою: {command}"
+  vi: "Nếu thiết bị này không thể kết nối mạng, một chặn được cài đặt trước đó có thể vẫn còn; gỡ bỏ bằng: {command}"
+  zh: "如果此设备无法连接网络，先前安装的阻断可能仍在生效；使用以下命令移除：{command}"
+  zh-HK: "如果此裝置無法連線至網絡，先前安裝的封鎖可能仍在生效；使用以下命令移除：{command}"

@@ -1,0 +1,7 @@
+description: "Developer page: explanation of the session log."
+source: "What the daemon has written since it started. The reliability lines ([rel] event=...) are how a knob below proves it changed something."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "What the daemon has written since it started. The reliability lines ([rel] event=...) are how a knob below proves it changed something."

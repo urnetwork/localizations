@@ -1,0 +1,7 @@
+description: "Developer page: probe outcome, failed."
+source: "failed"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "failed"

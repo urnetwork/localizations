@@ -1,0 +1,7 @@
+description: "Developer page: table column header for the number of failed dials."
+source: "Failed dials"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Failed dials"

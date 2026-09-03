@@ -1,0 +1,7 @@
+description: "Developer page: table column header for an exit tier."
+source: "Tier"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Tier"

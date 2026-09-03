@@ -1,0 +1,7 @@
+description: "Developer page: table column header for time to first byte."
+source: "TTFB"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "TTFB"

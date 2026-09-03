@@ -1,0 +1,7 @@
+description: "Developer page: report line when the update check failed."
+source: "The update check failed — see the app log."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "The update check failed — see the app log."

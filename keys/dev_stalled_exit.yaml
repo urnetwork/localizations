@@ -1,0 +1,7 @@
+description: "Developer page: report line after an exit was stalled."
+source: "Stalled exit"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Stalled exit"

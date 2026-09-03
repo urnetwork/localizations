@@ -1,0 +1,7 @@
+description: "Developer page: table column header for the measurement window."
+source: "Window"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Window"

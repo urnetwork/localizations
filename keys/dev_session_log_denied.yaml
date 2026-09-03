@@ -1,0 +1,7 @@
+description: "Developer page: shown when this account may not read the daemon log."
+source: "This account may drive the daemon but may not read its log."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "This account may drive the daemon but may not read its log."

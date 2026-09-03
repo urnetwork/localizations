@@ -1,0 +1,7 @@
+description: "Developer page: button that stops the probe suite."
+source: "Stop"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Stop"

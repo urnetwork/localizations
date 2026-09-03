@@ -1,0 +1,7 @@
+description: "Developer page: heading of the probe suite section."
+source: "Probe suite"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Probe suite"

@@ -1,0 +1,14 @@
+description: "Developer page: value of the QUIC flows that rebound: {count} total, {accepted} accepted, {redialed} re-dialed."
+source: "{count} ({accepted} accepted / {redialed} re-dialed)"
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: count
+    type: int
+  - name: accepted
+    type: int
+  - name: redialed
+    type: int
+localizations:
+  en: "{count} ({accepted} accepted / {redialed} re-dialed)"

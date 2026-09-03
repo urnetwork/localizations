@@ -1,0 +1,7 @@
+description: "Developer page: button that probes every exit now."
+source: "Probe all exits now"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Probe all exits now"

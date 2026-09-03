@@ -1,0 +1,7 @@
+description: "Developer page: table column header for a probe target."
+source: "Target"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Target"

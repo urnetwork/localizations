@@ -1,0 +1,7 @@
+description: "Developer page: exit state, benched."
+source: "benched"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "benched"

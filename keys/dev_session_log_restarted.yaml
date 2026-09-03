@@ -1,0 +1,7 @@
+description: "Developer page: note when the daemon restarted and the log began again."
+source: "The daemon restarted. This is a new log; the previous run's lines are gone."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "The daemon restarted. This is a new log; the previous run's lines are gone."

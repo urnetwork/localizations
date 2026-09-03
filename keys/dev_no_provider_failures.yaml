@@ -1,0 +1,7 @@
+description: "Developer page: empty state of the provider failures table."
+source: "No provider failures yet."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "No provider failures yet."

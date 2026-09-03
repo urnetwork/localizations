@@ -1,0 +1,10 @@
+description: "Developer page: line in the session log when {count} earlier lines were dropped."
+source: "{count} lines were dropped before this point"
+translatable: false
+platforms:
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  en: "{count} lines were dropped before this point"

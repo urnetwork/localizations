@@ -1,0 +1,7 @@
+description: "Developer page: report line when no reliability override is in force."
+source: "Not applied: there is no reliability override in force to change."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Not applied: there is no reliability override in force to change."

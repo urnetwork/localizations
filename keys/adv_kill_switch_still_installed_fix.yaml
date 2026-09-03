@@ -1,0 +1,35 @@
+description: "Kill switch: how to clear a block the service still has installed; {command} is the shell command to use if toggling does not work."
+source: "Turning the kill switch on and then off again asks the service to clear it; if that does not work, remove it with: {command}"
+platforms:
+  - linux
+placeholders:
+  - name: command
+    type: string
+localizations:
+  ar: "تشغيل مفتاح القتل ثم إيقافه مجددًا يطلب من الخدمة إزالته؛ إذا لم ينجح ذلك، أزله باستخدام: {command}"
+  cs: "Zapnutím a opětovným vypnutím kill switche požádáte službu o jeho odstranění; pokud to nepomůže, odstraňte ho příkazem: {command}"
+  de: "Den Kill switch ein- und wieder auszuschalten weist den Dienst an, sie zu entfernen; falls das nicht klappt, entferne sie mit: {command}"
+  el: "Η ενεργοποίηση και εκ νέου απενεργοποίηση του Kill switch ζητά από την υπηρεσία να τον καθαρίσει· αν αυτό δεν λειτουργήσει, αφαιρέστε τον με: {command}"
+  en: "Turning the kill switch on and then off again asks the service to clear it; if that does not work, remove it with: {command}"
+  es: "Activar el Kill switch y volver a desactivarlo pide al servicio que lo elimine; si eso no funciona, elimínalo con: {command}"
+  es-MX: "Activar el Kill switch y volver a desactivarlo pide al servicio que lo elimine; si eso no funciona, elimínalo con: {command}"
+  fr: "Activer puis désactiver de nouveau le Kill switch demande au service de le retirer ; si cela ne fonctionne pas, retirez-le avec : {command}"
+  he: "הפעלת הקיל סוויץ' וכיבויו שוב מבקשים מהשירות להסיר אותה; אם זה לא עובד, הסירו אותה באמצעות: {command}"
+  hi: "किल स्विच को चालू करके फिर बंद करने से सेवा से उसे हटाने को कहा जाता है; यदि यह काम न करे, तो इसे हटाने के लिए चलाएँ: {command}"
+  id: "Menyalakan lalu mematikan lagi Kill switch meminta layanan untuk menghapusnya; jika tidak berhasil, hapus dengan: {command}"
+  it: "Attivare e poi disattivare di nuovo il Kill switch chiede al servizio di rimuoverlo; se non funziona, rimuovilo con: {command}"
+  ja: "キルスイッチをオンにしてからもう一度オフにすると、サービスに解除を依頼します。うまくいかない場合は次のコマンドで解除してください: {command}"
+  ko: "킬 스위치를 켰다가 다시 끄면 서비스에 제거를 요청합니다. 그래도 안 되면 다음 명령으로 제거하세요: {command}"
+  nl: "De Kill switch aan- en weer uitzetten vraagt de dienst om die te verwijderen; als dat niet werkt, verwijder die dan met: {command}"
+  pl: "Włączenie i ponowne wyłączenie Kill switch prosi usługę o jej usunięcie; jeśli to nie zadziała, usuń ją poleceniem: {command}"
+  pt: "Ligar e desligar de novo o Kill switch pede ao serviço que o remova; se isso não funcionar, remova-o com: {command}"
+  pt-BR: "Ligar e desligar de novo o Kill switch pede ao serviço que o remova; se isso não funcionar, remova-o com: {command}"
+  pt-PT: "Ligar e voltar a desligar o Kill switch pede ao serviço que o remova; se isso não resultar, remova-o com: {command}"
+  ru: "Включение и повторное выключение Kill switch попросит службу снять её; если это не помогло, снимите её командой: {command}"
+  sv: "Att slå på Kill switch och sedan av igen ber tjänsten ta bort den; om det inte fungerar, ta bort den med: {command}"
+  sw: "Kuwasha Kill switch kisha kuizima tena huiomba huduma ikiondoe; ikiwa hilo halifanyi kazi, kiondoe kwa: {command}"
+  th: "การเปิดสวิตช์หยุดการเชื่อมต่อแล้วปิดอีกครั้งจะขอให้บริการลบออก หากไม่ได้ผล ให้ลบออกด้วยคำสั่ง: {command}"
+  uk: "Увімкнення та повторне вимкнення Kill switch попросить службу зняти його; якщо це не спрацює, зніміть його командою: {command}"
+  vi: "Bật rồi tắt lại Kill switch sẽ yêu cầu dịch vụ gỡ bỏ nó; nếu không được, gỡ bỏ bằng: {command}"
+  zh: "打开断网保护再关闭，会请求服务将其移除；如果无效，使用以下命令移除：{command}"
+  zh-HK: "開啟斷線開關 (Kill switch) 再關閉，會要求服務將其移除；如果無效，使用以下命令移除：{command}"

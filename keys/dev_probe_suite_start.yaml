@@ -1,0 +1,7 @@
+description: "Developer page: button that starts the probe suite."
+source: "Start probe suite"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Start probe suite"

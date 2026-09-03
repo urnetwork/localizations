@@ -1,0 +1,7 @@
+description: "Developer page: table column header for the probe kind."
+source: "Kind"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Kind"

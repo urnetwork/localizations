@@ -1,0 +1,7 @@
+description: "Developer page: heading of the destinations table."
+source: "Destinations"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Destinations"

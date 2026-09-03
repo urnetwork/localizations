@@ -1,0 +1,7 @@
+description: "Developer page: explanation of the probe suite."
+source: "Dials real targets through the live connection and times each stage. Runs with the SDK's own default configuration."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Dials real targets through the live connection and times each stage. Runs with the SDK's own default configuration."

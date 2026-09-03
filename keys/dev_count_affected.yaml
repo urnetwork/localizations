@@ -1,0 +1,7 @@
+description: "Developer page: suffix after a count of affected flows."
+source: "affected"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "affected"

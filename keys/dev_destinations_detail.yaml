@@ -1,0 +1,7 @@
+description: "Developer page: explanation under the destinations table."
+source: "Which exit each destination's flows are landing on. A site spread over several rows is a site that lost its single egress IP."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Which exit each destination's flows are landing on. A site spread over several rows is a site that lost its single egress IP."

@@ -1,0 +1,7 @@
+description: "Developer page: probe outcome, ok."
+source: "ok"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "ok"

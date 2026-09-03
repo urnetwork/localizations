@@ -1,0 +1,35 @@
+description: "Login: warning when the pasted seedphrase has {count} words instead of 12 or 24."
+source: "That's {count} words — a seedphrase is 12 or 24 words"
+platforms:
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "هذه {count} كلمة — عبارة الاسترداد تتكون من 12 أو 24 كلمة"
+  cs: "To je {count} slov — seed fráze má 12 nebo 24 slov"
+  de: "Das sind {count} Wörter — eine Seedphrase hat 12 oder 24 Wörter"
+  el: "Αυτές είναι {count} λέξεις — μια φράση ανάκτησης έχει 12 ή 24 λέξεις"
+  en: "That's {count} words — a seedphrase is 12 or 24 words"
+  es: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
+  es-MX: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
+  fr: "Cela fait {count} mots — une phrase de récupération compte 12 ou 24 mots"
+  he: "אלה {count} מילים — ביטוי סיד הוא 12 או 24 מילים"
+  hi: "ये {count} शब्द हैं — सीड फ़्रेज़ में 12 या 24 शब्द होते हैं"
+  id: "Itu {count} kata — frasa pemulihan terdiri dari 12 atau 24 kata"
+  it: "Sono {count} parole — una frase seed è di 12 o 24 parole"
+  ja: "{count} 語です — シードフレーズは 12 語または 24 語です"
+  ko: "{count}개 단어입니다 — 시드 문구는 12개 또는 24개 단어입니다"
+  nl: "Dat zijn {count} woorden — een seedphrase heeft 12 of 24 woorden"
+  pl: "To {count} słów — fraza seed ma 12 lub 24 słowa"
+  pt: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
+  pt-BR: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
+  pt-PT: "São {count} palavras — uma frase-semente tem 12 ou 24 palavras"
+  ru: "Это {count} слов — сид-фраза состоит из 12 или 24 слов"
+  sv: "Det är {count} ord — en seedfras har 12 eller 24 ord"
+  sw: "Hayo ni maneno {count} — kifungu cha seed kina maneno 12 au 24"
+  th: "นั่นคือ {count} คำ — วลีกู้คืนมี 12 หรือ 24 คำ"
+  uk: "Це {count} слів — сід-фраза складається з 12 або 24 слів"
+  vi: "Đó là {count} từ — cụm từ khôi phục gồm 12 hoặc 24 từ"
+  zh: "这是 {count} 个词 — 助记词应为 12 或 24 个词"
+  zh-HK: "這是 {count} 個詞 — 助記詞應為 12 或 24 個詞"

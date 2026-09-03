@@ -1,0 +1,7 @@
+description: "Developer page: note that the action buttons only request changes."
+source: "Actions are requests: confirm them in the measurements and exit rows, which refresh underneath."
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Actions are requests: confirm them in the measurements and exit rows, which refresh underneath."

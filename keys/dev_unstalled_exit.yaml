@@ -1,0 +1,7 @@
+description: "Developer page: report line after a stall was cleared on an exit."
+source: "Cleared stall on exit"
+translatable: false
+platforms:
+  - linux
+localizations:
+  en: "Cleared stall on exit"
