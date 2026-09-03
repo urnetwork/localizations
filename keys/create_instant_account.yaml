@@ -3,6 +3,9 @@ description_auto: true
 source: "Create Instant Account"
 platforms:
   - apple
+  - android
+  - windows
+  - linux
 localizations:
   ar: "إنشاء حساب فوري"
   cs: "Vytvořit okamžitý účet"
