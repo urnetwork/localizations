@@ -2,6 +2,8 @@ description: "Points leaderboard: stat tile label and sort chip. A block is one 
 source: "Blocks"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "الكتل"
   cs: "Bloky"

@@ -3,6 +3,8 @@ source: "%1$d / %2$d"
 translatable: false
 platforms:
   - android
+  - apple
+  - site
 placeholders:
   - name: count
     type: int

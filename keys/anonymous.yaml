@@ -2,6 +2,8 @@ description: "Points leaderboard: the name shown for a listed network whose name
 source: "Anonymous"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "مجهول"
   cs: "Anonymní"

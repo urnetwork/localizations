@@ -2,6 +2,8 @@ description: "Points leaderboard: emoji editor error when more than {max} emoji 
 source: "Use at most %d emoji."
 platforms:
   - android
+  - apple
+  - site
 placeholders:
   - name: max
     type: int

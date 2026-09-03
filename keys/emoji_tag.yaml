@@ -2,6 +2,8 @@ description: "Points leaderboard: the title of the emoji tag editor. One to six 
 source: "Emoji tag"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "وسم الإيموجي"
   cs: "Emoji značka"

@@ -2,6 +2,8 @@ description: "Points leaderboard: secondary stat, the best run of consecutive bl
 source: "Longest streak"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "أطول سلسلة"
   cs: "Nejdelší série"

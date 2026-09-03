@@ -2,6 +2,8 @@ description: "Points leaderboard: the emoji editor's backspace key, removes the 
 source: "Delete last emoji"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "حذف آخر إيموجي"
   cs: "Smazat poslední emoji"

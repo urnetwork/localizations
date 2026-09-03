@@ -2,6 +2,8 @@ description: "Points leaderboard: the opt-in switch label. Only opted-in network
 source: "Show on the points leaderboard"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "العرض في لوحة صدارة النقاط"
   cs: "Zobrazit v žebříčku bodů"

@@ -2,6 +2,8 @@ description: "Points leaderboard: button that opens the emoji tag editor when no
 source: "Add emoji"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "إضافة إيموجي"
   cs: "Přidat emoji"

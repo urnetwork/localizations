@@ -2,6 +2,8 @@ description: "Points leaderboard: the emoji editor's explanation. {max} is the m
 source: "Pick 1 to %d emoji to show next to your network."
 platforms:
   - android
+  - apple
+  - site
 placeholders:
   - name: max
     type: int

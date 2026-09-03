@@ -2,6 +2,8 @@ description: "Points leaderboard: stat tile label and sort chip. Consecutive blo
 source: "Streak"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "السلسلة"
   cs: "Série"

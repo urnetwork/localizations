@@ -2,6 +2,8 @@ description: "Points leaderboard: how many networks hold a rank. {count} is pref
 source: "%@ ranked networks"
 platforms:
   - android
+  - apple
+  - site
 placeholders:
   - name: count
     type: string

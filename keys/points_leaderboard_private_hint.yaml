@@ -2,6 +2,8 @@ description: "Points leaderboard: shown under the own-stats card while the netwo
 source: "Only you can see this. Turn it on to appear on the leaderboard."
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "أنت وحدك من يرى هذا. فعّل الخيار للظهور في لوحة الصدارة."
   cs: "Vidíte to jen vy. Zapněte, abyste se objevili v žebříčku."

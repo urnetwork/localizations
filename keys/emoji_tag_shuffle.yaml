@@ -2,6 +2,8 @@ description: "Points leaderboard: the emoji editor's shuffle button, replaces th
 source: "Suggest another"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "اقتراح آخر"
   cs: "Navrhnout jiné"

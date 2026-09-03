@@ -2,6 +2,8 @@ description: "Points leaderboard: emoji editor error when the field has no emoji
 source: "Add at least one emoji."
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "أضف إيموجي واحدًا على الأقل."
   cs: "Přidejte alespoň jedno emoji."

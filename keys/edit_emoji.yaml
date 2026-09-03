@@ -2,6 +2,8 @@ description: "Points leaderboard: button that opens the emoji tag editor for an 
 source: "Edit emoji"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "تعديل الإيموجي"
   cs: "Upravit emoji"

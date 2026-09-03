@@ -2,6 +2,8 @@ description: "Points leaderboard: shown when no network has opted in yet."
 source: "No one is on the points leaderboard yet."
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "لا أحد في لوحة صدارة النقاط بعد."
   cs: "V žebříčku bodů zatím nikdo není."

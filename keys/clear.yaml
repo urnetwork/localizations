@@ -2,6 +2,8 @@ description: "General UI string: a button that clears a field or setting."
 source: "Clear"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "مسح"
   cs: "Vymazat"

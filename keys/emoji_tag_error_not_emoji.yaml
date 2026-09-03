@@ -2,6 +2,8 @@ description: "Points leaderboard: emoji editor error when the field contains any
 source: "Only emoji are allowed."
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "يُسمح بالإيموجي فقط."
   cs: "Povolena jsou pouze emoji."

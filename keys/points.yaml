@@ -2,6 +2,8 @@ description: "Points leaderboard: tab label, stat tile label and sort chip."
 source: "Points"
 platforms:
   - android
+  - apple
+  - site
 localizations:
   ar: "النقاط"
   cs: "Body"
