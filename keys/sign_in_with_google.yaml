@@ -2,6 +2,8 @@ description: "Used in Authenticate/LoginInitial/UrGoogleSignInButton.swift."
 source: "Sign in with Google"
 platforms:
   - apple
+  - windows
+  - linux
 localizations:
   ar: "تسجيل الدخول باستخدام Google"
   cs: "Přihlásit se pomocí Google"

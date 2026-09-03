@@ -1,0 +1,8 @@
+description: "Login stack: full-width Apple sign-in button on platforms that use the ur.io browser bridge"
+source: "Sign in with Apple"
+platforms:
+  - android
+  - windows
+  - linux
+localizations:
+  en: "Sign in with Apple"

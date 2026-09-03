@@ -3,5 +3,7 @@ description_auto: true
 source: "Google"
 platforms:
   - apple
+  - windows
+  - linux
 localizations:
   en: "Google"

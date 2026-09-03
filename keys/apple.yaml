@@ -3,5 +3,8 @@ description_auto: true
 source: "Apple"
 platforms:
   - apple
+  - android
+  - windows
+  - linux
 localizations:
   en: "Apple"

@@ -3,5 +3,8 @@ source: "Solana"
 translatable: false
 platforms:
   - windows
+  - android
+  - apple
+  - linux
 localizations:
   en: "Solana"
