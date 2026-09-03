@@ -1,0 +1,6 @@
+description: "Account panel: copy the WireGuard config text to the clipboard"
+source: "Copy config"
+platforms:
+  - site
+localizations:
+  en: "Copy config"

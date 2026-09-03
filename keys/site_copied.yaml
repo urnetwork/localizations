@@ -1,0 +1,6 @@
+description: "Account panel: a copy button after it copied"
+source: "Copied"
+platforms:
+  - site
+localizations:
+  en: "Copied"
