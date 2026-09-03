@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "يُسمح بالإيموجي فقط."
   cs: "Povolena jsou pouze emoji."

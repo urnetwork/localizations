@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "أضف إيموجي واحدًا على الأقل."
   cs: "Přidejte alespoň jedno emoji."

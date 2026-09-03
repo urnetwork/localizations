@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "النقاط منذ البداية. الكتلة هي فترة مكتملة واحدة؛ وتحسب السلسلة الكتل المتتالية ذات النقاط حتى آخر كتلة."
   cs: "Body za celou dobu. Blok je jedna dokončená epocha; série počítá po sobě jdoucí bloky s body končící tím posledním."

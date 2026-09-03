@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "إضافة إيموجي"
   cs: "Přidat emoji"

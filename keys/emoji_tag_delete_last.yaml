@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "حذف آخر إيموجي"
   cs: "Smazat poslední emoji"

@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "لا أحد في لوحة صدارة النقاط بعد."
   cs: "V žebříčku bodů zatím nikdo není."

@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "أنت وحدك من يرى هذا. فعّل الخيار للظهور في لوحة الصدارة."
   cs: "Vidíte to jen vy. Zapněte, abyste se objevili v žebříčku."

@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - windows
+  - linux
 localizations:
   ar: "العرض في لوحة صدارة النقاط"
   cs: "Zobrazit v žebříčku bodů"
