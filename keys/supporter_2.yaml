@@ -2,6 +2,8 @@ description: "Used in Shared/ViewModels/SubscriptionBalanceViewModel.swift."
 source: "Supporter"
 platforms:
   - apple
+deprecated:
+  - apple
 localizations:
   ar: "داعم"
   cs: "Podporovatel"
