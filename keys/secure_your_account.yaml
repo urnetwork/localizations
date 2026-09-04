@@ -2,6 +2,7 @@ description: "The title of the screen."
 description_auto: true
 source: "Secure Your Account"
 platforms:
+  - android
   - apple
 localizations:
   ar: "أمّن حسابك"

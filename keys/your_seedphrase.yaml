@@ -2,6 +2,7 @@ description: "A title displayed above the user's seedphrase."
 description_auto: true
 source: "Your Seedphrase"
 platforms:
+  - android
   - apple
 localizations:
   ar: "عبارة الاسترداد الخاصة بك"

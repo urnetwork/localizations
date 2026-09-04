@@ -1,6 +1,7 @@
 description: "Instant account creation: heading of the view that shows the new seedphrase once."
 source: "Save Your Seedphrase"
 platforms:
+  - android
   - site
 localizations:
   en: "Save Your Seedphrase"

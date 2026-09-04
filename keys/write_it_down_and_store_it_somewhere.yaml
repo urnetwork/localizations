@@ -2,6 +2,7 @@ description: "A warning message that instructs the user to write down their seed
 description_auto: true
 source: "Write it down and store it somewhere safe. If you lose it, you'll lose access to your account."
 platforms:
+  - android
   - apple
 localizations:
   ar: "اكتبها واحفظها في مكان آمن. إذا فقدتها، ستفقد إمكانية الوصول إلى حسابك."

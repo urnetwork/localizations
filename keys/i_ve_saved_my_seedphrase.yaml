@@ -2,6 +2,7 @@ description: "Button text for confirming that the user has saved their seedphras
 description_auto: true
 source: "I've Saved My Seedphrase"
 platforms:
+  - android
   - apple
   - site
 localizations:

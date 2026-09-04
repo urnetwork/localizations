@@ -1,6 +1,7 @@
 description: "Used in Authenticate/LoginInitial/LoginInitialView.swift."
 source: "Create Account"
 platforms:
+  - android
   - apple
 localizations:
   ar: "إنشاء حساب"
