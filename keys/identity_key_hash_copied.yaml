@@ -1,7 +1,6 @@
 description: "Post quantum identity: toast after tapping an identity key hash to copy it."
 source: "Provider identity key hash copied"
 platforms:
-  - site
   - linux
   - windows
   - android
