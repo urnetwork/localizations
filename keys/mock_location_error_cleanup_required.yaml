@@ -1,7 +1,8 @@
 description: "Error shown when the app could not remove the simulated location; the user must re-select URnetwork as the mock location app and turn the feature off, or restart."
 source: "URnetwork could not remove the simulated location. Re-select URnetwork under developer options and turn this off, or restart your device."
-platforms:
+deprecated:
   - android
+platforms: []
 localizations:
   ar: "تعذّر على URnetwork إزالة الموقع الوهمي. أعد اختيار URnetwork في خيارات المطوّرين ثم أوقف هذه الميزة، أو أعد تشغيل جهازك."
   cs: "Aplikaci URnetwork se nepodařilo odstranit simulovanou polohu. Znovu vyberte URnetwork v možnostech pro vývojáře a funkci vypněte, nebo restartujte zařízení."
