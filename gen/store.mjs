@@ -231,13 +231,22 @@ export function appleConversions(k) {
 	return out;
 }
 
-function substitute(text, names, render) {
-	let out = text;
+function substitute(text, names, render, escapeLiteral = (s) => s) {
+	// the literal segments between placeholders are escaped, the rendered
+	// placeholders never are
+	let out = names.length ? escapeLiteral(text) : text;
 	names.forEach((n, i) => {
-		out = out.split(`{${n}}`).join(render(i));
+		out = out.split(escapeLiteral(`{${n}}`)).join(render(i));
 	});
 	return out;
 }
+
+/** A literal percent sign in a printf-style format string is `%%`: a lone `%`
+ *  next to a real conversion ("Save %1$d%") is a format error at runtime
+ *  (Android: UnknownFormatConversionException; Foundation: garbage). Strings
+ *  without placeholders are never run through the formatter, so they keep a
+ *  bare `%`. */
+const escapePrintfPercent = (s) => s.replace(/%/g, "%%");
 
 export function lowerAndroid(text, k) {
 	const names = k.placeholders.map((p) => p.name);
@@ -246,7 +255,7 @@ export function lowerAndroid(text, k) {
 		const prec = p.precision != null ? `.${p.precision}` : "";
 		const conv = { string: "s", int: "d", float: "f" }[p.type];
 		return `%${i + 1}$${prec}${conv}`;
-	});
+	}, escapePrintfPercent);
 }
 
 export function lowerApple(text, k) {
@@ -258,7 +267,7 @@ export function lowerApple(text, k) {
 		const prec = /^\d+$/.test(String(k.placeholders[i].precision ?? "")) && !convs[i]
 			? `.${k.placeholders[i].precision}` : "";
 		return positional ? `%${i + 1}$${prec}${conv}` : `%${prec}${conv}`;
-	});
+	}, escapePrintfPercent);
 }
 
 /** C++ std::format: a single argument is `{}`, several are indexed so that a
