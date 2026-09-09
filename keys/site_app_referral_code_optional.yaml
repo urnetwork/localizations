@@ -1,0 +1,11 @@
+description: "Sign-up dialog: label of the optional referral code field"
+source: "Referral code (optional)"
+platforms:
+  - site
+localizations:
+  ar: "رمز الإحالة (اختياري)"
+  de: "Empfehlungscode (optional)"
+  en: "Referral code (optional)"
+  es: "Código de referido (opcional)"
+  ru: "Реферальный код (необязательно)"
+  zh: "推荐码（可选）"
