@@ -2,6 +2,9 @@ description: "Used in ContentView.swift."
 source: "Loading..."
 platforms:
   - apple
+  - android
+  - windows
+  - linux
 localizations:
   ar: "جارٍ التحميل..."
   cs: "Načítání..."
