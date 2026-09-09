@@ -1,0 +1,14 @@
+description: 'Plan picker: the saving badge on the yearly card. {percent} is a whole number.'
+source: Save {percent}%
+platforms:
+- site
+placeholders:
+- name: percent
+  type: string
+localizations:
+  ar: وفّر {percent}%
+  de: '{percent}% sparen'
+  en: Save {percent}%
+  es: Ahorra un {percent}%
+  ru: Экономия {percent}%
+  zh: 节省 {percent}%

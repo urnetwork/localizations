@@ -1,0 +1,16 @@
+description: 'Under the yearly CTA: the trial terms. {price} is the yearly amount.'
+source: '{days} days free, then {price}/year. Cancel anytime.'
+platforms:
+- site
+placeholders:
+- name: days
+  type: string
+- name: price
+  type: string
+localizations:
+  ar: '{days} يومًا مجانًا، ثم {price}/سنة. إلغاء في أي وقت.'
+  de: '{days} Tage gratis, dann {price}/Jahr. Jederzeit kündbar.'
+  en: '{days} days free, then {price}/year. Cancel anytime.'
+  es: '{days} días gratis, luego {price}/año. Cancela cuando quieras.'
+  ru: '{days} дней бесплатно, затем {price}/год. Отмена в любое время.'
+  zh: '{days} 天免费，之后 {price}/年。随时取消。'

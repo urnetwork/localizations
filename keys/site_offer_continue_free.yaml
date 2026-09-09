@@ -1,0 +1,11 @@
+description: 'Final offer screen: the always-visible decline link.'
+source: Continue with the free plan
+platforms:
+- site
+localizations:
+  ar: المتابعة بالخطة المجانية
+  de: Mit dem kostenlosen Plan fortfahren
+  en: Continue with the free plan
+  es: Continuar con el plan gratuito
+  ru: Продолжить с бесплатным планом
+  zh: 继续使用免费方案

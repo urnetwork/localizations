@@ -1,0 +1,14 @@
+description: 'Plan picker: the yearly plan''s per-month equivalent sub-line (ceiling rounded).'
+source: ≈ {price} / month, billed yearly
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+localizations:
+  ar: ≈ {price} / شهر، تُدفع سنويًا
+  de: ≈ {price} / Monat, jährlich abgerechnet
+  en: ≈ {price} / month, billed yearly
+  es: ≈ {price} / mes, facturado anualmente
+  ru: ≈ {price} / месяц, оплата раз в год
+  zh: ≈ {price} / 月，按年计费

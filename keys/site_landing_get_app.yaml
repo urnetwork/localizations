@@ -1,0 +1,11 @@
+description: 'Email landing page: the store fallback button.'
+source: Get the app
+platforms:
+- site
+localizations:
+  ar: احصل على التطبيق
+  de: App holen
+  en: Get the app
+  es: Descargar la app
+  ru: Скачать приложение
+  zh: 获取应用

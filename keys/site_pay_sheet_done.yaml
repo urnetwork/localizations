@@ -1,0 +1,11 @@
+description: 'Embedded pay page: the completion state.'
+source: Payment complete. You can close this window.
+platforms:
+- site
+localizations:
+  ar: اكتمل الدفع. يمكنك إغلاق هذه النافذة.
+  de: Zahlung abgeschlossen. Du kannst dieses Fenster schließen.
+  en: Payment complete. You can close this window.
+  es: Pago completado. Puedes cerrar esta ventana.
+  ru: Оплата завершена. Это окно можно закрыть.
+  zh: 支付完成。您可以关闭此窗口。

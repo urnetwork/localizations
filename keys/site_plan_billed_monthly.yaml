@@ -1,0 +1,11 @@
+description: 'Plan picker: the monthly card''s sub-line.'
+source: Billed monthly · cancel anytime
+platforms:
+- site
+localizations:
+  ar: تُدفع شهريًا · إلغاء في أي وقت
+  de: Monatlich abgerechnet · jederzeit kündbar
+  en: Billed monthly · cancel anytime
+  es: Facturado mensualmente · cancela cuando quieras
+  ru: Оплата ежемесячно · отмена в любое время
+  zh: 按月计费 · 随时取消

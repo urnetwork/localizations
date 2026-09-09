@@ -1,0 +1,14 @@
+description: 'Welcome-offer card: the regular price after the first year.'
+source: then {price}/year
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+localizations:
+  ar: ثم {price}/سنة
+  de: danach {price}/Jahr
+  en: then {price}/year
+  es: luego {price}/año
+  ru: затем {price}/год
+  zh: 之后 {price}/年

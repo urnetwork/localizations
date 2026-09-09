@@ -1,0 +1,11 @@
+description: 'Email landing page: the web fallback link.'
+source: Continue on the web
+platforms:
+- site
+localizations:
+  ar: المتابعة على الويب
+  de: Im Browser fortfahren
+  en: Continue on the web
+  es: Continuar en la web
+  ru: Продолжить в браузере
+  zh: 在网页上继续

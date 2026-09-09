@@ -1,0 +1,11 @@
+description: 'Embedded pay page: opened without its parameters.'
+source: This page needs to be opened from the URnetwork app.
+platforms:
+- site
+localizations:
+  ar: يجب فتح هذه الصفحة من تطبيق URnetwork.
+  de: Diese Seite muss aus der URnetwork-App geöffnet werden.
+  en: This page needs to be opened from the URnetwork app.
+  es: Esta página debe abrirse desde la app de URnetwork.
+  ru: Эту страницу нужно открыть из приложения URnetwork.
+  zh: 此页面需要从 URnetwork 应用中打开。

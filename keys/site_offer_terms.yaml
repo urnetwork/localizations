@@ -1,0 +1,14 @@
+description: 'Final offer screen: the terms line under the buttons. {date} is a local date.'
+source: Cancel anytime before {date} and you won't be charged.
+platforms:
+- site
+placeholders:
+- name: date
+  type: string
+localizations:
+  ar: ألغِ في أي وقت قبل {date} ولن يتم تحصيل أي رسوم.
+  de: Kündige jederzeit vor dem {date} und dir wird nichts berechnet.
+  en: Cancel anytime before {date} and you won't be charged.
+  es: Cancela cuando quieras antes del {date} y no se te cobrará.
+  ru: Отмените до {date} — и с вас ничего не спишут.
+  zh: 在 {date} 之前随时取消，不会产生任何费用。

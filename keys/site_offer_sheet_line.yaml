@@ -1,0 +1,16 @@
+description: 'Upgrade sheet: the welcome-offer line while the offer is active. {percent} whole number, {when} a local date and time.'
+source: 'Welcome offer: {percent}% off your first year, until {when}'
+platforms:
+- site
+placeholders:
+- name: percent
+  type: string
+- name: when
+  type: string
+localizations:
+  ar: 'عرض ترحيبي: خصم {percent}% على سنتك الأولى حتى {when}'
+  de: 'Willkommensangebot: {percent}% Rabatt auf dein erstes Jahr, bis {when}'
+  en: 'Welcome offer: {percent}% off your first year, until {when}'
+  es: 'Oferta de bienvenida: {percent}% de descuento en tu primer año, hasta el {when}'
+  ru: 'Приветственное предложение: скидка {percent}% на первый год до {when}'
+  zh: 欢迎优惠：首年立减 {percent}%，有效期至 {when}

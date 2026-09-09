@@ -1,0 +1,14 @@
+description: 'Plan picker: the yearly price line. {price} is a formatted amount.'
+source: '{price} / year'
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+localizations:
+  ar: '{price} / سنة'
+  de: '{price} / Jahr'
+  en: '{price} / year'
+  es: '{price} / año'
+  ru: '{price} / год'
+  zh: '{price} / 年'

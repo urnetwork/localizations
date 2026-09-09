@@ -1,0 +1,14 @@
+description: 'Final offer screen: the sub-line under the headline. {percent} is a whole number.'
+source: '{percent}% off your first year'
+platforms:
+- site
+placeholders:
+- name: percent
+  type: string
+localizations:
+  ar: خصم {percent}% على سنتك الأولى
+  de: '{percent}% Rabatt auf dein erstes Jahr'
+  en: '{percent}% off your first year'
+  es: '{percent}% de descuento en tu primer año'
+  ru: Скидка {percent}% на первый год
+  zh: 首年立减 {percent}%

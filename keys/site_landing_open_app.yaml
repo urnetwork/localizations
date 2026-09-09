@@ -1,0 +1,11 @@
+description: 'Email landing page: the button that retries the app link.'
+source: Open in the app
+platforms:
+- site
+localizations:
+  ar: فتح في التطبيق
+  de: In der App öffnen
+  en: Open in the app
+  es: Abrir en la app
+  ru: Открыть в приложении
+  zh: 在应用中打开

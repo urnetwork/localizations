@@ -1,0 +1,14 @@
+description: 'Under the monthly CTA: the billing terms. {price} is the monthly amount.'
+source: '{price}/month, billed monthly. Cancel anytime.'
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+localizations:
+  ar: '{price}/شهر، تُدفع شهريًا. إلغاء في أي وقت.'
+  de: '{price}/Monat, monatlich abgerechnet. Jederzeit kündbar.'
+  en: '{price}/month, billed monthly. Cancel anytime.'
+  es: '{price}/mes, facturado mensualmente. Cancela cuando quieras.'
+  ru: '{price}/месяц, оплата ежемесячно. Отмена в любое время.'
+  zh: '{price}/月，按月计费。随时取消。'

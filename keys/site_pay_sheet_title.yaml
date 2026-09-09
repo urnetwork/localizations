@@ -1,0 +1,11 @@
+description: 'Embedded pay page: the title.'
+source: Get Pro
+platforms:
+- site
+localizations:
+  ar: احصل على Pro
+  de: Pro holen
+  en: Get Pro
+  es: Consigue Pro
+  ru: Получить Pro
+  zh: 获取 Pro

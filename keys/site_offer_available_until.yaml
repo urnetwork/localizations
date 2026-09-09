@@ -1,0 +1,14 @@
+description: 'Final offer screen: the static deadline line. {when} is a local date and time.'
+source: Available until {when}
+platforms:
+- site
+placeholders:
+- name: when
+  type: string
+localizations:
+  ar: متاح حتى {when}
+  de: Verfügbar bis {when}
+  en: Available until {when}
+  es: Disponible hasta el {when}
+  ru: Действует до {when}
+  zh: 有效期至 {when}

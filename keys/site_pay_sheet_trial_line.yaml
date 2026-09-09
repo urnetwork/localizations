@@ -1,0 +1,16 @@
+description: 'Embedded pay page: what happens with the card on a trial. {price} amount, {date} local date.'
+source: Your card is saved today and charged {price} on {date}. Cancel anytime before then.
+platforms:
+- site
+placeholders:
+- name: date
+  type: string
+- name: price
+  type: string
+localizations:
+  ar: سيتم حفظ بطاقتك اليوم وتحصيل {price} في {date}. يمكنك الإلغاء في أي وقت قبل ذلك.
+  de: Deine Karte wird heute gespeichert und am {date} mit {price} belastet. Vorher jederzeit kündbar.
+  en: Your card is saved today and charged {price} on {date}. Cancel anytime before then.
+  es: Tu tarjeta se guarda hoy y se cobra {price} el {date}. Cancela cuando quieras antes.
+  ru: Карта сохраняется сегодня, {price} спишется {date}. До этого можно отменить в любой момент.
+  zh: 今天保存您的卡，{date} 扣款 {price}。在此之前可随时取消。

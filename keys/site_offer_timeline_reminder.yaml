@@ -1,0 +1,11 @@
+description: 'Trial timeline: the reminder row.'
+source: We remind you before the trial ends.
+platforms:
+- site
+localizations:
+  ar: سنذكّرك قبل انتهاء التجربة.
+  de: Wir erinnern dich, bevor die Testphase endet.
+  en: We remind you before the trial ends.
+  es: Te avisamos antes de que termine la prueba.
+  ru: Мы напомним вам до окончания пробного периода.
+  zh: 试用结束前我们会提醒您。

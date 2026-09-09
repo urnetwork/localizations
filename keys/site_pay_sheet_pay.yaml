@@ -1,0 +1,14 @@
+description: 'Embedded pay page: the submit button for an immediate charge.'
+source: Pay {price}
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+localizations:
+  ar: ادفع {price}
+  de: '{price} bezahlen'
+  en: Pay {price}
+  es: Pagar {price}
+  ru: Оплатить {price}
+  zh: 支付 {price}

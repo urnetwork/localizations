@@ -1,0 +1,14 @@
+description: 'Welcome-offer card: the discounted first-year line. {price} is a formatted amount.'
+source: '{price} for your first year'
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+localizations:
+  ar: '{price} لسنتك الأولى'
+  de: '{price} für dein erstes Jahr'
+  en: '{price} for your first year'
+  es: '{price} por tu primer año'
+  ru: '{price} за первый год'
+  zh: 首年 {price}

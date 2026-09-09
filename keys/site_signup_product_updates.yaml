@@ -1,0 +1,11 @@
+description: 'Sign-up pages: the product-updates consent row (default on, one tap off)'
+source: Periodic product updates
+platforms:
+- site
+localizations:
+  ar: تحديثات دورية عن المنتج
+  de: Regelmäßige Produktneuigkeiten
+  en: Periodic product updates
+  es: Novedades periódicas del producto
+  ru: Периодические новости о продукте
+  zh: 定期产品更新

@@ -1,0 +1,11 @@
+description: 'Plan picker: the regional-tier yearly card''s sub-line (no per-month equivalent).'
+source: Billed once a year
+platforms:
+- site
+localizations:
+  ar: تُدفع مرة واحدة في السنة
+  de: Einmal jährlich abgerechnet
+  en: Billed once a year
+  es: Se factura una vez al año
+  ru: Оплата раз в год
+  zh: 每年计费一次

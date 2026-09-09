@@ -1,0 +1,14 @@
+description: 'Trial timeline: a row label for day {day}.'
+source: Day {day}
+platforms:
+- site
+placeholders:
+- name: day
+  type: string
+localizations:
+  ar: اليوم {day}
+  de: Tag {day}
+  en: Day {day}
+  es: Día {day}
+  ru: День {day}
+  zh: 第 {day} 天

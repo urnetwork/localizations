@@ -1,0 +1,11 @@
+description: 'Embedded pay page: a failed confirmation.'
+source: The payment could not be completed. Check the details and try again.
+platforms:
+- site
+localizations:
+  ar: تعذّر إتمام الدفع. تحقق من البيانات وحاول مرة أخرى.
+  de: Die Zahlung konnte nicht abgeschlossen werden. Prüfe die Angaben und versuche es erneut.
+  en: The payment could not be completed. Check the details and try again.
+  es: No se pudo completar el pago. Revisa los datos e inténtalo de nuevo.
+  ru: Не удалось завершить оплату. Проверьте данные и попробуйте снова.
+  zh: 无法完成支付。请检查信息后重试。

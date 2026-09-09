@@ -1,0 +1,16 @@
+description: 'USDC panel: the term the welcome-offer payment buys.'
+source: '{months} months plus {days} days of Pro'
+platforms:
+- site
+placeholders:
+- name: days
+  type: string
+- name: months
+  type: string
+localizations:
+  ar: '{months} شهرًا بالإضافة إلى {days} يومًا من Pro'
+  de: '{months} Monate plus {days} Tage Pro'
+  en: '{months} months plus {days} days of Pro'
+  es: '{months} meses más {days} días de Pro'
+  ru: '{months} месяцев плюс {days} дней Pro'
+  zh: '{months} 个月加 {days} 天 Pro'

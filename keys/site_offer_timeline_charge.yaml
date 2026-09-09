@@ -1,0 +1,16 @@
+description: 'Trial timeline: the first-charge row. {price} is the discounted first-year amount, {regular} the regular yearly amount.'
+source: 'First charge: {price} for your first year, then {regular}/year.'
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+- name: regular
+  type: string
+localizations:
+  ar: 'أول دفعة: {price} لسنتك الأولى، ثم {regular}/سنة.'
+  de: 'Erste Abbuchung: {price} für dein erstes Jahr, danach {regular}/Jahr.'
+  en: 'First charge: {price} for your first year, then {regular}/year.'
+  es: 'Primer cobro: {price} por tu primer año, luego {regular}/año.'
+  ru: 'Первое списание: {price} за первый год, затем {regular}/год.'
+  zh: 首次扣款：首年 {price}，之后 {regular}/年。

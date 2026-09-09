@@ -1,0 +1,14 @@
+description: 'Embedded pay page: the immediate charge line (monthly). {price} amount.'
+source: '{price} today, then monthly. Cancel anytime.'
+platforms:
+- site
+placeholders:
+- name: price
+  type: string
+localizations:
+  ar: '{price} اليوم، ثم شهريًا. إلغاء في أي وقت.'
+  de: '{price} heute, dann monatlich. Jederzeit kündbar.'
+  en: '{price} today, then monthly. Cancel anytime.'
+  es: '{price} hoy, luego mensual. Cancela cuando quieras.'
+  ru: '{price} сегодня, затем ежемесячно. Отмена в любое время.'
+  zh: 今天 {price}，之后按月。随时取消。

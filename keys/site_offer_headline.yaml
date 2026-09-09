@@ -1,0 +1,14 @@
+description: 'Final offer screen: the headline. {months} is a whole number.'
+source: '{months} months of Pro, free'
+platforms:
+- site
+placeholders:
+- name: months
+  type: string
+localizations:
+  ar: '{months} أشهر من Pro مجانًا'
+  de: '{months} Monate Pro, gratis'
+  en: '{months} months of Pro, free'
+  es: '{months} meses de Pro, gratis'
+  ru: '{months} месяца Pro бесплатно'
+  zh: '{months} 个月 Pro，免费'

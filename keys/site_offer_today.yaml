@@ -1,0 +1,11 @@
+description: 'Trial timeline: the first row''s label.'
+source: Today
+platforms:
+- site
+localizations:
+  ar: اليوم
+  de: Heute
+  en: Today
+  es: Hoy
+  ru: Сегодня
+  zh: 今天

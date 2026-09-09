@@ -1,0 +1,11 @@
+description: 'Final offer screen: the small eyebrow label above the headline.'
+source: Welcome offer
+platforms:
+- site
+localizations:
+  ar: عرض ترحيبي
+  de: Willkommensangebot
+  en: Welcome offer
+  es: Oferta de bienvenida
+  ru: Приветственное предложение
+  zh: 欢迎优惠
