@@ -1,6 +1,7 @@
 description: "Onboarding feedback email, not-activated variant: one-tap reason 3."
 source: "I'm not sure I trust a VPN"
 platforms:
+  - apple
   - email
 localizations:
   en: "I'm not sure I trust a VPN"

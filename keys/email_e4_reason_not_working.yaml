@@ -1,6 +1,7 @@
 description: "Onboarding feedback email, not-activated variant: one-tap reason 2."
 source: "It didn't work"
 platforms:
+  - apple
   - email
 localizations:
   en: "It didn't work"
