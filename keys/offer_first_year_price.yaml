@@ -1,0 +1,40 @@
+description: "Plan card with the welcome offer: the billed first-year amount (most prominent line)."
+source: "%@ for your first year"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "{price} for your first year"
+  ar: "{price} لسنتك الأولى"
+  cs: "{price} za první rok"
+  de: "{price} für dein erstes Jahr"
+  el: "{price} για τον πρώτο χρόνο"
+  es: "{price} tu primer año"
+  es-419: "{price} tu primer año"
+  es-MX: "{price} tu primer año"
+  fr: "{price} la première année"
+  he: "{price} לשנה הראשונה"
+  hi: "पहले साल के लिए {price}"
+  id: "{price} untuk tahun pertama"
+  it: "{price} per il primo anno"
+  ja: "初年度 {price}"
+  ko: "첫해 {price}"
+  nl: "{price} voor je eerste jaar"
+  pl: "{price} za pierwszy rok"
+  pt: "{price} no primeiro ano"
+  pt-BR: "{price} no primeiro ano"
+  pt-PT: "{price} no primeiro ano"
+  ru: "{price} за первый год"
+  sv: "{price} för ditt första år"
+  sw: "{price} kwa mwaka wako wa kwanza"
+  th: "{price} สำหรับปีแรก"
+  uk: "{price} за перший рік"
+  vi: "{price} cho năm đầu tiên"
+  zh: "首年 {price}"
+  zh-HK: "首年 {price}"

@@ -1,0 +1,37 @@
+description: "Onboarding offer screen trial timeline: the first row's label."
+source: "Today"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Today"
+  ar: "اليوم"
+  cs: "Dnes"
+  de: "Heute"
+  el: "Σήμερα"
+  es: "Hoy"
+  es-419: "Hoy"
+  es-MX: "Hoy"
+  fr: "Aujourd'hui"
+  he: "היום"
+  hi: "आज"
+  id: "Hari ini"
+  it: "Oggi"
+  ja: "今日"
+  ko: "오늘"
+  nl: "Vandaag"
+  pl: "Dziś"
+  pt: "Hoje"
+  pt-BR: "Hoje"
+  pt-PT: "Hoje"
+  ru: "Сегодня"
+  sv: "Idag"
+  sw: "Leo"
+  th: "วันนี้"
+  uk: "Сьогодні"
+  vi: "Hôm nay"
+  zh: "今天"
+  zh-HK: "今天"

@@ -1,0 +1,37 @@
+description: "Onboarding offer screen: the always-visible secondary text link that keeps the free plan and finishes onboarding."
+source: "Continue with the free plan"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Continue with the free plan"
+  ar: "المتابعة بالخطة المجانية"
+  cs: "Pokračovat s bezplatným plánem"
+  de: "Mit dem kostenlosen Plan fortfahren"
+  el: "Συνέχεια με το δωρεάν πλάνο"
+  es: "Continuar con el plan gratuito"
+  es-419: "Continuar con el plan gratuito"
+  es-MX: "Continuar con el plan gratuito"
+  fr: "Continuer avec l'offre gratuite"
+  he: "להמשיך עם התוכנית החינמית"
+  hi: "मुफ़्त प्लान के साथ जारी रखें"
+  id: "Lanjutkan dengan paket gratis"
+  it: "Continua con il piano gratuito"
+  ja: "無料プランで続ける"
+  ko: "무료 플랜으로 계속"
+  nl: "Doorgaan met het gratis abonnement"
+  pl: "Kontynuuj z planem bezpłatnym"
+  pt: "Continuar com o plano gratuito"
+  pt-BR: "Continuar com o plano gratuito"
+  pt-PT: "Continuar com o plano gratuito"
+  ru: "Продолжить с бесплатным планом"
+  sv: "Fortsätt med gratisplanen"
+  sw: "Endelea na mpango wa bila malipo"
+  th: "ใช้แพลนฟรีต่อไป"
+  uk: "Продовжити з безкоштовним планом"
+  vi: "Tiếp tục với gói miễn phí"
+  zh: "继续使用免费方案"
+  zh-HK: "繼續使用免費方案"

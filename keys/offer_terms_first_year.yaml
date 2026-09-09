@@ -1,0 +1,44 @@
+description: "Plan picker with the welcome offer: the terms line under the button (trial, discounted first year, renewal price)."
+source: "%lld days free, then %@ for your first year, then %@/year. Cancel anytime."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: days
+    type: int
+  - name: offer_price
+    type: string
+  - name: regular_price
+    type: string
+localizations:
+  en: "{days} days free, then {offer_price} for your first year, then {regular_price}/year. Cancel anytime."
+  ar: "{days} يومًا مجانًا، ثم {offer_price} لسنتك الأولى، ثم {regular_price}/سنة. يمكنك الإلغاء في أي وقت."
+  cs: "{days} dní zdarma, poté {offer_price} za první rok, poté {regular_price}/rok. Zrušit lze kdykoli."
+  de: "{days} Tage gratis, danach {offer_price} für dein erstes Jahr, danach {regular_price}/Jahr. Jederzeit kündbar."
+  el: "{days} ημέρες δωρεάν, έπειτα {offer_price} για τον πρώτο χρόνο, έπειτα {regular_price}/έτος. Ακύρωση οποτεδήποτε."
+  es: "{days} días gratis, después {offer_price} tu primer año, después {regular_price}/año. Cancela cuando quieras."
+  es-419: "{days} días gratis, después {offer_price} tu primer año, después {regular_price}/año. Cancela cuando quieras."
+  es-MX: "{days} días gratis, después {offer_price} tu primer año, después {regular_price}/año. Cancela cuando quieras."
+  fr: "{days} jours gratuits, puis {offer_price} la première année, puis {regular_price}/an. Annulable à tout moment."
+  he: "{days} ימים בחינם, לאחר מכן {offer_price} לשנה הראשונה, ואז {regular_price}/שנה. אפשר לבטל בכל עת."
+  hi: "{days} दिन मुफ़्त, फिर पहले साल {offer_price}, फिर {regular_price}/वर्ष। कभी भी रद्द करें।"
+  id: "{days} hari gratis, lalu {offer_price} untuk tahun pertama, lalu {regular_price}/tahun. Batalkan kapan saja."
+  it: "{days} giorni gratis, poi {offer_price} per il primo anno, poi {regular_price}/anno. Annulla quando vuoi."
+  ja: "{days}日間無料、初年度 {offer_price}、その後 {regular_price}/年。いつでもキャンセル可。"
+  ko: "{days}일 무료, 첫해 {offer_price}, 이후 {regular_price}/년. 언제든 취소 가능."
+  nl: "{days} dagen gratis, daarna {offer_price} voor je eerste jaar, daarna {regular_price}/jaar. Altijd opzegbaar."
+  pl: "{days} dni za darmo, potem {offer_price} za pierwszy rok, potem {regular_price}/rok. Anuluj w każdej chwili."
+  pt: "{days} dias grátis, depois {offer_price} no primeiro ano, depois {regular_price}/ano. Cancele quando quiser."
+  pt-BR: "{days} dias grátis, depois {offer_price} no primeiro ano, depois {regular_price}/ano. Cancele quando quiser."
+  pt-PT: "{days} dias grátis, depois {offer_price} no primeiro ano, depois {regular_price}/ano. Cancele quando quiser."
+  ru: "{days} дней бесплатно, далее {offer_price} за первый год, затем {regular_price}/год. Отмена в любой момент."
+  sv: "{days} dagar gratis, därefter {offer_price} för ditt första år, sedan {regular_price}/år. Avbryt när som helst."
+  sw: "Siku {days} bila malipo, kisha {offer_price} kwa mwaka wa kwanza, kisha {regular_price}/mwaka. Ghairi wakati wowote."
+  th: "ฟรี {days} วัน จากนั้น {offer_price} สำหรับปีแรก แล้ว {regular_price}/ปี ยกเลิกได้ทุกเมื่อ"
+  uk: "{days} днів безкоштовно, далі {offer_price} за перший рік, потім {regular_price}/рік. Скасування будь-коли."
+  vi: "Miễn phí {days} ngày, sau đó {offer_price} cho năm đầu, rồi {regular_price}/năm. Hủy bất cứ lúc nào."
+  zh: "免费 {days} 天，首年 {offer_price}，之后 {regular_price}/年。可随时取消。"
+  zh-HK: "免費 {days} 天，首年 {offer_price}，之後 {regular_price}/年。可隨時取消。"

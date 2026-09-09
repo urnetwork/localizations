@@ -1,0 +1,40 @@
+description: "Onboarding offer screen trial timeline: the first-charge row; the placeholder is the discounted yearly amount."
+source: "%@ for the year, cancel anytime before"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "{price} for the year, cancel anytime before"
+  ar: "{price} للسنة، يمكنك الإلغاء في أي وقت قبل ذلك"
+  cs: "{price} za rok, do té doby lze kdykoli zrušit"
+  de: "{price} für das Jahr, davor jederzeit kündbar"
+  el: "{price} για το έτος, ακύρωση οποτεδήποτε πριν"
+  es: "{price} por el año, cancela antes cuando quieras"
+  es-419: "{price} por el año, cancela antes cuando quieras"
+  es-MX: "{price} por el año, cancela antes cuando quieras"
+  fr: "{price} pour l'année, annulable à tout moment avant"
+  he: "{price} לשנה, אפשר לבטל בכל עת לפני כן"
+  hi: "साल के लिए {price}, उससे पहले कभी भी रद्द करें"
+  id: "{price} untuk setahun, batalkan kapan saja sebelumnya"
+  it: "{price} per l'anno, annulla quando vuoi prima"
+  ja: "年額 {price}、それまではいつでもキャンセル可"
+  ko: "연 {price}, 그 전에 언제든 취소 가능"
+  nl: "{price} voor het jaar, tot dan altijd opzegbaar"
+  pl: "{price} za rok, wcześniej możesz anulować w każdej chwili"
+  pt: "{price} pelo ano, cancele antes quando quiser"
+  pt-BR: "{price} pelo ano, cancele antes quando quiser"
+  pt-PT: "{price} pelo ano, cancele antes quando quiser"
+  ru: "{price} за год, до этого можно отменить в любой момент"
+  sv: "{price} för året, avbryt när som helst innan"
+  sw: "{price} kwa mwaka, ghairi wakati wowote kabla"
+  th: "{price} ต่อปี ยกเลิกได้ทุกเมื่อก่อนหน้านั้น"
+  uk: "{price} за рік, до цього можна скасувати будь-коли"
+  vi: "{price} cho cả năm, hủy bất cứ lúc nào trước đó"
+  zh: "全年 {price}，此前可随时取消"
+  zh-HK: "全年 {price}，之前可隨時取消"

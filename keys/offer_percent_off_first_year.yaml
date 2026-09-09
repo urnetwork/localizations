@@ -1,0 +1,40 @@
+description: "Onboarding offer screen sub-line under the headline. The number is the percent off the first year."
+source: "%lld%% off your first year"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: percent
+    type: int
+localizations:
+  en: "{percent}% off your first year"
+  ar: "خصم {percent}% على سنتك الأولى"
+  cs: "{percent} % sleva na první rok"
+  de: "{percent} % Rabatt auf dein erstes Jahr"
+  el: "{percent}% έκπτωση στον πρώτο χρόνο"
+  es: "{percent}% de descuento en tu primer año"
+  es-419: "{percent}% de descuento en tu primer año"
+  es-MX: "{percent}% de descuento en tu primer año"
+  fr: "{percent} % de réduction sur votre première année"
+  he: "{percent}% הנחה על השנה הראשונה"
+  hi: "पहले साल पर {percent}% की छूट"
+  id: "Diskon {percent}% untuk tahun pertama"
+  it: "{percent}% di sconto sul primo anno"
+  ja: "初年度{percent}%オフ"
+  ko: "첫해 {percent}% 할인"
+  nl: "{percent}% korting op je eerste jaar"
+  pl: "{percent}% zniżki na pierwszy rok"
+  pt: "{percent}% de desconto no primeiro ano"
+  pt-BR: "{percent}% de desconto no primeiro ano"
+  pt-PT: "{percent}% de desconto no primeiro ano"
+  ru: "Скидка {percent}% на первый год"
+  sv: "{percent} % rabatt på ditt första år"
+  sw: "Punguzo la {percent}% kwa mwaka wako wa kwanza"
+  th: "ลด {percent}% สำหรับปีแรก"
+  uk: "Знижка {percent}% на перший рік"
+  vi: "Giảm {percent}% cho năm đầu tiên"
+  zh: "首年立减 {percent}%"
+  zh-HK: "首年減 {percent}%"

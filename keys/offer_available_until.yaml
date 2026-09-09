@@ -1,0 +1,40 @@
+description: "Onboarding offer screen: the static deadline sentence; the placeholder is a local date and time."
+source: "Available until %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: date
+    type: string
+localizations:
+  en: "Available until {date}"
+  ar: "متاح حتى {date}"
+  cs: "K dispozici do {date}"
+  de: "Verfügbar bis {date}"
+  el: "Διαθέσιμο έως {date}"
+  es: "Disponible hasta el {date}"
+  es-419: "Disponible hasta el {date}"
+  es-MX: "Disponible hasta el {date}"
+  fr: "Disponible jusqu'au {date}"
+  he: "זמין עד {date}"
+  hi: "{date} तक उपलब्ध"
+  id: "Tersedia hingga {date}"
+  it: "Disponibile fino al {date}"
+  ja: "{date}まで有効"
+  ko: "{date}까지 이용 가능"
+  nl: "Beschikbaar tot {date}"
+  pl: "Dostępna do {date}"
+  pt: "Disponível até {date}"
+  pt-BR: "Disponível até {date}"
+  pt-PT: "Disponível até {date}"
+  ru: "Доступно до {date}"
+  sv: "Tillgängligt till {date}"
+  sw: "Inapatikana hadi {date}"
+  th: "ใช้ได้ถึง {date}"
+  uk: "Доступно до {date}"
+  vi: "Có hiệu lực đến {date}"
+  zh: "有效期至 {date}"
+  zh-HK: "有效期至 {date}"

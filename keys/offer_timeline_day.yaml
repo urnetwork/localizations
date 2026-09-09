@@ -1,0 +1,40 @@
+description: "Onboarding offer screen trial timeline: a row label for a day of the trial."
+source: "Day %lld"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: day
+    type: int
+localizations:
+  en: "Day {day}"
+  ar: "اليوم {day}"
+  cs: "Den {day}"
+  de: "Tag {day}"
+  el: "Ημέρα {day}"
+  es: "Día {day}"
+  es-419: "Día {day}"
+  es-MX: "Día {day}"
+  fr: "Jour {day}"
+  he: "יום {day}"
+  hi: "दिन {day}"
+  id: "Hari ke-{day}"
+  it: "Giorno {day}"
+  ja: "{day}日目"
+  ko: "{day}일 차"
+  nl: "Dag {day}"
+  pl: "Dzień {day}"
+  pt: "Dia {day}"
+  pt-BR: "Dia {day}"
+  pt-PT: "Dia {day}"
+  ru: "День {day}"
+  sv: "Dag {day}"
+  sw: "Siku ya {day}"
+  th: "วันที่ {day}"
+  uk: "День {day}"
+  vi: "Ngày {day}"
+  zh: "第 {day} 天"
+  zh-HK: "第 {day} 天"

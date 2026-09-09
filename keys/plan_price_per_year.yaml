@@ -1,6 +1,7 @@
 description: "Yearly plan card label: the store-formatted price per year."
 source: "%@/year"
 platforms:
+  - apple
   - android
 placeholders:
   - name: price

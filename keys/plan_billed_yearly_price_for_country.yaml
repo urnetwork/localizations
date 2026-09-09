@@ -1,0 +1,40 @@
+description: "Plan picker on the regional price tier: the line under the yearly price instead of a per-month equivalent; the placeholder is the storefront country's name."
+source: "Billed once a year · price for %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: country
+    type: string
+localizations:
+  en: "Billed once a year · price for {country}"
+  ar: "يُدفع مرة واحدة سنويًا · السعر لـ {country}"
+  cs: "Účtováno jednou ročně · cena pro {country}"
+  de: "Einmal jährlich abgerechnet · Preis für {country}"
+  el: "Χρέωση μία φορά τον χρόνο · τιμή για {country}"
+  es: "Se cobra una vez al año · precio para {country}"
+  es-419: "Se cobra una vez al año · precio para {country}"
+  es-MX: "Se cobra una vez al año · precio para {country}"
+  fr: "Facturé une fois par an · tarif pour {country}"
+  he: "חיוב פעם בשנה · מחיר עבור {country}"
+  hi: "साल में एक बार बिल · {country} के लिए कीमत"
+  id: "Ditagih setahun sekali · harga untuk {country}"
+  it: "Addebito una volta l'anno · prezzo per {country}"
+  ja: "年1回請求 · {country}向け価格"
+  ko: "연 1회 청구 · {country} 가격"
+  nl: "Eenmaal per jaar gefactureerd · prijs voor {country}"
+  pl: "Płatne raz w roku · cena dla {country}"
+  pt: "Cobrado uma vez por ano · preço para {country}"
+  pt-BR: "Cobrado uma vez por ano · preço para {country}"
+  pt-PT: "Cobrado uma vez por ano · preço para {country}"
+  ru: "Списание раз в год · цена для {country}"
+  sv: "Debiteras en gång per år · pris för {country}"
+  sw: "Hulipwa mara moja kwa mwaka · bei ya {country}"
+  th: "เรียกเก็บปีละครั้ง · ราคาสำหรับ {country}"
+  uk: "Списання раз на рік · ціна для {country}"
+  vi: "Thanh toán mỗi năm một lần · giá cho {country}"
+  zh: "每年扣费一次 · {country} 价格"
+  zh-HK: "每年扣款一次 · {country} 價格"

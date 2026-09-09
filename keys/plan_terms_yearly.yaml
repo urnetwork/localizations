@@ -1,0 +1,42 @@
+description: "Plan picker: the terms line under the button for the yearly plan with its trial."
+source: "%lld days free, then %@/year. Cancel anytime."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: days
+    type: int
+  - name: price
+    type: string
+localizations:
+  en: "{days} days free, then {price}/year. Cancel anytime."
+  ar: "{days} يومًا مجانًا، ثم {price}/سنة. يمكنك الإلغاء في أي وقت."
+  cs: "{days} dní zdarma, poté {price}/rok. Zrušit lze kdykoli."
+  de: "{days} Tage gratis, danach {price}/Jahr. Jederzeit kündbar."
+  el: "{days} ημέρες δωρεάν, έπειτα {price}/έτος. Ακύρωση οποτεδήποτε."
+  es: "{days} días gratis, después {price}/año. Cancela cuando quieras."
+  es-419: "{days} días gratis, después {price}/año. Cancela cuando quieras."
+  es-MX: "{days} días gratis, después {price}/año. Cancela cuando quieras."
+  fr: "{days} jours gratuits, puis {price}/an. Annulable à tout moment."
+  he: "{days} ימים בחינם, לאחר מכן {price}/שנה. אפשר לבטל בכל עת."
+  hi: "{days} दिन मुफ़्त, फिर {price}/वर्ष। कभी भी रद्द करें।"
+  id: "{days} hari gratis, lalu {price}/tahun. Batalkan kapan saja."
+  it: "{days} giorni gratis, poi {price}/anno. Annulla quando vuoi."
+  ja: "{days}日間無料、その後 {price}/年。いつでもキャンセル可。"
+  ko: "{days}일 무료, 이후 {price}/년. 언제든 취소 가능."
+  nl: "{days} dagen gratis, daarna {price}/jaar. Altijd opzegbaar."
+  pl: "{days} dni za darmo, potem {price}/rok. Anuluj w każdej chwili."
+  pt: "{days} dias grátis, depois {price}/ano. Cancele quando quiser."
+  pt-BR: "{days} dias grátis, depois {price}/ano. Cancele quando quiser."
+  pt-PT: "{days} dias grátis, depois {price}/ano. Cancele quando quiser."
+  ru: "{days} дней бесплатно, далее {price}/год. Отмена в любой момент."
+  sv: "{days} dagar gratis, därefter {price}/år. Avbryt när som helst."
+  sw: "Siku {days} bila malipo, kisha {price}/mwaka. Ghairi wakati wowote."
+  th: "ฟรี {days} วัน จากนั้น {price}/ปี ยกเลิกได้ทุกเมื่อ"
+  uk: "{days} днів безкоштовно, далі {price}/рік. Скасування будь-коли."
+  vi: "Miễn phí {days} ngày, sau đó {price}/năm. Hủy bất cứ lúc nào."
+  zh: "免费 {days} 天，之后 {price}/年。可随时取消。"
+  zh-HK: "免費 {days} 天，之後 {price}/年。可隨時取消。"

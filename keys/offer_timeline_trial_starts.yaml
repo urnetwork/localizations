@@ -1,0 +1,37 @@
+description: "Onboarding offer screen trial timeline: what happens today."
+source: "Free trial starts"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Free trial starts"
+  ar: "تبدأ التجربة المجانية"
+  cs: "Začíná zkušební období zdarma"
+  de: "Kostenlose Testphase beginnt"
+  el: "Ξεκινά η δωρεάν δοκιμή"
+  es: "Empieza la prueba gratuita"
+  es-419: "Empieza la prueba gratuita"
+  es-MX: "Empieza la prueba gratuita"
+  fr: "Début de l'essai gratuit"
+  he: "תקופת הניסיון בחינם מתחילה"
+  hi: "मुफ़्त ट्रायल शुरू"
+  id: "Uji coba gratis dimulai"
+  it: "Inizia la prova gratuita"
+  ja: "無料トライアル開始"
+  ko: "무료 체험 시작"
+  nl: "Gratis proefperiode begint"
+  pl: "Początek bezpłatnego okresu próbnego"
+  pt: "Começa o teste grátis"
+  pt-BR: "Começa o teste grátis"
+  pt-PT: "Começa o teste grátis"
+  ru: "Начало бесплатного периода"
+  sv: "Gratis provperiod börjar"
+  sw: "Jaribio la bila malipo linaanza"
+  th: "เริ่มทดลองใช้ฟรี"
+  uk: "Початок безкоштовного періоду"
+  vi: "Bắt đầu dùng thử miễn phí"
+  zh: "免费试用开始"
+  zh-HK: "免費試用開始"

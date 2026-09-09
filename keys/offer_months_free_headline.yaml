@@ -1,0 +1,40 @@
+description: "Onboarding offer screen headline. The number is the months the discount equals."
+source: "%lld months of Pro, free"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: months
+    type: int
+localizations:
+  en: "{months} months of Pro, free"
+  ar: "{months} أشهر من Pro مجانًا"
+  cs: "{months} měsíce Pro zdarma"
+  de: "{months} Monate Pro, gratis"
+  el: "{months} μήνες Pro, δωρεάν"
+  es: "{months} meses de Pro, gratis"
+  es-419: "{months} meses de Pro, gratis"
+  es-MX: "{months} meses de Pro, gratis"
+  fr: "{months} mois de Pro offerts"
+  he: "{months} חודשי Pro בחינם"
+  hi: "Pro के {months} महीने, मुफ़्त"
+  id: "{months} bulan Pro, gratis"
+  it: "{months} mesi di Pro, gratis"
+  ja: "Proが{months}か月無料"
+  ko: "Pro {months}개월 무료"
+  nl: "{months} maanden Pro, gratis"
+  pl: "{months} miesiące Pro za darmo"
+  pt: "{months} meses de Pro, grátis"
+  pt-BR: "{months} meses de Pro, grátis"
+  pt-PT: "{months} meses de Pro, grátis"
+  ru: "{months} месяца Pro бесплатно"
+  sv: "{months} månader Pro, gratis"
+  sw: "Miezi {months} ya Pro, bila malipo"
+  th: "Pro ฟรี {months} เดือน"
+  uk: "{months} місяці Pro безкоштовно"
+  vi: "{months} tháng Pro miễn phí"
+  zh: "Pro 免费 {months} 个月"
+  zh-HK: "Pro 免費 {months} 個月"

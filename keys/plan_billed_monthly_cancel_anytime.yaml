@@ -1,0 +1,37 @@
+description: "Plan picker: the line under the monthly price."
+source: "Billed monthly · cancel anytime"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Billed monthly · cancel anytime"
+  ar: "يُدفع شهريًا · يمكنك الإلغاء في أي وقت"
+  cs: "Účtováno měsíčně · zrušit lze kdykoli"
+  de: "Monatlich abgerechnet · jederzeit kündbar"
+  el: "Μηνιαία χρέωση · ακύρωση οποτεδήποτε"
+  es: "Se cobra cada mes · cancela cuando quieras"
+  es-419: "Se cobra cada mes · cancela cuando quieras"
+  es-MX: "Se cobra cada mes · cancela cuando quieras"
+  fr: "Facturé chaque mois · annulable à tout moment"
+  he: "חיוב חודשי · אפשר לבטל בכל עת"
+  hi: "मासिक बिल · कभी भी रद्द करें"
+  id: "Ditagih bulanan · batalkan kapan saja"
+  it: "Addebito mensile · annulla quando vuoi"
+  ja: "月ごとに請求 · いつでもキャンセル可"
+  ko: "매월 청구 · 언제든 취소 가능"
+  nl: "Maandelijks gefactureerd · altijd opzegbaar"
+  pl: "Płatne co miesiąc · anuluj w każdej chwili"
+  pt: "Cobrado mensalmente · cancele quando quiser"
+  pt-BR: "Cobrado mensalmente · cancele quando quiser"
+  pt-PT: "Cobrado mensalmente · cancele quando quiser"
+  ru: "Списание ежемесячно · отмена в любой момент"
+  sv: "Debiteras månadsvis · avbryt när som helst"
+  sw: "Hulipwa kila mwezi · ghairi wakati wowote"
+  th: "เรียกเก็บรายเดือน · ยกเลิกได้ทุกเมื่อ"
+  uk: "Списання щомісяця · скасування будь-коли"
+  vi: "Thanh toán hằng tháng · hủy bất cứ lúc nào"
+  zh: "按月扣费 · 可随时取消"
+  zh-HK: "按月扣款 · 可隨時取消"

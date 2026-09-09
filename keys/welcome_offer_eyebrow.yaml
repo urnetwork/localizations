@@ -1,0 +1,37 @@
+description: "Onboarding offer screen: the small uppercase eyebrow above the headline."
+source: "Welcome offer"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Welcome offer"
+  ar: "عرض الترحيب"
+  cs: "Uvítací nabídka"
+  de: "Willkommensangebot"
+  el: "Προσφορά καλωσορίσματος"
+  es: "Oferta de bienvenida"
+  es-419: "Oferta de bienvenida"
+  es-MX: "Oferta de bienvenida"
+  fr: "Offre de bienvenue"
+  he: "מבצע קבלת פנים"
+  hi: "स्वागत ऑफ़र"
+  id: "Penawaran selamat datang"
+  it: "Offerta di benvenuto"
+  ja: "ウェルカムオファー"
+  ko: "웰컴 오퍼"
+  nl: "Welkomstaanbieding"
+  pl: "Oferta powitalna"
+  pt: "Oferta de boas-vindas"
+  pt-BR: "Oferta de boas-vindas"
+  pt-PT: "Oferta de boas-vindas"
+  ru: "Приветственное предложение"
+  sv: "Välkomsterbjudande"
+  sw: "Ofa ya karibu"
+  th: "ข้อเสนอต้อนรับ"
+  uk: "Вітальна пропозиція"
+  vi: "Ưu đãi chào mừng"
+  zh: "欢迎优惠"
+  zh-HK: "歡迎優惠"

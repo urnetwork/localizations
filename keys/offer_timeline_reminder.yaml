@@ -1,0 +1,37 @@
+description: "Onboarding offer screen trial timeline: the reminder row (two days before the charge)."
+source: "Reminder before the charge"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Reminder before the charge"
+  ar: "تذكير قبل الخصم"
+  cs: "Připomínka před platbou"
+  de: "Erinnerung vor der Abbuchung"
+  el: "Υπενθύμιση πριν τη χρέωση"
+  es: "Recordatorio antes del cobro"
+  es-419: "Recordatorio antes del cobro"
+  es-MX: "Recordatorio antes del cobro"
+  fr: "Rappel avant le prélèvement"
+  he: "תזכורת לפני החיוב"
+  hi: "शुल्क से पहले रिमाइंडर"
+  id: "Pengingat sebelum penagihan"
+  it: "Promemoria prima dell'addebito"
+  ja: "請求前のリマインダー"
+  ko: "결제 전 알림"
+  nl: "Herinnering vóór de afschrijving"
+  pl: "Przypomnienie przed obciążeniem"
+  pt: "Lembrete antes da cobrança"
+  pt-BR: "Lembrete antes da cobrança"
+  pt-PT: "Lembrete antes da cobrança"
+  ru: "Напоминание перед списанием"
+  sv: "Påminnelse före debitering"
+  sw: "Kikumbusho kabla ya malipo"
+  th: "แจ้งเตือนก่อนเรียกเก็บเงิน"
+  uk: "Нагадування перед списанням"
+  vi: "Nhắc trước khi tính phí"
+  zh: "扣费前提醒"
+  zh-HK: "扣款前提醒"

@@ -1,0 +1,40 @@
+description: "Onboarding offer screen: the single primary button. The number is the months the discount equals."
+source: "Start free trial with %lld months free"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: months
+    type: int
+localizations:
+  en: "Start free trial with {months} months free"
+  ar: "ابدأ التجربة المجانية مع {months} أشهر مجانًا"
+  cs: "Začít zkušební období s {months} měsíci zdarma"
+  de: "Kostenlos testen, mit {months} Gratismonaten"
+  el: "Ξεκίνα τη δωρεάν δοκιμή με {months} μήνες δωρεάν"
+  es: "Empezar la prueba gratis con {months} meses gratis"
+  es-419: "Empezar la prueba gratis con {months} meses gratis"
+  es-MX: "Empezar la prueba gratis con {months} meses gratis"
+  fr: "Essai gratuit avec {months} mois offerts"
+  he: "התחילו ניסיון בחינם עם {months} חודשים במתנה"
+  hi: "{months} मुफ़्त महीनों के साथ ट्रायल शुरू करें"
+  id: "Mulai uji coba gratis dengan {months} bulan gratis"
+  it: "Inizia la prova gratuita con {months} mesi gratis"
+  ja: "無料トライアルを開始（{months}か月無料付き）"
+  ko: "무료 체험 시작 + {months}개월 무료"
+  nl: "Start gratis proefperiode met {months} maanden gratis"
+  pl: "Rozpocznij okres próbny z {months} miesiącami gratis"
+  pt: "Começar o teste grátis com {months} meses grátis"
+  pt-BR: "Começar o teste grátis com {months} meses grátis"
+  pt-PT: "Começar o teste grátis com {months} meses grátis"
+  ru: "Начать пробный период с {months} бесплатными месяцами"
+  sv: "Starta gratis provperiod med {months} månader gratis"
+  sw: "Anza jaribio la bila malipo na miezi {months} bila malipo"
+  th: "เริ่มทดลองใช้ฟรี พร้อมฟรี {months} เดือน"
+  uk: "Почати пробний період із {months} безкоштовними місяцями"
+  vi: "Bắt đầu dùng thử miễn phí, tặng {months} tháng"
+  zh: "开始免费试用，另享 {months} 个月免费"
+  zh-HK: "開始免費試用，另享 {months} 個月免費"

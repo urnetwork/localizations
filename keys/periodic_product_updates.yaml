@@ -1,0 +1,37 @@
+description: "Sign-up pages: the marketing opt-out switch shown at collection, on by default."
+source: "Periodic product updates"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Periodic product updates"
+  ar: "تحديثات دورية عن المنتج"
+  cs: "Pravidelné novinky o produktu"
+  de: "Regelmäßige Produktneuigkeiten"
+  el: "Περιοδικές ενημερώσεις προϊόντος"
+  es: "Novedades periódicas del producto"
+  es-419: "Novedades periódicas del producto"
+  es-MX: "Novedades periódicas del producto"
+  fr: "Nouveautés produit périodiques"
+  he: "עדכוני מוצר תקופתיים"
+  hi: "समय-समय पर उत्पाद अपडेट"
+  id: "Pembaruan produk berkala"
+  it: "Aggiornamenti periodici sul prodotto"
+  ja: "定期的な製品アップデート"
+  ko: "정기 제품 업데이트"
+  nl: "Periodieke productupdates"
+  pl: "Okresowe aktualizacje produktu"
+  pt: "Novidades periódicas do produto"
+  pt-BR: "Novidades periódicas do produto"
+  pt-PT: "Novidades periódicas do produto"
+  ru: "Периодические новости о продукте"
+  sv: "Regelbundna produktuppdateringar"
+  sw: "Masasisho ya bidhaa ya mara kwa mara"
+  th: "ข่าวสารผลิตภัณฑ์เป็นระยะ"
+  uk: "Періодичні новини про продукт"
+  vi: "Cập nhật sản phẩm định kỳ"
+  zh: "定期产品更新"
+  zh-HK: "定期產品更新"

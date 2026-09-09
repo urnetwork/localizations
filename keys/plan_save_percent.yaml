@@ -1,0 +1,40 @@
+description: "Plan picker: the saving badge on the yearly card; the number is the whole percent saved against twelve monthly payments."
+source: "Save %lld%%"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: percent
+    type: int
+localizations:
+  en: "Save {percent}%"
+  ar: "وفّر {percent}%"
+  cs: "Ušetřete {percent} %"
+  de: "{percent} % sparen"
+  el: "Εξοικονόμηση {percent}%"
+  es: "Ahorra {percent}%"
+  es-419: "Ahorra {percent}%"
+  es-MX: "Ahorra {percent}%"
+  fr: "Économisez {percent} %"
+  he: "חיסכון של {percent}%"
+  hi: "{percent}% बचाएँ"
+  id: "Hemat {percent}%"
+  it: "Risparmia il {percent}%"
+  ja: "{percent}%お得"
+  ko: "{percent}% 절약"
+  nl: "Bespaar {percent}%"
+  pl: "Oszczędź {percent}%"
+  pt: "Poupe {percent}%"
+  pt-BR: "Economize {percent}%"
+  pt-PT: "Poupe {percent}%"
+  ru: "Экономия {percent}%"
+  sv: "Spara {percent} %"
+  sw: "Okoa {percent}%"
+  th: "ประหยัด {percent}%"
+  uk: "Економія {percent}%"
+  vi: "Tiết kiệm {percent}%"
+  zh: "省 {percent}%"
+  zh-HK: "慳 {percent}%"

@@ -1,0 +1,40 @@
+description: "Plan card with the welcome offer: the renewal price line under the first-year amount."
+source: "then %@/year"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "then {price}/year"
+  ar: "ثم {price}/سنة"
+  cs: "poté {price}/rok"
+  de: "danach {price}/Jahr"
+  el: "έπειτα {price}/έτος"
+  es: "después {price}/año"
+  es-419: "después {price}/año"
+  es-MX: "después {price}/año"
+  fr: "puis {price}/an"
+  he: "לאחר מכן {price}/שנה"
+  hi: "फिर {price}/वर्ष"
+  id: "lalu {price}/tahun"
+  it: "poi {price}/anno"
+  ja: "その後 {price}/年"
+  ko: "이후 {price}/년"
+  nl: "daarna {price}/jaar"
+  pl: "potem {price}/rok"
+  pt: "depois {price}/ano"
+  pt-BR: "depois {price}/ano"
+  pt-PT: "depois {price}/ano"
+  ru: "далее {price}/год"
+  sv: "därefter {price}/år"
+  sw: "kisha {price}/mwaka"
+  th: "จากนั้น {price}/ปี"
+  uk: "далі {price}/рік"
+  vi: "sau đó {price}/năm"
+  zh: "之后 {price}/年"
+  zh-HK: "之後 {price}/年"

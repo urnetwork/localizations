@@ -1,0 +1,40 @@
+description: "Plan picker: the subordinate line under the yearly price with the per-month equivalent (ceiling-rounded)."
+source: "≈ %@/month · billed once a year"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: price
+    type: string
+localizations:
+  en: "≈ {price}/month · billed once a year"
+  ar: "≈ {price}/شهر · يُدفع مرة واحدة سنويًا"
+  cs: "≈ {price}/měsíc · účtováno jednou ročně"
+  de: "≈ {price}/Monat · einmal jährlich abgerechnet"
+  el: "≈ {price}/μήνα · χρέωση μία φορά τον χρόνο"
+  es: "≈ {price}/mes · se cobra una vez al año"
+  es-419: "≈ {price}/mes · se cobra una vez al año"
+  es-MX: "≈ {price}/mes · se cobra una vez al año"
+  fr: "≈ {price}/mois · facturé une fois par an"
+  he: "≈ {price}/חודש · חיוב פעם בשנה"
+  hi: "≈ {price}/माह · साल में एक बार बिल"
+  id: "≈ {price}/bulan · ditagih setahun sekali"
+  it: "≈ {price}/mese · addebito una volta l'anno"
+  ja: "≈ {price}/月 · 年1回請求"
+  ko: "≈ {price}/월 · 연 1회 청구"
+  nl: "≈ {price}/maand · eenmaal per jaar gefactureerd"
+  pl: "≈ {price}/mies. · płatne raz w roku"
+  pt: "≈ {price}/mês · cobrado uma vez por ano"
+  pt-BR: "≈ {price}/mês · cobrado uma vez por ano"
+  pt-PT: "≈ {price}/mês · cobrado uma vez por ano"
+  ru: "≈ {price}/мес · списание раз в год"
+  sv: "≈ {price}/månad · debiteras en gång per år"
+  sw: "≈ {price}/mwezi · hulipwa mara moja kwa mwaka"
+  th: "≈ {price}/เดือน · เรียกเก็บปีละครั้ง"
+  uk: "≈ {price}/міс · списання раз на рік"
+  vi: "≈ {price}/tháng · thanh toán mỗi năm một lần"
+  zh: "≈ {price}/月 · 每年扣费一次"
+  zh-HK: "≈ {price}/月 · 每年扣款一次"
