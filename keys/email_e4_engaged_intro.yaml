@@ -1,0 +1,38 @@
+description: "Onboarding email E4a/E3b, engaged variant: opening line before the 1–5 rating buttons. {connect_days} and {days_active} are counts formatted by the server."
+source: "You've connected on {connect_days} of your first {days_active} days. I'd like to know how it is going, and one tap is enough:"
+platforms:
+  - email
+placeholders:
+  - name: connect_days
+    type: string
+  - name: days_active
+    type: string
+localizations:
+  en: "You've connected on {connect_days} of your first {days_active} days. I'd like to know how it is going, and one tap is enough:"
+  ar: "لقد اتصلت في {connect_days} من أول {days_active} أيام لك. أودّ أن أعرف كيف تسير الأمور، وضغطة واحدة تكفي:"
+  cs: "Připojili jste se v {connect_days} z prvních {days_active} dnů. Rád bych věděl, jak to jde, a stačí jedno klepnutí:"
+  de: "Du hast dich an {connect_days} deiner ersten {days_active} Tage verbunden. Ich würde gern wissen, wie es läuft, und ein Tipp genügt:"
+  el: "Συνδέθηκες {connect_days} από τις πρώτες {days_active} μέρες σου. Θα ήθελα να ξέρω πώς πάει, και ένα πάτημα αρκεί:"
+  es: "Te has conectado {connect_days} de tus primeros {days_active} días. Me gustaría saber cómo va, y con un toque basta:"
+  es-419: "Te has conectado {connect_days} de tus primeros {days_active} días. Me gustaría saber cómo va, y con un toque basta:"
+  es-MX: "Te has conectado {connect_days} de tus primeros {days_active} días. Me gustaría saber cómo va, y con un toque basta:"
+  fr: "Tu t'es connecté {connect_days} de tes {days_active} premiers jours. J'aimerais savoir comment ça se passe, et un geste suffit :"
+  he: "התחברתם ב-{connect_days} מתוך {days_active} הימים הראשונים שלכם. אשמח לדעת איך הולך, והקשה אחת מספיקה:"
+  hi: "आप अपने पहले {days_active} दिनों में से {connect_days} दिन कनेक्ट हुए। मैं जानना चाहूँगा कि कैसा चल रहा है, और एक टैप काफ़ी है:"
+  id: "Kamu terhubung pada {connect_days} dari {days_active} hari pertamamu. Saya ingin tahu bagaimana kesannya, dan satu ketukan sudah cukup:"
+  it: "Ti sei connesso in {connect_days} dei tuoi primi {days_active} giorni. Vorrei sapere come va, e basta un tocco:"
+  ja: "最初の {days_active} 日のうち {connect_days} 日、接続していますね。使い心地を知りたいので、ワンタップだけお願いします。"
+  ko: "처음 {days_active}일 중 {connect_days}일 연결하셨네요. 어떤지 알고 싶습니다. 한 번만 눌러 주세요:"
+  nl: "Je hebt op {connect_days} van je eerste {days_active} dagen verbinding gemaakt. Ik wil graag weten hoe het gaat, en één tik is genoeg:"
+  pl: "Połączyłeś się w {connect_days} z pierwszych {days_active} dni. Chciałbym wiedzieć, jak idzie, a wystarczy jedno dotknięcie:"
+  pt: "Você se conectou em {connect_days} dos seus primeiros {days_active} dias. Quero saber como está indo, e um toque basta:"
+  pt-BR: "Você se conectou em {connect_days} dos seus primeiros {days_active} dias. Quero saber como está indo, e um toque basta:"
+  pt-PT: "Ligou-se em {connect_days} dos seus primeiros {days_active} dias. Gostava de saber como está a correr, e basta um toque:"
+  ru: "Вы подключались {connect_days} из первых {days_active} дней. Хочу узнать, как идут дела, и хватит одного касания:"
+  sv: "Du har anslutit {connect_days} av dina första {days_active} dagar. Jag vill gärna veta hur det går, och ett tryck räcker:"
+  sw: "Umeunganisha siku {connect_days} kati ya siku zako {days_active} za kwanza. Ningependa kujua inavyoenda, na mguso mmoja unatosha:"
+  th: "คุณเชื่อมต่อ {connect_days} วันจาก {days_active} วันแรก ผมอยากรู้ว่าเป็นอย่างไรบ้าง แค่แตะครั้งเดียวก็พอ:"
+  uk: "Ви підключалися {connect_days} із перших {days_active} днів. Хочу знати, як справи, і вистачить одного дотику:"
+  vi: "Bạn đã kết nối {connect_days} trong {days_active} ngày đầu tiên. Tôi muốn biết mọi thứ thế nào, và một chạm là đủ:"
+  zh: "在最初的 {days_active} 天里，你有 {connect_days} 天连接过。我想知道用得怎么样，点一下就够了："
+  zh-HK: "在最初的 {days_active} 天裡，你有 {connect_days} 天連接過。我想知道用得怎麼樣，點一下就夠了："

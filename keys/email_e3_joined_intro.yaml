@@ -1,0 +1,38 @@
+description: "Onboarding email E3a (path A, the day before the in-app offer ends): opening paragraph. {offer_price} and {regular_price} are localized amounts, e.g. \"$29.99\" and \"$39.99\"."
+source: "When you joined, we set aside a welcome offer for you: a year of Pro with 3 months free. That is {offer_price} for your first year instead of {regular_price}."
+platforms:
+  - email
+placeholders:
+  - name: offer_price
+    type: string
+  - name: regular_price
+    type: string
+localizations:
+  en: "When you joined, we set aside a welcome offer for you: a year of Pro with 3 months free. That is {offer_price} for your first year instead of {regular_price}."
+  ar: "عندما انضممت، خصصنا لك عرض ترحيب: سنة من Pro مع 3 أشهر مجانية. أي {offer_price} لسنتك الأولى بدلاً من {regular_price}."
+  cs: "Když jste se přidali, odložili jsme pro vás uvítací nabídku: rok Pro se 3 měsíci zdarma. To je {offer_price} za první rok místo {regular_price}."
+  de: "Als du dazugekommen bist, haben wir ein Willkommensangebot für dich beiseitegelegt: ein Jahr Pro mit 3 Gratis-Monaten. Das sind {offer_price} für dein erstes Jahr statt {regular_price}."
+  el: "Όταν μπήκες, κρατήσαμε μια προσφορά καλωσορίσματος για σένα: ένας χρόνος Pro με 3 μήνες δωρεάν. Δηλαδή {offer_price} για τον πρώτο σου χρόνο αντί για {regular_price}."
+  es: "Cuando te uniste, reservamos una oferta de bienvenida para ti: un año de Pro con 3 meses gratis. Es decir, {offer_price} por tu primer año en lugar de {regular_price}."
+  es-419: "Cuando te uniste, reservamos una oferta de bienvenida para ti: un año de Pro con 3 meses gratis. Es decir, {offer_price} por tu primer año en lugar de {regular_price}."
+  es-MX: "Cuando te uniste, reservamos una oferta de bienvenida para ti: un año de Pro con 3 meses gratis. Es decir, {offer_price} por tu primer año en lugar de {regular_price}."
+  fr: "Quand tu nous as rejoints, on t'a réservé une offre de bienvenue : un an de Pro avec 3 mois offerts. Soit {offer_price} pour ta première année au lieu de {regular_price}."
+  he: "כשהצטרפתם, שמרנו לכם מבצע ברוכים הבאים: שנה של Pro עם 3 חודשים בחינם. כלומר {offer_price} לשנה הראשונה במקום {regular_price}."
+  hi: "जब आप जुड़े, हमने आपके लिए एक स्वागत ऑफ़र रखा: Pro का एक साल, 3 महीने मुफ़्त। यानी पहले साल के लिए {regular_price} की जगह {offer_price}।"
+  id: "Saat kamu bergabung, kami menyiapkan penawaran sambutan untukmu: setahun Pro dengan 3 bulan gratis. Artinya {offer_price} untuk tahun pertamamu, bukan {regular_price}."
+  it: "Quando ti sei iscritto, abbiamo messo da parte un'offerta di benvenuto per te: un anno di Pro con 3 mesi gratis. Cioè {offer_price} per il primo anno invece di {regular_price}."
+  ja: "登録いただいたとき、ウェルカムオファーをご用意しました。Pro 1年分、3か月無料つき。初年度は {regular_price} のところ {offer_price} です。"
+  ko: "가입하셨을 때 환영 혜택을 준비해 두었습니다. Pro 1년에 3개월 무료. 첫해는 {regular_price} 대신 {offer_price}입니다."
+  nl: "Toen je je aanmeldde, hebben we een welkomstaanbieding voor je klaargezet: een jaar Pro met 3 maanden gratis. Dat is {offer_price} voor je eerste jaar in plaats van {regular_price}."
+  pl: "Gdy dołączyłeś, odłożyliśmy dla ciebie ofertę powitalną: rok Pro z 3 miesiącami za darmo. Czyli {offer_price} za pierwszy rok zamiast {regular_price}."
+  pt: "Quando você entrou, separamos uma oferta de boas-vindas para você: um ano de Pro com 3 meses grátis. Ou seja, {offer_price} pelo seu primeiro ano em vez de {regular_price}."
+  pt-BR: "Quando você entrou, separamos uma oferta de boas-vindas para você: um ano de Pro com 3 meses grátis. Ou seja, {offer_price} pelo seu primeiro ano em vez de {regular_price}."
+  pt-PT: "Quando se juntou a nós, reservámos uma oferta de boas-vindas para si: um ano de Pro com 3 meses grátis. Ou seja, {offer_price} pelo primeiro ano em vez de {regular_price}."
+  ru: "Когда вы присоединились, мы отложили для вас приветственное предложение: год Pro с 3 бесплатными месяцами. Это {offer_price} за первый год вместо {regular_price}."
+  sv: "När du gick med lade vi undan ett välkomsterbjudande åt dig: ett år Pro med 3 månader gratis. Det är {offer_price} för ditt första år i stället för {regular_price}."
+  sw: "Ulipojiunga, tulikuwekea ofa ya kukaribisha: mwaka mmoja wa Pro na miezi 3 bila malipo. Hiyo ni {offer_price} kwa mwaka wako wa kwanza badala ya {regular_price}."
+  th: "ตอนที่คุณเข้าร่วม เราเก็บข้อเสนอต้อนรับไว้ให้คุณ: Pro หนึ่งปี ฟรี 3 เดือน นั่นคือ {offer_price} สำหรับปีแรกแทนที่จะเป็น {regular_price}"
+  uk: "Коли ви приєдналися, ми відклали для вас вітальну пропозицію: рік Pro з 3 безкоштовними місяцями. Це {offer_price} за перший рік замість {regular_price}."
+  vi: "Khi bạn tham gia, chúng tôi đã dành sẵn một ưu đãi chào mừng cho bạn: một năm Pro với 3 tháng miễn phí. Tức là {offer_price} cho năm đầu thay vì {regular_price}."
+  zh: "你加入时，我们为你预留了一份欢迎优惠：一年 Pro，免费 3 个月。也就是第一年 {offer_price}，而不是 {regular_price}。"
+  zh-HK: "你加入時，我們為你預留了一份歡迎優惠：一年 Pro，免費 3 個月。也就是第一年 {offer_price}，而不是 {regular_price}。"

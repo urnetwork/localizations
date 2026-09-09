@@ -1,0 +1,38 @@
+description: "Onboarding email E4b: preview text. {offer_price} is a localized amount; {offer_expires_at} a local date and time."
+source: "{offer_price} for your first year, available until {offer_expires_at}."
+platforms:
+  - email
+placeholders:
+  - name: offer_price
+    type: string
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "{offer_price} for your first year, available until {offer_expires_at}."
+  ar: "{offer_price} لسنتك الأولى، متاح حتى {offer_expires_at}."
+  cs: "{offer_price} za první rok, platí do {offer_expires_at}."
+  de: "{offer_price} für dein erstes Jahr, gültig bis {offer_expires_at}."
+  el: "{offer_price} για τον πρώτο σου χρόνο, ισχύει μέχρι {offer_expires_at}."
+  es: "{offer_price} por tu primer año, disponible hasta {offer_expires_at}."
+  es-419: "{offer_price} por tu primer año, disponible hasta {offer_expires_at}."
+  es-MX: "{offer_price} por tu primer año, disponible hasta {offer_expires_at}."
+  fr: "{offer_price} pour ta première année, disponible jusqu'au {offer_expires_at}."
+  he: "{offer_price} לשנה הראשונה, זמין עד {offer_expires_at}."
+  hi: "पहले साल के लिए {offer_price}, {offer_expires_at} तक उपलब्ध।"
+  id: "{offer_price} untuk tahun pertamamu, tersedia sampai {offer_expires_at}."
+  it: "{offer_price} per il primo anno, disponibile fino al {offer_expires_at}."
+  ja: "初年度 {offer_price}、{offer_expires_at} まで。"
+  ko: "첫해 {offer_price}, {offer_expires_at}까지."
+  nl: "{offer_price} voor je eerste jaar, beschikbaar tot {offer_expires_at}."
+  pl: "{offer_price} za pierwszy rok, dostępne do {offer_expires_at}."
+  pt: "{offer_price} pelo seu primeiro ano, disponível até {offer_expires_at}."
+  pt-BR: "{offer_price} pelo seu primeiro ano, disponível até {offer_expires_at}."
+  pt-PT: "{offer_price} pelo primeiro ano, disponível até {offer_expires_at}."
+  ru: "{offer_price} за первый год, действует до {offer_expires_at}."
+  sv: "{offer_price} för ditt första år, gäller till {offer_expires_at}."
+  sw: "{offer_price} kwa mwaka wako wa kwanza, inapatikana hadi {offer_expires_at}."
+  th: "{offer_price} สำหรับปีแรก ใช้ได้ถึง {offer_expires_at}"
+  uk: "{offer_price} за перший рік, діє до {offer_expires_at}."
+  vi: "{offer_price} cho năm đầu, có hiệu lực đến {offer_expires_at}."
+  zh: "第一年 {offer_price}，可用至 {offer_expires_at}。"
+  zh-HK: "第一年 {offer_price}，可用至 {offer_expires_at}。"

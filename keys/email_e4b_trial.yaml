@@ -1,0 +1,36 @@
+description: "Onboarding email E4b: the trial and the first-charge date. {trial_end_at} is a local date."
+source: "It starts with a 14-day free trial: the first charge is on {trial_end_at}, and you can cancel before then."
+platforms:
+  - email
+placeholders:
+  - name: trial_end_at
+    type: string
+localizations:
+  en: "It starts with a 14-day free trial: the first charge is on {trial_end_at}, and you can cancel before then."
+  ar: "يبدأ بفترة تجريبية مجانية لمدة 14 يوماً: أول تحصيل في {trial_end_at}، ويمكنك الإلغاء قبل ذلك."
+  cs: "Začíná 14denní zkušební verzí zdarma: první platba je {trial_end_at} a do té doby můžete zrušit."
+  de: "Es beginnt mit einer 14-tägigen kostenlosen Testphase: die erste Abbuchung ist am {trial_end_at}, und bis dahin kannst du kündigen."
+  el: "Ξεκινά με δωρεάν δοκιμή 14 ημερών: η πρώτη χρέωση είναι στις {trial_end_at}, και μπορείς να ακυρώσεις πριν από τότε."
+  es: "Empieza con una prueba gratis de 14 días: el primer cobro es el {trial_end_at}, y puedes cancelar antes."
+  es-419: "Empieza con una prueba gratis de 14 días: el primer cobro es el {trial_end_at}, y puedes cancelar antes."
+  es-MX: "Empieza con una prueba gratis de 14 días: el primer cobro es el {trial_end_at}, y puedes cancelar antes."
+  fr: "Ça commence par un essai gratuit de 14 jours : le premier prélèvement a lieu le {trial_end_at}, et tu peux annuler avant."
+  he: "זה מתחיל בניסיון חינם של 14 יום: החיוב הראשון ב-{trial_end_at}, ואפשר לבטל לפני כן."
+  hi: "इसकी शुरुआत 14 दिन के मुफ़्त ट्रायल से होती है: पहला चार्ज {trial_end_at} को होगा, और आप उससे पहले रद्द कर सकते हैं।"
+  id: "Dimulai dengan uji coba gratis 14 hari: tagihan pertama pada {trial_end_at}, dan kamu bisa membatalkan sebelum itu."
+  it: "Inizia con una prova gratuita di 14 giorni: il primo addebito è il {trial_end_at}, e puoi annullare prima."
+  ja: "14日間の無料トライアルから始まります。最初の請求は {trial_end_at} で、それまでにキャンセルできます。"
+  ko: "14일 무료 체험으로 시작합니다. 첫 청구는 {trial_end_at}이고, 그 전에 취소할 수 있습니다."
+  nl: "Het begint met een gratis proefperiode van 14 dagen: de eerste afschrijving is op {trial_end_at}, en tot die tijd kun je opzeggen."
+  pl: "Zaczyna się od 14-dniowego bezpłatnego okresu próbnego: pierwsza opłata jest {trial_end_at}, a do tego czasu możesz anulować."
+  pt: "Começa com um teste grátis de 14 dias: a primeira cobrança é em {trial_end_at}, e você pode cancelar antes disso."
+  pt-BR: "Começa com um teste grátis de 14 dias: a primeira cobrança é em {trial_end_at}, e você pode cancelar antes disso."
+  pt-PT: "Começa com um período de teste grátis de 14 dias: a primeira cobrança é a {trial_end_at}, e pode cancelar antes disso."
+  ru: "Он начинается с 14-дневного бесплатного периода: первое списание {trial_end_at}, и до этого можно отменить."
+  sv: "Det börjar med en 14 dagars gratis provperiod: första dragningen är {trial_end_at}, och du kan avsluta innan dess."
+  sw: "Inaanza na jaribio la bure la siku 14: malipo ya kwanza ni {trial_end_at}, na unaweza kughairi kabla ya hapo."
+  th: "เริ่มด้วยการทดลองใช้ฟรี 14 วัน: เรียกเก็บครั้งแรกวันที่ {trial_end_at} และคุณยกเลิกได้ก่อนหน้านั้น"
+  uk: "Він починається з 14-денного безкоштовного періоду: перше списання {trial_end_at}, і до того можна скасувати."
+  vi: "Bắt đầu với 14 ngày dùng thử miễn phí: khoản phí đầu tiên vào {trial_end_at}, và bạn có thể hủy trước đó."
+  zh: "先有 14 天免费试用：首次扣费在 {trial_end_at}，在此之前你可以取消。"
+  zh-HK: "先有 14 天免費試用：首次扣費在 {trial_end_at}，在此之前你可以取消。"

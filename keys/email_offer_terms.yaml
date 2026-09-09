@@ -1,0 +1,38 @@
+description: "Onboarding emails E3a, E4b, E5b: the terms line under the button. {offer_price} and {regular_price} are localized amounts."
+source: "14 days free, then {offer_price} for your first year, then {regular_price}/year. Cancel anytime."
+platforms:
+  - email
+placeholders:
+  - name: offer_price
+    type: string
+  - name: regular_price
+    type: string
+localizations:
+  en: "14 days free, then {offer_price} for your first year, then {regular_price}/year. Cancel anytime."
+  ar: "14 يوماً مجاناً، ثم {offer_price} لسنتك الأولى، ثم {regular_price} سنوياً. يمكنك الإلغاء في أي وقت."
+  cs: "14 dní zdarma, pak {offer_price} za první rok, pak {regular_price}/rok. Zrušit lze kdykoli."
+  de: "14 Tage gratis, dann {offer_price} für dein erstes Jahr, dann {regular_price}/Jahr. Jederzeit kündbar."
+  el: "14 μέρες δωρεάν, μετά {offer_price} για τον πρώτο σου χρόνο, μετά {regular_price}/χρόνο. Ακύρωση οποιαδήποτε στιγμή."
+  es: "14 días gratis, luego {offer_price} por tu primer año, luego {regular_price}/año. Cancela cuando quieras."
+  es-419: "14 días gratis, luego {offer_price} por tu primer año, luego {regular_price}/año. Cancela cuando quieras."
+  es-MX: "14 días gratis, luego {offer_price} por tu primer año, luego {regular_price}/año. Cancela cuando quieras."
+  fr: "14 jours offerts, puis {offer_price} pour ta première année, puis {regular_price}/an. Annulation à tout moment."
+  he: "14 יום בחינם, אחר כך {offer_price} לשנה הראשונה, אחר כך {regular_price} לשנה. אפשר לבטל בכל עת."
+  hi: "14 दिन मुफ़्त, फिर पहले साल के लिए {offer_price}, फिर {regular_price}/वर्ष। कभी भी रद्द करें।"
+  id: "14 hari gratis, lalu {offer_price} untuk tahun pertamamu, lalu {regular_price}/tahun. Batalkan kapan saja."
+  it: "14 giorni gratis, poi {offer_price} per il primo anno, poi {regular_price}/anno. Annulla quando vuoi."
+  ja: "14日間無料、その後初年度 {offer_price}、以降 {regular_price}/年。いつでもキャンセルできます。"
+  ko: "14일 무료, 이후 첫해 {offer_price}, 그다음 연 {regular_price}. 언제든 취소할 수 있습니다."
+  nl: "14 dagen gratis, daarna {offer_price} voor je eerste jaar, daarna {regular_price}/jaar. Altijd opzegbaar."
+  pl: "14 dni za darmo, potem {offer_price} za pierwszy rok, potem {regular_price}/rok. Anuluj w każdej chwili."
+  pt: "14 dias grátis, depois {offer_price} pelo seu primeiro ano, depois {regular_price}/ano. Cancele quando quiser."
+  pt-BR: "14 dias grátis, depois {offer_price} pelo seu primeiro ano, depois {regular_price}/ano. Cancele quando quiser."
+  pt-PT: "14 dias grátis, depois {offer_price} pelo primeiro ano, depois {regular_price}/ano. Cancele quando quiser."
+  ru: "14 дней бесплатно, затем {offer_price} за первый год, затем {regular_price}/год. Отмена в любое время."
+  sv: "14 dagar gratis, sedan {offer_price} för ditt första år, sedan {regular_price}/år. Avsluta när som helst."
+  sw: "Siku 14 bila malipo, kisha {offer_price} kwa mwaka wako wa kwanza, kisha {regular_price}/mwaka. Ghairi wakati wowote."
+  th: "ฟรี 14 วัน จากนั้น {offer_price} สำหรับปีแรก แล้ว {regular_price}/ปี ยกเลิกได้ทุกเมื่อ"
+  uk: "14 днів безкоштовно, потім {offer_price} за перший рік, потім {regular_price}/рік. Скасувати можна будь-коли."
+  vi: "14 ngày miễn phí, sau đó {offer_price} cho năm đầu, rồi {regular_price}/năm. Hủy bất cứ lúc nào."
+  zh: "14 天免费，然后第一年 {offer_price}，之后 {regular_price}/年。随时可取消。"
+  zh-HK: "14 天免費，然後第一年 {offer_price}，之後 {regular_price}/年。隨時可取消。"

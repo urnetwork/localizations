@@ -1,0 +1,38 @@
+description: "Onboarding email E2, activated variant: social proof line. {providers_online} and {countries_online} are counts formatted by the server with grouping, e.g. \"4,812\" and \"96\"."
+source: "{providers_online} providers are online right now across {countries_online} countries, so there is always one near you."
+platforms:
+  - email
+placeholders:
+  - name: providers_online
+    type: string
+  - name: countries_online
+    type: string
+localizations:
+  en: "{providers_online} providers are online right now across {countries_online} countries, so there is always one near you."
+  ar: "{providers_online} مزوّد متصلون الآن في {countries_online} دولة، لذا هناك دائماً واحد قريب منك."
+  cs: "Právě teď je online {providers_online} poskytovatelů ve {countries_online} zemích, takže vždycky je nějaký blízko vás."
+  de: "{providers_online} Anbieter sind gerade in {countries_online} Ländern online, also ist immer einer in deiner Nähe."
+  el: "{providers_online} πάροχοι είναι online αυτή τη στιγμή σε {countries_online} χώρες, οπότε πάντα υπάρχει ένας κοντά σου."
+  es: "{providers_online} proveedores están en línea ahora mismo en {countries_online} países, así que siempre hay uno cerca de ti."
+  es-419: "{providers_online} proveedores están en línea ahora mismo en {countries_online} países, así que siempre hay uno cerca de ti."
+  es-MX: "{providers_online} proveedores están en línea ahora mismo en {countries_online} países, así que siempre hay uno cerca de ti."
+  fr: "{providers_online} fournisseurs sont en ligne en ce moment dans {countries_online} pays, donc il y en a toujours un près de toi."
+  he: "{providers_online} ספקים מחוברים כרגע ב-{countries_online} מדינות, כך שתמיד יש אחד קרוב אליכם."
+  hi: "अभी {countries_online} देशों में {providers_online} प्रदाता ऑनलाइन हैं, इसलिए हमेशा कोई न कोई आपके पास है।"
+  id: "{providers_online} penyedia sedang online sekarang di {countries_online} negara, jadi selalu ada yang dekat denganmu."
+  it: "{providers_online} provider sono online in questo momento in {countries_online} paesi, quindi ce n'è sempre uno vicino a te."
+  ja: "いま {countries_online} か国で {providers_online} のプロバイダーがオンラインです。近くに必ず誰かがいます。"
+  ko: "지금 {countries_online}개국에서 {providers_online}명의 제공자가 온라인이라 가까운 곳에 항상 하나는 있습니다."
+  nl: "{providers_online} providers zijn nu online in {countries_online} landen, dus er is er altijd een bij jou in de buurt."
+  pl: "{providers_online} dostawców jest teraz online w {countries_online} krajach, więc zawsze jest któryś blisko ciebie."
+  pt: "{providers_online} provedores estão online agora em {countries_online} países, então sempre tem um perto de você."
+  pt-BR: "{providers_online} provedores estão online agora em {countries_online} países, então sempre tem um perto de você."
+  pt-PT: "{providers_online} fornecedores estão online neste momento em {countries_online} países, por isso há sempre um perto de si."
+  ru: "Прямо сейчас онлайн {providers_online} провайдеров в {countries_online} странах, так что рядом с вами всегда кто-то есть."
+  sv: "{providers_online} leverantörer är online just nu i {countries_online} länder, så det finns alltid en nära dig."
+  sw: "Watoa huduma {providers_online} wako mtandaoni sasa hivi katika nchi {countries_online}, kwa hivyo daima kuna mmoja karibu nawe."
+  th: "ตอนนี้มีผู้ให้บริการ {providers_online} รายออนไลน์ใน {countries_online} ประเทศ จึงมีคนใกล้คุณเสมอ"
+  uk: "Просто зараз онлайн {providers_online} провайдерів у {countries_online} країнах, тож поруч із вами завжди хтось є."
+  vi: "{providers_online} nhà cung cấp đang trực tuyến ở {countries_online} quốc gia, nên luôn có một nhà cung cấp gần bạn."
+  zh: "此刻有 {providers_online} 个提供者在 {countries_online} 个国家和地区在线，你附近总有一个。"
+  zh-HK: "此刻有 {providers_online} 個提供者在 {countries_online} 個國家和地區在線，你附近總有一個。"

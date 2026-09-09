@@ -1,0 +1,36 @@
+description: "Onboarding email E3a: the deadline, stated once and never re-issued. {offer_expires_at} is a local date and time."
+source: "It is available until {offer_expires_at}. After that it goes away and doesn't come back."
+platforms:
+  - email
+placeholders:
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "It is available until {offer_expires_at}. After that it goes away and doesn't come back."
+  ar: "إنه متاح حتى {offer_expires_at}. بعد ذلك يختفي ولا يعود."
+  cs: "Platí do {offer_expires_at}. Pak zmizí a už se nevrátí."
+  de: "Es gilt bis {offer_expires_at}. Danach ist es weg und kommt nicht zurück."
+  el: "Ισχύει μέχρι {offer_expires_at}. Μετά χάνεται και δεν επιστρέφει."
+  es: "Está disponible hasta {offer_expires_at}. Después desaparece y no vuelve."
+  es-419: "Está disponible hasta {offer_expires_at}. Después desaparece y no vuelve."
+  es-MX: "Está disponible hasta {offer_expires_at}. Después desaparece y no vuelve."
+  fr: "Elle est disponible jusqu'au {offer_expires_at}. Ensuite elle disparaît et ne revient pas."
+  he: "הוא זמין עד {offer_expires_at}. אחרי זה הוא נעלם ולא חוזר."
+  hi: "यह {offer_expires_at} तक उपलब्ध है। उसके बाद यह चला जाएगा और वापस नहीं आएगा।"
+  id: "Tersedia sampai {offer_expires_at}. Setelah itu hilang dan tidak kembali."
+  it: "È disponibile fino al {offer_expires_at}. Dopo sparisce e non torna."
+  ja: "{offer_expires_at} まで有効です。それを過ぎると終了し、再提供はありません。"
+  ko: "{offer_expires_at}까지 이용할 수 있습니다. 그 뒤에는 사라지고 다시 제공되지 않습니다."
+  nl: "Die is beschikbaar tot {offer_expires_at}. Daarna verdwijnt hij en komt niet terug."
+  pl: "Jest dostępna do {offer_expires_at}. Potem znika i nie wraca."
+  pt: "Ela está disponível até {offer_expires_at}. Depois disso ela some e não volta."
+  pt-BR: "Ela está disponível até {offer_expires_at}. Depois disso ela some e não volta."
+  pt-PT: "Está disponível até {offer_expires_at}. Depois disso desaparece e não volta."
+  ru: "Оно действует до {offer_expires_at}. После этого оно исчезает и не возвращается."
+  sv: "Det gäller till {offer_expires_at}. Sedan försvinner det och kommer inte tillbaka."
+  sw: "Inapatikana hadi {offer_expires_at}. Baada ya hapo inaisha na hairudi."
+  th: "ใช้ได้ถึง {offer_expires_at} หลังจากนั้นจะหมดไปและไม่กลับมาอีก"
+  uk: "Вона діє до {offer_expires_at}. Після цього вона зникає й не повертається."
+  vi: "Ưu đãi có hiệu lực đến {offer_expires_at}. Sau đó sẽ biến mất và không quay lại."
+  zh: "可用至 {offer_expires_at}。之后它就会失效，不会再有。"
+  zh-HK: "可用至 {offer_expires_at}。之後它就會失效，不會再有。"

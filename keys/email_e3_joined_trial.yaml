@@ -1,0 +1,36 @@
+description: "Onboarding email E3a: the trial, the first-charge date and the cancel path. {trial_end_at} is a local date."
+source: "Pro starts with a 14-day free trial. Nothing is charged until {trial_end_at}, and you can cancel any time before then from your store settings."
+platforms:
+  - email
+placeholders:
+  - name: trial_end_at
+    type: string
+localizations:
+  en: "Pro starts with a 14-day free trial. Nothing is charged until {trial_end_at}, and you can cancel any time before then from your store settings."
+  ar: "يبدأ Pro بفترة تجريبية مجانية لمدة 14 يوماً. لن يُحصَّل أي مبلغ حتى {trial_end_at}، ويمكنك الإلغاء في أي وقت قبل ذلك من إعدادات المتجر لديك."
+  cs: "Pro začíná 14denní zkušební verzí zdarma. Do {trial_end_at} se nic neúčtuje a do té doby můžete kdykoli zrušit v nastavení svého obchodu."
+  de: "Pro beginnt mit einer 14-tägigen kostenlosen Testphase. Bis {trial_end_at} wird nichts berechnet, und bis dahin kannst du jederzeit in den Einstellungen deines Stores kündigen."
+  el: "Το Pro ξεκινά με δωρεάν δοκιμή 14 ημερών. Δεν χρεώνεται τίποτα μέχρι {trial_end_at}, και μπορείς να ακυρώσεις οποιαδήποτε στιγμή πριν από τότε από τις ρυθμίσεις του store σου."
+  es: "Pro empieza con una prueba gratis de 14 días. No se cobra nada hasta {trial_end_at}, y puedes cancelar en cualquier momento antes desde los ajustes de tu tienda."
+  es-419: "Pro empieza con una prueba gratis de 14 días. No se cobra nada hasta {trial_end_at}, y puedes cancelar en cualquier momento antes desde los ajustes de tu tienda."
+  es-MX: "Pro empieza con una prueba gratis de 14 días. No se cobra nada hasta {trial_end_at}, y puedes cancelar en cualquier momento antes desde los ajustes de tu tienda."
+  fr: "Pro commence par un essai gratuit de 14 jours. Rien n'est prélevé avant le {trial_end_at}, et tu peux annuler à tout moment avant cela depuis les réglages de ton store."
+  he: "Pro מתחיל בניסיון חינם של 14 יום. לא מחויבים בכלום עד {trial_end_at}, ואפשר לבטל בכל רגע לפני כן מהגדרות החנות."
+  hi: "Pro की शुरुआत 14 दिन के मुफ़्त ट्रायल से होती है। {trial_end_at} तक कुछ भी चार्ज नहीं होता, और आप उससे पहले कभी भी अपने स्टोर की सेटिंग से रद्द कर सकते हैं।"
+  id: "Pro dimulai dengan uji coba gratis 14 hari. Tidak ada tagihan sampai {trial_end_at}, dan kamu bisa membatalkan kapan saja sebelum itu dari pengaturan toko aplikasimu."
+  it: "Pro inizia con una prova gratuita di 14 giorni. Non viene addebitato nulla fino al {trial_end_at}, e puoi annullare in qualsiasi momento prima dalle impostazioni del tuo store."
+  ja: "Pro は14日間の無料トライアルから始まります。{trial_end_at} までは一切請求されず、それまでならストアの設定からいつでもキャンセルできます。"
+  ko: "Pro는 14일 무료 체험으로 시작합니다. {trial_end_at}까지는 아무것도 청구되지 않으며, 그 전에는 스토어 설정에서 언제든 취소할 수 있습니다."
+  nl: "Pro begint met een gratis proefperiode van 14 dagen. Tot {trial_end_at} wordt niets in rekening gebracht, en tot die tijd kun je altijd opzeggen in de instellingen van je store."
+  pl: "Pro zaczyna się od 14-dniowego bezpłatnego okresu próbnego. Do {trial_end_at} nic nie jest pobierane, a do tego czasu możesz w każdej chwili anulować w ustawieniach swojego sklepu."
+  pt: "O Pro começa com um teste grátis de 14 dias. Nada é cobrado até {trial_end_at}, e você pode cancelar a qualquer momento antes disso nas configurações da sua loja."
+  pt-BR: "O Pro começa com um teste grátis de 14 dias. Nada é cobrado até {trial_end_at}, e você pode cancelar a qualquer momento antes disso nas configurações da sua loja."
+  pt-PT: "O Pro começa com um período de teste grátis de 14 dias. Nada é cobrado até {trial_end_at}, e pode cancelar a qualquer momento antes disso nas definições da sua loja."
+  ru: "Pro начинается с 14-дневного бесплатного периода. До {trial_end_at} ничего не списывается, и до этого момента можно отменить в любое время в настройках вашего магазина."
+  sv: "Pro börjar med en 14 dagars gratis provperiod. Inget dras förrän {trial_end_at}, och du kan avsluta när som helst innan dess i din butiks inställningar."
+  sw: "Pro huanza na jaribio la bure la siku 14. Hakuna kinachotozwa hadi {trial_end_at}, na unaweza kughairi wakati wowote kabla ya hapo kutoka mipangilio ya duka lako."
+  th: "Pro เริ่มด้วยการทดลองใช้ฟรี 14 วัน จะไม่มีการเรียกเก็บเงินจนถึง {trial_end_at} และคุณยกเลิกได้ทุกเมื่อก่อนหน้านั้นจากการตั้งค่าสโตร์ของคุณ"
+  uk: "Pro починається з 14-денного безкоштовного періоду. До {trial_end_at} нічого не списується, і до того часу можна скасувати будь-коли в налаштуваннях вашого магазину."
+  vi: "Pro bắt đầu với 14 ngày dùng thử miễn phí. Không có khoản phí nào cho đến {trial_end_at}, và bạn có thể hủy bất cứ lúc nào trước đó trong cài đặt cửa hàng của bạn."
+  zh: "Pro 以 14 天免费试用开始。{trial_end_at} 之前不会收取任何费用，在此之前你随时可以在商店设置中取消。"
+  zh-HK: "Pro 以 14 天免費試用開始。{trial_end_at} 之前不會收取任何費用，在此之前你隨時可以在商店設定中取消。"

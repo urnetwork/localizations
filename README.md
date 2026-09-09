@@ -135,6 +135,14 @@ dropping itself from `platforms`, since its generator has no stale state). Dead
 keys are left out of the Windows and Linux outputs, which otherwise carry every
 key in the store.
 
+### `email`
+
+The onboarding emails (`mmm/onboarding/templates`) are store-keyed too, tagged
+`platforms: [email]`. No generator emits them: `mmm/onboarding/build.mjs` reads
+`keys/` directly and renders one Brevo template per locale, lowering `{name}`
+placeholders to Brevo's `{{ params.name }}`. Keys that only `email` references
+are left out of the Windows and Linux catalogs as well.
+
 ## Locales
 
 28: `en ar cs de el es es-419 es-MX fr he hi id it ja ko nl pl pt pt-BR pt-PT ru

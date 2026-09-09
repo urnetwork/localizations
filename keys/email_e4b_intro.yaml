@@ -1,0 +1,38 @@
+description: "Onboarding email E4b: opening paragraph that introduces the welcome bonus. {offer_price} and {regular_price} are localized amounts."
+source: "You've had URnetwork for a week, so here is the welcome bonus we give new members: a year of Pro with 3 months free. That is {offer_price} for your first year, then {regular_price}/year."
+platforms:
+  - email
+placeholders:
+  - name: offer_price
+    type: string
+  - name: regular_price
+    type: string
+localizations:
+  en: "You've had URnetwork for a week, so here is the welcome bonus we give new members: a year of Pro with 3 months free. That is {offer_price} for your first year, then {regular_price}/year."
+  ar: "مضى أسبوع على استخدامك URnetwork، فإليك مكافأة الترحيب التي نقدمها للأعضاء الجدد: سنة من Pro مع 3 أشهر مجانية. أي {offer_price} لسنتك الأولى، ثم {regular_price} سنوياً."
+  cs: "URnetwork máte už týden, tak tady je uvítací bonus, který dáváme novým členům: rok Pro se 3 měsíci zdarma. To je {offer_price} za první rok, pak {regular_price}/rok."
+  de: "Du hast URnetwork jetzt seit einer Woche, deshalb hier der Willkommensbonus, den wir neuen Mitgliedern geben: ein Jahr Pro mit 3 Gratis-Monaten. Das sind {offer_price} für dein erstes Jahr, danach {regular_price}/Jahr."
+  el: "Έχεις το URnetwork μια εβδομάδα, οπότε να το μπόνους καλωσορίσματος που δίνουμε στα νέα μέλη: ένας χρόνος Pro με 3 μήνες δωρεάν. Δηλαδή {offer_price} για τον πρώτο σου χρόνο, μετά {regular_price}/χρόνο."
+  es: "Llevas una semana con URnetwork, así que aquí va el bono de bienvenida que damos a los nuevos miembros: un año de Pro con 3 meses gratis. Es decir, {offer_price} por tu primer año, luego {regular_price}/año."
+  es-419: "Llevas una semana con URnetwork, así que aquí va el bono de bienvenida que damos a los nuevos miembros: un año de Pro con 3 meses gratis. Es decir, {offer_price} por tu primer año, luego {regular_price}/año."
+  es-MX: "Llevas una semana con URnetwork, así que aquí va el bono de bienvenida que damos a los nuevos miembros: un año de Pro con 3 meses gratis. Es decir, {offer_price} por tu primer año, luego {regular_price}/año."
+  fr: "Ça fait une semaine que tu as URnetwork, alors voici le bonus de bienvenue qu'on offre aux nouveaux membres : un an de Pro avec 3 mois offerts. Soit {offer_price} pour ta première année, puis {regular_price}/an."
+  he: "עבר שבוע מאז שהצטרפתם ל-URnetwork, אז הנה בונוס הברוכים הבאים שאנחנו נותנים לחברים חדשים: שנה של Pro עם 3 חודשים בחינם. כלומר {offer_price} לשנה הראשונה, ואחר כך {regular_price} לשנה."
+  hi: "आपको URnetwork इस्तेमाल करते एक हफ़्ता हो गया, तो यह रहा वह स्वागत बोनस जो हम नए सदस्यों को देते हैं: Pro का एक साल, 3 महीने मुफ़्त। यानी पहले साल के लिए {offer_price}, फिर {regular_price}/वर्ष।"
+  id: "Sudah seminggu kamu memakai URnetwork, jadi ini bonus sambutan yang kami berikan untuk anggota baru: setahun Pro dengan 3 bulan gratis. Artinya {offer_price} untuk tahun pertamamu, lalu {regular_price}/tahun."
+  it: "Hai URnetwork da una settimana, quindi ecco il bonus di benvenuto che diamo ai nuovi membri: un anno di Pro con 3 mesi gratis. Cioè {offer_price} per il primo anno, poi {regular_price}/anno."
+  ja: "URnetwork を使い始めて1週間ですね。新しいメンバーへのウェルカムボーナスをどうぞ。Pro 1年分、3か月無料つき。初年度は {offer_price}、以降 {regular_price}/年です。"
+  ko: "URnetwork를 쓰신 지 일주일이 됐네요. 새 회원에게 드리는 환영 보너스입니다. Pro 1년에 3개월 무료. 첫해는 {offer_price}, 그다음은 연 {regular_price}입니다."
+  nl: "Je hebt URnetwork nu een week, dus hier is de welkomstbonus die we nieuwe leden geven: een jaar Pro met 3 maanden gratis. Dat is {offer_price} voor je eerste jaar, daarna {regular_price}/jaar."
+  pl: "Masz URnetwork od tygodnia, więc oto bonus powitalny, który dajemy nowym członkom: rok Pro z 3 miesiącami za darmo. Czyli {offer_price} za pierwszy rok, potem {regular_price}/rok."
+  pt: "Você já tem a URnetwork há uma semana, então aqui vai o bônus de boas-vindas que damos aos novos membros: um ano de Pro com 3 meses grátis. Ou seja, {offer_price} pelo seu primeiro ano, depois {regular_price}/ano."
+  pt-BR: "Você já tem a URnetwork há uma semana, então aqui vai o bônus de boas-vindas que damos aos novos membros: um ano de Pro com 3 meses grátis. Ou seja, {offer_price} pelo seu primeiro ano, depois {regular_price}/ano."
+  pt-PT: "Tem a URnetwork há uma semana, por isso aqui fica o bónus de boas-vindas que damos aos novos membros: um ano de Pro com 3 meses grátis. Ou seja, {offer_price} pelo primeiro ano, depois {regular_price}/ano."
+  ru: "Вы с URnetwork уже неделю, так что вот приветственный бонус, который мы даём новым участникам: год Pro с 3 бесплатными месяцами. Это {offer_price} за первый год, затем {regular_price}/год."
+  sv: "Du har haft URnetwork i en vecka, så här är välkomstbonusen vi ger nya medlemmar: ett år Pro med 3 månader gratis. Det är {offer_price} för ditt första år, sedan {regular_price}/år."
+  sw: "Umekuwa na URnetwork kwa wiki moja, kwa hivyo hii ndiyo bonasi ya kukaribisha tunayowapa wanachama wapya: mwaka mmoja wa Pro na miezi 3 bila malipo. Hiyo ni {offer_price} kwa mwaka wako wa kwanza, kisha {regular_price}/mwaka."
+  th: "คุณใช้ URnetwork มาหนึ่งสัปดาห์แล้ว นี่คือโบนัสต้อนรับที่เรามอบให้สมาชิกใหม่: Pro หนึ่งปี ฟรี 3 เดือน นั่นคือ {offer_price} สำหรับปีแรก แล้ว {regular_price}/ปี"
+  uk: "Ви з URnetwork уже тиждень, тож ось вітальний бонус, який ми даємо новим учасникам: рік Pro з 3 безкоштовними місяцями. Це {offer_price} за перший рік, потім {regular_price}/рік."
+  vi: "Bạn đã dùng URnetwork được một tuần, nên đây là phần thưởng chào mừng chúng tôi dành cho thành viên mới: một năm Pro với 3 tháng miễn phí. Tức là {offer_price} cho năm đầu, rồi {regular_price}/năm."
+  zh: "你用 URnetwork 已经一周了，所以这是我们给新成员的欢迎奖励：一年 Pro，免费 3 个月。也就是第一年 {offer_price}，之后 {regular_price}/年。"
+  zh-HK: "你用 URnetwork 已經一週了，所以這是我們給新成員的歡迎獎勵：一年 Pro，免費 3 個月。也就是第一年 {offer_price}，之後 {regular_price}/年。"

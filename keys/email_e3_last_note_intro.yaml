@@ -1,0 +1,36 @@
+description: "Onboarding email E5b (path B, the day before the emailed offer ends): opening paragraph. {offer_expires_at} is a local date and time."
+source: "Last note about this: your welcome bonus, a year of Pro with 3 months free, is available until {offer_expires_at}. After that it goes away and doesn't come back."
+platforms:
+  - email
+placeholders:
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "Last note about this: your welcome bonus, a year of Pro with 3 months free, is available until {offer_expires_at}. After that it goes away and doesn't come back."
+  ar: "آخر ملاحظة بهذا الشأن: مكافأة الترحيب الخاصة بك، سنة من Pro مع 3 أشهر مجانية، متاحة حتى {offer_expires_at}. بعد ذلك تختفي ولا تعود."
+  cs: "Poslední zpráva k tomu: váš uvítací bonus, rok Pro se 3 měsíci zdarma, platí do {offer_expires_at}. Pak zmizí a už se nevrátí."
+  de: "Letzte Nachricht dazu: dein Willkommensbonus, ein Jahr Pro mit 3 Gratis-Monaten, gilt bis {offer_expires_at}. Danach ist er weg und kommt nicht zurück."
+  el: "Τελευταία σημείωση γι' αυτό: το μπόνους καλωσορίσματος, ένας χρόνος Pro με 3 μήνες δωρεάν, ισχύει μέχρι {offer_expires_at}. Μετά χάνεται και δεν επιστρέφει."
+  es: "Última nota sobre esto: tu bono de bienvenida, un año de Pro con 3 meses gratis, está disponible hasta {offer_expires_at}. Después desaparece y no vuelve."
+  es-419: "Última nota sobre esto: tu bono de bienvenida, un año de Pro con 3 meses gratis, está disponible hasta {offer_expires_at}. Después desaparece y no vuelve."
+  es-MX: "Última nota sobre esto: tu bono de bienvenida, un año de Pro con 3 meses gratis, está disponible hasta {offer_expires_at}. Después desaparece y no vuelve."
+  fr: "Dernier mot à ce sujet : ton bonus de bienvenue, un an de Pro avec 3 mois offerts, est disponible jusqu'au {offer_expires_at}. Ensuite il disparaît et ne revient pas."
+  he: "הערה אחרונה בנושא: בונוס הברוכים הבאים שלכם, שנה של Pro עם 3 חודשים בחינם, זמין עד {offer_expires_at}. אחרי זה הוא נעלם ולא חוזר."
+  hi: "इस बारे में आखिरी बात: आपका स्वागत बोनस, Pro का एक साल जिसमें 3 महीने मुफ़्त हैं, {offer_expires_at} तक उपलब्ध है। उसके बाद यह चला जाएगा और वापस नहीं आएगा।"
+  id: "Catatan terakhir soal ini: bonus sambutanmu, setahun Pro dengan 3 bulan gratis, tersedia sampai {offer_expires_at}. Setelah itu hilang dan tidak kembali."
+  it: "Ultima nota su questo: il tuo bonus di benvenuto, un anno di Pro con 3 mesi gratis, è disponibile fino al {offer_expires_at}. Dopo sparisce e non torna."
+  ja: "この件では最後のご案内です。ウェルカムボーナス（Pro 1年分、3か月無料つき）は {offer_expires_at} まで有効です。それを過ぎると終了し、再提供はありません。"
+  ko: "이 건에 대한 마지막 안내입니다. 환영 보너스(Pro 1년, 3개월 무료)는 {offer_expires_at}까지 이용할 수 있습니다. 그 뒤에는 사라지고 다시 제공되지 않습니다."
+  nl: "Laatste bericht hierover: je welkomstbonus, een jaar Pro met 3 maanden gratis, is beschikbaar tot {offer_expires_at}. Daarna verdwijnt hij en komt niet terug."
+  pl: "Ostatnia wiadomość w tej sprawie: twój bonus powitalny, rok Pro z 3 miesiącami za darmo, jest dostępny do {offer_expires_at}. Potem znika i nie wraca."
+  pt: "Último recado sobre isso: seu bônus de boas-vindas, um ano de Pro com 3 meses grátis, está disponível até {offer_expires_at}. Depois disso ele some e não volta."
+  pt-BR: "Último recado sobre isso: seu bônus de boas-vindas, um ano de Pro com 3 meses grátis, está disponível até {offer_expires_at}. Depois disso ele some e não volta."
+  pt-PT: "Última nota sobre isto: o seu bónus de boas-vindas, um ano de Pro com 3 meses grátis, está disponível até {offer_expires_at}. Depois disso desaparece e não volta."
+  ru: "Последнее напоминание: ваш приветственный бонус, год Pro с 3 бесплатными месяцами, действует до {offer_expires_at}. После этого он исчезает и не возвращается."
+  sv: "Sista ordet om detta: din välkomstbonus, ett år Pro med 3 månader gratis, gäller till {offer_expires_at}. Sedan försvinner den och kommer inte tillbaka."
+  sw: "Ujumbe wa mwisho kuhusu hili: bonasi yako ya kukaribisha, mwaka mmoja wa Pro na miezi 3 bila malipo, inapatikana hadi {offer_expires_at}. Baada ya hapo inaisha na hairudi."
+  th: "ข้อความสุดท้ายเรื่องนี้: โบนัสต้อนรับของคุณ Pro หนึ่งปี ฟรี 3 เดือน ใช้ได้ถึง {offer_expires_at} หลังจากนั้นจะหมดไปและไม่กลับมาอีก"
+  uk: "Останнє нагадування: ваш вітальний бонус, рік Pro з 3 безкоштовними місяцями, діє до {offer_expires_at}. Після цього він зникає й не повертається."
+  vi: "Lời nhắn cuối về việc này: phần thưởng chào mừng của bạn, một năm Pro với 3 tháng miễn phí, có hiệu lực đến {offer_expires_at}. Sau đó sẽ biến mất và không quay lại."
+  zh: "关于这件事的最后一封信：你的欢迎奖励，一年 Pro 加免费 3 个月，可用至 {offer_expires_at}。之后它就会失效，不会再有。"
+  zh-HK: "關於這件事的最後一封信：你的歡迎獎勵，一年 Pro 加免費 3 個月，可用至 {offer_expires_at}。之後它就會失效，不會再有。"

@@ -204,6 +204,15 @@ export const isDead = (k) =>
 		? k.platforms.every((p) => k.deprecated.includes(p))
 		: k.deprecated.length > 0;
 
+// Platforms with no generated catalog: their strings are rendered straight from
+// the store by another tool. `email` is the onboarding mail, rendered per locale
+// into Brevo templates by mmm/onboarding/build.mjs. A key that only these
+// platforms reference is left out of the Windows and Linux outputs (which
+// otherwise carry every live key), since no app ever asks for it.
+export const CATALOG_FREE_PLATFORMS = ["email"];
+export const isCatalogFreeOnly = (k) =>
+	k.platforms.length > 0 && k.platforms.every((p) => CATALOG_FREE_PLATFORMS.includes(p));
+
 // -------------------------------------------------------------- ICU lowering
 // The canonical text carries named ICU placeholders: "{count} hosts".
 // Each platform gets its own specifier dialect.

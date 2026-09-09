@@ -1,0 +1,36 @@
+description: "Onboarding email E2, activated variant: why the widget. {platform} is the device name, e.g. \"iPhone\"."
+source: "The easiest way to keep it up is the widget. It puts Connect, your daily data and your current provider on the home screen, and on {platform} it is one tap from the lock screen."
+platforms:
+  - email
+placeholders:
+  - name: platform
+    type: string
+localizations:
+  en: "The easiest way to keep it up is the widget. It puts Connect, your daily data and your current provider on the home screen, and on {platform} it is one tap from the lock screen."
+  ar: "أسهل طريقة للاستمرار هي الأداة. تضع «اربط» وبياناتك اليومية ومزوّدك الحالي على الشاشة الرئيسية، وعلى {platform} تكون على بُعد ضغطة واحدة من شاشة القفل."
+  cs: "Nejsnazší způsob, jak u toho zůstat, je widget. Dá Připojit, vaše denní data a aktuálního poskytovatele na domovskou obrazovku a na {platform} je jedno klepnutí od zamykací obrazovky."
+  de: "Am einfachsten bleibst du dran mit dem Widget. Es legt „Verbinde“, dein Tagesvolumen und deinen aktuellen Anbieter auf den Startbildschirm, und auf dem {platform} ist es vom Sperrbildschirm aus nur einen Tipp entfernt."
+  el: "Ο πιο εύκολος τρόπος να συνεχίσεις είναι το γραφικό στοιχείο. Βάζει τη Σύνδεση, τα ημερήσια δεδομένα και τον τρέχοντα πάροχό σου στην αρχική οθόνη, και στο {platform} είναι ένα πάτημα από την οθόνη κλειδώματος."
+  es: "La forma más fácil de mantenerlo es el widget. Pone Conecta, tus datos diarios y tu proveedor actual en la pantalla de inicio, y en {platform} está a un toque desde la pantalla de bloqueo."
+  es-419: "La forma más fácil de mantenerlo es el widget. Pone Conecta, tus datos diarios y tu proveedor actual en la pantalla de inicio, y en {platform} está a un toque desde la pantalla de bloqueo."
+  es-MX: "La forma más fácil de mantenerlo es el widget. Pone Conecta, tus datos diarios y tu proveedor actual en la pantalla de inicio, y en {platform} está a un toque desde la pantalla de bloqueo."
+  fr: "Le plus simple pour continuer, c'est le widget. Il met Connecte, tes données du jour et ton fournisseur actuel sur l'écran d'accueil, et sur {platform} il est à un geste de l'écran de verrouillage."
+  he: "הדרך הקלה ביותר להמשיך היא הווידג'ט. הוא שם את התחבר, את הנתונים היומיים ואת הספק הנוכחי שלכם על מסך הבית, וב{platform} הוא במרחק הקשה אחת ממסך הנעילה."
+  hi: "इसे जारी रखने का सबसे आसान तरीका विजेट है। यह कनेक्ट करें, आपका दैनिक डेटा और मौजूदा प्रदाता होम स्क्रीन पर रखता है, और {platform} पर यह लॉक स्क्रीन से बस एक टैप दूर है।"
+  id: "Cara termudah untuk terus melakukannya adalah widget. Widget menaruh Hubungkan, data harianmu, dan penyedia saat ini di layar utama, dan di {platform} hanya satu ketukan dari layar kunci."
+  it: "Il modo più facile per continuare è il widget. Mette Connetti, i tuoi dati giornalieri e il provider attuale nella schermata Home, e su {platform} è a un tocco dalla schermata di blocco."
+  ja: "続けるいちばん簡単な方法はウィジェットです。「接続」と今日のデータ量、いま使っているプロバイダーをホーム画面に置けて、{platform} ならロック画面からワンタップです。"
+  ko: "계속 쓰는 가장 쉬운 방법은 위젯입니다. 연결 버튼과 오늘의 데이터, 현재 제공자를 홈 화면에 두고, {platform}에서는 잠금 화면에서 한 번만 누르면 됩니다."
+  nl: "De makkelijkste manier om het vol te houden is de widget. Die zet Verbinden, je dagelijkse data en je huidige provider op het beginscherm, en op {platform} is het één tik vanaf het vergrendelscherm."
+  pl: "Najłatwiej utrzymać nawyk dzięki widżetowi. Umieszcza Połącz, twoje dzienne dane i obecnego dostawcę na ekranie głównym, a na {platform} jest o jedno dotknięcie od ekranu blokady."
+  pt: "O jeito mais fácil de manter o ritmo é o widget. Ele coloca Conecte, seus dados do dia e seu provedor atual na tela inicial, e no {platform} fica a um toque da tela de bloqueio."
+  pt-BR: "O jeito mais fácil de manter o ritmo é o widget. Ele coloca Conecte, seus dados do dia e seu provedor atual na tela inicial, e no {platform} fica a um toque da tela de bloqueio."
+  pt-PT: "A forma mais fácil de manter o hábito é o widget. Coloca Ligar, os seus dados diários e o fornecedor atual no ecrã principal, e no {platform} fica a um toque do ecrã de bloqueio."
+  ru: "Проще всего продолжать с виджетом. Он выносит «Подключить», ваш дневной трафик и текущего провайдера на главный экран, а на {platform} это одно касание с экрана блокировки."
+  sv: "Enklaste sättet att hålla igång är widgeten. Den lägger Anslut, din dagliga data och din nuvarande leverantör på hemskärmen, och på {platform} är det ett tryck från låsskärmen."
+  sw: "Njia rahisi zaidi ya kuendelea ni wijeti. Inaweka Unganisha, data yako ya kila siku na mtoa huduma wako wa sasa kwenye skrini ya kwanza, na kwenye {platform} ni mguso mmoja tu kutoka skrini ya kufunga."
+  th: "วิธีที่ง่ายที่สุดในการใช้ต่อคือวิดเจ็ต มันวางปุ่ม เชื่อมต่อ ข้อมูลรายวัน และผู้ให้บริการปัจจุบันไว้บนหน้าจอหลัก และบน {platform} แค่แตะครั้งเดียวจากหน้าจอล็อก"
+  uk: "Найпростіше продовжувати з віджетом. Він виносить «Підключитися», ваш денний трафік і поточного провайдера на головний екран, а на {platform} це один дотик з екрана блокування."
+  vi: "Cách dễ nhất để duy trì là widget. Nó đặt Kết nối, dữ liệu hằng ngày và nhà cung cấp hiện tại của bạn lên màn hình chính, và trên {platform} chỉ cần một chạm từ màn hình khóa."
+  zh: "最省事的坚持方式是小组件。它把“连接”、今日流量和当前提供者放到主屏幕上，在 {platform} 上从锁屏点一下就行。"
+  zh-HK: "最省事的堅持方式是小工具。它把「連接」、今日流量和目前提供者放到主畫面上，在 {platform} 上從鎖定畫面點一下就行。"

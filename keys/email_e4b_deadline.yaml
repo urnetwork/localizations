@@ -1,0 +1,36 @@
+description: "Onboarding email E4b: the deadline. {offer_expires_at} is a local date and time."
+source: "The bonus is available until {offer_expires_at}."
+platforms:
+  - email
+placeholders:
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "The bonus is available until {offer_expires_at}."
+  ar: "المكافأة متاحة حتى {offer_expires_at}."
+  cs: "Bonus platí do {offer_expires_at}."
+  de: "Der Bonus gilt bis {offer_expires_at}."
+  el: "Το μπόνους ισχύει μέχρι {offer_expires_at}."
+  es: "El bono está disponible hasta {offer_expires_at}."
+  es-419: "El bono está disponible hasta {offer_expires_at}."
+  es-MX: "El bono está disponible hasta {offer_expires_at}."
+  fr: "Le bonus est disponible jusqu'au {offer_expires_at}."
+  he: "הבונוס זמין עד {offer_expires_at}."
+  hi: "यह बोनस {offer_expires_at} तक उपलब्ध है।"
+  id: "Bonus tersedia sampai {offer_expires_at}."
+  it: "Il bonus è disponibile fino al {offer_expires_at}."
+  ja: "ボーナスは {offer_expires_at} まで有効です。"
+  ko: "보너스는 {offer_expires_at}까지 이용할 수 있습니다."
+  nl: "De bonus is beschikbaar tot {offer_expires_at}."
+  pl: "Bonus jest dostępny do {offer_expires_at}."
+  pt: "O bônus está disponível até {offer_expires_at}."
+  pt-BR: "O bônus está disponível até {offer_expires_at}."
+  pt-PT: "O bónus está disponível até {offer_expires_at}."
+  ru: "Бонус действует до {offer_expires_at}."
+  sv: "Bonusen gäller till {offer_expires_at}."
+  sw: "Bonasi inapatikana hadi {offer_expires_at}."
+  th: "โบนัสใช้ได้ถึง {offer_expires_at}"
+  uk: "Бонус діє до {offer_expires_at}."
+  vi: "Phần thưởng có hiệu lực đến {offer_expires_at}."
+  zh: "奖励可用至 {offer_expires_at}。"
+  zh-HK: "獎勵可用至 {offer_expires_at}。"

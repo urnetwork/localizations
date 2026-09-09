@@ -1,0 +1,38 @@
+description: "Onboarding email E2, activated variant: opening line with the user's connect days. {connect_days} and {days_active} are counts formatted by the server; days_active is at least 2 on any real send."
+source: "You've connected on {connect_days} of your first {days_active} days. Nice."
+platforms:
+  - email
+placeholders:
+  - name: connect_days
+    type: string
+  - name: days_active
+    type: string
+localizations:
+  en: "You've connected on {connect_days} of your first {days_active} days. Nice."
+  ar: "لقد اتصلت في {connect_days} من أول {days_active} أيام لك. رائع."
+  cs: "Připojili jste se v {connect_days} z prvních {days_active} dnů. Pěkné."
+  de: "Du hast dich an {connect_days} deiner ersten {days_active} Tage verbunden. Schön."
+  el: "Συνδέθηκες {connect_days} από τις πρώτες {days_active} μέρες σου. Ωραία."
+  es: "Te has conectado {connect_days} de tus primeros {days_active} días. Bien."
+  es-419: "Te has conectado {connect_days} de tus primeros {days_active} días. Bien."
+  es-MX: "Te has conectado {connect_days} de tus primeros {days_active} días. Bien."
+  fr: "Tu t'es connecté {connect_days} de tes {days_active} premiers jours. Bien joué."
+  he: "התחברתם ב-{connect_days} מתוך {days_active} הימים הראשונים שלכם. יפה."
+  hi: "आप अपने पहले {days_active} दिनों में से {connect_days} दिन कनेक्ट हुए। बढ़िया।"
+  id: "Kamu terhubung pada {connect_days} dari {days_active} hari pertamamu. Bagus."
+  it: "Ti sei connesso in {connect_days} dei tuoi primi {days_active} giorni. Bene."
+  ja: "最初の {days_active} 日のうち {connect_days} 日、接続していますね。いい調子です。"
+  ko: "처음 {days_active}일 중 {connect_days}일 연결하셨네요. 좋습니다."
+  nl: "Je hebt op {connect_days} van je eerste {days_active} dagen verbinding gemaakt. Mooi."
+  pl: "Połączyłeś się w {connect_days} z pierwszych {days_active} dni. Nieźle."
+  pt: "Você se conectou em {connect_days} dos seus primeiros {days_active} dias. Legal."
+  pt-BR: "Você se conectou em {connect_days} dos seus primeiros {days_active} dias. Legal."
+  pt-PT: "Ligou-se em {connect_days} dos seus primeiros {days_active} dias. Boa."
+  ru: "Вы подключались {connect_days} из первых {days_active} дней. Отлично."
+  sv: "Du har anslutit {connect_days} av dina första {days_active} dagar. Snyggt."
+  sw: "Umeunganisha siku {connect_days} kati ya siku zako {days_active} za kwanza. Vizuri."
+  th: "คุณเชื่อมต่อ {connect_days} วันจาก {days_active} วันแรก เยี่ยมมาก"
+  uk: "Ви підключалися {connect_days} із перших {days_active} днів. Чудово."
+  vi: "Bạn đã kết nối {connect_days} trong {days_active} ngày đầu tiên. Tuyệt."
+  zh: "在最初的 {days_active} 天里，你有 {connect_days} 天连接过。不错。"
+  zh-HK: "在最初的 {days_active} 天裡，你有 {connect_days} 天連接過。不錯。"

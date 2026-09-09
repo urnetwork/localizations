@@ -1,0 +1,36 @@
+description: "Onboarding email E1: the whole first step. {daily_data_gb} is the free daily data preformatted by the server, e.g. \"30 GB\"."
+source: "You made your account yesterday and haven't connected yet, so here is the whole first step: open URnetwork and tap Connect. That's it. You get {daily_data_gb} of free data every day, and the app picks the best provider for you."
+platforms:
+  - email
+placeholders:
+  - name: daily_data_gb
+    type: string
+localizations:
+  en: "You made your account yesterday and haven't connected yet, so here is the whole first step: open URnetwork and tap Connect. That's it. You get {daily_data_gb} of free data every day, and the app picks the best provider for you."
+  ar: "أنشأت حسابك أمس ولم تتصل بعد، فإليك الخطوة الأولى كاملة: افتح URnetwork واضغط على «اربط». هذا كل شيء. تحصل على {daily_data_gb} من البيانات المجانية كل يوم، ويختار التطبيق أفضل مزوّد لك."
+  cs: "Účet jste si založili včera a ještě jste se nepřipojili, tak tady je celý první krok: otevřete URnetwork a klepněte na Připojit. To je vše. Každý den dostanete {daily_data_gb} dat zdarma a aplikace za vás vybere nejlepšího poskytovatele."
+  de: "Du hast dein Konto gestern angelegt und dich noch nicht verbunden, deshalb hier der ganze erste Schritt: URnetwork öffnen und auf „Verbinde“ tippen. Das war's. Du bekommst jeden Tag {daily_data_gb} kostenloses Datenvolumen, und die App wählt den besten Anbieter für dich."
+  el: "Έφτιαξες τον λογαριασμό σου χθες και δεν έχεις συνδεθεί ακόμα, οπότε να ολόκληρο το πρώτο βήμα: άνοιξε το URnetwork και πάτησε Σύνδεση. Αυτό ήταν. Παίρνεις {daily_data_gb} δωρεάν δεδομένα κάθε μέρα, και η εφαρμογή διαλέγει τον καλύτερο πάροχο για σένα."
+  es: "Creaste tu cuenta ayer y todavía no te has conectado, así que aquí va el primer paso completo: abre URnetwork y toca Conecta. Eso es todo. Recibes {daily_data_gb} de datos gratis cada día, y la app elige el mejor proveedor por ti."
+  es-419: "Creaste tu cuenta ayer y todavía no te has conectado, así que aquí va el primer paso completo: abre URnetwork y toca Conecta. Eso es todo. Recibes {daily_data_gb} de datos gratis cada día, y la app elige el mejor proveedor por ti."
+  es-MX: "Creaste tu cuenta ayer y todavía no te has conectado, así que aquí va el primer paso completo: abre URnetwork y toca Conecta. Eso es todo. Recibes {daily_data_gb} de datos gratis cada día, y la app elige el mejor proveedor por ti."
+  fr: "Tu as créé ton compte hier et tu n'es pas encore connecté, alors voici toute la première étape : ouvre URnetwork et appuie sur Connecte. C'est tout. Tu reçois {daily_data_gb} de données gratuites chaque jour, et l'app choisit le meilleur fournisseur pour toi."
+  he: "פתחת חשבון אתמול ועדיין לא התחברת, אז הנה כל הצעד הראשון: פותחים את URnetwork ומקישים על התחבר. זה הכול. מקבלים {daily_data_gb} של נתונים בחינם בכל יום, והאפליקציה בוחרת בשבילך את הספק הטוב ביותר."
+  hi: "आपने कल अपना खाता बनाया और अभी तक कनेक्ट नहीं किया, तो यह रहा पूरा पहला कदम: URnetwork खोलें और कनेक्ट करें पर टैप करें। बस इतना ही। आपको हर दिन {daily_data_gb} मुफ़्त डेटा मिलता है, और ऐप आपके लिए सबसे अच्छा प्रदाता चुनता है।"
+  id: "Kamu membuat akun kemarin dan belum terhubung, jadi ini seluruh langkah pertamanya: buka URnetwork dan ketuk Hubungkan. Itu saja. Kamu mendapat {daily_data_gb} data gratis setiap hari, dan aplikasi memilih penyedia terbaik untukmu."
+  it: "Hai creato l'account ieri e non ti sei ancora connesso, quindi ecco tutto il primo passo: apri URnetwork e tocca Connetti. Tutto qui. Ricevi {daily_data_gb} di dati gratis ogni giorno, e l'app sceglie il provider migliore per te."
+  ja: "昨日アカウントを作ったあと、まだ接続していないようなので、最初の一歩をまるごと書いておきます。URnetwork を開いて「接続」をタップする。それだけです。毎日 {daily_data_gb} の無料データがもらえて、最適なプロバイダーはアプリが選びます。"
+  ko: "어제 계정을 만드셨지만 아직 연결하지 않으셨네요. 첫 단계는 이게 전부입니다. URnetwork를 열고 연결을 누르세요. 끝입니다. 매일 {daily_data_gb}의 무료 데이터를 받고, 가장 좋은 제공자는 앱이 골라 줍니다."
+  nl: "Je hebt gisteren je account gemaakt en nog geen verbinding gemaakt, dus hier is de hele eerste stap: open URnetwork en tik op Verbinden. Dat is alles. Je krijgt elke dag {daily_data_gb} gratis data, en de app kiest de beste provider voor je."
+  pl: "Konto założyłeś wczoraj i jeszcze się nie połączyłeś, więc oto cały pierwszy krok: otwórz URnetwork i dotknij Połącz. To wszystko. Codziennie dostajesz {daily_data_gb} darmowych danych, a aplikacja wybiera dla ciebie najlepszego dostawcę."
+  pt: "Você criou sua conta ontem e ainda não se conectou, então aqui vai o primeiro passo inteiro: abra a URnetwork e toque em Conecte. É só isso. Você recebe {daily_data_gb} de dados grátis todo dia, e o app escolhe o melhor provedor para você."
+  pt-BR: "Você criou sua conta ontem e ainda não se conectou, então aqui vai o primeiro passo inteiro: abra a URnetwork e toque em Conecte. É só isso. Você recebe {daily_data_gb} de dados grátis todo dia, e o app escolhe o melhor provedor para você."
+  pt-PT: "Criou a sua conta ontem e ainda não se ligou, por isso aqui fica o primeiro passo completo: abra a URnetwork e toque em Ligar. É tudo. Recebe {daily_data_gb} de dados grátis todos os dias, e a app escolhe o melhor fornecedor por si."
+  ru: "Вы создали аккаунт вчера и ещё не подключались, так что вот весь первый шаг: откройте URnetwork и нажмите «Подключить». Это всё. Каждый день вы получаете {daily_data_gb} бесплатного трафика, а лучшего провайдера приложение выбирает само."
+  sv: "Du skapade ditt konto igår och har inte anslutit ännu, så här är hela första steget: öppna URnetwork och tryck på Anslut. Det är allt. Du får {daily_data_gb} gratis data varje dag, och appen väljer den bästa leverantören åt dig."
+  sw: "Ulitengeneza akaunti yako jana na bado hujaunganisha, kwa hivyo hii ndiyo hatua ya kwanza yote: fungua URnetwork na ugonge Unganisha. Ndivyo tu. Unapata {daily_data_gb} za data bila malipo kila siku, na programu inakuchagulia mtoa huduma bora."
+  th: "คุณสร้างบัญชีเมื่อวานและยังไม่ได้เชื่อมต่อ นี่คือขั้นตอนแรกทั้งหมด: เปิด URnetwork แล้วแตะ เชื่อมต่อ แค่นั้นเอง คุณจะได้ข้อมูลฟรี {daily_data_gb} ทุกวัน และแอปจะเลือกผู้ให้บริการที่ดีที่สุดให้คุณ"
+  uk: "Ви створили акаунт учора й ще не підключалися, тож ось увесь перший крок: відкрийте URnetwork і натисніть «Підключитися». Це все. Щодня ви отримуєте {daily_data_gb} безкоштовного трафіку, а найкращого провайдера застосунок обирає сам."
+  vi: "Bạn đã tạo tài khoản hôm qua nhưng chưa kết nối, nên đây là toàn bộ bước đầu tiên: mở URnetwork và chạm Kết nối. Chỉ vậy thôi. Mỗi ngày bạn nhận {daily_data_gb} dữ liệu miễn phí, và ứng dụng chọn nhà cung cấp tốt nhất cho bạn."
+  zh: "你昨天创建了账户但还没有连接，所以把第一步完整写在这里：打开 URnetwork，点按“连接”。就这样。你每天都有 {daily_data_gb} 的免费流量，应用会为你挑选最合适的提供者。"
+  zh-HK: "你昨天建立了帳戶但還沒有連接，所以把第一步完整寫在這裡：打開 URnetwork，點按「連接」。就這樣。你每天都有 {daily_data_gb} 的免費流量，應用程式會為你挑選最合適的提供者。"

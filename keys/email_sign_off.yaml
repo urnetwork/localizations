@@ -1,0 +1,7 @@
+description: "Onboarding emails: the first-person sign-off, the sender's name. Never translated."
+source: "Brien"
+translatable: false
+platforms:
+  - email
+localizations:
+  en: "Brien"

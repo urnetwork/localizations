@@ -1,0 +1,36 @@
+description: "Onboarding email E2, not-activated variant: social proof and an invitation to reply. {providers_online} is a count formatted by the server."
+source: "{providers_online} providers are online right now. If something is in the way, a work device, a wallet question, anything, reply and tell me."
+platforms:
+  - email
+placeholders:
+  - name: providers_online
+    type: string
+localizations:
+  en: "{providers_online} providers are online right now. If something is in the way, a work device, a wallet question, anything, reply and tell me."
+  ar: "{providers_online} مزوّد متصلون الآن. إذا كان هناك ما يعيقك، جهاز عمل، سؤال عن المحفظة، أي شيء، فردّ وأخبرني."
+  cs: "Právě teď je online {providers_online} poskytovatelů. Pokud vám něco brání, pracovní zařízení, otázka k peněžence, cokoli, odpovězte a napište mi to."
+  de: "{providers_online} Anbieter sind gerade online. Wenn dir etwas im Weg steht, ein Dienstgerät, eine Wallet-Frage, was auch immer, antworte und sag es mir."
+  el: "{providers_online} πάροχοι είναι online αυτή τη στιγμή. Αν κάτι σε εμποδίζει, μια εταιρική συσκευή, μια απορία για το πορτοφόλι, οτιδήποτε, απάντησε και πες μου."
+  es: "{providers_online} proveedores están en línea ahora mismo. Si algo se interpone, un dispositivo del trabajo, una duda sobre la billetera, lo que sea, responde y cuéntame."
+  es-419: "{providers_online} proveedores están en línea ahora mismo. Si algo se interpone, un dispositivo del trabajo, una duda sobre la billetera, lo que sea, responde y cuéntame."
+  es-MX: "{providers_online} proveedores están en línea ahora mismo. Si algo se interpone, un dispositivo del trabajo, una duda sobre la billetera, lo que sea, responde y cuéntame."
+  fr: "{providers_online} fournisseurs sont en ligne en ce moment. Si quelque chose bloque, un appareil pro, une question sur le portefeuille, n'importe quoi, réponds et dis-le-moi."
+  he: "{providers_online} ספקים מחוברים כרגע. אם משהו מפריע, מכשיר של העבודה, שאלה על הארנק, כל דבר, השיבו וספרו לי."
+  hi: "अभी {providers_online} प्रदाता ऑनलाइन हैं। अगर कुछ रास्ते में है, ऑफ़िस का डिवाइस, वॉलेट का सवाल, कुछ भी, तो जवाब देकर बताएं।"
+  id: "{providers_online} penyedia sedang online sekarang. Kalau ada yang menghalangi, perangkat kantor, pertanyaan soal dompet, apa pun, balas dan ceritakan."
+  it: "{providers_online} provider sono online in questo momento. Se qualcosa ti blocca, un dispositivo di lavoro, una domanda sul wallet, qualsiasi cosa, rispondi e dimmelo."
+  ja: "いま {providers_online} のプロバイダーがオンラインです。何かが引っかかっているなら、会社の端末でも、ウォレットの疑問でも、何でも、返信して教えてください。"
+  ko: "지금 {providers_online}명의 제공자가 온라인입니다. 회사 기기든, 지갑 관련 질문이든, 무엇이든 걸리는 게 있다면 답장으로 알려 주세요."
+  nl: "{providers_online} providers zijn nu online. Als iets in de weg zit, een werkapparaat, een vraag over de wallet, wat dan ook, antwoord dan en vertel het me."
+  pl: "{providers_online} dostawców jest teraz online. Jeśli coś stoi na przeszkodzie, służbowe urządzenie, pytanie o portfel, cokolwiek, odpowiedz i napisz mi."
+  pt: "{providers_online} provedores estão online agora. Se algo está atrapalhando, um aparelho do trabalho, uma dúvida sobre carteira, qualquer coisa, responda e me conte."
+  pt-BR: "{providers_online} provedores estão online agora. Se algo está atrapalhando, um aparelho do trabalho, uma dúvida sobre carteira, qualquer coisa, responda e me conte."
+  pt-PT: "{providers_online} fornecedores estão online neste momento. Se algo está a atrapalhar, um dispositivo do trabalho, uma dúvida sobre a carteira, o que for, responda e diga-me."
+  ru: "Прямо сейчас онлайн {providers_online} провайдеров. Если что-то мешает: рабочее устройство, вопрос про кошелёк, что угодно, ответьте и расскажите."
+  sv: "{providers_online} leverantörer är online just nu. Om något är i vägen, en jobbenhet, en fråga om plånboken, vad som helst, svara och berätta."
+  sw: "Watoa huduma {providers_online} wako mtandaoni sasa hivi. Ikiwa kuna kitu kinakuzuia, kifaa cha kazini, swali kuhusu pochi, chochote, jibu na uniambie."
+  th: "ตอนนี้มีผู้ให้บริการ {providers_online} รายออนไลน์ ถ้ามีอะไรติดขัด อุปกรณ์ที่ทำงาน คำถามเรื่องกระเป๋าเงิน อะไรก็ตาม ตอบกลับมาบอกผมได้เลย"
+  uk: "Просто зараз онлайн {providers_online} провайдерів. Якщо щось заважає: робочий пристрій, питання про гаманець, будь-що, дайте відповідь і розкажіть."
+  vi: "{providers_online} nhà cung cấp đang trực tuyến ngay lúc này. Nếu có gì cản trở, thiết bị công ty, thắc mắc về ví, bất cứ điều gì, hãy trả lời và cho tôi biết."
+  zh: "此刻有 {providers_online} 个提供者在线。如果有什么卡住了，比如公司设备、钱包方面的问题，什么都行，回复告诉我。"
+  zh-HK: "此刻有 {providers_online} 個提供者在線。如果有什麼卡住了，比如公司裝置、錢包方面的問題，什麼都行，回覆告訴我。"

@@ -1,0 +1,36 @@
+description: "Onboarding email E4a/E3b, not-activated variant: opening line before the one-tap reasons. {days_active} is the number of days since sign-up (at least 5 on any real send)."
+source: "You made an account {days_active} days ago and never connected. I'd rather learn why than keep sending you tips. One tap:"
+platforms:
+  - email
+placeholders:
+  - name: days_active
+    type: string
+localizations:
+  en: "You made an account {days_active} days ago and never connected. I'd rather learn why than keep sending you tips. One tap:"
+  ar: "أنشأت حساباً قبل {days_active} أيام ولم تتصل قط. أفضّل أن أعرف السبب على أن أواصل إرسال النصائح إليك. ضغطة واحدة:"
+  cs: "Založili jste si účet před {days_active} dny a nikdy jste se nepřipojili. Raději bych zjistil proč, než vám dál posílat tipy. Jedno klepnutí:"
+  de: "Du hast vor {days_active} Tagen ein Konto angelegt und dich nie verbunden. Ich wüsste lieber warum, statt dir weiter Tipps zu schicken. Ein Tipp:"
+  el: "Έφτιαξες λογαριασμό πριν από {days_active} μέρες και δεν συνδέθηκες ποτέ. Προτιμώ να μάθω γιατί, αντί να συνεχίσω να σου στέλνω συμβουλές. Ένα πάτημα:"
+  es: "Creaste una cuenta hace {days_active} días y nunca te conectaste. Prefiero saber por qué antes que seguir enviándote consejos. Un toque:"
+  es-419: "Creaste una cuenta hace {days_active} días y nunca te conectaste. Prefiero saber por qué antes que seguir enviándote consejos. Un toque:"
+  es-MX: "Creaste una cuenta hace {days_active} días y nunca te conectaste. Prefiero saber por qué antes que seguir enviándote consejos. Un toque:"
+  fr: "Tu as créé un compte il y a {days_active} jours et tu ne t'es jamais connecté. Je préfère savoir pourquoi plutôt que de continuer à t'envoyer des conseils. Un geste :"
+  he: "פתחתם חשבון לפני {days_active} ימים ולא התחברתם אף פעם. אני מעדיף להבין למה במקום להמשיך לשלוח טיפים. הקשה אחת:"
+  hi: "आपने {days_active} दिन पहले खाता बनाया और कभी कनेक्ट नहीं हुए। मैं आपको और टिप्स भेजने के बजाय वजह जानना चाहूँगा। एक टैप:"
+  id: "Kamu membuat akun {days_active} hari lalu dan tidak pernah terhubung. Saya lebih suka tahu alasannya daripada terus mengirim tips. Satu ketukan:"
+  it: "Hai creato un account {days_active} giorni fa e non ti sei mai connesso. Preferisco capire perché piuttosto che continuare a mandarti consigli. Un tocco:"
+  ja: "{days_active} 日前にアカウントを作ってから、一度も接続がありません。コツを送り続けるより、理由を知りたいです。ワンタップで："
+  ko: "{days_active}일 전에 계정을 만드셨지만 한 번도 연결하지 않으셨네요. 팁을 계속 보내기보다 이유를 알고 싶습니다. 한 번만 눌러 주세요:"
+  nl: "Je hebt {days_active} dagen geleden een account gemaakt en nooit verbinding gemaakt. Ik hoor liever waarom dan je nog meer tips te sturen. Eén tik:"
+  pl: "Założyłeś konto {days_active} dni temu i nigdy się nie połączyłeś. Wolałbym dowiedzieć się dlaczego, niż dalej słać ci wskazówki. Jedno dotknięcie:"
+  pt: "Você criou uma conta há {days_active} dias e nunca se conectou. Prefiro entender o motivo a continuar mandando dicas. Um toque:"
+  pt-BR: "Você criou uma conta há {days_active} dias e nunca se conectou. Prefiro entender o motivo a continuar mandando dicas. Um toque:"
+  pt-PT: "Criou uma conta há {days_active} dias e nunca se ligou. Prefiro perceber porquê a continuar a enviar-lhe dicas. Um toque:"
+  ru: "Вы создали аккаунт {days_active} дней назад и ни разу не подключались. Я лучше узнаю почему, чем буду и дальше слать советы. Одно касание:"
+  sv: "Du skapade ett konto för {days_active} dagar sedan och har aldrig anslutit. Jag vill hellre veta varför än fortsätta skicka tips. Ett tryck:"
+  sw: "Ulitengeneza akaunti siku {days_active} zilizopita na hujawahi kuunganisha. Ningependa kujua kwa nini badala ya kuendelea kukutumia vidokezo. Mguso mmoja:"
+  th: "คุณสร้างบัญชีเมื่อ {days_active} วันก่อนและไม่เคยเชื่อมต่อเลย ผมอยากรู้เหตุผลมากกว่าส่งเคล็ดลับให้คุณต่อไป แตะครั้งเดียว:"
+  uk: "Ви створили акаунт {days_active} днів тому й жодного разу не підключалися. Я краще дізнаюся чому, ніж надсилатиму вам ще поради. Один дотик:"
+  vi: "Bạn đã tạo tài khoản {days_active} ngày trước và chưa từng kết nối. Tôi muốn biết lý do hơn là tiếp tục gửi mẹo cho bạn. Một chạm:"
+  zh: "你 {days_active} 天前创建了账户，但一直没有连接。比起继续给你发提示，我更想知道原因。点一下："
+  zh-HK: "你 {days_active} 天前建立了帳戶，但一直沒有連接。比起繼續給你發提示，我更想知道原因。點一下："

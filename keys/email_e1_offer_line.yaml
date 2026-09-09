@@ -1,0 +1,36 @@
+description: "Onboarding email E1, path A only: one footer line with the welcome offer deadline. {offer_expires_at} is a local date and time, e.g. \"Thu 12 Sep, 9:00 pm\"."
+source: "Your welcome offer, 3 months of Pro free, is available until {offer_expires_at}."
+platforms:
+  - email
+placeholders:
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "Your welcome offer, 3 months of Pro free, is available until {offer_expires_at}."
+  ar: "عرض الترحيب الخاص بك، 3 أشهر من Pro مجاناً، متاح حتى {offer_expires_at}."
+  cs: "Vaše uvítací nabídka, 3 měsíce Pro zdarma, platí do {offer_expires_at}."
+  de: "Dein Willkommensangebot, 3 Monate Pro gratis, gilt bis {offer_expires_at}."
+  el: "Η προσφορά καλωσορίσματος, 3 μήνες Pro δωρεάν, ισχύει μέχρι {offer_expires_at}."
+  es: "Tu oferta de bienvenida, 3 meses de Pro gratis, está disponible hasta {offer_expires_at}."
+  es-419: "Tu oferta de bienvenida, 3 meses de Pro gratis, está disponible hasta {offer_expires_at}."
+  es-MX: "Tu oferta de bienvenida, 3 meses de Pro gratis, está disponible hasta {offer_expires_at}."
+  fr: "Ton offre de bienvenue, 3 mois de Pro offerts, est disponible jusqu'au {offer_expires_at}."
+  he: "מבצע הברוכים הבאים שלך, 3 חודשי Pro בחינם, זמין עד {offer_expires_at}."
+  hi: "आपका स्वागत ऑफ़र, 3 महीने Pro मुफ़्त, {offer_expires_at} तक उपलब्ध है।"
+  id: "Penawaran sambutanmu, 3 bulan Pro gratis, tersedia sampai {offer_expires_at}."
+  it: "La tua offerta di benvenuto, 3 mesi di Pro gratis, è disponibile fino al {offer_expires_at}."
+  ja: "ウェルカムオファー（Pro が3か月無料）は {offer_expires_at} までご利用いただけます。"
+  ko: "환영 혜택(Pro 3개월 무료)은 {offer_expires_at}까지 이용할 수 있습니다."
+  nl: "Je welkomstaanbieding, 3 maanden Pro gratis, is beschikbaar tot {offer_expires_at}."
+  pl: "Twoja oferta powitalna, 3 miesiące Pro za darmo, jest dostępna do {offer_expires_at}."
+  pt: "Sua oferta de boas-vindas, 3 meses de Pro grátis, está disponível até {offer_expires_at}."
+  pt-BR: "Sua oferta de boas-vindas, 3 meses de Pro grátis, está disponível até {offer_expires_at}."
+  pt-PT: "A sua oferta de boas-vindas, 3 meses de Pro grátis, está disponível até {offer_expires_at}."
+  ru: "Ваше приветственное предложение — 3 месяца Pro бесплатно — действует до {offer_expires_at}."
+  sv: "Ditt välkomsterbjudande, 3 månader Pro gratis, gäller till {offer_expires_at}."
+  sw: "Ofa yako ya kukaribisha, miezi 3 ya Pro bila malipo, inapatikana hadi {offer_expires_at}."
+  th: "ข้อเสนอต้อนรับของคุณ Pro ฟรี 3 เดือน ใช้ได้ถึง {offer_expires_at}"
+  uk: "Ваша вітальна пропозиція — 3 місяці Pro безкоштовно — діє до {offer_expires_at}."
+  vi: "Ưu đãi chào mừng của bạn, 3 tháng Pro miễn phí, có hiệu lực đến {offer_expires_at}."
+  zh: "你的欢迎优惠（Pro 免费 3 个月）可用至 {offer_expires_at}。"
+  zh-HK: "你的歡迎優惠（Pro 免費 3 個月）可用至 {offer_expires_at}。"

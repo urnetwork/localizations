@@ -1,0 +1,40 @@
+description: "Onboarding email E5b: the price, the trial and the cancel path. {offer_price} and {regular_price} are localized amounts; {trial_end_at} is a local date."
+source: "That is {offer_price} for your first year instead of {regular_price}, with a 14-day free trial first. Nothing is charged until {trial_end_at}, and you can cancel any time before then."
+platforms:
+  - email
+placeholders:
+  - name: offer_price
+    type: string
+  - name: regular_price
+    type: string
+  - name: trial_end_at
+    type: string
+localizations:
+  en: "That is {offer_price} for your first year instead of {regular_price}, with a 14-day free trial first. Nothing is charged until {trial_end_at}, and you can cancel any time before then."
+  ar: "أي {offer_price} لسنتك الأولى بدلاً من {regular_price}، مع فترة تجريبية مجانية لمدة 14 يوماً أولاً. لن يُحصَّل أي مبلغ حتى {trial_end_at}، ويمكنك الإلغاء في أي وقت قبل ذلك."
+  cs: "To je {offer_price} za první rok místo {regular_price}, nejdřív se 14denní zkušební verzí zdarma. Do {trial_end_at} se nic neúčtuje a do té doby můžete kdykoli zrušit."
+  de: "Das sind {offer_price} für dein erstes Jahr statt {regular_price}, mit einer 14-tägigen kostenlosen Testphase zuerst. Bis {trial_end_at} wird nichts berechnet, und bis dahin kannst du jederzeit kündigen."
+  el: "Δηλαδή {offer_price} για τον πρώτο σου χρόνο αντί για {regular_price}, με δωρεάν δοκιμή 14 ημερών πρώτα. Δεν χρεώνεται τίποτα μέχρι {trial_end_at}, και μπορείς να ακυρώσεις οποιαδήποτε στιγμή πριν από τότε."
+  es: "Es decir, {offer_price} por tu primer año en lugar de {regular_price}, con una prueba gratis de 14 días primero. No se cobra nada hasta {trial_end_at}, y puedes cancelar en cualquier momento antes."
+  es-419: "Es decir, {offer_price} por tu primer año en lugar de {regular_price}, con una prueba gratis de 14 días primero. No se cobra nada hasta {trial_end_at}, y puedes cancelar en cualquier momento antes."
+  es-MX: "Es decir, {offer_price} por tu primer año en lugar de {regular_price}, con una prueba gratis de 14 días primero. No se cobra nada hasta {trial_end_at}, y puedes cancelar en cualquier momento antes."
+  fr: "Soit {offer_price} pour ta première année au lieu de {regular_price}, avec d'abord un essai gratuit de 14 jours. Rien n'est prélevé avant le {trial_end_at}, et tu peux annuler à tout moment avant cela."
+  he: "כלומר {offer_price} לשנה הראשונה במקום {regular_price}, עם ניסיון חינם של 14 יום קודם. לא מחויבים בכלום עד {trial_end_at}, ואפשר לבטל בכל רגע לפני כן."
+  hi: "यानी पहले साल के लिए {regular_price} की जगह {offer_price}, और उससे पहले 14 दिन का मुफ़्त ट्रायल। {trial_end_at} तक कुछ भी चार्ज नहीं होता, और आप उससे पहले कभी भी रद्द कर सकते हैं।"
+  id: "Artinya {offer_price} untuk tahun pertamamu, bukan {regular_price}, dengan uji coba gratis 14 hari lebih dulu. Tidak ada tagihan sampai {trial_end_at}, dan kamu bisa membatalkan kapan saja sebelum itu."
+  it: "Cioè {offer_price} per il primo anno invece di {regular_price}, con prima una prova gratuita di 14 giorni. Non viene addebitato nulla fino al {trial_end_at}, e puoi annullare in qualsiasi momento prima."
+  ja: "初年度は {regular_price} のところ {offer_price}、しかも最初は14日間の無料トライアルです。{trial_end_at} までは一切請求されず、それまでならいつでもキャンセルできます。"
+  ko: "첫해는 {regular_price} 대신 {offer_price}이고, 먼저 14일 무료 체험이 있습니다. {trial_end_at}까지는 아무것도 청구되지 않으며, 그 전에는 언제든 취소할 수 있습니다."
+  nl: "Dat is {offer_price} voor je eerste jaar in plaats van {regular_price}, met eerst een gratis proefperiode van 14 dagen. Tot {trial_end_at} wordt niets in rekening gebracht, en tot die tijd kun je altijd opzeggen."
+  pl: "Czyli {offer_price} za pierwszy rok zamiast {regular_price}, a najpierw 14-dniowy bezpłatny okres próbny. Do {trial_end_at} nic nie jest pobierane, a do tego czasu możesz w każdej chwili anulować."
+  pt: "Ou seja, {offer_price} pelo seu primeiro ano em vez de {regular_price}, com um teste grátis de 14 dias antes. Nada é cobrado até {trial_end_at}, e você pode cancelar a qualquer momento antes disso."
+  pt-BR: "Ou seja, {offer_price} pelo seu primeiro ano em vez de {regular_price}, com um teste grátis de 14 dias antes. Nada é cobrado até {trial_end_at}, e você pode cancelar a qualquer momento antes disso."
+  pt-PT: "Ou seja, {offer_price} pelo primeiro ano em vez de {regular_price}, com um período de teste grátis de 14 dias primeiro. Nada é cobrado até {trial_end_at}, e pode cancelar a qualquer momento antes disso."
+  ru: "Это {offer_price} за первый год вместо {regular_price}, и сначала 14-дневный бесплатный период. До {trial_end_at} ничего не списывается, и до этого момента можно отменить в любое время."
+  sv: "Det är {offer_price} för ditt första år i stället för {regular_price}, med en 14 dagars gratis provperiod först. Inget dras förrän {trial_end_at}, och du kan avsluta när som helst innan dess."
+  sw: "Hiyo ni {offer_price} kwa mwaka wako wa kwanza badala ya {regular_price}, na jaribio la bure la siku 14 kwanza. Hakuna kinachotozwa hadi {trial_end_at}, na unaweza kughairi wakati wowote kabla ya hapo."
+  th: "นั่นคือ {offer_price} สำหรับปีแรกแทนที่จะเป็น {regular_price} โดยมีการทดลองใช้ฟรี 14 วันก่อน จะไม่มีการเรียกเก็บเงินจนถึง {trial_end_at} และคุณยกเลิกได้ทุกเมื่อก่อนหน้านั้น"
+  uk: "Це {offer_price} за перший рік замість {regular_price}, і спочатку 14-денний безкоштовний період. До {trial_end_at} нічого не списується, і до того часу можна скасувати будь-коли."
+  vi: "Tức là {offer_price} cho năm đầu thay vì {regular_price}, với 14 ngày dùng thử miễn phí trước. Không có khoản phí nào cho đến {trial_end_at}, và bạn có thể hủy bất cứ lúc nào trước đó."
+  zh: "也就是第一年 {offer_price}，而不是 {regular_price}，并且先有 14 天免费试用。{trial_end_at} 之前不会收取任何费用，在此之前你随时可以取消。"
+  zh-HK: "也就是第一年 {offer_price}，而不是 {regular_price}，並且先有 14 天免費試用。{trial_end_at} 之前不會收取任何費用，在此之前你隨時可以取消。"

@@ -1,0 +1,36 @@
+description: "Onboarding email E1: invitation to reply. {platform} is the device name the server knows, e.g. \"iPhone\" or \"Android phone\"."
+source: "If Connect didn't work on your {platform}, reply to this email and tell me what you saw. I read every reply."
+platforms:
+  - email
+placeholders:
+  - name: platform
+    type: string
+localizations:
+  en: "If Connect didn't work on your {platform}, reply to this email and tell me what you saw. I read every reply."
+  ar: "إذا لم يعمل «اربط» على {platform} لديك، فردّ على هذه الرسالة وأخبرني بما رأيته. أقرأ كل ردّ."
+  cs: "Pokud Připojit na vašem {platform} nefungovalo, odpovězte na tento e-mail a napište mi, co jste viděli. Čtu každou odpověď."
+  de: "Wenn „Verbinde“ auf deinem {platform} nicht funktioniert hat, antworte auf diese E-Mail und sag mir, was du gesehen hast. Ich lese jede Antwort."
+  el: "Αν η Σύνδεση δεν δούλεψε στο {platform} σου, απάντησε σε αυτό το email και πες μου τι είδες. Διαβάζω κάθε απάντηση."
+  es: "Si Conecta no funcionó en tu {platform}, responde a este correo y cuéntame qué viste. Leo todas las respuestas."
+  es-419: "Si Conecta no funcionó en tu {platform}, responde a este correo y cuéntame qué viste. Leo todas las respuestas."
+  es-MX: "Si Conecta no funcionó en tu {platform}, responde a este correo y cuéntame qué viste. Leo todas las respuestas."
+  fr: "Si Connecte n'a pas marché sur ton {platform}, réponds à cet e-mail et dis-moi ce que tu as vu. Je lis chaque réponse."
+  he: "אם התחבר לא עבד ב{platform} שלך, השיבו למייל הזה וספרו לי מה ראיתם. אני קורא כל תשובה."
+  hi: "अगर आपके {platform} पर कनेक्ट करें काम नहीं किया, तो इस ईमेल का जवाब दें और बताएं कि आपने क्या देखा। मैं हर जवाब पढ़ता हूँ।"
+  id: "Kalau Hubungkan tidak berhasil di {platform} kamu, balas email ini dan ceritakan apa yang kamu lihat. Saya membaca setiap balasan."
+  it: "Se Connetti non ha funzionato sul tuo {platform}, rispondi a questa email e dimmi cosa hai visto. Leggo ogni risposta."
+  ja: "お使いの {platform} で「接続」がうまくいかなかったら、このメールに返信して、何が表示されたか教えてください。返信はすべて読んでいます。"
+  ko: "{platform}에서 연결이 안 됐다면 이 메일에 답장해서 어떤 화면이 나왔는지 알려 주세요. 모든 답장을 읽습니다."
+  nl: "Als Verbinden niet werkte op je {platform}, beantwoord dan deze e-mail en vertel me wat je zag. Ik lees elk antwoord."
+  pl: "Jeśli Połącz nie zadziałało na twoim {platform}, odpowiedz na ten e-mail i napisz, co widziałeś. Czytam każdą odpowiedź."
+  pt: "Se Conecte não funcionou no seu {platform}, responda a este e-mail e me conte o que você viu. Eu leio todas as respostas."
+  pt-BR: "Se Conecte não funcionou no seu {platform}, responda a este e-mail e me conte o que você viu. Eu leio todas as respostas."
+  pt-PT: "Se Ligar não funcionou no seu {platform}, responda a este e-mail e diga-me o que viu. Leio todas as respostas."
+  ru: "Если «Подключить» не сработало на вашем {platform}, ответьте на это письмо и расскажите, что вы увидели. Я читаю каждый ответ."
+  sv: "Om Anslut inte fungerade på din {platform}, svara på det här mejlet och berätta vad du såg. Jag läser varje svar."
+  sw: "Ikiwa Unganisha haikufanya kazi kwenye {platform} yako, jibu barua pepe hii na uniambie ulichoona. Ninasoma kila jibu."
+  th: "ถ้า เชื่อมต่อ ไม่ทำงานบน {platform} ของคุณ ตอบกลับอีเมลนี้แล้วบอกผมว่าคุณเห็นอะไร ผมอ่านทุกคำตอบ"
+  uk: "Якщо «Підключитися» не спрацювало на вашому {platform}, дайте відповідь на цей лист і розкажіть, що ви побачили. Я читаю кожну відповідь."
+  vi: "Nếu Kết nối không hoạt động trên {platform} của bạn, hãy trả lời email này và cho tôi biết bạn thấy gì. Tôi đọc mọi câu trả lời."
+  zh: "如果“连接”在你的 {platform} 上不起作用，请回复这封邮件，告诉我你看到了什么。每一封回复我都会读。"
+  zh-HK: "如果「連接」在你的 {platform} 上不起作用，請回覆這封郵件，告訴我你看到了什麼。每一封回覆我都會讀。"

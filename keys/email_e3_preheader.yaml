@@ -1,0 +1,36 @@
+description: "Onboarding email E3a/E5b: preview text with the deadline. {offer_expires_at} is a local date and time."
+source: "Your welcome offer is available until {offer_expires_at}."
+platforms:
+  - email
+placeholders:
+  - name: offer_expires_at
+    type: string
+localizations:
+  en: "Your welcome offer is available until {offer_expires_at}."
+  ar: "عرض الترحيب الخاص بك متاح حتى {offer_expires_at}."
+  cs: "Vaše uvítací nabídka platí do {offer_expires_at}."
+  de: "Dein Willkommensangebot gilt bis {offer_expires_at}."
+  el: "Η προσφορά καλωσορίσματος ισχύει μέχρι {offer_expires_at}."
+  es: "Tu oferta de bienvenida está disponible hasta {offer_expires_at}."
+  es-419: "Tu oferta de bienvenida está disponible hasta {offer_expires_at}."
+  es-MX: "Tu oferta de bienvenida está disponible hasta {offer_expires_at}."
+  fr: "Ton offre de bienvenue est disponible jusqu'au {offer_expires_at}."
+  he: "מבצע הברוכים הבאים שלך זמין עד {offer_expires_at}."
+  hi: "आपका स्वागत ऑफ़र {offer_expires_at} तक उपलब्ध है।"
+  id: "Penawaran sambutanmu tersedia sampai {offer_expires_at}."
+  it: "La tua offerta di benvenuto è disponibile fino al {offer_expires_at}."
+  ja: "ウェルカムオファーは {offer_expires_at} までご利用いただけます。"
+  ko: "환영 혜택은 {offer_expires_at}까지 이용할 수 있습니다."
+  nl: "Je welkomstaanbieding is beschikbaar tot {offer_expires_at}."
+  pl: "Twoja oferta powitalna jest dostępna do {offer_expires_at}."
+  pt: "Sua oferta de boas-vindas está disponível até {offer_expires_at}."
+  pt-BR: "Sua oferta de boas-vindas está disponível até {offer_expires_at}."
+  pt-PT: "A sua oferta de boas-vindas está disponível até {offer_expires_at}."
+  ru: "Ваше приветственное предложение действует до {offer_expires_at}."
+  sv: "Ditt välkomsterbjudande gäller till {offer_expires_at}."
+  sw: "Ofa yako ya kukaribisha inapatikana hadi {offer_expires_at}."
+  th: "ข้อเสนอต้อนรับของคุณใช้ได้ถึง {offer_expires_at}"
+  uk: "Ваша вітальна пропозиція діє до {offer_expires_at}."
+  vi: "Ưu đãi chào mừng của bạn có hiệu lực đến {offer_expires_at}."
+  zh: "你的欢迎优惠可用至 {offer_expires_at}。"
+  zh-HK: "你的歡迎優惠可用至 {offer_expires_at}。"
