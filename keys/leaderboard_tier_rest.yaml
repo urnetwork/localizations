@@ -1,0 +1,36 @@
+description: "Points leaderboard scroll indicator: the tier line for ranks below the top 50%."
+source: "Everyone else"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "البقية"
+  cs: "Ostatní"
+  de: "Alle anderen"
+  el: "Όλοι οι υπόλοιποι"
+  en: "Everyone else"
+  es: "Los demás"
+  es-MX: "Los demás"
+  fr: "Tous les autres"
+  he: "כל השאר"
+  hi: "बाकी सभी"
+  id: "Semua lainnya"
+  it: "Tutti gli altri"
+  ja: "その他"
+  ko: "나머지"
+  nl: "Alle anderen"
+  pl: "Pozostali"
+  pt: "Todos os outros"
+  pt-BR: "Todos os outros"
+  pt-PT: "Todos os outros"
+  ru: "Все остальные"
+  sv: "Alla andra"
+  sw: "Wengine wote"
+  th: "ที่เหลือทั้งหมด"
+  uk: "Усі інші"
+  vi: "Những người khác"
+  zh: "其他"
+  zh-HK: "其他"

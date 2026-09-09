@@ -1,0 +1,39 @@
+description: "Points leaderboard scroll indicator: the tier line under the rank while dragging; {percent} is 1, 5, 10, 25 or 50."
+source: "Top %@%%"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: percent
+    type: string
+localizations:
+  ar: "أعلى {percent}%"
+  cs: "Nejlepších {percent} %"
+  de: "Top {percent} %"
+  el: "Κορυφαίο {percent}%"
+  en: "Top {percent}%"
+  es: "Top {percent} %"
+  es-MX: "Top {percent} %"
+  fr: "Top {percent} %"
+  he: "{percent}% העליונים"
+  hi: "शीर्ष {percent}%"
+  id: "{percent}% teratas"
+  it: "Top {percent}%"
+  ja: "上位{percent}%"
+  ko: "상위 {percent}%"
+  nl: "Top {percent}%"
+  pl: "Górne {percent}%"
+  pt: "Top {percent}%"
+  pt-BR: "Top {percent}%"
+  pt-PT: "Top {percent}%"
+  ru: "Топ {percent}%"
+  sv: "Topp {percent} %"
+  sw: "Juu {percent}%"
+  th: "{percent}% แรก"
+  uk: "Топ {percent}%"
+  vi: "Top {percent}%"
+  zh: "前 {percent}%"
+  zh-HK: "前 {percent}%"

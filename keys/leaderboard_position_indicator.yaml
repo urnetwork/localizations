@@ -1,0 +1,36 @@
+description: "Points leaderboard: accessibility name of the draggable position indicator (a slider over ranks 1 to N)."
+source: "Leaderboard position"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "الموضع في لوحة الصدارة"
+  cs: "Pozice v žebříčku"
+  de: "Position in der Rangliste"
+  el: "Θέση στην κατάταξη"
+  en: "Leaderboard position"
+  es: "Posición en la clasificación"
+  es-MX: "Posición en la clasificación"
+  fr: "Position au classement"
+  he: "מיקום בטבלת המובילים"
+  hi: "लीडरबोर्ड में स्थान"
+  id: "Posisi papan peringkat"
+  it: "Posizione in classifica"
+  ja: "リーダーボードの位置"
+  ko: "리더보드 위치"
+  nl: "Positie op het klassement"
+  pl: "Pozycja w rankingu"
+  pt: "Posição na classificação"
+  pt-BR: "Posição no ranking"
+  pt-PT: "Posição na classificação"
+  ru: "Позиция в таблице лидеров"
+  sv: "Placering på topplistan"
+  sw: "Nafasi kwenye ubao"
+  th: "ตำแหน่งบนกระดานผู้นำ"
+  uk: "Позиція в таблиці лідерів"
+  vi: "Vị trí trên bảng xếp hạng"
+  zh: "排行榜位置"
+  zh-HK: "排行榜位置"
