@@ -2,6 +2,7 @@ description: "Used in Authenticate/LoginInitial/AuthCodeLoginSheet.swift."
 source: "There was an error validating your auth code. Please try again or generate a new one"
 platforms:
   - apple
+  - site
 localizations:
   ar: "حدث خطأ أثناء التحقق من رمز المصادقة الخاص بك. يرجى المحاولة مرة أخرى أو إنشاء رمز جديد."
   cs: "Došlo k chybě při ověřování vašeho ověřovacího kódu. Zkuste to prosím znovu nebo vygenerujte nový kód."

@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - web
+  - site
 aliases:
   - continue
 localizations:

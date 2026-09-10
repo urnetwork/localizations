@@ -5,6 +5,7 @@ platforms:
   - apple
   - linux
   - windows
+  - site
 localizations:
   ar: "رمز المصادقة"
   cs: "Ověřovací kód"

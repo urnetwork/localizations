@@ -1,0 +1,6 @@
+description: "Login stack: hint above the auth code field when signing in with a code generated elsewhere."
+source: "Paste an auth code generated from another device or the command line tools."
+platforms:
+  - site
+localizations:
+  en: "Paste an auth code generated from another device or the command line tools."
