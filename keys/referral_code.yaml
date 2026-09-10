@@ -2,6 +2,7 @@ description: "Call to action"
 source: "Referral code"
 platforms:
   - android
+  - site
 localizations:
   ar: "رمز الإحالة"
   cs: "Doporující kód"

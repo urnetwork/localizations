@@ -3,6 +3,7 @@ source: "Add referral code"
 platforms:
   - android
   - apple
+  - site
 localizations:
   ar: "إضافة رمز الإحالة"
   cs: "Přidání doporučujícího kódu"

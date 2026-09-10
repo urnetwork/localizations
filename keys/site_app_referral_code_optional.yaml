@@ -2,6 +2,8 @@ description: "Sign-up dialog: label of the optional referral code field"
 source: "Referral code (optional)"
 platforms:
   - site
+deprecated:
+  - site
 localizations:
   ar: "رمز الإحالة (اختياري)"
   de: "Empfehlungscode (optional)"
