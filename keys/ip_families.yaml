@@ -1,0 +1,9 @@
+description: "Title of the IP version histogram under the transport bar in the connect drawer: the connected providers grouped by whether they carry both IP versions, only IPv4, or only IPv6."
+source: "IP versions"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "IP versions"

@@ -1,0 +1,6 @@
+description: "Accessibility label for a provider that carries both IPv4 and IPv6 traffic."
+source: "IPv4 and IPv6"
+platforms:
+  - apple
+localizations:
+  en: "IPv4 and IPv6"
