@@ -1,0 +1,9 @@
+description: "Shown in the account Extenders section when there is no signed-in device to manage extenders with."
+source: "Sign in and connect to manage extenders."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Sign in and connect to manage extenders."
