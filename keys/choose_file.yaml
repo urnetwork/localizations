@@ -1,0 +1,9 @@
+description: "Button on desktop: pick a file that contains a QR code image."
+source: "Choose file"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Choose file"
