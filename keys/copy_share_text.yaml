@@ -1,0 +1,9 @@
+description: "Button on the share screen: copy the text form of the code."
+source: "Copy share text"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Copy share text"

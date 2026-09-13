@@ -1,0 +1,12 @@
+description: "Error when a share code belongs to another network. The argument is that network's host."
+source: "This code is for %@, not this network. Use extender settings to switch networks."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: host
+    type: string
+localizations:
+  en: "This code is for {host}, not this network. Use extender settings to switch networks."

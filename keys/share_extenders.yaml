@@ -1,0 +1,9 @@
+description: "Button and screen title: share the known extenders as a QR code."
+source: "Share extenders"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Share extenders"

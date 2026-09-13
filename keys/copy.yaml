@@ -4,6 +4,7 @@ platforms:
   - android
   - windows
   - linux
+  - apple
 localizations:
   ar: "انسخ"
   cs: "Kopírovat"

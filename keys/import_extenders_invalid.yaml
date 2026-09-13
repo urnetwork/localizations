@@ -1,0 +1,9 @@
+description: "Error when the scanned or pasted text is not an extender share code."
+source: "This code is not an extender share."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "This code is not an extender share."

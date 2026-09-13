@@ -1,0 +1,9 @@
+description: "Label of the manual extender list field: hostnames or IP addresses, one per line."
+source: "Extender hosts"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Extender hosts"

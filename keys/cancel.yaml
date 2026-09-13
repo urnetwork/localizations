@@ -4,6 +4,8 @@ platforms:
   - android
   - apple
   - site
+  - linux
+  - windows
 localizations:
   ar: "ألغِ"
   cs: "Zrušit"

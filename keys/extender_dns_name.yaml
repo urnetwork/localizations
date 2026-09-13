@@ -1,0 +1,9 @@
+description: "Label of the extender DNS name field. Empty means the network space default."
+source: "Extender DNS name"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Extender DNS name"

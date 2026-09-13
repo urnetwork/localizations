@@ -1,0 +1,9 @@
+description: "Label of the gossip network status dot in the extender panel."
+source: "Gossip network"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Gossip network"

@@ -1,0 +1,16 @@
+description: "Confirmation after an import, with the number of extenders added."
+source: "Imported %lld extenders"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "Imported {count} extender"
+    other: "Imported {count} extenders"

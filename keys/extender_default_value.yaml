@@ -1,0 +1,12 @@
+description: "Placeholder shown in an empty extender settings field, naming the default value that applies."
+source: "Default: %@"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: value
+    type: string
+localizations:
+  en: "Default: {value}"

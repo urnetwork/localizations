@@ -3,6 +3,8 @@ source: "Disconnected"
 platforms:
   - windows
   - apple
+  - android
+  - linux
 localizations:
   ar: "غير متصل"
   cs: "Odpojeno"

@@ -1,0 +1,9 @@
+description: "Label of the gossip URL field. Empty means the network space default."
+source: "Gossip URL"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Gossip URL"

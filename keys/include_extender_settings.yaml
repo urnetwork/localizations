@@ -1,0 +1,9 @@
+description: "Toggle on the share screen: also include the extender DNS name, gossip URL and root keys in the code."
+source: "Include extender settings"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Include extender settings"

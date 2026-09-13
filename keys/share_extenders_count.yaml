@@ -1,0 +1,16 @@
+description: "How many extenders the share code carries."
+source: "%lld extenders"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} extender"
+    other: "{count} extenders"

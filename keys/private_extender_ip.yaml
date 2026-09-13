@@ -1,0 +1,9 @@
+description: "Label of the private extender IP address field."
+source: "IP address"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "IP address"

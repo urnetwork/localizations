@@ -1,0 +1,16 @@
+description: "The count of extender records and revocations applied from the gossip network or the feed in the last minute."
+source: "%lld events/min"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} event/min"
+    other: "{count} events/min"

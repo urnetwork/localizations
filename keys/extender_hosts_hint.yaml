@@ -1,0 +1,9 @@
+description: "Help text under the manual extender list field."
+source: "One hostname or IP address per line. These are added to the discovered extenders."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "One hostname or IP address per line. These are added to the discovered extenders."
