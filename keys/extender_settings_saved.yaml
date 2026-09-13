@@ -1,0 +1,9 @@
+description: "Confirmation after the extender settings are saved."
+source: "Extender settings saved"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Extender settings saved"

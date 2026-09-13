@@ -1,0 +1,12 @@
+description: "Confirmation before applying the extender settings from a share code. The argument is the operator host the settings point at."
+source: "Use the extender settings from this code? Extender lookups will use %@."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: host
+    type: string
+localizations:
+  en: "Use the extender settings from this code? Extender lookups will use {host}."

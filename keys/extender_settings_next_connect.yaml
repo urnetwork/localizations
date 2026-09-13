@@ -1,0 +1,9 @@
+description: "Note on iOS after saving extender settings: the packet tunnel extension reads them at its next start."
+source: "The tunnel uses new extender settings the next time it connects."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "The tunnel uses new extender settings the next time it connects."

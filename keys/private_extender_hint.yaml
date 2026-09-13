@@ -1,0 +1,9 @@
+description: "Help text under the private extender fields."
+source: "A private extender replaces every discovered extender. Leave it empty to use discovery."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "A private extender replaces every discovered extender. Leave it empty to use discovery."

@@ -2,6 +2,9 @@ description: "Used in Main/Connect/ConnectButton/StatusIndicator/ConnectStatusIn
 source: "Connected"
 platforms:
   - apple
+  - android
+  - linux
+  - windows
 localizations:
   ar: "متصل"
   cs: "Připojeno"

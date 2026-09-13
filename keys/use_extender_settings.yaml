@@ -1,0 +1,9 @@
+description: "Toggle on the import screen: also apply the extender settings carried by the code."
+source: "Use extender settings"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Use extender settings"

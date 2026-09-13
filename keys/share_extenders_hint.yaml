@@ -1,0 +1,9 @@
+description: "Help text on the share screen under the QR code."
+source: "Scan this code with another URnetwork app to share these extenders."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Scan this code with another URnetwork app to share these extenders."

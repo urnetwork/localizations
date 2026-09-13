@@ -1,0 +1,9 @@
+description: "Button and screen title: import extenders from a QR code, a photo, or pasted text."
+source: "Import extenders"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Import extenders"

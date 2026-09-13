@@ -1,0 +1,9 @@
+description: "Shown when the camera permission was denied on the scan screen."
+source: "Camera access is needed to scan a code."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Camera access is needed to scan a code."

@@ -1,0 +1,9 @@
+description: "Gossip network status: a dial or reconnect is in progress (yellow)."
+source: "Connecting"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Connecting"

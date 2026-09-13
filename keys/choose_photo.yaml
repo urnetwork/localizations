@@ -1,0 +1,9 @@
+description: "Button: pick a photo that contains a QR code."
+source: "Choose photo"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Choose photo"

@@ -1,0 +1,9 @@
+description: "Button and field label: paste the text form of a share code."
+source: "Paste share text"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Paste share text"

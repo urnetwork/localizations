@@ -1,0 +1,9 @@
+description: "Error when a chosen photo or image file holds no QR code."
+source: "No QR code was found in the image."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "No QR code was found in the image."

@@ -1,0 +1,9 @@
+description: "Title of the extenders panel in the connect drawer and of the Extenders section under account."
+source: "Extenders"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Extenders"

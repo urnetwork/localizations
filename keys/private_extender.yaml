@@ -1,0 +1,9 @@
+description: "Title of the advanced private extender fields: one extender with a secret that replaces discovery."
+source: "Private extender"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Private extender"

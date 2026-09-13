@@ -1,0 +1,9 @@
+description: "Button: open the camera to scan a QR code."
+source: "Scan QR code"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Scan QR code"

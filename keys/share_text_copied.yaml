@@ -1,0 +1,9 @@
+description: "Confirmation after the share text of an extender code was copied to the clipboard."
+source: "Share text copied"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Share text copied"

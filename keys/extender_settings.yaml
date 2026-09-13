@@ -1,0 +1,9 @@
+description: "Title of the extender settings form under account > Extenders."
+source: "Extender settings"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Extender settings"

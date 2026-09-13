@@ -2,6 +2,9 @@ description: "Settings: heading of the advanced section."
 source: "Advanced"
 platforms:
   - linux
+  - android
+  - apple
+  - windows
 localizations:
   ar: "متقدم"
   cs: "Pokročilé"

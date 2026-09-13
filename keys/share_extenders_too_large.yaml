@@ -1,0 +1,9 @@
+description: "Shown on the share screen when the share payload exceeds what a QR code can hold; the text form is still offered."
+source: "The share code is too large for a QR code. Copy the share text instead."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "The share code is too large for a QR code. Copy the share text instead."

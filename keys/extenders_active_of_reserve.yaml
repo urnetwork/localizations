@@ -1,0 +1,14 @@
+description: "The extender panel count: extenders carrying a live connection now, of every usable extender the app knows."
+source: "%lld of %lld"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: active
+    type: int
+  - name: reserve
+    type: int
+localizations:
+  en: "{active} of {reserve}"
