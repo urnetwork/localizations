@@ -1,0 +1,8 @@
+description: "Title of the section that shows statistics about the extender, directly above the provider statistics section."
+source: "Extender statistics"
+platforms:
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Extender statistics"

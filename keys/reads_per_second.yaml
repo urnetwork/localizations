@@ -1,0 +1,8 @@
+description: "Unit the extender chart labels its rates with, where the provider chart says pkt/s. The compact count is prepended by the app, as it is for pkt/s."
+source: "reads/s"
+platforms:
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "reads/s"
