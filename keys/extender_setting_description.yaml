@@ -1,0 +1,8 @@
+description: "Secondary text under the Extender setting: what turning it on does, and the ports the extender listens on."
+source: "While you are providing, this device also relays for people whose access to the network is blocked, on TCP and UDP 443 and UDP 4053."
+platforms:
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "While you are providing, this device also relays for people whose access to the network is blocked, on TCP and UDP 443 and UDP 4053."

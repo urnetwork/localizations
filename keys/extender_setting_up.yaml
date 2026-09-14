@@ -1,0 +1,8 @@
+description: "Extender status while the role is starting and there is no outcome yet: the carriers are binding, or the first activation is in flight."
+source: "Setting up"
+platforms:
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Setting up"

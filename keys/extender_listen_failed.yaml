@@ -1,0 +1,11 @@
+description: "Extender status when no carrier could bind. The argument is the carrier errors."
+source: "Could not listen: %@"
+platforms:
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: error
+    type: string
+localizations:
+  en: "Could not listen: {error}"

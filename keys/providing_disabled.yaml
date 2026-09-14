@@ -4,6 +4,8 @@ source: "Providing is disabled"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "التوفير معطّل"
   cs: "Poskytování je vypnuté"

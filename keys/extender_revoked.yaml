@@ -1,0 +1,8 @@
+description: "Extender status when the operator revoked this device's extender key."
+source: "Revoked by the operator"
+platforms:
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Revoked by the operator"

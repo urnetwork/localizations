@@ -4,6 +4,8 @@ source: "Provider statistics"
 platforms:
   - android
   - apple
+  - linux
+  - windows
 localizations:
   ar: "إحصائيات المزود"
   cs: "Statistiky poskytovatele"
