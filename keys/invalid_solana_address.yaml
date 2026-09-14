@@ -1,0 +1,10 @@
+description: "Validation error under the manual address field when the address is not a valid Solana address (parallel to invalid_ss58_address)."
+source: "That is not a valid Solana address."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "That is not a valid Solana address."

@@ -1,0 +1,10 @@
+description: "Label of the connected Solana wallet block on the Earnings screen (parallel to bittensor_wallet)."
+source: "Solana wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Solana wallet"

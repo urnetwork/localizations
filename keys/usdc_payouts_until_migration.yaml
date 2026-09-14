@@ -1,0 +1,10 @@
+description: "Second paragraph of the Solana connect sheet/card, and the body line under a connected Solana wallet."
+source: "USDC payouts continue to this wallet until the migration to Bittensor is complete."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "USDC payouts continue to this wallet until the migration to Bittensor is complete."

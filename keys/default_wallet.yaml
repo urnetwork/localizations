@@ -1,8 +1,11 @@
 description: "Call to action"
 source: "Default"
-deprecated:
+platforms:
   - android
-platforms: []
+  - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "الافتراضي"
   cs: "Výchozí"
