@@ -4,6 +4,7 @@ deprecated:
   - apple
 platforms:
   - apple
+  - windows
 localizations:
   ar: "تأكيد رمز Seeker"
   cs: "Potvrďte Seeker Token"
