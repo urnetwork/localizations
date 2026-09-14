@@ -1,9 +1,11 @@
 description: "Used in Main/Account/AccountNavStackView.swift."
 source: "Remove wallet"
-deprecated:
-  - apple
 platforms:
+  - android
   - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "إزالة المحفظة"
   cs: "Odstranit peněženku"

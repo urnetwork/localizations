@@ -1,0 +1,13 @@
+description: "The pending USDC payout total waiting to be sent to the Solana payout wallet; shown on the Solana wallet block and, while no Solana wallet is connected, next to the wallet actions. Mirrors the email headline."
+source: "%@ USDC waiting"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  en: "{amount} USDC waiting"

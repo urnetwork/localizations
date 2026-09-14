@@ -1,9 +1,11 @@
 description: "General UI string."
 source: "Enter a Solana USDC wallet address"
-deprecated:
-  - apple
 platforms:
+  - android
   - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "أدخل عنوان محفظة USDC على Solana"
   cs: "Zadejte adresu peněženky USDC v síti Solana"

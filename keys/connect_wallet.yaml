@@ -1,9 +1,11 @@
 description: "Used in Main/Account/Wallets/ConnectWalletSheet/EnterWalletAddress/EnterWalletAddressView.swift."
 source: "Connect Wallet"
-deprecated:
-  - apple
 platforms:
+  - android
   - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "ربط المحفظة"
   cs: "Připojit peněženku"
