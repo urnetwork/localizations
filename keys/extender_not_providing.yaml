@@ -1,0 +1,7 @@
+description: "Extender status when the setting is on but this device is not providing. Apple is not listed because its catalog is keyed by the English text, which widget_not_providing already carries."
+source: "Not providing"
+platforms:
+  - linux
+  - windows
+localizations:
+  en: "Not providing"

@@ -1,0 +1,11 @@
+description: "Extender status when at least one address family is activated. The argument is the family or families, from the IPv4, IPv6 and IPv4 and IPv6 labels."
+source: "Active · %@"
+platforms:
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: families
+    type: string
+localizations:
+  en: "Active · {families}"

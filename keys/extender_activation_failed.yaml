@@ -1,0 +1,11 @@
+description: "Extender status when the last activation failed and no family is active. The argument is the error."
+source: "Activation failed: %@"
+platforms:
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: error
+    type: string
+localizations:
+  en: "Activation failed: {error}"

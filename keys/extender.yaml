@@ -1,0 +1,8 @@
+description: "Title of the Extender row under the provide mode row in settings, and of the read-only row where the provide mode row is repeated."
+source: "Extender"
+platforms:
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "Extender"

@@ -1,0 +1,11 @@
+description: "Extender status when the operator refused the activation and no family is active. The argument is the operator's reason."
+source: "Activation refused: %@"
+platforms:
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: error
+    type: string
+localizations:
+  en: "Activation refused: {error}"
