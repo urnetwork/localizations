@@ -1,0 +1,7 @@
+description: "Split rules: placeholder in the host input listing the accepted forms (a host name, a wildcard, a CIDR range)."
+source: "example.com, *.example.com, 10.0.0.0/8"
+translatable: false
+platforms:
+  - android
+localizations:
+  en: "example.com, *.example.com, 10.0.0.0/8"
