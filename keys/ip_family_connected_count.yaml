@@ -1,0 +1,16 @@
+description: "Status line of one column of the IP version status row in the connect drawer: how many providers of that family (dualstack, IPv4 or IPv6) are connected. Shown under the family label only when the count is not zero. Lowercase."
+source: "%lld connected"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  en:
+    one: "{count} connected"
+    other: "{count} connected"

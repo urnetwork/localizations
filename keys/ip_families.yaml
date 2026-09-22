@@ -1,7 +1,8 @@
-description: "Title of the IP version histogram under the transport bar in the connect drawer: the connected providers grouped by whether they carry both IP versions, only IPv4, or only IPv6."
+description: "IP versions: the tooltip of the address-family tag column in the provider locations sheet (windows, linux). It also titled the connect drawer's IP version histogram before that became the Dualstack / IPv4 / IPv6 status row."
 source: "IP versions"
+deprecated:
+  - apple
 platforms:
-  - android
   - apple
   - linux
   - windows

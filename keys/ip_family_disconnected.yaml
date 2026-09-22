@@ -1,0 +1,9 @@
+description: "Status line of one column of the IP version status row in the connect drawer, when no provider of that family (dualstack, IPv4 or IPv6) is connected or connecting. Lowercase, under the family label."
+source: "disconnected"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  en: "disconnected"
