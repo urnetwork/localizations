@@ -1,0 +1,36 @@
+description: "Delete account dialog: asks the user to type the network name back before the delete button enables. {network} is the account's network name."
+source: "Type {network} to confirm."
+platforms:
+  - android
+placeholders:
+  - name: network
+    type: string
+localizations:
+  ar: "اكتب {network} للتأكيد."
+  cs: "Pro potvrzení napište {network}."
+  de: "Gib zur Bestätigung {network} ein."
+  el: "Πληκτρολογήστε {network} για επιβεβαίωση."
+  en: "Type {network} to confirm."
+  es: "Escriba {network} para confirmar."
+  es-419: "Escribe {network} para confirmar."
+  es-MX: "Escribe {network} para confirmar."
+  fr: "Saisissez {network} pour confirmer."
+  he: "הקלד {network} כדי לאשר."
+  hi: "पुष्टि करने के लिए {network} टाइप करें।"
+  id: "Ketik {network} untuk mengonfirmasi."
+  it: "Digita {network} per confermare."
+  ja: "確認のため {network} と入力してください。"
+  ko: "확인하려면 {network}을(를) 입력하세요."
+  nl: "Typ {network} om te bevestigen."
+  pl: "Wpisz {network}, aby potwierdzić."
+  pt: "Escreva {network} para confirmar."
+  pt-BR: "Digite {network} para confirmar."
+  pt-PT: "Escreva {network} para confirmar."
+  ru: "Введите {network} для подтверждения."
+  sv: "Skriv {network} för att bekräfta."
+  sw: "Andika {network} ili kuthibitisha."
+  th: "พิมพ์ {network} เพื่อยืนยัน"
+  uk: "Введіть {network} для підтвердження."
+  vi: "Nhập {network} để xác nhận."
+  zh: "输入 {network} 以确认。"
+  zh-HK: "輸入 {network} 以確認。"
