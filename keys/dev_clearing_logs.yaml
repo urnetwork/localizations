@@ -1,0 +1,6 @@
+description: "Developer tools screen: the clear-logs action's label while it runs."
+source: "Clearing logs…"
+platforms:
+  - android
+localizations:
+  en: "Clearing logs…"

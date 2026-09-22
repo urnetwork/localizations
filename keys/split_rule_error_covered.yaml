@@ -1,0 +1,36 @@
+description: "Split rules: validation error when a broader entry already in the rule covers the typed one. {rule} is that broader entry, for example *.example.com or 10.0.0.0/8."
+source: "Already covered by {rule} in this rule."
+platforms:
+  - android
+placeholders:
+  - name: rule
+    type: string
+localizations:
+  ar: "مشمول بالفعل ضمن {rule} في هذه القاعدة."
+  cs: "V tomto pravidle již pokryto položkou {rule}."
+  de: "In dieser Regel bereits durch {rule} abgedeckt."
+  el: "Καλύπτεται ήδη από το {rule} σε αυτόν τον κανόνα."
+  en: "Already covered by {rule} in this rule."
+  es: "Ya está cubierto por {rule} en esta regla."
+  es-419: "Ya está cubierto por {rule} en esta regla."
+  es-MX: "Ya está cubierto por {rule} en esta regla."
+  fr: "Déjà couvert par {rule} dans cette règle."
+  he: "כבר מכוסה על ידי {rule} בכלל זה."
+  hi: "इस नियम में {rule} द्वारा पहले से कवर है।"
+  id: "Sudah tercakup oleh {rule} dalam aturan ini."
+  it: "Già coperto da {rule} in questa regola."
+  ja: "このルールでは {rule} によってすでに対象になっています。"
+  ko: "이 규칙에서 {rule}에 이미 포함되어 있습니다."
+  nl: "Al gedekt door {rule} in deze regel."
+  pl: "Już objęte przez {rule} w tej regule."
+  pt: "Já abrangido por {rule} nesta regra."
+  pt-BR: "Já coberto por {rule} nesta regra."
+  pt-PT: "Já abrangido por {rule} nesta regra."
+  ru: "Уже охвачено записью {rule} в этом правиле."
+  sv: "Täcks redan av {rule} i den här regeln."
+  sw: "Tayari imejumuishwa na {rule} katika sheria hii."
+  th: "ครอบคลุมโดย {rule} ในกฎนี้อยู่แล้ว"
+  uk: "Уже охоплено записом {rule} у цьому правилі."
+  vi: "Đã được {rule} bao gồm trong quy tắc này."
+  zh: "此规则中的 {rule} 已涵盖该项。"
+  zh-HK: "此規則中的 {rule} 已涵蓋該項。"

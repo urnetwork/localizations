@@ -1,0 +1,36 @@
+description: "Split rules: note under the host input when the entry will be stored in a normalised form. {value} is that form, for example 10.0.0.0/8 for a typed 10.0.0.5/8."
+source: "Saved as {value}"
+platforms:
+  - android
+placeholders:
+  - name: value
+    type: string
+localizations:
+  ar: "يُحفظ كـ {value}"
+  cs: "Uloženo jako {value}"
+  de: "Gespeichert als {value}"
+  el: "Αποθηκεύεται ως {value}"
+  en: "Saved as {value}"
+  es: "Se guarda como {value}"
+  es-419: "Se guarda como {value}"
+  es-MX: "Se guarda como {value}"
+  fr: "Enregistré sous {value}"
+  he: "נשמר בתור {value}"
+  hi: "{value} के रूप में सहेजा जाएगा"
+  id: "Disimpan sebagai {value}"
+  it: "Salvato come {value}"
+  ja: "{value} として保存されます"
+  ko: "{value}(으)로 저장됨"
+  nl: "Opgeslagen als {value}"
+  pl: "Zapisano jako {value}"
+  pt: "Guardado como {value}"
+  pt-BR: "Salvo como {value}"
+  pt-PT: "Guardado como {value}"
+  ru: "Сохранено как {value}"
+  sv: "Sparad som {value}"
+  sw: "Imehifadhiwa kama {value}"
+  th: "บันทึกเป็น {value}"
+  uk: "Збережено як {value}"
+  vi: "Đã lưu thành {value}"
+  zh: "已保存为 {value}"
+  zh-HK: "已儲存為 {value}"

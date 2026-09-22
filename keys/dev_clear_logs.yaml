@@ -1,0 +1,6 @@
+description: "Developer tools screen: action that deletes the diagnostics log files without touching local state, preferences or rules."
+source: "Clear logs"
+platforms:
+  - android
+localizations:
+  en: "Clear logs"
