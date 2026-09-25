@@ -1,0 +1,38 @@
+description: "Settings row and screen title: the open source licenses and data attributions the app includes"
+source: "Licenses"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - web
+  - site
+localizations:
+  ar: "التراخيص"
+  cs: "Licence"
+  de: "Lizenzen"
+  el: "Άδειες"
+  en: "Licenses"
+  es: "Licencias"
+  es-419: "Licencias"
+  es-MX: "Licencias"
+  fr: "Licences"
+  he: "רישיונות"
+  hi: "लाइसेंस"
+  id: "Lisensi"
+  it: "Licenze"
+  ja: "ライセンス"
+  ko: "라이선스"
+  nl: "Licenties"
+  pl: "Licencje"
+  pt: "Licenças"
+  pt-BR: "Licenças"
+  pt-PT: "Licenças"
+  ru: "Лицензии"
+  sv: "Licenser"
+  sw: "Leseni"
+  th: "สัญญาอนุญาต"
+  uk: "Ліцензії"
+  vi: "Giấy phép"
+  zh: "许可"
+  zh-HK: "授權"

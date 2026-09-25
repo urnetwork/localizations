@@ -1,0 +1,38 @@
+description: "Licenses detail: link to the component's project home page"
+source: "Project page"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - web
+  - site
+localizations:
+  ar: "صفحة المشروع"
+  cs: "Stránka projektu"
+  de: "Projektseite"
+  el: "Σελίδα έργου"
+  en: "Project page"
+  es: "Página del proyecto"
+  es-419: "Página del proyecto"
+  es-MX: "Página del proyecto"
+  fr: "Page du projet"
+  he: "דף הפרויקט"
+  hi: "प्रोजेक्ट पेज"
+  id: "Halaman proyek"
+  it: "Pagina del progetto"
+  ja: "プロジェクトページ"
+  ko: "프로젝트 페이지"
+  nl: "Projectpagina"
+  pl: "Strona projektu"
+  pt: "Página do projeto"
+  pt-BR: "Página do projeto"
+  pt-PT: "Página do projeto"
+  ru: "Страница проекта"
+  sv: "Projektsida"
+  sw: "Ukurasa wa mradi"
+  th: "หน้าโครงการ"
+  uk: "Сторінка проєкту"
+  vi: "Trang dự án"
+  zh: "项目主页"
+  zh-HK: "項目主頁"

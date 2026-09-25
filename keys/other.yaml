@@ -4,6 +4,7 @@ deprecated:
   - apple
 platforms:
   - apple
+  - web  # extension: heading of the search group of cities whose region is not in the result
 localizations:
   ar: "آخر"
   cs: "Jiné"

@@ -1,0 +1,38 @@
+description: "Licenses screen: section header for the data sources (IP location, blocklists, maps)"
+source: "Data attributions"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - web
+  - site
+localizations:
+  ar: "إسناد البيانات"
+  cs: "Zdroje dat"
+  de: "Datenquellen"
+  el: "Αναφορές δεδομένων"
+  en: "Data attributions"
+  es: "Atribuciones de datos"
+  es-419: "Atribuciones de datos"
+  es-MX: "Atribuciones de datos"
+  fr: "Attributions des données"
+  he: "ייחוס נתונים"
+  hi: "डेटा श्रेय"
+  id: "Atribusi data"
+  it: "Attribuzioni dei dati"
+  ja: "データの出典"
+  ko: "데이터 출처"
+  nl: "Gegevensbronnen"
+  pl: "Źródła danych"
+  pt: "Atribuições de dados"
+  pt-BR: "Atribuições de dados"
+  pt-PT: "Atribuições de dados"
+  ru: "Источники данных"
+  sv: "Datakällor"
+  sw: "Vyanzo vya data"
+  th: "แหล่งที่มาของข้อมูล"
+  uk: "Джерела даних"
+  vi: "Nguồn dữ liệu"
+  zh: "数据来源"
+  zh-HK: "數據來源"

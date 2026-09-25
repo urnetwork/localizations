@@ -1,0 +1,38 @@
+description: "Licenses screen: the paragraph above the list"
+source: "URnetwork is built with the open source software and data below. Each entry shows its license and any notice it requires."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - web
+  - site
+localizations:
+  ar: "تم بناء URnetwork باستخدام البرمجيات مفتوحة المصدر والبيانات أدناه. يعرض كل إدخال ترخيصه وأي إشعار يتطلبه."
+  cs: "URnetwork je postaven na níže uvedeném open source softwaru a datech. U každé položky je uvedena její licence a případná povinná upozornění."
+  de: "URnetwork basiert auf der unten aufgeführten Open-Source-Software und den unten aufgeführten Daten. Jeder Eintrag zeigt seine Lizenz und alle erforderlichen Hinweise."
+  el: "Το URnetwork είναι κατασκευασμένο με το λογισμικό ανοιχτού κώδικα και τα δεδομένα παρακάτω. Κάθε καταχώριση εμφανίζει την άδειά της και όποια ειδοποίηση απαιτεί."
+  en: "URnetwork is built with the open source software and data below. Each entry shows its license and any notice it requires."
+  es: "URnetwork está hecho con el software de código abierto y los datos que se indican a continuación. Cada entrada muestra su licencia y cualquier aviso que requiera."
+  es-419: "URnetwork está hecho con el software de código abierto y los datos que se indican a continuación. Cada entrada muestra su licencia y cualquier aviso que requiera."
+  es-MX: "URnetwork está hecho con el software de código abierto y los datos que se indican a continuación. Cada entrada muestra su licencia y cualquier aviso que requiera."
+  fr: "URnetwork est conçu avec les logiciels open source et les données ci-dessous. Chaque entrée indique sa licence et toute mention qu'elle exige."
+  he: "URnetwork בנוי בעזרת התוכנה בקוד פתוח והנתונים שלהלן. כל פריט מציג את הרישיון שלו וכל הודעה שהוא מחייב."
+  hi: "URnetwork नीचे दिए गए ओपन सोर्स सॉफ़्टवेयर और डेटा से बना है। हर प्रविष्टि अपना लाइसेंस और ज़रूरी सूचना दिखाती है।"
+  id: "URnetwork dibangun dengan perangkat lunak sumber terbuka dan data di bawah ini. Setiap entri menampilkan lisensinya dan pemberitahuan apa pun yang diwajibkan."
+  it: "URnetwork è realizzato con il software open source e i dati riportati di seguito. Ogni voce mostra la propria licenza e le eventuali note richieste."
+  ja: "URnetwork は以下のオープンソースソフトウェアとデータを使用しています。各項目にはそのライセンスと必要な告知が表示されます。"
+  ko: "URnetwork는 아래의 오픈 소스 소프트웨어와 데이터로 만들어졌습니다. 각 항목에는 해당 라이선스와 필요한 고지가 표시됩니다."
+  nl: "URnetwork is gebouwd met de onderstaande opensourcesoftware en gegevens. Bij elk item staan de licentie en eventuele verplichte vermeldingen."
+  pl: "URnetwork korzysta z poniższego oprogramowania open source i danych. Przy każdej pozycji podano jej licencję oraz wymagane informacje."
+  pt: "O URnetwork é feito com o software de código aberto e os dados abaixo. Cada item mostra sua licença e qualquer aviso exigido."
+  pt-BR: "O URnetwork é feito com o software de código aberto e os dados abaixo. Cada item mostra sua licença e qualquer aviso exigido."
+  pt-PT: "O URnetwork é construído com o software de código aberto e os dados abaixo. Cada entrada mostra a respetiva licença e qualquer aviso exigido."
+  ru: "URnetwork создан с использованием перечисленного ниже программного обеспечения с открытым исходным кодом и данных. Для каждой записи указаны её лицензия и обязательные уведомления."
+  sv: "URnetwork är byggt med programvaran med öppen källkod och de data som listas nedan. Varje post visar sin licens och de meddelanden som krävs."
+  sw: "URnetwork imejengwa kwa programu huria na data zilizo hapa chini. Kila kipengee kinaonyesha leseni yake na ilani yoyote inayohitajika."
+  th: "URnetwork สร้างขึ้นด้วยซอฟต์แวร์โอเพนซอร์สและข้อมูลด้านล่าง แต่ละรายการแสดงสัญญาอนุญาตและประกาศที่จำเป็น"
+  uk: "URnetwork створено з використанням наведеного нижче програмного забезпечення з відкритим кодом і даних. Для кожного запису вказано його ліцензію та обов’язкові повідомлення."
+  vi: "URnetwork được xây dựng bằng phần mềm nguồn mở và dữ liệu dưới đây. Mỗi mục hiển thị giấy phép và mọi thông báo bắt buộc."
+  zh: "URnetwork 使用了以下开源软件和数据。每一项都列出了其许可及所需的声明。"
+  zh-HK: "URnetwork 使用了以下開源軟件和數據。每一項都列出了其授權及所需的聲明。"

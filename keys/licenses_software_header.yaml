@@ -1,0 +1,38 @@
+description: "Licenses screen: section header for the open source libraries and fonts"
+source: "Open source software"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+  - web
+  - site
+localizations:
+  ar: "البرمجيات مفتوحة المصدر"
+  cs: "Open source software"
+  de: "Open-Source-Software"
+  el: "Λογισμικό ανοιχτού κώδικα"
+  en: "Open source software"
+  es: "Software de código abierto"
+  es-419: "Software de código abierto"
+  es-MX: "Software de código abierto"
+  fr: "Logiciels open source"
+  he: "תוכנה בקוד פתוח"
+  hi: "ओपन सोर्स सॉफ़्टवेयर"
+  id: "Perangkat lunak sumber terbuka"
+  it: "Software open source"
+  ja: "オープンソースソフトウェア"
+  ko: "오픈 소스 소프트웨어"
+  nl: "Opensourcesoftware"
+  pl: "Oprogramowanie open source"
+  pt: "Software de código aberto"
+  pt-BR: "Software de código aberto"
+  pt-PT: "Software de código aberto"
+  ru: "ПО с открытым исходным кодом"
+  sv: "Programvara med öppen källkod"
+  sw: "Programu huria"
+  th: "ซอฟต์แวร์โอเพนซอร์ส"
+  uk: "ПЗ з відкритим кодом"
+  vi: "Phần mềm nguồn mở"
+  zh: "开源软件"
+  zh-HK: "開源軟件"
