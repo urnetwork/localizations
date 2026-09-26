@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تُفتح المطالبات بعد 48 ساعة من اكتمال الفترة وتظل مفتوحة طوال نافذة انتهاء صلاحية الخزنة."
+  de: "Einlösungen sind 48 Stunden nach dem Abschluss einer Epoche möglich und bleiben für das Ablauffenster des Vaults offen."
   en: "Claims open 48 hours after an epoch is finalized and stay open for the vault's expiry window."
+  es: "Las reclamaciones se abren 48 horas después de que finaliza una época y siguen abiertas durante el periodo de caducidad de la bóveda."
+  ru: "Получение открывается через 48 часов после завершения эпохи и остаётся доступным в течение срока действия хранилища."
+  zh: "领取在周期确认 48 小时后开放，并在金库的有效期窗口内保持开放。"

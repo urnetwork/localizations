@@ -3,4 +3,9 @@ source: "Share diagnostic bundle"
 platforms:
   - android
 localizations:
+  ar: "مشاركة حزمة التشخيص"
+  de: "Diagnosepaket teilen"
   en: "Share diagnostic bundle"
+  es: "Compartir paquete de diagnóstico"
+  ru: "Поделиться диагностическим пакетом"
+  zh: "分享诊断包"

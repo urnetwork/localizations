@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "امسح هذا الرمز باستخدام تطبيق URnetwork آخر لمشاركة هذه الموسّعات."
+  de: "Scanne diesen Code mit einer anderen URnetwork-App, um diese Extender zu teilen."
   en: "Scan this code with another URnetwork app to share these extenders."
+  es: "Escanea este código con otra app de URnetwork para compartir estos extensores."
+  ru: "Отсканируйте этот код в другом приложении URnetwork, чтобы передать эти экстендеры."
+  zh: "使用另一个 URnetwork 应用扫描此代码，即可分享这些扩展器。"

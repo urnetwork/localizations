@@ -8,4 +8,9 @@ placeholders:
   - name: worst
     type: string
 localizations:
+  ar: "المتوسط {average}، الأسوأ {worst}"
+  de: "Ø {average}, schlechtester {worst}"
   en: "avg {average}, worst {worst}"
+  es: "media {average}, peor {worst}"
+  ru: "в среднем {average}, худшее {worst}"
+  zh: "平均 {average}，最差 {worst}"

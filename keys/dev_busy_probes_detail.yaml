@@ -3,4 +3,9 @@ source: "Liveness pings fired at stalled exits; acquitted ones answered and were
 platforms:
   - android
 localizations:
+  ar: "اختبارات ping للتحقق من النشاط أُرسلت إلى المخارج المتوقفة؛ المخارج المُبرّأة ردّت وأُبقي عليها، أي عمليات الإزالة التي منعها الفحص"
+  de: "Lebenszeichen-Pings an hängende Exits; freigesprochene haben geantwortet und wurden behalten, also Entfernungen, die die Prüfung verhindert hat"
   en: "Liveness pings fired at stalled exits; acquitted ones answered and were kept, the removals the probe prevented"
+  es: "Pings de actividad enviados a salidas bloqueadas; las absueltas respondieron y se conservaron: son las eliminaciones que la sonda evitó"
+  ru: "Пинги проверки активности, отправленные зависшим выходам; оправданные ответили и были сохранены — это удаления, которые предотвратила проба"
+  zh: "向停滞出口发送的存活 ping；判为无罪的出口已应答并被保留，即探测避免的移除"

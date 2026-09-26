@@ -3,4 +3,9 @@ source: "Fast first-exit poll"
 platforms:
   - android
 localizations:
+  ar: "استطلاع سريع لأول مخرج"
+  de: "Schnelle Abfrage des ersten Exits"
   en: "Fast first-exit poll"
+  es: "Sondeo rápido de la primera salida"
+  ru: "Быстрый опрос первого выхода"
+  zh: "快速轮询首个出口"

@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "غير مستخدمة"
+  de: "ungenutzt"
   en: "unused"
+  es: "sin usar"
+  ru: "не используются"
+  zh: "未使用"

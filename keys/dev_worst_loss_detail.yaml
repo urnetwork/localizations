@@ -3,4 +3,9 @@ source: "The one the user actually feels"
 platforms:
   - android
 localizations:
+  ar: "العطل الذي يشعر به المستخدم فعلًا"
+  de: "Der, den Nutzer tatsächlich spüren"
   en: "The one the user actually feels"
+  es: "El que el usuario realmente nota"
+  ru: "Тот, который пользователь действительно ощущает"
+  zh: "用户真正能感受到的那一次"

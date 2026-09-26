@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "عنوان IP"
+  de: "IP-Adresse"
   en: "IP address"
+  es: "Dirección IP"
+  ru: "IP-адрес"
+  zh: "IP 地址"

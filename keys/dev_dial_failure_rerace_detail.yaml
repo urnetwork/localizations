@@ -3,4 +3,9 @@ source: "When a provider can't reach a site, move the connection to another exit
 platforms:
   - android
 localizations:
+  ar: "عندما يتعذّر على المزود الوصول إلى موقع، يُنقل الاتصال إلى مخرج آخر بدلًا من تركه معلّقًا"
+  de: "Wenn ein Anbieter eine Website nicht erreicht, wird die Verbindung auf einen anderen Exit verlegt, statt sie hängen zu lassen"
   en: "When a provider can't reach a site, move the connection to another exit instead of letting it hang"
+  es: "Cuando un proveedor no puede llegar a un sitio, mueve la conexión a otra salida en lugar de dejarla colgada"
+  ru: "Когда провайдер не может достучаться до сайта, соединение переносится на другой выход, а не зависает"
+  zh: "当提供商无法访问某个站点时，将连接转移到其他出口，而不是让其挂起"

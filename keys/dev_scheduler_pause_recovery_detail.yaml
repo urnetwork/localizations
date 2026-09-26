@@ -3,4 +3,9 @@ source: "How long verdicts stay held after a detected suspend, giving transports
 platforms:
   - android
 localizations:
+  ar: "المدة التي تبقى فيها الأحكام معلّقة بعد رصد تعليق، لإتاحة الوقت لبروتوكولات النقل لإعادة التسجيل. عند الإيقاف، تُستخدم المهلة المدمجة البالغة 5 ثوانٍ"
+  de: "Wie lange Urteile nach einem erkannten Ruhezustand zurückgehalten werden, damit sich Transporte neu registrieren können. Aus: nutzt die eingebauten 5 s"
   en: "How long verdicts stay held after a detected suspend, giving transports time to re-register. Off uses the built-in 5s"
+  es: "Cuánto tiempo se retienen los veredictos tras detectar una suspensión, para dar tiempo a los transportes a volver a registrarse. Si está desactivado, se usan los 5 s integrados"
+  ru: "Как долго вердикты удерживаются после обнаруженной приостановки, чтобы транспорты успели перерегистрироваться. Если выключено, используются встроенные 5 с"
+  zh: "检测到挂起后判定保持暂缓的时长，让传输方式有时间重新注册。关闭时使用内置的 5 秒"

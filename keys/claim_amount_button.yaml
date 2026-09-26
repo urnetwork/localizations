@@ -10,4 +10,9 @@ placeholders:
   - name: amount
     type: string
 localizations:
+  ar: "المطالبة بـ {amount}"
+  de: "{amount} einlösen"
   en: "Claim {amount}"
+  es: "Reclamar {amount}"
+  ru: "Получить {amount}"
+  zh: "领取 {amount}"

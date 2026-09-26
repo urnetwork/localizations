@@ -3,4 +3,9 @@ source: "Placement"
 platforms:
   - android
 localizations:
+  ar: "التوزيع"
+  de: "Platzierung"
   en: "Placement"
+  es: "Asignación"
+  ru: "Размещение"
+  zh: "分配"

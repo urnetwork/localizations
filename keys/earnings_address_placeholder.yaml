@@ -3,4 +3,9 @@ source: "Enter a Bittensor address"
 platforms:
   - windows
 localizations:
+  ar: "أدخل عنوان Bittensor"
+  de: "Bittensor-Adresse eingeben"
   en: "Enter a Bittensor address"
+  es: "Introduce una dirección de Bittensor"
+  ru: "Введите адрес Bittensor"
+  zh: "输入 Bittensor 地址"

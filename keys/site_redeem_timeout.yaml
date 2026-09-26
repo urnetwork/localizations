@@ -3,4 +3,9 @@ source: "The request timed out. If you were charged, check your balance — the 
 platforms:
   - site
 localizations:
+  ar: "انتهت مهلة الطلب. إذا تم تحصيل رسوم منك، فتحقق من رصيدك — ربما تم تطبيق الرمز بالفعل."
+  de: "Die Anfrage hat das Zeitlimit überschritten. Falls dir etwas berechnet wurde, prüfe dein Guthaben — der Code ist möglicherweise bereits angewendet."
   en: "The request timed out. If you were charged, check your balance — the code may already be applied."
+  es: "Se agotó el tiempo de espera de la solicitud. Si se te cobró, revisa tu saldo — puede que el código ya se haya aplicado."
+  ru: "Время ожидания запроса истекло. Если с вас списали оплату, проверьте баланс — код, возможно, уже применён."
+  zh: "请求超时。如果您已被扣款，请查看余额，该余额码可能已生效。"

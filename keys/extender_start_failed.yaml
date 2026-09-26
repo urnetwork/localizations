@@ -8,4 +8,9 @@ placeholders:
   - name: error
     type: string
 localizations:
+  ar: "تعذّر البدء: {error}"
+  de: "Start fehlgeschlagen: {error}"
   en: "Could not start: {error}"
+  es: "No se pudo iniciar: {error}"
+  ru: "Не удалось запустить: {error}"
+  zh: "无法启动：{error}"

@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "تم شراء اشتراكك باستخدام حساب مختلف. سجّل الدخول إلى ذلك الحساب لاستخدامه."
+  de: "Dein Abo wurde mit einem anderen Konto gekauft. Melde dich bei diesem Konto an, um es zu nutzen."
   en: "Your subscription was purchased under a different account. Log in to that account to use it."
+  es: "Tu suscripción se compró con otra cuenta. Inicia sesión en esa cuenta para usarla."
+  ru: "Ваша подписка была оформлена в другом аккаунте. Войдите в этот аккаунт, чтобы пользоваться ею."
+  zh: "您的订阅是通过另一个账户购买的。请登录该账户以使用订阅。"

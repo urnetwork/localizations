@@ -3,4 +3,9 @@ source: "Status"
 platforms:
   - windows
 localizations:
+  ar: "الحالة"
+  de: "Status"
   en: "Status"
+  es: "Estado"
+  ru: "Статус"
+  zh: "状态"

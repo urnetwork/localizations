@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "يستخدم النفق إعدادات الموسّع الجديدة في المرة التالية التي يتصل فيها."
+  de: "Der Tunnel verwendet die neuen Extender-Einstellungen bei der nächsten Verbindung."
   en: "The tunnel uses new extender settings the next time it connects."
+  es: "El túnel usará los nuevos ajustes del extensor la próxima vez que se conecte."
+  ru: "Туннель применит новые настройки экстендера при следующем подключении."
+  zh: "隧道将在下次连接时使用新的扩展器设置。"

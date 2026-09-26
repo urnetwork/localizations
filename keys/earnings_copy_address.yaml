@@ -3,4 +3,9 @@ source: "Copy address"
 platforms:
   - windows
 localizations:
+  ar: "نسخ العنوان"
+  de: "Adresse kopieren"
   en: "Copy address"
+  es: "Copiar dirección"
+  ru: "Скопировать адрес"
+  zh: "复制地址"

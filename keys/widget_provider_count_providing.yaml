@@ -9,6 +9,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} مزود · جارٍ التوفير"
+    one: "مزود واحد · جارٍ التوفير"
+    two: "مزودان · جارٍ التوفير"
+    few: "{count} مزودين · جارٍ التوفير"
+    many: "{count} مزودًا · جارٍ التوفير"
+    other: "{count} مزود · جارٍ التوفير"
+  de:
+    one: "{count} Anbieter · stellt bereit"
+    other: "{count} Anbieter · stellt bereit"
   en:
     one: "{count} provider · providing"
     other: "{count} providers · providing"
+  es:
+    one: "{count} proveedor · proporcionando"
+    other: "{count} proveedores · proporcionando"
+  ru:
+    one: "{count} провайдер · предоставление"
+    few: "{count} провайдера · предоставление"
+    many: "{count} провайдеров · предоставление"
+    other: "{count} провайдеров · предоставление"
+  zh:
+    other: "{count} 个提供商 · 提供中"

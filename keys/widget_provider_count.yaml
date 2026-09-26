@@ -9,6 +9,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} مزود"
+    one: "مزود واحد"
+    two: "مزودان"
+    few: "{count} مزودين"
+    many: "{count} مزودًا"
+    other: "{count} مزود"
+  de:
+    one: "{count} Anbieter"
+    other: "{count} Anbieter"
   en:
     one: "{count} provider"
     other: "{count} providers"
+  es:
+    one: "{count} proveedor"
+    other: "{count} proveedores"
+  ru:
+    one: "{count} провайдер"
+    few: "{count} провайдера"
+    many: "{count} провайдеров"
+    other: "{count} провайдеров"
+  zh:
+    other: "{count} 个提供商"

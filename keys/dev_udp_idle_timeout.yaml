@@ -3,4 +3,9 @@ source: "UDP idle timeout"
 platforms:
   - android
 localizations:
+  ar: "مهلة خمول UDP"
+  de: "UDP-Leerlauf-Timeout"
   en: "UDP idle timeout"
+  es: "Tiempo de inactividad de UDP"
+  ru: "Тайм-аут простоя UDP"
+  zh: "UDP 空闲超时"

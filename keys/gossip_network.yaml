@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "شبكة Gossip"
+  de: "Gossip-Netzwerk"
   en: "Gossip network"
+  es: "Red gossip"
+  ru: "Gossip-сеть"
+  zh: "Gossip 网络"

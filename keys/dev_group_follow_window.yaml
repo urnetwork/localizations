@@ -3,4 +3,9 @@ source: "Follow window"
 platforms:
   - android
 localizations:
+  ar: "نافذة المتابعة"
+  de: "Folgefenster"
   en: "Follow window"
+  es: "Ventana de seguimiento"
+  ru: "Окно следования"
+  zh: "跟随窗口"

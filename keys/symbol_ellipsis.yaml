@@ -4,4 +4,9 @@ source: "..."
 platforms:
   - apple
 localizations:
+  ar: "..."
+  de: "..."
   en: "..."
+  es: "..."
+  ru: "..."
+  zh: "..."

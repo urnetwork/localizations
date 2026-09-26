@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "يلزم الوصول إلى الكاميرا لمسح الرمز."
+  de: "Zum Scannen eines Codes wird Zugriff auf die Kamera benötigt."
   en: "Camera access is needed to scan a code."
+  es: "Se necesita acceso a la cámara para escanear un código."
+  ru: "Для сканирования кода нужен доступ к камере."
+  zh: "需要相机权限才能扫码。"

@@ -6,4 +6,9 @@ placeholders:
   - name: value
     type: string
 localizations:
+  ar: "#{value}"
+  de: "#{value}"
   en: "#{value}"
+  es: "#{value}"
+  ru: "#{value}"
+  zh: "#{value}"

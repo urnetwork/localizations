@@ -3,4 +3,9 @@ source: "Sending…"
 platforms:
   - linux
 localizations:
+  ar: "جارٍ الإرسال…"
+  de: "Wird gesendet…"
   en: "Sending…"
+  es: "Enviando…"
+  ru: "Отправка…"
+  zh: "正在发送…"

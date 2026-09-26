@@ -3,4 +3,9 @@ source: "Failing dials and survived verdicts push a provider down the ranking wi
 platforms:
   - android
 localizations:
+  ar: "تؤدي محاولات الاتصال الفاشلة والأحكام التي نجا منها المزود إلى خفض ترتيبه خلال ثانية؛ ويتطلب رفعه مجددًا دقائق خالية من الأخطاء واتصالًا مُثبتًا"
+  de: "Fehlgeschlagene Verbindungsversuche und überstandene Urteile stufen einen Anbieter innerhalb einer Sekunde im Ranking herab; die Rückkehr nach oben braucht fehlerfreie Minuten und einen nachweislich erfolgreichen Verbindungsaufbau"
   en: "Failing dials and survived verdicts push a provider down the ranking within a second; promotion back needs clean minutes and a proven connect"
+  es: "Los intentos de conexión fallidos y los veredictos superados bajan a un proveedor en la clasificación en menos de un segundo; volver a subir requiere minutos sin fallos y una conexión comprobada"
+  ru: "Неудачные попытки соединения и пережитые вердикты опускают провайдера в рейтинге в течение секунды; для обратного повышения нужны минуты без сбоев и подтверждённое подключение"
+  zh: "拨号失败和经受住的判定会在一秒内降低提供商的排名；恢复排名需要若干分钟无故障运行以及一次经验证的连接"

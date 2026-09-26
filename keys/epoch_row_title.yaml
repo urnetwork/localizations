@@ -10,4 +10,9 @@ placeholders:
   - name: epoch
     type: int
 localizations:
+  ar: "الفترة {epoch}"
+  de: "Epoche {epoch}"
   en: "Epoch {epoch}"
+  es: "Época {epoch}"
+  ru: "Эпоха {epoch}"
+  zh: "周期 {epoch}"

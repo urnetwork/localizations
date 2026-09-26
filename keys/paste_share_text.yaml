@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "لصق نص المشاركة"
+  de: "Freigabetext einfügen"
   en: "Paste share text"
+  es: "Pegar texto compartido"
+  ru: "Вставить текст кода"
+  zh: "粘贴分享文本"

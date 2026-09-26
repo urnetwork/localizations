@@ -3,4 +3,9 @@ source: "What a provider failure costs. Reset, run a test, read back."
 platforms:
   - android
 localizations:
+  ar: "ما يكلّفه عطل المزود. أعد التعيين، وشغّل اختبارًا، واقرأ النتيجة."
+  de: "Was ein Anbieterausfall kostet. Zurücksetzen, Test ausführen, Ergebnis ablesen."
   en: "What a provider failure costs. Reset, run a test, read back."
+  es: "Lo que cuesta un fallo de proveedor. Restablece, ejecuta una prueba y lee el resultado."
+  ru: "Во что обходится сбой провайдера. Сбросьте, запустите тест, посмотрите результат."
+  zh: "提供商故障的代价。重置、运行测试、读取结果。"

@@ -3,4 +3,9 @@ source: "Open"
 platforms:
   - windows
 localizations:
+  ar: "مفتوحة"
+  de: "Offen"
   en: "Open"
+  es: "Abierta"
+  ru: "Открыта"
+  zh: "进行中"

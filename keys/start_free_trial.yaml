@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "بدء التجربة المجانية"
+  de: "Kostenlose Testphase starten"
   en: "Start free trial"
+  es: "Empezar la prueba gratuita"
+  ru: "Начать бесплатный пробный период"
+  zh: "开始免费试用"

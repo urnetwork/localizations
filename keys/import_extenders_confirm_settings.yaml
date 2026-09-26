@@ -9,4 +9,9 @@ placeholders:
   - name: host
     type: string
 localizations:
+  ar: "هل تريد استخدام إعدادات الموسّع من هذا الرمز؟ ستستخدم عمليات البحث عن الموسّعات {host}."
+  de: "Die Extender-Einstellungen aus diesem Code verwenden? Extender werden dann über {host} gesucht."
   en: "Use the extender settings from this code? Extender lookups will use {host}."
+  es: "¿Usar los ajustes del extensor de este código? Las búsquedas de extensores usarán {host}."
+  ru: "Использовать настройки экстендера из этого кода? Поиск экстендеров будет выполняться через {host}."
+  zh: "要使用此代码中的扩展器设置吗？扩展器查找将使用 {host}。"

@@ -3,4 +3,9 @@ source: "A quarantined exit keeps its own sites' new connections through the ear
 platforms:
   - android
 localizations:
+  ar: "يحتفظ المخرج المحجور بالاتصالات الجديدة لمواقعه خلال بداية الحجر، حين يكون الحكم في أضعف حالاته، كي لا يؤدي الحجر إلى تقسيم عنوان IP للخروج الخاص بالموقع. تظل المواقع الجديدة تتجنبه. عند الإيقاف، تُوزَّع تلك الاتصالات"
+  de: "Ein Exit in Quarantäne behält in der frühen Ersatzbankphase, in der das Urteil am wenigsten gesichert ist, die neuen Verbindungen seiner eigenen Websites, damit die Ersatzbank die Egress-IP der Website nicht aufteilt. Neue Websites meiden ihn weiterhin. Aus: verteilt sie"
   en: "A quarantined exit keeps its own sites' new connections through the early bench, when the verdict is least proven, so a bench does not split the site's egress IP. New sites still avoid it. Off scatters them"
+  es: "Una salida en cuarentena conserva las conexiones nuevas de sus propios sitios durante el inicio del banquillo, cuando el veredicto es menos seguro, para que el banquillo no divida la IP de salida del sitio. Los sitios nuevos la siguen evitando. Si está desactivado, se dispersan"
+  ru: "Выход на карантине сохраняет новые соединения своих сайтов в начале отстранения, когда вердикт наименее обоснован, чтобы отстранение не разделяло исходящий IP сайта. Новые сайты по-прежнему его избегают. Если выключено, соединения распределяются по другим выходам"
+  zh: "被隔离的出口在隔离初期（此时判定最不可靠）仍会承接其自身站点的新连接，以免隔离导致站点的出口 IP 分散。新站点仍会避开它。关闭时将这些连接分散出去"

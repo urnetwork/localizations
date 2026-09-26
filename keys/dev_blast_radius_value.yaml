@@ -6,4 +6,9 @@ placeholders:
   - name: flows
     type: string
 localizations:
+  ar: "{flows} لكل عطل"
+  de: "{flows} pro Ausfall"
   en: "{flows} per failure"
+  es: "{flows} por fallo"
+  ru: "{flows} на сбой"
+  zh: "每次故障 {flows}"

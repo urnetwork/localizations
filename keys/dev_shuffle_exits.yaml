@@ -3,4 +3,9 @@ source: "Shuffle all exits"
 platforms:
   - android
 localizations:
+  ar: "خلط كل المخارج عشوائيًا"
+  de: "Alle Exits neu mischen"
   en: "Shuffle all exits"
+  es: "Reordenar al azar todas las salidas"
+  ru: "Перемешать все выходы"
+  zh: "随机打乱所有出口"

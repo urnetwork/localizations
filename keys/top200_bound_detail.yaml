@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تُدفع مكافآت الإصدار مباشرةً إلى coldkey الخاص بك. تتجدد عمليات الربط في كل فترة."
+  de: "Die Emission wird direkt an deinen Coldkey ausgezahlt. Bindungen werden pro Epoche erneuert."
   en: "Emission is paid to your coldkey directly. Bindings renew per epoch."
+  es: "La emisión se paga directamente a tu coldkey. Las vinculaciones se renuevan en cada época."
+  ru: "Эмиссия выплачивается напрямую на ваш coldkey. Привязки обновляются каждую эпоху."
+  zh: "释放的奖励将直接支付到您的 coldkey。绑定每个周期续期一次。"

@@ -3,4 +3,9 @@ source: "Worst single failure"
 platforms:
   - android
 localizations:
+  ar: "أسوأ عطل منفرد"
+  de: "Schlimmster Einzelausfall"
   en: "Worst single failure"
+  es: "Peor fallo individual"
+  ru: "Худший единичный сбой"
+  zh: "最严重的单次故障"

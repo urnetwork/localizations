@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "نسخ نص المشاركة"
+  de: "Freigabetext kopieren"
   en: "Copy share text"
+  es: "Copiar texto para compartir"
+  ru: "Скопировать текст кода"
+  zh: "复制分享文本"

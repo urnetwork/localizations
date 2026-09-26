@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "تم نسخ نص المشاركة"
+  de: "Freigabetext kopiert"
   en: "Share text copied"
+  es: "Texto para compartir copiado"
+  ru: "Текст кода скопирован"
+  zh: "已复制分享文本"

@@ -3,4 +3,9 @@ source: "Your Pro plan is active. There's no store subscription to manage on thi
 platforms:
   - site
 localizations:
+  ar: "خطة Pro الخاصة بك نشطة. لا يوجد اشتراك متجر لإدارته في هذا الحساب."
+  de: "Dein Pro-Plan ist aktiv. Für dieses Konto gibt es kein Store-Abo zu verwalten."
   en: "Your Pro plan is active. There's no store subscription to manage on this account."
+  es: "Tu plan Pro está activo. No hay ninguna suscripción de tienda que gestionar en esta cuenta."
+  ru: "Ваш тариф Pro активен. В этом аккаунте нет подписки в магазине приложений, которой нужно управлять."
+  zh: "您的 Pro 方案已生效。此账户没有需要管理的应用商店订阅。"

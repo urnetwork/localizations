@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "تم التحديث للتو"
+  de: "Gerade aktualisiert"
   en: "Updated just now"
+  es: "Actualizado hace un momento"
+  ru: "Обновлено только что"
+  zh: "刚刚更新"

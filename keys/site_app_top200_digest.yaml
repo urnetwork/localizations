@@ -3,4 +3,9 @@ source: "Digest"
 platforms:
   - site
 localizations:
+  ar: "الملخص"
+  de: "Digest"
   en: "Digest"
+  es: "Resumen (digest)"
+  ru: "Дайджест"
+  zh: "摘要"

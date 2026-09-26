@@ -3,4 +3,9 @@ source: "Keep a spare exit warm"
 platforms:
   - android
 localizations:
+  ar: "إبقاء مخرج احتياطي جاهزًا"
+  de: "Einen Ersatz-Exit bereithalten"
   en: "Keep a spare exit warm"
+  es: "Mantener una salida de reserva lista"
+  ru: "Держать запасной выход наготове"
+  zh: "保持一个备用出口预热"

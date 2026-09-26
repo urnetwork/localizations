@@ -5,7 +5,7 @@ platforms:
 localizations:
   ar: "السماح بحركة المرور المحلية عند قطع الاتصال"
   cs: "Povolení místní sítě při odpojení"
-  de: "Lokalen Datenverkehr erlauben, wenn getrenntnURnetwork"
+  de: "Lokalen Datenverkehr erlauben, wenn getrennt"
   el: "Επιτρέψτε την τοπική κίνηση όταν είστε αποσυνδεδεμένοι"
   en: "Allow local traffic when disconnected"
   es: "Permitir tráfico local cuando esté desconectado"

@@ -3,4 +3,9 @@ source: "Probe stalled exits before dropping"
 platforms:
   - android
 localizations:
+  ar: "فحص المخارج المتوقفة قبل إسقاطها"
+  de: "Hängende Exits vor dem Verwerfen prüfen"
   en: "Probe stalled exits before dropping"
+  es: "Sondear las salidas bloqueadas antes de descartarlas"
+  ru: "Проверять зависшие выходы перед отключением"
+  zh: "丢弃前探测停滞的出口"

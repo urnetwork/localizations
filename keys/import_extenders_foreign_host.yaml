@@ -9,4 +9,9 @@ placeholders:
   - name: host
     type: string
 localizations:
+  ar: "هذا الرمز مخصص لـ {host} وليس لهذه الشبكة. استخدم إعدادات الموسّع لتبديل الشبكة."
+  de: "Dieser Code ist für {host}, nicht für dieses Netzwerk. Wechsle das Netzwerk in den Extender-Einstellungen."
   en: "This code is for {host}, not this network. Use extender settings to switch networks."
+  es: "Este código es para {host}, no para esta red. Usa los ajustes del extensor para cambiar de red."
+  ru: "Этот код предназначен для {host}, а не для этой сети. Чтобы сменить сеть, используйте настройки экстендера."
+  zh: "此代码适用于 {host}，而不是当前网络。请在扩展器设置中切换网络。"

@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "محفظة Solana"
+  de: "Solana-Wallet"
   en: "Solana wallet"
+  es: "Billetera de Solana"
+  ru: "Кошелек Solana"
+  zh: "Solana 钱包"

@@ -3,4 +3,9 @@ source: "Host suspends the detector caught, each one a batch of verdicts held in
 platforms:
   - android
 localizations:
+  ar: "حالات تعليق المضيف التي رصدها الكاشف، وكل منها دفعة من الأحكام عُلّقت بدلًا من تنفيذها على هاتف استُؤنف للتو"
+  de: "Vom Detektor erkannte Ruhezustände des Hosts; jeder davon ist ein Stapel Urteile, der auf einem gerade aufgewachten Telefon zurückgehalten statt vollstreckt wurde"
   en: "Host suspends the detector caught, each one a batch of verdicts held instead of executed on a just-resumed phone"
+  es: "Suspensiones del host que captó el detector; cada una es un lote de veredictos retenidos en lugar de ejecutados en un teléfono recién reanudado"
+  ru: "Приостановки хоста, обнаруженные детектором; каждая — это пакет вердиктов, отложенных, а не исполненных на только что проснувшемся телефоне"
+  zh: "检测器捕获的主机挂起次数，每次都意味着在刚恢复的手机上暂缓而非执行一批判定"

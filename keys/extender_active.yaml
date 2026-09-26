@@ -8,4 +8,9 @@ placeholders:
   - name: families
     type: string
 localizations:
+  ar: "نشط · {families}"
+  de: "Aktiv · {families}"
   en: "Active · {families}"
+  es: "Activo · {families}"
+  ru: "Активен · {families}"
+  zh: "已激活 · {families}"

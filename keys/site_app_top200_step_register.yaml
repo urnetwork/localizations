@@ -3,4 +3,9 @@ source: "Register a hotkey on subnet {netuid} with btcli, then enter it below."
 platforms:
   - site
 localizations:
+  ar: "سجّل hotkey على الشبكة الفرعية {netuid} باستخدام btcli، ثم أدخله أدناه."
+  de: "Registriere mit btcli einen Hotkey im Subnetz {netuid} und gib ihn dann unten ein."
   en: "Register a hotkey on subnet {netuid} with btcli, then enter it below."
+  es: "Registra una hotkey en la subred {netuid} con btcli y luego introdúcela abajo."
+  ru: "Зарегистрируйте hotkey в подсети {netuid} с помощью btcli, затем введите его ниже."
+  zh: "使用 btcli 在子网 {netuid} 上注册一个 hotkey，然后在下方输入。"

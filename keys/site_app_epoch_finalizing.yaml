@@ -3,4 +3,9 @@ source: "Finalizing"
 platforms:
   - site
 localizations:
+  ar: "قيد الإكمال"
+  de: "Wird abgeschlossen"
   en: "Finalizing"
+  es: "Finalizando"
+  ru: "Завершается"
+  zh: "确认中"

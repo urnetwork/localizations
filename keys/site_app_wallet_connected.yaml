@@ -3,4 +3,9 @@ source: "Connected"
 platforms:
   - site
 localizations:
+  ar: "متصلة"
+  de: "Verbunden"
   en: "Connected"
+  es: "Conectada"
+  ru: "Подключён"
+  zh: "已连接"

@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "غير متاح بسبب قيود النظام"
+  de: "Aufgrund von Systembeschränkungen nicht verfügbar"
   en: "Unavailable due to system constraints"
+  es: "No disponible por restricciones del sistema"
+  ru: "Недоступно из-за системных ограничений"
+  zh: "因系统限制不可用"

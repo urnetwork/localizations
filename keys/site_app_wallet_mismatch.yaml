@@ -3,4 +3,9 @@ source: "Sign with the wallet that holds this address."
 platforms:
   - site
 localizations:
+  ar: "وقّع باستخدام المحفظة التي تملك هذا العنوان."
+  de: "Signiere mit der Wallet, zu der diese Adresse gehört."
   en: "Sign with the wallet that holds this address."
+  es: "Firma con la billetera que contiene esta dirección."
+  ru: "Подпишите кошельком, которому принадлежит этот адрес."
+  zh: "请使用持有此地址的钱包签名。"

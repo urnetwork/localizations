@@ -3,4 +3,9 @@ source: "A site's new connections stay on the exit its earlier ones already use,
 platforms:
   - android
 localizations:
+  ar: "تبقى الاتصالات الجديدة للموقع على المخرج الذي تستخدمه اتصالاته السابقة، حتى بعد تجاوز حد التدفقات، ليحتفظ الموقع المزدحم بعنوان IP واحد للخروج. يظل الحد يقرر أي المخارج تستقبل مواقع جديدة. عند الإيقاف، يُستعاد الحد الصارم"
+  de: "Neue Verbindungen einer Website bleiben auf dem Exit, den ihre früheren bereits nutzen, auch über das Flow-Limit hinaus, sodass eine stark genutzte Website eine Egress-IP behält. Das Limit bestimmt weiterhin, welche Exits neue Websites aufnehmen. Aus: stellt das strikte Limit wieder her"
   en: "A site's new connections stay on the exit its earlier ones already use, even past the flow cap, so a busy site keeps one egress IP. The cap still limits which exits collect new sites. Off restores the strict cap"
+  es: "Las conexiones nuevas de un sitio se quedan en la salida que ya usan las anteriores, incluso por encima del límite de flujos, para que un sitio con mucho tráfico conserve una sola IP de salida. El límite sigue decidiendo qué salidas aceptan sitios nuevos. Si está desactivado, se restablece el límite estricto"
+  ru: "Новые соединения сайта остаются на выходе, который уже используют его прежние соединения, даже сверх лимита потоков, чтобы загруженный сайт сохранял один исходящий IP. Лимит по-прежнему определяет, какие выходы принимают новые сайты. Если выключено, восстанавливается строгий лимит"
+  zh: "站点的新连接会留在其早先连接已使用的出口上，即使超过流上限也是如此，从而让繁忙的站点保持同一个出口 IP。上限仍决定哪些出口可以接收新站点。关闭时恢复严格上限"

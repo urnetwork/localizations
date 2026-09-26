@@ -3,4 +3,9 @@ source: "Signal UDP teardown"
 platforms:
   - android
 localizations:
+  ar: "الإشعار بإنهاء UDP"
+  de: "UDP-Abbau signalisieren"
   en: "Signal UDP teardown"
+  es: "Señalizar el cierre de UDP"
+  ru: "Сообщать о закрытии UDP"
+  zh: "通知 UDP 拆除"

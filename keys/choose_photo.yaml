@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "اختيار صورة"
+  de: "Foto auswählen"
   en: "Choose photo"
+  es: "Elegir foto"
+  ru: "Выбрать фото"
+  zh: "选择照片"

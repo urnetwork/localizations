@@ -3,4 +3,9 @@ source: "Sticky site affinity"
 platforms:
   - android
 localizations:
+  ar: "تقارب ثابت للمواقع"
+  de: "Feste Website-Affinität"
   en: "Sticky site affinity"
+  es: "Afinidad persistente por sitio"
+  ru: "Устойчивая привязка сайтов"
+  zh: "站点粘性亲和性"

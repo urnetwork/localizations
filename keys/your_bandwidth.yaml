@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "عرض النطاق الترددي لديك"
+  de: "Deine Bandbreite"
   en: "Your bandwidth"
+  es: "Tu ancho de banda"
+  ru: "Ваша пропускная способность"
+  zh: "您的带宽"

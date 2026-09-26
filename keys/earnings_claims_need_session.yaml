@@ -3,4 +3,9 @@ source: "Claims load from the chain once the app has a session. Press Connect fi
 platforms:
   - windows
 localizations:
+  ar: "تُحمَّل المطالبات من السلسلة بعد أن يصبح للتطبيق جلسة. اتصل أولًا."
+  de: "Einlösungen werden von der Chain geladen, sobald die App eine Sitzung hat. Verbinde dich zuerst."
   en: "Claims load from the chain once the app has a session. Press Connect first."
+  es: "Las reclamaciones se cargan desde la cadena cuando la app tiene una sesión. Conéctate primero."
+  ru: "Данные для получения загружаются из блокчейна, когда у приложения есть сеанс. Сначала подключитесь."
+  zh: "应用建立会话后，才会从链上加载领取信息。请先连接。"

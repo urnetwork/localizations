@@ -3,4 +3,9 @@ source: "Tells DNS and QUIC the path is gone instead of going silent"
 platforms:
   - android
 localizations:
+  ar: "يُبلغ DNS و QUIC بأن المسار قد زال بدلًا من الصمت"
+  de: "Teilt DNS und QUIC mit, dass der Pfad weg ist, statt zu verstummen"
   en: "Tells DNS and QUIC the path is gone instead of going silent"
+  es: "Avisa a DNS y QUIC de que la ruta ya no existe en lugar de quedarse en silencio"
+  ru: "Сообщает DNS и QUIC, что путь пропал, вместо того чтобы молчать"
+  zh: "告知 DNS 和 QUIC 路径已失效，而不是保持静默"

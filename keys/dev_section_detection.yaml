@@ -3,4 +3,9 @@ source: "Detection"
 platforms:
   - android
 localizations:
+  ar: "الكشف"
+  de: "Erkennung"
   en: "Detection"
+  es: "Detección"
+  ru: "Обнаружение"
+  zh: "检测"

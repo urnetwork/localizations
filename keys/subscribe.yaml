@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "اشتراك"
+  de: "Abonnieren"
   en: "Subscribe"
+  es: "Suscribirse"
+  ru: "Подписаться"
+  zh: "订阅"

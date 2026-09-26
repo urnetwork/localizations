@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "الإنترنت"
+  de: "Internet"
   en: "Internet"
+  es: "Internet"
+  ru: "Интернет"
+  zh: "互联网"

@@ -3,4 +3,9 @@ source: "Points"
 platforms:
   - site
 localizations:
+  ar: "النقاط"
+  de: "Punkte"
   en: "Points"
+  es: "Puntos"
+  ru: "Очки"
+  zh: "积分"

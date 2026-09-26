@@ -3,4 +3,9 @@ source: "How much timer overshoot reads as the phone being suspended rather than
 platforms:
   - android
 localizations:
+  ar: "مقدار تجاوز المؤقت الذي يُعدّ دليلًا على تعليق الهاتف لا على توقف مخرج، كي لا يُدين الهاتف بعد استئنافه كل المخارج دفعة واحدة. عند الإيقاف، يُعطَّل"
+  de: "Ab wie viel Timer-Überschreitung angenommen wird, dass das Telefon im Ruhezustand war und nicht ein Exit hängt, damit ein aufgewecktes Telefon nicht alle Exits auf einmal verurteilt. Aus: deaktiviert die Erkennung"
   en: "How much timer overshoot reads as the phone being suspended rather than an exit stalling, so a resumed phone does not convict every exit at once. Off disables it"
+  es: "Cuánto retraso del temporizador se interpreta como que el teléfono estuvo suspendido y no como una salida bloqueada, para que un teléfono reanudado no condene todas las salidas a la vez. Si está desactivado, no se aplica"
+  ru: "Какое превышение таймера считается приостановкой телефона, а не зависанием выхода, чтобы после пробуждения телефон не осудил сразу все выходы. Если выключено, детектор не работает"
+  zh: "计时器超时多少会被视为手机被挂起，而不是出口停滞，以免手机恢复后一次性将所有出口定罪。关闭时停用"

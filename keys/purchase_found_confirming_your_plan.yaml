@@ -3,4 +3,9 @@ source: "Purchase found. Confirming your plan — it will update automatically."
 platforms:
   - apple
 localizations:
+  ar: "تم العثور على عملية الشراء. جارٍ تأكيد خطتك — سيتم تحديثها تلقائيًا."
+  de: "Kauf gefunden. Dein Plan wird bestätigt — er wird automatisch aktualisiert."
   en: "Purchase found. Confirming your plan — it will update automatically."
+  es: "Compra encontrada. Confirmando tu plan — se actualizará automáticamente."
+  ru: "Покупка найдена. Подтверждаем ваш тариф — он обновится автоматически."
+  zh: "已找到购买记录。正在确认您的方案，方案将自动更新。"

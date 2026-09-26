@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "استثناء مفتاح القتل"
+  de: "Ausnahme vom Kill switch"
   en: "Kill switch exception"
+  es: "Excepción del Kill switch"
+  ru: "Исключение для Kill switch"
+  zh: "断网保护例外"

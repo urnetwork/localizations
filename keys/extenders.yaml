@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "الموسّعات"
+  de: "Extender"
   en: "Extenders"
+  es: "Extensores"
+  ru: "Экстендеры"
+  zh: "扩展器"

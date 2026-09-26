@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "فشل"
+  de: "Fehlgeschlagen"
   en: "Failed"
+  es: "Fallido"
+  ru: "Ошибка"
+  zh: "失败"

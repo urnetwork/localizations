@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "مباشر عبر QUIC. الأسرع حيث لا يتم ترشيحه."
+  de: "Direkt über QUIC. Am schnellsten, wo es nicht gefiltert wird."
   en: "Direct over QUIC. Fastest where it is not filtered."
+  es: "Directo sobre QUIC. El más rápido donde no se filtra."
+  ru: "Напрямую через QUIC. Самый быстрый там, где его не фильтруют."
+  zh: "通过 QUIC 直连。在未被过滤的网络中速度最快。"

@@ -3,4 +3,9 @@ source: "You're being billed for more than one subscription. Each one has to be 
 platforms:
   - site
 localizations:
+  ar: "يتم تحصيل رسوم منك مقابل أكثر من اشتراك. يجب إلغاء كل اشتراك من المكان الذي تم شراؤه منه."
+  de: "Dir werden mehrere Abos berechnet. Jedes muss dort gekündigt werden, wo es abgeschlossen wurde."
   en: "You're being billed for more than one subscription. Each one has to be cancelled where it was purchased."
+  es: "Se te está cobrando más de una suscripción. Cada una debe cancelarse donde se compró."
+  ru: "С вас списывается оплата за несколько подписок. Каждую нужно отменить там, где она была оформлена."
+  zh: "您正在为多个订阅付费。每个订阅都必须在购买的地方取消。"

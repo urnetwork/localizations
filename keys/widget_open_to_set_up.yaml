@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "افتح URnetwork للإعداد"
+  de: "Öffne URnetwork zur Einrichtung"
   en: "Open URnetwork to set up"
+  es: "Abre URnetwork para configurarlo"
+  ru: "Откройте URnetwork для настройки"
+  zh: "打开 URnetwork 进行设置"

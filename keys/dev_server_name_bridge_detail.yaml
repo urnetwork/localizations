@@ -3,4 +3,9 @@ source: "Moves later connections onto the exit the first one already uses"
 platforms:
   - android
 localizations:
+  ar: "ينقل الاتصالات اللاحقة إلى المخرج الذي يستخدمه الاتصال الأول بالفعل"
+  de: "Verschiebt spätere Verbindungen auf den Exit, den die erste bereits nutzt"
   en: "Moves later connections onto the exit the first one already uses"
+  es: "Mueve las conexiones posteriores a la salida que ya usa la primera"
+  ru: "Переносит последующие соединения на выход, который уже использует первое"
+  zh: "将后续连接转移到第一个连接已使用的出口"

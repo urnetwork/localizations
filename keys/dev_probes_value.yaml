@@ -8,4 +8,9 @@ placeholders:
   - name: answered
     type: int
 localizations:
+  ar: "{sent} مُرسَلة / {answered} تم الرد عليها"
+  de: "{sent} gesendet / {answered} beantwortet"
   en: "{sent} sent / {answered} answered"
+  es: "{sent} enviadas / {answered} respondidas"
+  ru: "{sent} отправлено / {answered} с ответом"
+  zh: "已发送 {sent} / 已应答 {answered}"

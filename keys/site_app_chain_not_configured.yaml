@@ -3,4 +3,9 @@ source: "Settlement on the subnet is not configured yet. Points keep accruing; c
 platforms:
   - site
 localizations:
+  ar: "لم تتم تهيئة التسوية على الشبكة الفرعية بعد. تستمر النقاط في التراكم؛ عُد للتحقق بعد الإصدار التالي."
+  de: "Die Abrechnung im Subnetz ist noch nicht eingerichtet. Punkte sammeln sich weiter an; schau nach dem nächsten Release wieder vorbei."
   en: "Settlement on the subnet is not configured yet. Points keep accruing; check back after the next release."
+  es: "La liquidación en la subred aún no está configurada. Los puntos se siguen acumulando; vuelve a consultarlo después de la próxima versión."
+  ru: "Расчёты в подсети пока не настроены. Очки продолжают начисляться; загляните снова после следующего релиза."
+  zh: "子网上的结算尚未配置。积分会继续累积；请在下一个版本发布后再来查看。"

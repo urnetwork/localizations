@@ -5,4 +5,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "تسجيل الدخول باستخدام Apple"
+  de: "Mit Apple anmelden"
   en: "Sign in with Apple"
+  es: "Iniciar sesión con Apple"
+  ru: "Войти через Apple"
+  zh: "使用 Apple 登录"

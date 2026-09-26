@@ -3,4 +3,9 @@ source: "Choose logs…"
 platforms:
   - android
 localizations:
+  ar: "اختيار السجلات…"
+  de: "Logs auswählen…"
   en: "Choose logs…"
+  es: "Elegir registros…"
+  ru: "Выбрать логи…"
+  zh: "选择日志…"

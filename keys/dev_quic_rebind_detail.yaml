@@ -3,4 +3,9 @@ source: "Re-pin established QUIC flows to a live exit inside the removal instead
 platforms:
   - android
 localizations:
+  ar: "يعيد تثبيت تدفقات QUIC القائمة على مخرج حي أثناء الإزالة بدلًا من قطعها"
+  de: "Bestehende QUIC-Flows während der Entfernung auf einen lebenden Exit umpinnen, statt sie abzubauen"
   en: "Re-pin established QUIC flows to a live exit inside the removal instead of tearing them down"
+  es: "Vuelve a fijar los flujos QUIC establecidos en una salida activa durante la eliminación en lugar de cerrarlos"
+  ru: "Перезакрепляет установленные потоки QUIC за живым выходом во время удаления, вместо того чтобы разрывать их"
+  zh: "在移除过程中将已建立的 QUIC 流重新固定到存活的出口，而不是将其断开"

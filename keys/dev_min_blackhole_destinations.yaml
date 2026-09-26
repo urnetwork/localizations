@@ -3,4 +3,9 @@ source: "Corroborate silent exits"
 platforms:
   - android
 localizations:
+  ar: "التحقق من المخارج الصامتة"
+  de: "Stille Exits gegenprüfen"
   en: "Corroborate silent exits"
+  es: "Corroborar salidas silenciosas"
+  ru: "Подтверждать молчащие выходы"
+  zh: "佐证静默出口"

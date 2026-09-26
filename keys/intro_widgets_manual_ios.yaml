@@ -3,4 +3,9 @@ source: "Long-press the Home Screen, tap +, search URnetwork, and add a widget."
 platforms:
   - apple
 localizations:
+  ar: "اضغط مطولًا على الشاشة الرئيسية، ثم اضغط على +، وابحث عن URnetwork، وأضف أداة."
+  de: "Drücke lange auf den Home-Bildschirm, tippe auf +, suche nach URnetwork und füge ein Widget hinzu."
   en: "Long-press the Home Screen, tap +, search URnetwork, and add a widget."
+  es: "Mantén pulsada la pantalla de inicio, toca +, busca URnetwork y añade un widget."
+  ru: "Нажмите и удерживайте экран «Домой», коснитесь +, найдите URnetwork и добавьте виджет."
+  zh: "长按主屏幕，轻点 +，搜索 URnetwork，然后添加小组件。"

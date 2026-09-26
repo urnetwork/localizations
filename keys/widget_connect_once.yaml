@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "اتصل مرة واحدة لترى حركة بياناتك هنا"
+  de: "Verbinde dich einmal, um hier deinen Datenverkehr zu sehen"
   en: "Connect once to see your traffic here"
+  es: "Conéctate una vez para ver aquí tu tráfico"
+  ru: "Подключитесь хотя бы раз, чтобы видеть здесь свой трафик"
+  zh: "连接一次即可在此查看您的流量"

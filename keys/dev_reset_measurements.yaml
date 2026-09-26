@@ -3,4 +3,9 @@ source: "Reset measurements"
 platforms:
   - android
 localizations:
+  ar: "إعادة تعيين القياسات"
+  de: "Messungen zurücksetzen"
   en: "Reset measurements"
+  es: "Restablecer mediciones"
+  ru: "Сбросить измерения"
+  zh: "重置测量"

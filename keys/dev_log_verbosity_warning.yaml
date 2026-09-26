@@ -3,4 +3,9 @@ source: "At Verbose and above the logs contain the destination IP addresses and 
 platforms:
   - android
 localizations:
+  ar: "بدءًا من مستوى «مفصّل» وما فوقه، تحتوي السجلات على عناوين IP والمنافذ الخاصة بوجهات حركة البيانات التي ترسلها. استخدم «تصدير السجلات المنقّحة» لمشاركتها؛ ولا ينبغي أن تغادر الحزمة الخام هذا الجهاز."
+  de: "Ab „Ausführlich“ enthalten die Logs die Ziel-IP-Adressen und Ports des Datenverkehrs, den du sendest. Verwende „Bereinigte Logs exportieren“, um sie zu teilen; das Rohpaket sollte dieses Gerät nicht verlassen."
   en: "At Verbose and above the logs contain the destination IP addresses and ports of the traffic you send. Use “Export redacted logs” to share them; the raw bundle should not leave this device."
+  es: "A partir de «Detallado», los registros contienen las direcciones IP y los puertos de destino del tráfico que envías. Usa «Exportar registros anonimizados» para compartirlos; el paquete sin procesar no debe salir de este dispositivo."
+  ru: "Начиная с уровня «Подробный», логи содержат IP-адреса и порты назначения отправляемого вами трафика. Чтобы поделиться ими, используйте «Экспортировать обезличенные логи»; необработанный пакет не должен покидать это устройство."
+  zh: "在“详细”及以上级别，日志会包含您所发送流量的目标 IP 地址和端口。如需分享，请使用“导出脱敏日志”；原始诊断包不应离开此设备。"

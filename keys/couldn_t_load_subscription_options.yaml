@@ -3,4 +3,9 @@ source: "Couldn't load subscription options. Check your connection and retry."
 platforms:
   - apple
 localizations:
+  ar: "تعذّر تحميل خيارات الاشتراك. تحقق من اتصالك وأعد المحاولة."
+  de: "Die Abo-Optionen konnten nicht geladen werden. Überprüfe deine Verbindung und versuche es erneut."
   en: "Couldn't load subscription options. Check your connection and retry."
+  es: "No se pudieron cargar las opciones de suscripción. Revisa tu conexión y vuelve a intentarlo."
+  ru: "Не удалось загрузить варианты подписки. Проверьте подключение и повторите попытку."
+  zh: "无法加载订阅选项。请检查网络连接后重试。"

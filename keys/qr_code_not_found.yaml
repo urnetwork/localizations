@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "لم يتم العثور على رمز QR في الصورة."
+  de: "Im Bild wurde kein QR-Code gefunden."
   en: "No QR code was found in the image."
+  es: "No se encontró ningún código QR en la imagen."
+  ru: "На изображении не найден QR-код."
+  zh: "图片中未找到二维码。"

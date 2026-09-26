@@ -3,4 +3,9 @@ source: "Payment received"
 platforms:
   - android
 localizations:
+  ar: "تم استلام الدفعة"
+  de: "Zahlung erhalten"
   en: "Payment received"
+  es: "Pago recibido"
+  ru: "Платёж получен"
+  zh: "已收到付款"

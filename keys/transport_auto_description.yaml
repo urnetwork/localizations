@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "موصى به. يستخدم بروتوكولات النقل المفعّلة أدناه."
+  de: "Empfohlen. Verwendet die unten aktivierten Transporte."
   en: "Recommended. Uses the enabled transports below."
+  es: "Recomendado. Usa los transportes activados abajo."
+  ru: "Рекомендуется. Использует включённые ниже транспорты."
+  zh: "推荐。使用下方已启用的传输方式。"

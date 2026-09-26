@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "موسّع خاص"
+  de: "Privater Extender"
   en: "Private extender"
+  es: "Extensor privado"
+  ru: "Частный экстендер"
+  zh: "私有扩展器"

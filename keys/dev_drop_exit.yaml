@@ -3,4 +3,9 @@ source: "Drop"
 platforms:
   - android
 localizations:
+  ar: "إسقاط"
+  de: "Verwerfen"
   en: "Drop"
+  es: "Descartar"
+  ru: "Отключить"
+  zh: "丢弃"

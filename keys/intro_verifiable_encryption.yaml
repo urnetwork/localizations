@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تشفير للاستخدام اليومي."
+  de: "Verschlüsselung für jeden Tag."
   en: "Encryption for everyday use."
+  es: "Cifrado para el día a día."
+  ru: "Шифрование на каждый день."
+  zh: "日常使用的加密保护。"

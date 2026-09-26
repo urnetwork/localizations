@@ -3,4 +3,9 @@ source: "Not eligible yet. Your score is {score} and the eviction floor is {floo
 platforms:
   - site
 localizations:
+  ar: "غير مؤهل بعد. نتيجتك {score} وحد الإقصاء {floor}."
+  de: "Noch nicht berechtigt. Dein Score ist {score}, die Verdrängungsgrenze liegt bei {floor}."
   en: "Not eligible yet. Your score is {score} and the eviction floor is {floor}."
+  es: "Aún no cumples los requisitos. Tu puntuación es {score} y el umbral de expulsión es {floor}."
+  ru: "Пока нет права на участие. Ваш балл — {score}, порог вытеснения — {floor}."
+  zh: "暂不符合条件。您的分数为 {score}，淘汰线为 {floor}。"

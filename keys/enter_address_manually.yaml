@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "إدخال العنوان يدويًا"
+  de: "Adresse manuell eingeben"
   en: "Enter address manually"
+  es: "Introducir la dirección manualmente"
+  ru: "Ввести адрес вручную"
+  zh: "手动输入地址"

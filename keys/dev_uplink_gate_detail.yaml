@@ -3,4 +3,9 @@ source: "How long the whole tunnel may be silent before provider verdicts are he
 platforms:
   - android
 localizations:
+  ar: "المدة التي يمكن أن يبقى فيها النفق بأكمله صامتًا قبل تعليق الأحكام على المزودين باعتبارها غير مقبولة. القيمة 0 تُدين كما في السابق"
+  de: "Wie lange der gesamte Tunnel still sein darf, bevor Urteile über Anbieter als unzulässig zurückgehalten werden. 0 verurteilt wie bisher"
   en: "How long the whole tunnel may be silent before provider verdicts are held as inadmissible. 0 convicts as before"
+  es: "Cuánto tiempo puede estar en silencio todo el túnel antes de que los veredictos sobre proveedores se retengan como inadmisibles. 0 condena como antes"
+  ru: "Как долго весь туннель может молчать, прежде чем вердикты о провайдерах будут отложены как недопустимые. 0 — осуждать как раньше"
+  zh: "整个隧道静默多长时间后，针对提供商的判定将被视为不可采信而暂缓。0 表示照旧定罪"

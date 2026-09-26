@@ -3,4 +3,9 @@ source: "Group IPs by site"
 platforms:
   - android
 localizations:
+  ar: "تجميع عناوين IP حسب الموقع"
+  de: "IPs nach Website gruppieren"
   en: "Group IPs by site"
+  es: "Agrupar IP por sitio"
+  ru: "Группировать IP по сайтам"
+  zh: "按站点分组 IP"

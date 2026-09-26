@@ -3,4 +3,9 @@ source: "Hotkey signature (hex)"
 platforms:
   - site
 localizations:
+  ar: "توقيع hotkey (hex)"
+  de: "Hotkey-Signatur (hex)"
   en: "Hotkey signature (hex)"
+  es: "Firma de la hotkey (hex)"
+  ru: "Подпись hotkey (hex)"
+  zh: "Hotkey 签名（hex）"

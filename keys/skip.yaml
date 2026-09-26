@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تخطي"
+  de: "Überspringen"
   en: "Skip"
+  es: "Omitir"
+  ru: "Пропустить"
+  zh: "跳过"

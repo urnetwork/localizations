@@ -3,4 +3,9 @@ source: "Payment not confirmed yet"
 platforms:
   - site
 localizations:
+  ar: "لم يتم تأكيد الدفع بعد"
+  de: "Zahlung noch nicht bestätigt"
   en: "Payment not confirmed yet"
+  es: "Pago aún no confirmado"
+  ru: "Платёж ещё не подтверждён"
+  zh: "付款尚未确认"

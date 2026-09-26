@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "اختيار ملف صورة"
+  de: "Bilddatei auswählen"
   en: "Choose image file"
+  es: "Elegir archivo de imagen"
+  ru: "Выбрать файл изображения"
+  zh: "选择图片文件"

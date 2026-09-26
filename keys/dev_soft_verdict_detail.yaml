@@ -3,4 +3,9 @@ source: "Ambiguous verdicts bench an exit instead of tearing down its flows; rem
 platforms:
   - android
 localizations:
+  ar: "الأحكام الملتبسة تحجر المخرج بدلًا من قطع تدفقاته؛ وتتطلب الإزالة أدلة مستمرة أو مخرجًا فارغًا"
+  de: "Mehrdeutige Urteile setzen einen Exit auf die Ersatzbank, statt seine Flows abzubauen; für eine Entfernung braucht es anhaltende Hinweise oder einen leeren Exit"
   en: "Ambiguous verdicts bench an exit instead of tearing down its flows; removal needs sustained evidence or an empty exit"
+  es: "Los veredictos ambiguos mandan una salida al banquillo en lugar de cerrar sus flujos; eliminarla requiere indicios sostenidos o una salida vacía"
+  ru: "Неоднозначные вердикты отстраняют выход, а не разрывают его потоки; для удаления нужны устойчивые признаки или пустой выход"
+  zh: "不明确的判定会隔离出口，而不是断开其流；移除需要持续的证据或出口已空"

@@ -3,4 +3,9 @@ source: "Connection errors and contract pings"
 platforms:
   - android
 localizations:
+  ar: "أخطاء الاتصال واختبارات ping للعقود"
+  de: "Verbindungsfehler und Vertrags-Pings"
   en: "Connection errors and contract pings"
+  es: "Errores de conexión y pings de contratos"
+  ru: "Ошибки соединения и пинги контрактов"
+  zh: "连接错误和合约 ping"

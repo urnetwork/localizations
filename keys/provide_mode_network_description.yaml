@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "يوفّر فقط لأجهزة شبكتك الخاصة."
+  de: "Stellt nur den Geräten deines eigenen Netzwerks bereit."
   en: "Provides only to your own network's devices."
+  es: "Proporciona solo a los dispositivos de tu propia red."
+  ru: "Предоставляет доступ только устройствам вашей сети."
+  zh: "仅向您自己网络中的设备提供。"

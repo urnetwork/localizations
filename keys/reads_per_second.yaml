@@ -5,4 +5,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "قراءة/ث"
+  de: "Lesevorgänge/s"
   en: "reads/s"
+  es: "lecturas/s"
+  ru: "чтений/с"
+  zh: "次读取/秒"

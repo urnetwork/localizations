@@ -3,4 +3,9 @@ source: "Contract accounting and per-packet block decisions. Includes destinatio
 platforms:
   - android
 localizations:
+  ar: "محاسبة العقود وقرارات الحجب لكل حزمة. يتضمن عناوين IP للوجهات"
+  de: "Vertragsabrechnung und Blockierentscheidungen pro Paket. Enthält Ziel-IP-Adressen"
   en: "Contract accounting and per-packet block decisions. Includes destination IP addresses"
+  es: "Contabilidad de contratos y decisiones de bloqueo por paquete. Incluye las direcciones IP de destino"
+  ru: "Учёт контрактов и решения о блокировке для каждого пакета. Включает IP-адреса назначения"
+  zh: "合约计量和逐包阻断决策。包含目标 IP 地址"

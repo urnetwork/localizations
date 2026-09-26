@@ -10,4 +10,9 @@ placeholders:
   - name: amount
     type: string
 localizations:
+  ar: "{amount} USDC بانتظار الإرسال"
+  de: "{amount} USDC ausstehend"
   en: "{amount} USDC waiting"
+  es: "{amount} USDC pendientes"
+  ru: "{amount} USDC ожидают выплаты"
+  zh: "{amount} USDC 待发放"

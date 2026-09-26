@@ -3,4 +3,9 @@ source: "There is no device to read the log level from yet. Sign in first"
 platforms:
   - android
 localizations:
+  ar: "لا يوجد جهاز بعد لقراءة مستوى السجل منه. سجّل الدخول أولًا"
+  de: "Es gibt noch kein Gerät, von dem der Log-Level gelesen werden kann. Melde dich zuerst an"
   en: "There is no device to read the log level from yet. Sign in first"
+  es: "Todavía no hay ningún dispositivo del que leer el nivel de registro. Inicia sesión primero"
+  ru: "Пока нет устройства, с которого можно прочитать уровень логирования. Сначала войдите"
+  zh: "尚无可读取日志级别的设备。请先登录"

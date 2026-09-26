@@ -3,4 +3,9 @@ source: "Performance-aware affinity"
 platforms:
   - android
 localizations:
+  ar: "تقارب مراعٍ للأداء"
+  de: "Leistungsbewusste Affinität"
   en: "Performance-aware affinity"
+  es: "Afinidad según rendimiento"
+  ru: "Привязка с учётом производительности"
+  zh: "性能感知亲和性"

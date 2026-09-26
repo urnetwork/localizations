@@ -3,4 +3,9 @@ source: "Keep quiet providers longer"
 platforms:
   - android
 localizations:
+  ar: "الاحتفاظ بالمزودين الصامتين لفترة أطول"
+  de: "Stille Anbieter länger behalten"
   en: "Keep quiet providers longer"
+  es: "Mantener más tiempo a los proveedores silenciosos"
+  ru: "Дольше сохранять молчащих провайдеров"
+  zh: "更长时间保留静默的提供商"

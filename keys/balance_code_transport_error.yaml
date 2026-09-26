@@ -5,4 +5,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "تعذّر الوصول إلى الخادم — تحقق من اتصالك. إذا تم تحصيل رسوم منك، فربما تم تطبيق الرمز بالفعل؛ تحقق من رصيدك قبل المحاولة مرة أخرى."
+  de: "Wir konnten den Server nicht erreichen — überprüfe deine Verbindung. Falls dir etwas berechnet wurde, ist der Code möglicherweise schon angewendet; prüfe dein Guthaben, bevor du es erneut versuchst."
   en: "We couldn't reach the server — check your connection. If you were charged, the code may already be applied; check your balance before trying again."
+  es: "No pudimos conectar con el servidor — revisa tu conexión. Si se te cobró, puede que el código ya se haya aplicado; revisa tu saldo antes de volver a intentarlo."
+  ru: "Не удалось связаться с сервером — проверьте подключение. Если с вас списали оплату, код, возможно, уже применён; проверьте баланс, прежде чем повторять попытку."
+  zh: "无法连接到服务器，请检查网络连接。如果您已被扣款，该余额码可能已生效；请先查看余额再重试。"

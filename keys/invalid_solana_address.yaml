@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "هذا ليس عنوان Solana صالحًا."
+  de: "Das ist keine gültige Solana-Adresse."
   en: "That is not a valid Solana address."
+  es: "Esa no es una dirección de Solana válida."
+  ru: "Это недействительный адрес Solana."
+  zh: "这不是有效的 Solana 地址。"

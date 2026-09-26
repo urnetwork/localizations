@@ -3,4 +3,9 @@ source: "Pay another way"
 platforms:
   - site
 localizations:
+  ar: "الدفع بطريقة أخرى"
+  de: "Anders bezahlen"
   en: "Pay another way"
+  es: "Pagar de otra forma"
+  ru: "Оплатить другим способом"
+  zh: "使用其他方式支付"

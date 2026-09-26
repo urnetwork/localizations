@@ -3,4 +3,9 @@ source: "Add device"
 platforms:
   - site
 localizations:
+  ar: "إضافة جهاز"
+  de: "Gerät hinzufügen"
   en: "Add device"
+  es: "Añadir dispositivo"
+  ru: "Добавить устройство"
+  zh: "添加设备"

@@ -6,4 +6,9 @@ placeholders:
   - name: address
     type: string
 localizations:
+  ar: "إلى {address}"
+  de: "An {address}"
   en: "To {address}"
+  es: "A {address}"
+  ru: "На {address}"
+  zh: "发送至 {address}"

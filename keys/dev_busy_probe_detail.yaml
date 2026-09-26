@@ -3,4 +3,9 @@ source: "When an exit stalls, ping it once before convicting. A congested but al
 platforms:
   - android
 localizations:
+  ar: "عندما يتوقف مخرج، يُرسل إليه ping مرة واحدة قبل إدانته. المخرج المزدحم لكنه حي يرد ويحتفظ بتدفقاته؛ أما الميت فيُسقط على أي حال. عند الإيقاف، تتم الإدانة بناءً على عتبة التوقف"
+  de: "Wenn ein Exit hängt, wird er vor dem Verurteilen einmal angepingt. Ein überlasteter, aber lebendiger Exit antwortet und behält seine Flows; ein toter wird trotzdem verworfen. Aus: verurteilt allein nach der Hänger-Schwelle"
   en: "When an exit stalls, ping it once before convicting. A congested but alive exit answers and keeps its flows; a dead one is still dropped. Off convicts on the stall bar"
+  es: "Cuando una salida se bloquea, se le hace ping una vez antes de condenarla. Una salida congestionada pero viva responde y conserva sus flujos; una muerta se descarta igualmente. Si está desactivado, se condena al alcanzar el umbral de bloqueo"
+  ru: "Когда выход зависает, его один раз пингуют, прежде чем осудить. Перегруженный, но живой выход отвечает и сохраняет свои потоки; мёртвый всё равно отключается. Если выключено, выход осуждается по порогу зависания"
+  zh: "出口停滞时，先 ping 一次再定罪。拥塞但仍存活的出口会应答并保留其流；已失效的出口仍会被丢弃。关闭时按停滞阈值直接定罪"

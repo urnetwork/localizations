@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "انتهت الصلاحية"
+  de: "Abgelaufen"
   en: "Expired"
+  es: "Caducado"
+  ru: "Истекло"
+  zh: "已过期"

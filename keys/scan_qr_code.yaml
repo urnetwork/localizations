@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "مسح رمز QR"
+  de: "QR-Code scannen"
   en: "Scan QR code"
+  es: "Escanear código QR"
+  ru: "Сканировать QR-код"
+  zh: "扫描二维码"

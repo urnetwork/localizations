@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "بروتوكولات النقل للمزود"
+  de: "Anbieter-Transporte"
   en: "Provider transports"
+  es: "Transportes del proveedor"
+  ru: "Транспорты провайдера"
+  zh: "提供商传输方式"

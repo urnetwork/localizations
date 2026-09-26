@@ -3,4 +3,9 @@ source: "Claiming is not available on this device yet."
 platforms:
   - linux
 localizations:
+  ar: "المطالبة غير متاحة على هذا الجهاز بعد."
+  de: "Einlösen ist auf diesem Gerät noch nicht verfügbar."
   en: "Claiming is not available on this device yet."
+  es: "Reclamar aún no está disponible en este dispositivo."
+  ru: "Получение пока недоступно на этом устройстве."
+  zh: "此设备暂不支持领取。"

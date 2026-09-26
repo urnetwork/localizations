@@ -6,4 +6,9 @@ placeholders:
   - name: reason
     type: string
 localizations:
+  ar: "غير مُضمَّن: {reason}"
+  de: "Nicht enthalten: {reason}"
   en: "Not included: {reason}"
+  es: "No incluido: {reason}"
+  ru: "Не включено: {reason}"
+  zh: "未包含：{reason}"

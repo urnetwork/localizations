@@ -7,4 +7,9 @@ placeholders:
   - name: time
     type: string
 localizations:
+  ar: "آخر تحديث {time}"
+  de: "Aktualisiert {time}"
   en: "Updated {time}"
+  es: "Actualizado {time}"
+  ru: "Обновлено {time}"
+  zh: "更新于 {time}"

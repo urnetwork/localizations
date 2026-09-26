@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "اتصل بلمسة واحدة"
+  de: "Mit einem Tipp verbinden"
   en: "Connect in one tap"
+  es: "Conéctate con un toque"
+  ru: "Подключение одним касанием"
+  zh: "一键连接"

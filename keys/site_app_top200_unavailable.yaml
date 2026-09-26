@@ -3,4 +3,9 @@ source: "Head spot status is not available right now."
 platforms:
   - site
 localizations:
+  ar: "حالة المقعد الرئيسي غير متاحة الآن."
+  de: "Der Status des Head-Platzes ist gerade nicht verfügbar."
   en: "Head spot status is not available right now."
+  es: "El estado del puesto principal no está disponible en este momento."
+  ru: "Статус ведущего места сейчас недоступен."
+  zh: "目前无法获取头部席位状态。"

@@ -3,4 +3,9 @@ source: "This balance code has already been redeemed. If you redeemed it earlier
 platforms:
   - android
 localizations:
+  ar: "تم استرداد رمز الرصيد هذا بالفعل. إذا كنت قد استرددته سابقًا، فالبيانات موجودة بالفعل في رصيدك."
+  de: "Dieser Guthabencode wurde bereits eingelöst. Wenn du ihn schon früher eingelöst hast, sind die Daten bereits in deinem Guthaben."
   en: "This balance code has already been redeemed. If you redeemed it earlier, the data is already on your balance."
+  es: "Este código de saldo ya se canjeó. Si lo canjeaste antes, los datos ya están en tu saldo."
+  ru: "Этот код баланса уже активирован. Если вы активировали его ранее, данные уже зачислены на ваш баланс."
+  zh: "此余额码已被兑换。如果您之前已兑换过，数据已计入您的余额。"

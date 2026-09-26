@@ -3,4 +3,9 @@ source: "How often a connecting flow re-checks an empty window, so the first req
 platforms:
   - android
 localizations:
+  ar: "عدد مرات إعادة فحص التدفق الجاري اتصاله لنافذة فارغة، لكي ينطلق الطلب الأول فور وصول أول مخرج. عند الإيقاف، ينتظر وتيرة إعادة المحاولة البالغة 2 ثانية"
+  de: "Wie oft ein Flow im Verbindungsaufbau ein leeres Fenster erneut prüft, damit die erste Anfrage direkt nach dem Eintreffen des ersten Exits losgeht. Aus: wartet den 2-s-Wiederholungstakt ab"
   en: "How often a connecting flow re-checks an empty window, so the first request leaves right after the first exit lands. Off waits the 2s retry pace"
+  es: "Con qué frecuencia un flujo que se está conectando vuelve a comprobar una ventana vacía, para que la primera solicitud salga justo cuando llega la primera salida. Si está desactivado, se espera el ritmo de reintento de 2 s"
+  ru: "Как часто подключающийся поток перепроверяет пустое окно, чтобы первый запрос ушёл сразу после появления первого выхода. Если выключено, используется интервал повтора 2 с"
+  zh: "正在连接的流重新检查空窗口的频率，使第一个请求在首个出口就绪后立即发出。关闭时按 2 秒的重试节奏等待"

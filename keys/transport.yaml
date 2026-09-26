@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "بروتوكول النقل"
+  de: "Transport"
   en: "Transport"
+  es: "Transporte"
+  ru: "Транспорт"
+  zh: "传输方式"

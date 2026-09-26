@@ -3,4 +3,9 @@ source: "How long the stall probe waits for an answer before convicting. Off der
 platforms:
   - android
 localizations:
+  ar: "المدة التي ينتظر فيها فحص التوقف ردًا قبل الإدانة. عند الإيقاف، تُستخدم نصف عتبة التوقف"
+  de: "Wie lange die Hänger-Prüfung auf eine Antwort wartet, bevor verurteilt wird. Aus: nutzt die halbe Hänger-Schwelle"
   en: "How long the stall probe waits for an answer before convicting. Off derives half the stall bar"
+  es: "Cuánto espera la sonda de bloqueo una respuesta antes de condenar. Si está desactivado, se usa la mitad del umbral de bloqueo"
+  ru: "Как долго проба зависания ждёт ответа, прежде чем осудить выход. Если выключено, берётся половина порога зависания"
+  zh: "停滞探测在定罪前等待应答的时长。关闭时取停滞阈值的一半"

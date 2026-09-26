@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تم الإرسال"
+  de: "Gesendet"
   en: "Sent"
+  es: "Enviado"
+  ru: "Отправлено"
+  zh: "已发送"

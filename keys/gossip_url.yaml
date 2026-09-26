@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "عنوان URL لشبكة Gossip"
+  de: "Gossip-URL"
   en: "Gossip URL"
+  es: "URL de gossip"
+  ru: "URL gossip-сети"
+  zh: "Gossip URL"

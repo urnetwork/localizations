@@ -3,4 +3,9 @@ source: "Quick connect tile added"
 platforms:
   - android
 localizations:
+  ar: "تمت إضافة مربع الاتصال السريع"
+  de: "Schnellverbindungs-Kachel hinzugefügt"
   en: "Quick connect tile added"
+  es: "Icono de conexión rápida añadido"
+  ru: "Плитка быстрого подключения добавлена"
+  zh: "已添加快速连接图块"

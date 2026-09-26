@@ -3,4 +3,9 @@ source: "Developer"
 platforms:
   - android
 localizations:
+  ar: "المطوّر"
+  de: "Entwickler"
   en: "Developer"
+  es: "Desarrollador"
+  ru: "Разработчик"
+  zh: "开发者"

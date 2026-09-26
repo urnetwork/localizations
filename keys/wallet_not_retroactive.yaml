@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "اربط محفظة لتكسب SN25α بدءًا من الفترة التالية. لا تتم تسوية الفترات السابقة بأثر رجعي."
+  de: "Verbinde eine Wallet, um ab der nächsten Epoche SN25α zu verdienen. Frühere Epochen werden nicht rückwirkend abgerechnet."
   en: "Connect a wallet to earn SN25α from the next epoch. Earlier epochs are not settled retroactively."
+  es: "Conecta una billetera para ganar SN25α a partir de la próxima época. Las épocas anteriores no se liquidan con carácter retroactivo."
+  ru: "Подключите кошелек, чтобы получать SN25α со следующей эпохи. Прошлые эпохи задним числом не рассчитываются."
+  zh: "连接钱包，即可从下一个周期开始赚取 SN25α。之前的周期不会追溯结算。"

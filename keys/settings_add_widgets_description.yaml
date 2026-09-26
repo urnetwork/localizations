@@ -3,4 +3,9 @@ source: "Quick connect, transfer balance, providers on the globe and your top co
 platforms:
   - android
 localizations:
+  ar: "الاتصال السريع، ورصيد البيانات، والمزودون على الكرة الأرضية، وأهم عقودك."
+  de: "Schnellverbindung, Datenguthaben, Anbieter auf dem Globus und deine wichtigsten Verträge."
   en: "Quick connect, transfer balance, providers on the globe and your top contracts."
+  es: "Conexión rápida, saldo de datos, proveedores en el globo y tus contratos principales."
+  ru: "Быстрое подключение, баланс трафика, провайдеры на глобусе и ваши главные контракты."
+  zh: "快速连接、流量余额、地球上的提供商以及您的主要合约。"

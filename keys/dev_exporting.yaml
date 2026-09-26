@@ -3,4 +3,9 @@ source: "Exporting…"
 platforms:
   - android
 localizations:
+  ar: "جارٍ التصدير…"
+  de: "Wird exportiert…"
   en: "Exporting…"
+  es: "Exportando…"
+  ru: "Экспорт…"
+  zh: "正在导出…"

@@ -9,4 +9,9 @@ placeholders:
   - name: value
     type: string
 localizations:
+  ar: "الافتراضي: {value}"
+  de: "Standard: {value}"
   en: "Default: {value}"
+  es: "Predeterminado: {value}"
+  ru: "По умолчанию: {value}"
+  zh: "默认：{value}"

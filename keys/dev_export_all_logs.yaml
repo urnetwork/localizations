@@ -3,4 +3,9 @@ source: "Export all logs (raw)"
 platforms:
   - android
 localizations:
+  ar: "تصدير كل السجلات (خام)"
+  de: "Alle Logs exportieren (roh)"
   en: "Export all logs (raw)"
+  es: "Exportar todos los registros (sin procesar)"
+  ru: "Экспортировать все логи (необработанные)"
+  zh: "导出所有日志（原始）"

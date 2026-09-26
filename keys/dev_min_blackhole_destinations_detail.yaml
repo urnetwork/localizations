@@ -3,4 +3,9 @@ source: "How many distinct destinations must be silent before an exit is convict
 platforms:
   - android
 localizations:
+  ar: "عدد الوجهات المختلفة التي يجب أن تكون صامتة قبل إدانة مخرج بعدم الاستقبال، كي لا يتمكن موقع ميت واحد من إزالة مخرج يعمل. عند الإيقاف، تكفي وجهة واحدة للإدانة"
+  de: "Wie viele verschiedene Ziele still sein müssen, bevor ein Exit wegen fehlenden Empfangs verurteilt wird, damit eine einzelne tote Website keinen funktionierenden Exit entfernen kann. Aus: ein einzelnes Ziel reicht zur Verurteilung"
   en: "How many distinct destinations must be silent before an exit is convicted on no-receive, so one dead site cannot remove a working exit. Off lets a single destination convict"
+  es: "Cuántos destinos distintos deben quedar en silencio antes de condenar una salida por no recibir, para que un solo sitio caído no pueda eliminar una salida que funciona. Si está desactivado, basta un único destino para condenar"
+  ru: "Сколько разных адресатов должны молчать, прежде чем выход будет осуждён за отсутствие приёма, чтобы один мёртвый сайт не мог удалить рабочий выход. Если выключено, для осуждения достаточно одного адресата"
+  zh: "在因无接收而将出口定罪之前，必须有多少个不同的目标保持静默，以免单个失效站点导致正常出口被移除。关闭时单个目标即可定罪"

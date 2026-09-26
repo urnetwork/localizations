@@ -3,4 +3,9 @@ source: "Sites abandoned rather than recovered"
 platforms:
   - android
 localizations:
+  ar: "مواقع تم التخلي عنها بدلًا من استعادتها"
+  de: "Websites, die aufgegeben statt wiederhergestellt wurden"
   en: "Sites abandoned rather than recovered"
+  es: "Sitios abandonados en lugar de recuperados"
+  ru: "Сайты, которые были брошены, а не восстановлены"
+  zh: "被放弃而非恢复的站点"

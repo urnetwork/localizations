@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "افتح الإعدادات السريعة، واضغط على رمز القلم، ثم اسحب URnetwork إلى مكانه."
+  de: "Öffne die Schnelleinstellungen, tippe auf den Stift und ziehe URnetwork an die gewünschte Stelle."
   en: "Open Quick Settings, tap the pencil, and drag URnetwork into place."
+  es: "Abre Ajustes rápidos, toca el lápiz y arrastra URnetwork a su sitio."
+  ru: "Откройте быстрые настройки, нажмите на значок карандаша и перетащите URnetwork на нужное место."
+  zh: "打开快捷设置，点按铅笔图标，然后将 URnetwork 拖到所需位置。"

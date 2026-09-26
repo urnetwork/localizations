@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "هذا الرمز ليس رمز مشاركة موسّعات."
+  de: "Dieser Code ist keine Extender-Freigabe."
   en: "This code is not an extender share."
+  es: "Este código no es un código compartido de extensores."
+  ru: "Это не код экстендеров."
+  zh: "此代码不是扩展器分享码。"

@@ -9,6 +9,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} قرين"
+    one: "قرين واحد"
+    two: "قرينان"
+    few: "{count} أقران"
+    many: "{count} قرينًا"
+    other: "{count} قرين"
+  de:
+    one: "{count} Peer"
+    other: "{count} Peers"
   en:
     one: "{count} peer"
     other: "{count} peers"
+  es:
+    one: "{count} par"
+    other: "{count} pares"
+  ru:
+    one: "{count} узел"
+    few: "{count} узла"
+    many: "{count} узлов"
+    other: "{count} узла"
+  zh:
+    other: "{count} 个对等节点"

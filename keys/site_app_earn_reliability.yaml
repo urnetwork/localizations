@@ -3,4 +3,9 @@ source: "Reliability"
 platforms:
   - site
 localizations:
+  ar: "الموثوقية"
+  de: "Zuverlässigkeit"
   en: "Reliability"
+  es: "Fiabilidad"
+  ru: "Надежность"
+  zh: "可靠性"

@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "أضف TAO لرسوم الغاز"
+  de: "TAO für Gas hinzufügen"
   en: "Add TAO for gas"
+  es: "Añade TAO para el gas"
+  ru: "Пополните TAO для оплаты газа"
+  zh: "添加 TAO 以支付 Gas 费"

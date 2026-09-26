@@ -3,4 +3,9 @@ source: "No browser wallet was found. Install an EVM wallet extension such as Me
 platforms:
   - site
 localizations:
+  ar: "لم يتم العثور على محفظة متصفح. ثبّت إضافة محفظة EVM مثل MetaMask واربط المفتاح الذي يدفع رسوم الغاز، أو طالِب من تطبيق URnetwork على جهازك."
+  de: "Es wurde keine Browser-Wallet gefunden. Installiere eine EVM-Wallet-Erweiterung wie MetaMask und verbinde den Schlüssel, der das Gas bezahlt, oder löse über die URnetwork-App auf deinem Gerät ein."
   en: "No browser wallet was found. Install an EVM wallet extension such as MetaMask and connect the key that pays gas, or claim from the URnetwork app on your device."
+  es: "No se encontró ninguna billetera de navegador. Instala una extensión de billetera EVM, como MetaMask, y conecta la clave que paga el gas, o reclama desde la app de URnetwork en tu dispositivo."
+  ru: "Браузерный кошелек не найден. Установите расширение EVM-кошелька, например MetaMask, и подключите ключ, которым оплачивается газ, или получите средства в приложении URnetwork на своём устройстве."
+  zh: "未找到浏览器钱包。请安装 MetaMask 等 EVM 钱包扩展并连接用于支付 Gas 费的密钥，或在您设备上的 URnetwork 应用中领取。"

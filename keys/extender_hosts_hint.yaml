@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "اسم مضيف أو عنوان IP واحد في كل سطر. تُضاف هذه إلى الموسّعات المكتشفة."
+  de: "Ein Hostname oder eine IP-Adresse pro Zeile. Diese werden zu den gefundenen Extendern hinzugefügt."
   en: "One hostname or IP address per line. These are added to the discovered extenders."
+  es: "Un nombre de host o una dirección IP por línea. Se añaden a los extensores descubiertos."
+  ru: "Одно имя хоста или IP-адрес на строку. Они добавляются к найденным экстендерам."
+  zh: "每行一个主机名或 IP 地址。这些将添加到已发现的扩展器中。"

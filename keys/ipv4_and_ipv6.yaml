@@ -3,4 +3,9 @@ source: "IPv4 and IPv6"
 platforms:
   - apple
 localizations:
+  ar: "IPv4 و IPv6"
+  de: "IPv4 und IPv6"
   en: "IPv4 and IPv6"
+  es: "IPv4 e IPv6"
+  ru: "IPv4 и IPv6"
+  zh: "IPv4 和 IPv6"

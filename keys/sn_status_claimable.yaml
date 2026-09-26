@@ -3,4 +3,9 @@ source: "Claimable"
 platforms:
   - windows
 localizations:
+  ar: "قابل للمطالبة"
+  de: "Einlösbar"
   en: "Claimable"
+  es: "Reclamable"
+  ru: "Доступно к получению"
+  zh: "可领取"

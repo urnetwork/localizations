@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "الوضع «تلقائي» متدهور لأن قيود النظام تمنع تشغيل بعض بروتوكولات النقل المفعّلة."
+  de: "„Automatisch“ ist eingeschränkt, weil Systembeschränkungen verhindern, dass einige aktivierte Transporte laufen."
   en: "Auto is degraded because system constraints prevent some enabled transports from running."
+  es: "«Automático» funciona con limitaciones porque las restricciones del sistema impiden que se ejecuten algunos transportes activados."
+  ru: "Режим «Автоматически» работает с ограничениями: системные ограничения не позволяют запустить некоторые включённые транспорты."
+  zh: "“自动”模式已降级，因为系统限制导致部分已启用的传输方式无法运行。"

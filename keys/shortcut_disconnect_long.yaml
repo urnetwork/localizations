@@ -3,4 +3,9 @@ source: "Disconnect from URnetwork"
 platforms:
   - android
 localizations:
+  ar: "قطع الاتصال بـ URnetwork"
+  de: "Von URnetwork trennen"
   en: "Disconnect from URnetwork"
+  es: "Desconectarse de URnetwork"
+  ru: "Отключиться от URnetwork"
+  zh: "断开与 URnetwork 的连接"

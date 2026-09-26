@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "ربط محفظة Solana"
+  de: "Solana-Wallet verbinden"
   en: "Connect Solana wallet"
+  es: "Conectar billetera de Solana"
+  ru: "Подключить кошелек Solana"
+  zh: "连接 Solana 钱包"

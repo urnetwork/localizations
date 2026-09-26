@@ -3,4 +3,9 @@ source: "Qualification probes this session"
 platforms:
   - android
 localizations:
+  ar: "فحوصات التأهيل في هذه الجلسة"
+  de: "Qualifizierungsprüfungen in dieser Sitzung"
   en: "Qualification probes this session"
+  es: "Sondas de calificación en esta sesión"
+  ru: "Пробы квалификации за этот сеанс"
+  zh: "本次会话的验证探测"

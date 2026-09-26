@@ -3,4 +3,9 @@ source: "Uplink silence gate"
 platforms:
   - android
 localizations:
+  ar: "بوابة صمت الوصلة الصاعدة"
+  de: "Uplink-Stille-Sperre"
   en: "Uplink silence gate"
+  es: "Filtro de silencio del enlace ascendente"
+  ru: "Порог тишины аплинка"
+  zh: "上行静默门限"

@@ -5,4 +5,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "جارٍ الإعداد"
+  de: "Wird eingerichtet"
   en: "Setting up"
+  es: "Configurando"
+  ru: "Настройка"
+  zh: "正在设置"

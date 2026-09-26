@@ -3,4 +3,9 @@ source: "No exits. Connect first."
 platforms:
   - android
 localizations:
+  ar: "لا توجد مخارج. اتصل أولًا."
+  de: "Keine Exits. Verbinde dich zuerst."
   en: "No exits. Connect first."
+  es: "No hay salidas. Conéctate primero."
+  ru: "Нет выходов. Сначала подключитесь."
+  zh: "没有出口。请先连接。"

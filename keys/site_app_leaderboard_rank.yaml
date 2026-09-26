@@ -3,4 +3,9 @@ source: "Leaderboard rank #{rank} of {total}"
 platforms:
   - site
 localizations:
+  ar: "المرتبة #{rank} من {total} في لوحة المتصدرين"
+  de: "Platz #{rank} von {total} in der Bestenliste"
   en: "Leaderboard rank #{rank} of {total}"
+  es: "Puesto #{rank} de {total} en la clasificación"
+  ru: "Место в рейтинге: #{rank} из {total}"
+  zh: "排行榜第 {rank} 名（共 {total} 名）"

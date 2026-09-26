@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "العميل"
+  de: "Client"
   en: "Client"
+  es: "Cliente"
+  ru: "Клиент"
+  zh: "客户端"

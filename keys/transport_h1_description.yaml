@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "مباشر عبر TLS. يعمل على معظم الشبكات."
+  de: "Direkt über TLS. Funktioniert in den meisten Netzwerken."
   en: "Direct over TLS. Works on most networks."
+  es: "Directo sobre TLS. Funciona en la mayoría de las redes."
+  ru: "Напрямую через TLS. Работает в большинстве сетей."
+  zh: "通过 TLS 直连。适用于大多数网络。"

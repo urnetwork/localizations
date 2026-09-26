@@ -3,4 +3,9 @@ source: "Suspend recovery window"
 platforms:
   - android
 localizations:
+  ar: "نافذة التعافي بعد التعليق"
+  de: "Erholungsfenster nach Ruhezustand"
   en: "Suspend recovery window"
+  es: "Ventana de recuperación tras suspensión"
+  ru: "Окно восстановления после приостановки"
+  zh: "挂起后恢复窗口"

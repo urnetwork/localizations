@@ -3,4 +3,9 @@ source: "Not finalized"
 platforms:
   - windows
 localizations:
+  ar: "غير مكتملة"
+  de: "Nicht abgeschlossen"
   en: "Not finalized"
+  es: "No finalizada"
+  ru: "Не завершена"
+  zh: "未确认"

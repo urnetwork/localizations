@@ -3,4 +3,9 @@ source: "How long a TCP connection may sit idle. Off uses the UDP bound"
 platforms:
   - android
 localizations:
+  ar: "المدة التي يمكن أن يبقى فيها اتصال TCP خاملًا. عند الإيقاف، يُستخدم حد UDP"
+  de: "Wie lange eine TCP-Verbindung untätig bleiben darf. Aus: nutzt die UDP-Grenze"
   en: "How long a TCP connection may sit idle. Off uses the UDP bound"
+  es: "Cuánto tiempo puede permanecer inactiva una conexión TCP. Si está desactivado, se usa el límite de UDP"
+  ru: "Как долго TCP-соединение может простаивать. Если выключено, используется предел для UDP"
+  zh: "TCP 连接可以空闲的时长。关闭时使用 UDP 的上限"

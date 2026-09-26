@@ -3,4 +3,9 @@ source: "How long into a bench a site's new connections keep following their exi
 platforms:
   - android
 localizations:
+  ar: "المدة التي تستمر فيها الاتصالات الجديدة للموقع في متابعة مخرجها بعد بدء الحجر — عادةً ما يكون الحجر المبكر إنذارًا كاذبًا؛ أما الحجر الذي يطول فيتجه نحو الإزالة ويتوقف عن استقبال التدفقات. عند الإيقاف، تُوزَّع فورًا"
+  de: "Wie lange während einer Ersatzbankphase die neuen Verbindungen einer Website ihrem Exit weiter folgen — frühe Ersatzbankphasen sind meist Fehlalarme; eine, die anhält, läuft auf eine Entfernung hinaus und nimmt keine Flows mehr auf. Aus: verteilt sofort"
   en: "How long into a bench a site's new connections keep following their exit — early benches are usually false alarms; one that lasts is trending toward removal and stops collecting flows. Off scatters immediately"
+  es: "Durante cuánto tiempo, ya en el banquillo, las conexiones nuevas de un sitio siguen a su salida — los banquillos tempranos suelen ser falsas alarmas; uno que se prolonga tiende a la eliminación y deja de recibir flujos. Si está desactivado, se dispersan de inmediato"
+  ru: "Как долго после начала отстранения новые соединения сайта продолжают следовать за своим выходом — ранние отстранения обычно оказываются ложными тревогами; затянувшееся ведёт к удалению, и выход перестаёт принимать потоки. Если выключено, соединения сразу распределяются"
+  zh: "隔离开始后，站点的新连接继续跟随其出口的时长——早期隔离通常是误报；持续的隔离则趋向于移除，并停止接收新流。关闭时立即分散"

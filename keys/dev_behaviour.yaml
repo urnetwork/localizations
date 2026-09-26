@@ -3,4 +3,9 @@ source: "Behaviour"
 platforms:
   - android
 localizations:
+  ar: "السلوك"
+  de: "Verhalten"
   en: "Behaviour"
+  es: "Comportamiento"
+  ru: "Поведение"
+  zh: "行为"

@@ -3,4 +3,9 @@ source: "Device"
 platforms:
   - site
 localizations:
+  ar: "الجهاز"
+  de: "Gerät"
   en: "Device"
+  es: "Dispositivo"
+  ru: "Устройство"
+  zh: "设备"

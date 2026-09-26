@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "أفضل قيمة"
+  de: "Bestes Angebot"
   en: "Best value"
+  es: "Mejor oferta"
+  ru: "Выгоднее всего"
+  zh: "最超值"

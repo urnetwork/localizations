@@ -3,4 +3,9 @@ source: "Probes"
 platforms:
   - android
 localizations:
+  ar: "الفحوصات"
+  de: "Prüfungen"
   en: "Probes"
+  es: "Sondas"
+  ru: "Пробы"
+  zh: "探测"

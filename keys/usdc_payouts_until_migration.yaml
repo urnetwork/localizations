@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تستمر مدفوعات USDC إلى هذه المحفظة حتى اكتمال الانتقال إلى Bittensor."
+  de: "USDC-Auszahlungen gehen weiterhin an diese Wallet, bis die Migration zu Bittensor abgeschlossen ist."
   en: "USDC payouts continue to this wallet until the migration to Bittensor is complete."
+  es: "Los pagos en USDC seguirán llegando a esta billetera hasta que se complete la migración a Bittensor."
+  ru: "Выплаты в USDC будут поступать на этот кошелек, пока не завершится переход на Bittensor."
+  zh: "在迁移到 Bittensor 完成之前，USDC 支付将继续发送到此钱包。"

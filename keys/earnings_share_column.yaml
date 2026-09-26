@@ -3,4 +3,9 @@ source: "Share"
 platforms:
   - windows
 localizations:
+  ar: "الحصة"
+  de: "Anteil"
   en: "Share"
+  es: "Participación"
+  ru: "Доля"
+  zh: "份额"

@@ -3,4 +3,9 @@ source: "QUIC flows rebound"
 platforms:
   - android
 localizations:
+  ar: "تدفقات QUIC المُعاد ربطها"
+  de: "Neu gebundene QUIC-Flows"
   en: "QUIC flows rebound"
+  es: "Flujos QUIC reasociados"
+  ru: "Перепривязанные потоки QUIC"
+  zh: "重新绑定的 QUIC 流"

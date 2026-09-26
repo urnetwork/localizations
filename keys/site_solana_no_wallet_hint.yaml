@@ -3,4 +3,9 @@ source: "Nothing happened? You may need a Solana wallet installed — or pay ano
 platforms:
   - site
 localizations:
+  ar: "لم يحدث شيء؟ قد تحتاج إلى تثبيت محفظة Solana — أو ادفع بطريقة أخرى."
+  de: "Nichts passiert? Möglicherweise brauchst du eine installierte Solana-Wallet — oder bezahle anders."
   en: "Nothing happened? You may need a Solana wallet installed — or pay another way."
+  es: "¿No pasó nada? Puede que necesites tener instalada una billetera de Solana — o paga de otra forma."
+  ru: "Ничего не произошло? Возможно, нужно установить кошелек Solana — или оплатите другим способом."
+  zh: "没有反应？您可能需要安装 Solana 钱包，或使用其他方式支付。"

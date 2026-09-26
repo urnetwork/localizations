@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "متخفٍّ في هيئة حركة DNS. للشبكات التي تُرشّح الاتصالات المباشرة."
+  de: "Als DNS-Verkehr getarnt. Für Netzwerke, die direkte Verbindungen filtern."
   en: "Disguised as DNS traffic. For networks that filter direct connections."
+  es: "Camuflado como tráfico DNS. Para redes que filtran las conexiones directas."
+  ru: "Маскируется под DNS-трафик. Для сетей, которые фильтруют прямые подключения."
+  zh: "伪装成 DNS 流量。适用于会过滤直接连接的网络。"

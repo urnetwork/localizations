@@ -12,4 +12,9 @@ placeholders:
   - name: address
     type: string
 localizations:
+  ar: "أرسل نحو {amount} TAO إلى {address} لتغطية رسوم الغاز."
+  de: "Sende etwa {amount} TAO an {address}, um das Gas zu decken."
   en: "Send about {amount} TAO to {address} to cover gas."
+  es: "Envía unos {amount} TAO a {address} para cubrir el gas."
+  ru: "Отправьте около {amount} TAO на {address}, чтобы покрыть оплату газа."
+  zh: "向 {address} 发送约 {amount} TAO 以支付 Gas 费。"

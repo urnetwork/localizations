@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "المزودون المتصلون بك على الكرة الأرضية."
+  de: "Deine verbundenen Anbieter auf dem Globus."
   en: "Your connected providers on the globe."
+  es: "Tus proveedores conectados en el globo."
+  ru: "Ваши подключённые провайдеры на глобусе."
+  zh: "在地球上显示您已连接的提供商。"

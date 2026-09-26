@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "خيارات المحفظة"
+  de: "Wallet-Optionen"
   en: "Wallet options"
+  es: "Opciones de la billetera"
+  ru: "Параметры кошелька"
+  zh: "钱包选项"

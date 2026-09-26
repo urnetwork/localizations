@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "v4"
+  de: "v4"
   en: "v4"
+  es: "v4"
+  ru: "v4"
+  zh: "v4"

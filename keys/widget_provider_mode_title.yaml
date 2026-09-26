@@ -7,4 +7,9 @@ placeholders:
   - name: mode
     type: string
 localizations:
+  ar: "المزود · {mode}"
+  de: "Anbieter · {mode}"
   en: "Provider · {mode}"
+  es: "Proveedor · {mode}"
+  ru: "Провайдер · {mode}"
+  zh: "提供商 · {mode}"

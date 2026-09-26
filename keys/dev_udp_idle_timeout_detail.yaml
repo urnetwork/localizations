@@ -3,4 +3,9 @@ source: "How long a non-TCP flow may sit idle before it is reaped"
 platforms:
   - android
 localizations:
+  ar: "المدة التي يمكن أن يبقى فيها تدفق غير TCP خاملًا قبل إنهائه"
+  de: "Wie lange ein Nicht-TCP-Flow untätig bleiben darf, bevor er abgeräumt wird"
   en: "How long a non-TCP flow may sit idle before it is reaped"
+  es: "Cuánto tiempo puede permanecer inactivo un flujo que no es TCP antes de cerrarlo"
+  ru: "Как долго поток не-TCP может простаивать, прежде чем его закроют"
+  zh: "非 TCP 流在被回收前可以空闲的时长"

@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "الوضع «تلقائي» متدهور لأن حدود ذاكرة النظام تمنع تشغيل بعض بروتوكولات النقل المفعّلة."
+  de: "„Automatisch“ ist eingeschränkt, weil Speichergrenzen des Systems verhindern, dass einige aktivierte Transporte laufen."
   en: "Auto is degraded because system memory limits prevent some enabled transports from running."
+  es: "«Automático» funciona con limitaciones porque los límites de memoria del sistema impiden que se ejecuten algunos transportes activados."
+  ru: "Режим «Автоматически» работает с ограничениями: лимиты системной памяти не позволяют запустить некоторые включённые транспорты."
+  zh: "“自动”模式已降级，因为系统内存限制导致部分已启用的传输方式无法运行。"

@@ -3,4 +3,9 @@ source: "We couldn't open your browser. Copy this link into a browser to finish 
 platforms:
   - windows
 localizations:
+  ar: "تعذّر فتح المتصفح. انسخ هذا الرابط في متصفح لإتمام عملية الدفع:"
+  de: "Wir konnten deinen Browser nicht öffnen. Kopiere diesen Link in einen Browser, um den Kauf abzuschließen:"
   en: "We couldn't open your browser. Copy this link into a browser to finish checkout:"
+  es: "No pudimos abrir tu navegador. Copia este enlace en un navegador para completar el pago:"
+  ru: "Не удалось открыть браузер. Скопируйте эту ссылку в браузер, чтобы завершить оплату:"
+  zh: "无法打开您的浏览器。请将此链接复制到浏览器中以完成结账："

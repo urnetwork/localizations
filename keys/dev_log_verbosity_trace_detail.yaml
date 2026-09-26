@@ -3,4 +3,9 @@ source: "Transport and window internals. Very large logs"
 platforms:
   - android
 localizations:
+  ar: "التفاصيل الداخلية لبروتوكول النقل والنافذة. سجلات كبيرة جدًا"
+  de: "Interna von Transport und Fenster. Sehr große Logs"
   en: "Transport and window internals. Very large logs"
+  es: "Detalles internos del transporte y de la ventana. Registros muy grandes"
+  ru: "Внутренние данные транспорта и окна. Очень большие логи"
+  zh: "传输方式和窗口的内部细节。日志非常大"

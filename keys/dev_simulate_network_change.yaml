@@ -3,4 +3,9 @@ source: "Simulate network change"
 platforms:
   - android
 localizations:
+  ar: "محاكاة تغيّر الشبكة"
+  de: "Netzwerkwechsel simulieren"
   en: "Simulate network change"
+  es: "Simular cambio de red"
+  ru: "Имитировать смену сети"
+  zh: "模拟网络切换"

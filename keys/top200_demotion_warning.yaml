@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "نتيجتك قريبة من حد الإقصاء. أضف عناوين IP قابلة للتوجيه للاحتفاظ بالمقعد."
+  de: "Dein Score liegt nahe an der Verdrängungsgrenze. Füge routbare IPs hinzu, um den Platz zu behalten."
   en: "Your score is close to the eviction floor. Add routable IPs to keep the spot."
+  es: "Tu puntuación está cerca del umbral de expulsión. Añade IP enrutables para conservar el puesto."
+  ru: "Ваш балл близок к порогу вытеснения. Добавьте маршрутизируемые IP, чтобы сохранить место."
+  zh: "您的分数接近淘汰线。请添加可路由的 IP 以保住席位。"

@@ -10,4 +10,9 @@ placeholders:
   - name: amount
     type: string
 localizations:
+  ar: "افتراضيًا، تحصل على {amount} كل يوم."
+  de: "Standardmäßig erhältst du jeden Tag {amount}."
   en: "By default, you get {amount} every day."
+  es: "De forma predeterminada, recibes {amount} cada día."
+  ru: "По умолчанию вы получаете {amount} каждый день."
+  zh: "默认情况下，您每天可获得 {amount}。"

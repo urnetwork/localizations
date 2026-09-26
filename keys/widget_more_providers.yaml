@@ -7,4 +7,9 @@ placeholders:
   - name: count
     type: int
 localizations:
+  ar: "+{count} أخرى"
+  de: "+{count} weitere"
   en: "+{count} more"
+  es: "+{count} más"
+  ru: "ещё {count}"
+  zh: "另有 {count} 个"

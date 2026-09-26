@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "شارك الإنترنت لديك مع أشخاص آخرين ❤️"
+  de: "Teile dein Internet mit anderen Menschen ❤️"
   en: "Share your internet with other people ❤️"
+  es: "Comparte tu internet con otras personas ❤️"
+  ru: "Делитесь интернетом с другими людьми ❤️"
+  zh: "与他人共享您的网络 ❤️"

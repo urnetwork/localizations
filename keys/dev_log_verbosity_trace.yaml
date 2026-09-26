@@ -3,4 +3,9 @@ source: "Trace"
 platforms:
   - android
 localizations:
+  ar: "تتبّع"
+  de: "Trace"
   en: "Trace"
+  es: "Traza"
+  ru: "Трассировка"
+  zh: "跟踪"

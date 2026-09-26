@@ -3,4 +3,9 @@ source: "Keep waiting"
 platforms:
   - site
 localizations:
+  ar: "مواصلة الانتظار"
+  de: "Weiter warten"
   en: "Keep waiting"
+  es: "Seguir esperando"
+  ru: "Продолжить ожидание"
+  zh: "继续等待"

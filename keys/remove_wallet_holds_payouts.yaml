@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تُحتجز مدفوعات USDC حتى يتم ربط محفظة أخرى."
+  de: "USDC-Auszahlungen werden zurückgehalten, bis eine andere Wallet verbunden ist."
   en: "USDC payouts are held until another wallet is connected."
+  es: "Los pagos en USDC quedan retenidos hasta que se conecte otra billetera."
+  ru: "Выплаты в USDC приостанавливаются, пока не будет подключен другой кошелек."
+  zh: "在连接其他钱包之前，USDC 支付将被暂停。"

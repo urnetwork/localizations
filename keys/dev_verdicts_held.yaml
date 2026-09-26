@@ -3,4 +3,9 @@ source: "Verdicts held"
 platforms:
   - android
 localizations:
+  ar: "الأحكام المعلّقة"
+  de: "Zurückgehaltene Urteile"
   en: "Verdicts held"
+  es: "Veredictos retenidos"
+  ru: "Отложенные вердикты"
+  zh: "暂缓的判定"

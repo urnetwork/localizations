@@ -3,4 +3,9 @@ source: "Add Home Screen widgets"
 platforms:
   - android
 localizations:
+  ar: "إضافة أدوات إلى الشاشة الرئيسية"
+  de: "Startbildschirm-Widgets hinzufügen"
   en: "Add Home Screen widgets"
+  es: "Añadir widgets a la pantalla de inicio"
+  ru: "Добавить виджеты на главный экран"
+  zh: "添加主屏幕小组件"

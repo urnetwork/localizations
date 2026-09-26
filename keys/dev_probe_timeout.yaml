@@ -3,4 +3,9 @@ source: "Probe wait"
 platforms:
   - android
 localizations:
+  ar: "مهلة الفحص"
+  de: "Prüf-Wartezeit"
   en: "Probe wait"
+  es: "Espera de la sonda"
+  ru: "Ожидание пробы"
+  zh: "探测等待时间"

@@ -5,4 +5,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "أثناء التوفير، يعمل هذا الجهاز أيضًا كمُرحِّل للأشخاص الذين حُجب وصولهم إلى الشبكة، عبر TCP و UDP 443 و UDP 4053."
+  de: "Während du bereitstellst, leitet dieses Gerät auch Verkehr für Menschen weiter, deren Zugang zum Netzwerk blockiert ist, über TCP und UDP 443 sowie UDP 4053."
   en: "While you are providing, this device also relays for people whose access to the network is blocked, on TCP and UDP 443 and UDP 4053."
+  es: "Mientras proporcionas, este dispositivo también retransmite para las personas cuyo acceso a la red está bloqueado, en TCP y UDP 443 y UDP 4053."
+  ru: "Пока вы предоставляете доступ, это устройство также ретранслирует трафик для людей, чей доступ к сети заблокирован, через TCP и UDP 443 и UDP 4053."
+  zh: "在您提供期间，此设备还会通过 TCP 和 UDP 443 以及 UDP 4053，为网络访问被封锁的人提供中继。"

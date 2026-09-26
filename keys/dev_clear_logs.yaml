@@ -3,4 +3,9 @@ source: "Clear logs"
 platforms:
   - android
 localizations:
+  ar: "مسح السجلات"
+  de: "Logs löschen"
   en: "Clear logs"
+  es: "Borrar registros"
+  ru: "Очистить логи"
+  zh: "清除日志"

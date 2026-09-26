@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "الموسّعات النشطة"
+  de: "Aktive Extender"
   en: "Active extenders"
+  es: "Extensores activos"
+  ru: "Активные экстендеры"
+  zh: "活跃的扩展器"

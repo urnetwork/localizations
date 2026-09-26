@@ -3,4 +3,9 @@ source: "Drop stalled exits fast"
 platforms:
   - android
 localizations:
+  ar: "إسقاط المخارج المتوقفة بسرعة"
+  de: "Hängende Exits schnell verwerfen"
   en: "Drop stalled exits fast"
+  es: "Descartar rápido las salidas bloqueadas"
+  ru: "Быстро отключать зависшие выходы"
+  zh: "快速丢弃停滞的出口"

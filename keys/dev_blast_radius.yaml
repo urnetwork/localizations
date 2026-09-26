@@ -3,4 +3,9 @@ source: "Blast radius"
 platforms:
   - android
 localizations:
+  ar: "نطاق الضرر"
+  de: "Schadensradius"
   en: "Blast radius"
+  es: "Radio de impacto"
+  ru: "Радиус поражения"
+  zh: "爆炸半径"

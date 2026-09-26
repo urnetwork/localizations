@@ -12,4 +12,9 @@ placeholders:
   - name: cutoff
     type: int
 localizations:
+  ar: "يحتل تنوّع عناوين IP القابلة للتوجيه في شبكتك المرتبة #{rank} تقريبًا من بين {cutoff} من المقاعد الرئيسية. يكسب كبار المعدِّنين SN25α بشكل أصلي في كل tempo."
+  de: "Die Vielfalt routbarer IPs deines Netzwerks liegt etwa auf Platz #{rank} von {cutoff} Head-Plätzen. Head-Miner verdienen SN25α nativ, in jedem Tempo."
   en: "Your network's routable IP breadth ranks about #{rank} of {cutoff} head spots. Head miners earn SN25α natively, every tempo."
+  es: "La variedad de IP enrutables de tu red ocupa aproximadamente el puesto #{rank} de {cutoff} puestos principales. Los mineros principales ganan SN25α de forma nativa en cada tempo."
+  ru: "По разнообразию маршрутизируемых IP ваша сеть занимает примерно #{rank} место из {cutoff} ведущих мест. Ведущие майнеры нативно получают SN25α в каждом tempo."
+  zh: "按可路由 IP 广度计算，您的网络在 {cutoff} 个头部席位中约排第 {rank} 名。头部矿工在每个 tempo 原生赚取 SN25α。"

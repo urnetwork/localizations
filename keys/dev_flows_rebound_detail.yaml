@@ -3,4 +3,9 @@ source: "Flows moved to a warm exit inside a removal; accepted means the server 
 platforms:
   - android
 localizations:
+  ar: "تدفقات نُقلت إلى مخرج جاهز أثناء عملية إزالة؛ «مقبول» يعني أن الخادم قبل تغيير المسار دون إعادة اتصال"
+  de: "Flows, die während einer Entfernung auf einen warmen Exit verschoben wurden; akzeptiert heißt, der Server hat den Pfadwechsel ohne neuen Verbindungsaufbau übernommen"
   en: "Flows moved to a warm exit inside a removal; accepted means the server took the path change without a re-dial"
+  es: "Flujos trasladados a una salida activa durante una eliminación; «aceptado» significa que el servidor asumió el cambio de ruta sin volver a conectar"
+  ru: "Потоки, перенесённые на «тёплый» выход во время удаления; «принято» означает, что сервер принял смену пути без повторного соединения"
+  zh: "在移除过程中转移到预热出口的流；“已接受”表示服务器在未重新拨号的情况下接受了路径变更"

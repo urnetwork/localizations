@@ -3,4 +3,9 @@ source: "View transaction"
 platforms:
   - windows
 localizations:
+  ar: "عرض المعاملة"
+  de: "Transaktion anzeigen"
   en: "View transaction"
+  es: "Ver transacción"
+  ru: "Посмотреть транзакцию"
+  zh: "查看交易"

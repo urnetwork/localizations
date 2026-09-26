@@ -3,4 +3,9 @@ source: "Restore purchases"
 platforms:
   - apple
 localizations:
+  ar: "استعادة المشتريات"
+  de: "Käufe wiederherstellen"
   en: "Restore purchases"
+  es: "Restaurar compras"
+  ru: "Восстановить покупки"
+  zh: "恢复购买"

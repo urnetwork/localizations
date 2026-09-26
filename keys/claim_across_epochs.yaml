@@ -10,4 +10,9 @@ placeholders:
   - name: count
     type: int
 localizations:
+  ar: "عدد الفترات المكتملة: {count}"
+  de: "Abgeschlossene Epochen: {count}"
   en: "Across {count} finalized epochs"
+  es: "Épocas finalizadas: {count}"
+  ru: "Завершённых эпох: {count}"
+  zh: "涵盖 {count} 个已确认的周期"

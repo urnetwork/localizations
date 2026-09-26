@@ -3,4 +3,9 @@ source: "Paste an auth code generated from another device or the command line to
 platforms:
   - site
 localizations:
+  ar: "الصق رمز مصادقة تم إنشاؤه من جهاز آخر أو من أدوات سطر الأوامر."
+  de: "Füge einen Authentifizierungscode ein, der auf einem anderen Gerät oder mit den Befehlszeilentools erzeugt wurde."
   en: "Paste an auth code generated from another device or the command line tools."
+  es: "Pega un código de autenticación generado desde otro dispositivo o con las herramientas de línea de comandos."
+  ru: "Вставьте код аутентификации, созданный на другом устройстве или с помощью инструментов командной строки."
+  zh: "粘贴在其他设备上或通过命令行工具生成的验证码。"

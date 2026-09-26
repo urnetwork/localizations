@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "أنت مؤهل"
+  de: "Du qualifizierst dich"
   en: "You qualify"
+  es: "Cumples los requisitos"
+  ru: "Вы проходите отбор"
+  zh: "您符合条件"

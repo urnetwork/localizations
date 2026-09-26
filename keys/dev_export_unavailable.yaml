@@ -6,4 +6,9 @@ placeholders:
   - name: reason
     type: string
 localizations:
+  ar: "غير متاح: {reason}"
+  de: "Nicht verfügbar: {reason}"
   en: "Not available: {reason}"
+  es: "No disponible: {reason}"
+  ru: "Недоступно: {reason}"
+  zh: "不可用：{reason}"

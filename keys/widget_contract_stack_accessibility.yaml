@@ -11,6 +11,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} عقد، {bytes}"
+    one: "عقد واحد، {bytes}"
+    two: "عقدان، {bytes}"
+    few: "{count} عقود، {bytes}"
+    many: "{count} عقدًا، {bytes}"
+    other: "{count} عقد، {bytes}"
+  de:
+    one: "{count} Vertrag, {bytes}"
+    other: "{count} Verträge, {bytes}"
   en:
     one: "{count} contract, {bytes}"
     other: "{count} contracts, {bytes}"
+  es:
+    one: "{count} contrato, {bytes}"
+    other: "{count} contratos, {bytes}"
+  ru:
+    one: "{count} контракт, {bytes}"
+    few: "{count} контракта, {bytes}"
+    many: "{count} контрактов, {bytes}"
+    other: "{count} контракта, {bytes}"
+  zh:
+    other: "{count} 个合约，{bytes}"

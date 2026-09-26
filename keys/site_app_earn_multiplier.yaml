@@ -3,4 +3,9 @@ source: "Multiplier"
 platforms:
   - site
 localizations:
+  ar: "المضاعف"
+  de: "Multiplikator"
   en: "Multiplier"
+  es: "Multiplicador"
+  ru: "Множитель"
+  zh: "倍增器"

@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "استعادة بروتوكولات النقل الافتراضية"
+  de: "Standard-Transporte wiederherstellen"
   en: "Restore default transports"
+  es: "Restablecer los transportes predeterminados"
+  ru: "Восстановить транспорты по умолчанию"
+  zh: "恢复默认传输方式"

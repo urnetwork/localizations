@@ -8,4 +8,9 @@ placeholders:
   - name: total
     type: int
 localizations:
+  ar: "{held} / {total}"
+  de: "{held} / {total}"
   en: "{held} / {total}"
+  es: "{held} / {total}"
+  ru: "{held} / {total}"
+  zh: "{held} / {total}"

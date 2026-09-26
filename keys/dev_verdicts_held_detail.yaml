@@ -3,4 +3,9 @@ source: "Convictions withheld because the phone's own uplink, not the provider, 
 platforms:
   - android
 localizations:
+  ar: "إدانات عُلّقت لأن الوصلة الصاعدة للهاتف نفسه، وليس المزود، كانت صامتة (الوصلة الصاعدة / بروتوكول النقل)"
+  de: "Verurteilungen, die zurückgehalten wurden, weil der eigene Uplink des Telefons und nicht der Anbieter still war (Uplink / Transport)"
   en: "Convictions withheld because the phone's own uplink, not the provider, was silent (uplink / transport)"
+  es: "Condenas retenidas porque el enlace ascendente del propio teléfono, y no el proveedor, estaba en silencio (enlace ascendente / transporte)"
+  ru: "Осуждения, отложенные потому, что молчал собственный аплинк телефона, а не провайдер (аплинк / транспорт)"
+  zh: "因手机自身上行（而非提供商）静默而暂缓的定罪（上行 / 传输方式）"

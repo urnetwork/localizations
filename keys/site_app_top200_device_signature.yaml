@@ -3,4 +3,9 @@ source: "Device signature"
 platforms:
   - site
 localizations:
+  ar: "توقيع الجهاز"
+  de: "Gerätesignatur"
   en: "Device signature"
+  es: "Firma del dispositivo"
+  ru: "Подпись устройства"
+  zh: "设备签名"

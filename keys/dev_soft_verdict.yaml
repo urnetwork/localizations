@@ -3,4 +3,9 @@ source: "Demote before removing"
 platforms:
   - android
 localizations:
+  ar: "الخفض قبل الإزالة"
+  de: "Vor dem Entfernen herabstufen"
   en: "Demote before removing"
+  es: "Degradar antes de eliminar"
+  ru: "Понижать перед удалением"
+  zh: "移除前先降级"

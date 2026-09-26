@@ -3,4 +3,9 @@ source: "Your payment could not be completed."
 platforms:
   - android
 localizations:
+  ar: "تعذّر إتمام دفعتك."
+  de: "Deine Zahlung konnte nicht abgeschlossen werden."
   en: "Your payment could not be completed."
+  es: "No se pudo completar tu pago."
+  ru: "Не удалось завершить платёж."
+  zh: "无法完成您的付款。"

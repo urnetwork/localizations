@@ -3,4 +3,9 @@ source: "Recovery"
 platforms:
   - android
 localizations:
+  ar: "الاستعادة"
+  de: "Wiederherstellung"
   en: "Recovery"
+  es: "Recuperación"
+  ru: "Восстановление"
+  zh: "恢复"

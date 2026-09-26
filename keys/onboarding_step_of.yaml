@@ -12,4 +12,9 @@ placeholders:
   - name: total
     type: int
 localizations:
+  ar: "الخطوة {step} من {total}"
+  de: "Schritt {step} von {total}"
   en: "Step {step} of {total}"
+  es: "Paso {step} de {total}"
+  ru: "Шаг {step} из {total}"
+  zh: "第 {step} 步，共 {total} 步"

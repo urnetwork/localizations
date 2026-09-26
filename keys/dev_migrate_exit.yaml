@@ -3,4 +3,9 @@ source: "Migrate"
 platforms:
   - android
 localizations:
+  ar: "ترحيل"
+  de: "Migrieren"
   en: "Migrate"
+  es: "Migrar"
+  ru: "Перенести"
+  zh: "迁移"

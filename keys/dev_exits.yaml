@@ -3,4 +3,9 @@ source: "Exits"
 platforms:
   - android
 localizations:
+  ar: "المخارج"
+  de: "Exits"
   en: "Exits"
+  es: "Salidas"
+  ru: "Выходы"
+  zh: "出口"

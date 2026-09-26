@@ -3,4 +3,9 @@ source: "Couldn't load your balance codes. Check your connection and try again."
 platforms:
   - linux
 localizations:
+  ar: "تعذّر تحميل رموز الرصيد الخاصة بك. تحقق من اتصالك وحاول مرة أخرى."
+  de: "Deine Guthabencodes konnten nicht geladen werden. Überprüfe deine Verbindung und versuche es erneut."
   en: "Couldn't load your balance codes. Check your connection and try again."
+  es: "No se pudieron cargar tus códigos de saldo. Revisa tu conexión e inténtalo de nuevo."
+  ru: "Не удалось загрузить ваши коды баланса. Проверьте подключение и попробуйте снова."
+  zh: "无法加载您的余额码。请检查网络连接后重试。"

@@ -3,4 +3,9 @@ source: "Times a provider reported it could not open the upstream connection"
 platforms:
   - android
 localizations:
+  ar: "عدد المرات التي أبلغ فيها المزود بأنه لم يتمكن من فتح الاتصال بالوجهة"
+  de: "Wie oft ein Anbieter gemeldet hat, dass er die Upstream-Verbindung nicht öffnen konnte"
   en: "Times a provider reported it could not open the upstream connection"
+  es: "Veces que un proveedor informó que no pudo abrir la conexión con el destino"
+  ru: "Сколько раз провайдер сообщал, что не смог открыть соединение с целевым сайтом"
+  zh: "提供商报告无法建立上游连接的次数"

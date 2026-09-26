@@ -10,4 +10,9 @@ placeholders:
   - name: epoch
     type: int
 localizations:
+  ar: "انتهت صلاحية المطالبات للفترة {epoch}."
+  de: "Die Einlösefrist für Epoche {epoch} ist abgelaufen."
   en: "Claims for epoch {epoch} have expired."
+  es: "Las reclamaciones de la época {epoch} han caducado."
+  ru: "Срок получения за эпоху {epoch} истёк."
+  zh: "周期 {epoch} 的领取已过期。"

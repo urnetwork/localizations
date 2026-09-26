@@ -10,4 +10,9 @@ placeholders:
   - name: days
     type: int
 localizations:
+  ar: "يتضمن تجربة مجانية لمدة {days} يومًا"
+  de: "Enthält eine {days}-tägige kostenlose Testphase"
   en: "Includes {days} day free trial"
+  es: "Incluye una prueba gratuita de {days} días"
+  ru: "Включает бесплатный пробный период: {days} дн."
+  zh: "包含 {days} 天免费试用"

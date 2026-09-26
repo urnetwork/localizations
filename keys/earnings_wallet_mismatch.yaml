@@ -3,4 +3,9 @@ source: "The wallet that signed is not the address you entered."
 platforms:
   - windows
 localizations:
+  ar: "المحفظة التي وقّعت ليست العنوان الذي أدخلته."
+  de: "Die Wallet, die signiert hat, entspricht nicht der eingegebenen Adresse."
   en: "The wallet that signed is not the address you entered."
+  es: "La billetera que firmó no corresponde a la dirección que introdujiste."
+  ru: "Кошелек, который подписал запрос, не соответствует введённому адресу."
+  zh: "签名的钱包与您输入的地址不一致。"

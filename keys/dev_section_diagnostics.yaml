@@ -3,4 +3,9 @@ source: "Diagnostics"
 platforms:
   - android
 localizations:
+  ar: "التشخيص"
+  de: "Diagnose"
   en: "Diagnostics"
+  es: "Diagnóstico"
+  ru: "Диагностика"
+  zh: "诊断"

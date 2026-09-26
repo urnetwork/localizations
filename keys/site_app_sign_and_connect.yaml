@@ -3,4 +3,9 @@ source: "Sign and connect"
 platforms:
   - site
 localizations:
+  ar: "التوقيع والربط"
+  de: "Signieren und verbinden"
   en: "Sign and connect"
+  es: "Firmar y conectar"
+  ru: "Подписать и подключить"
+  zh: "签名并连接"

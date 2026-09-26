@@ -3,4 +3,9 @@ source: "{count} devices added"
 platforms:
   - site
 localizations:
+  ar: "الأجهزة المضافة: {count}"
+  de: "Geräte hinzugefügt: {count}"
   en: "{count} devices added"
+  es: "Dispositivos añadidos: {count}"
+  ru: "Добавлено устройств: {count}"
+  zh: "已添加 {count} 台设备"

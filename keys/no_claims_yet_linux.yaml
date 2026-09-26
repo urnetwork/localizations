@@ -3,4 +3,9 @@ source: "Nothing to claim yet. Alpha accrues from the next finalized epoch."
 platforms:
   - linux
 localizations:
+  ar: "لا يوجد ما يمكن المطالبة به بعد. يتراكم Alpha بدءًا من الفترة المكتملة التالية."
+  de: "Noch nichts einzulösen. Alpha sammelt sich ab der nächsten abgeschlossenen Epoche an."
   en: "Nothing to claim yet. Alpha accrues from the next finalized epoch."
+  es: "Aún no hay nada que reclamar. El Alpha se acumula a partir de la próxima época finalizada."
+  ru: "Пока нечего получать. Alpha начисляется со следующей завершённой эпохи."
+  zh: "暂无可领取的内容。Alpha 将从下一个已确认的周期开始累积。"

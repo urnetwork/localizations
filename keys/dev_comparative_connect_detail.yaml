@@ -3,4 +3,9 @@ source: "Drop an exit that has established nothing sooner when two sibling exits
 platforms:
   - android
 localizations:
+  ar: "يُسقط مبكرًا المخرج الذي لم يُنشئ أي اتصال عندما يستقبل مخرجان شقيقان البيانات. عند الإيقاف، ينتظر عتبة الاتصال الكاملة البالغة 30 ثانية"
+  de: "Verwirft einen Exit, der nichts aufgebaut hat, früher, wenn zwei Geschwister-Exits empfangen. Aus: wartet die vollen 30 s der Verbindungsschwelle ab"
   en: "Drop an exit that has established nothing sooner when two sibling exits are receiving. Off waits the full 30s connect bar"
+  es: "Descarta antes una salida que no ha establecido nada cuando dos salidas hermanas están recibiendo. Si está desactivado, se espera el umbral de conexión completo de 30 s"
+  ru: "Раньше отключает выход, который ничего не установил, когда два соседних выхода получают данные. Если выключено, выжидается полный порог подключения в 30 с"
+  zh: "当两个同级出口正在接收数据时，更早丢弃尚未建立任何连接的出口。关闭时等待完整的 30 秒连接阈值"

@@ -3,4 +3,9 @@ source: "Follow benched exits"
 platforms:
   - android
 localizations:
+  ar: "متابعة المخارج المحجورة"
+  de: "Exits auf der Ersatzbank folgen"
   en: "Follow benched exits"
+  es: "Seguir a las salidas en el banquillo"
+  ru: "Следовать за отстранёнными выходами"
+  zh: "跟随被隔离的出口"

@@ -5,4 +5,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "إحصاءات الموسّع"
+  de: "Extender-Statistiken"
   en: "Extender statistics"
+  es: "Estadísticas del extensor"
+  ru: "Статистика экстендера"
+  zh: "扩展器统计"

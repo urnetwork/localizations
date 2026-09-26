@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "فتح"
+  de: "Öffnen"
   en: "Open"
+  es: "Abrir"
+  ru: "Открыть"
+  zh: "打开"

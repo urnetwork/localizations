@@ -3,4 +3,9 @@ source: "Your subscriptions"
 platforms:
   - site
 localizations:
+  ar: "اشتراكاتك"
+  de: "Deine Abos"
   en: "Your subscriptions"
+  es: "Tus suscripciones"
+  ru: "Ваши подписки"
+  zh: "您的订阅"

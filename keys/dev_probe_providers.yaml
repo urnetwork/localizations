@@ -3,4 +3,9 @@ source: "Probe providers"
 platforms:
   - android
 localizations:
+  ar: "فحص المزودين"
+  de: "Anbieter prüfen"
   en: "Probe providers"
+  es: "Sondear proveedores"
+  ru: "Пробы провайдеров"
+  zh: "探测提供商"

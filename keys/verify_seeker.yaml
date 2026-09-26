@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "التحقق من Seeker"
+  de: "Seeker verifizieren"
   en: "Verify Seeker"
+  es: "Verificar Seeker"
+  ru: "Подтвердить Seeker"
+  zh: "验证 Seeker"

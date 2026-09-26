@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "مضيفات الموسّعات"
+  de: "Extender-Hosts"
   en: "Extender hosts"
+  es: "Hosts del extensor"
+  ru: "Хосты экстендеров"
+  zh: "扩展器主机"

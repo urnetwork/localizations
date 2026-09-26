@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "اختيار ملف"
+  de: "Datei auswählen"
   en: "Choose file"
+  es: "Elegir archivo"
+  ru: "Выбрать файл"
+  zh: "选择文件"

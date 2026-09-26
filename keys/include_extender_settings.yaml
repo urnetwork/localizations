@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "تضمين إعدادات الموسّع"
+  de: "Extender-Einstellungen einbeziehen"
   en: "Include extender settings"
+  es: "Incluir los ajustes del extensor"
+  ru: "Включить настройки экстендера"
+  zh: "包含扩展器设置"

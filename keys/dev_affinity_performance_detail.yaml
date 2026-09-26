@@ -3,4 +3,9 @@ source: "Weight new TLS races by each provider's peak acknowledged-byte rate rel
 platforms:
   - android
 localizations:
+  ar: "يرجّح سباقات TLS الجديدة وفق ذروة معدل البايتات المؤكَّدة لكل مزود نسبةً إلى عرض النطاق المُعلَن لديه. عند تفعيل التقارب الصارم، يفسح المزودون ذوو القياسات المنخفضة المجال للسباق. تبقى الاتصالات الحالية والتثبيتات الصريحة دون تغيير"
+  de: "Gewichtet neue TLS-Races nach der höchsten Rate bestätigter Bytes jedes Anbieters im Verhältnis zu seiner angegebenen Bandbreite. Bei aktivierter harter Affinität weichen Anbieter mit niedrigen Messwerten dem Race. Bestehende Verbindungen und explizite Pins bleiben unverändert"
   en: "Weight new TLS races by each provider's peak acknowledged-byte rate relative to its advertised bandwidth. With hard affinity enabled, low measured donors yield to the race. Existing connections and explicit pins stay fixed"
+  es: "Pondera las nuevas carreras TLS según la tasa máxima de bytes confirmados de cada proveedor en relación con su ancho de banda anunciado. Con la afinidad estricta activada, los proveedores con mediciones bajas ceden ante la carrera. Las conexiones existentes y las fijaciones explícitas no cambian"
+  ru: "Взвешивает новые TLS-гонки по пиковой скорости подтверждённых байтов каждого провайдера относительно его заявленной пропускной способности. При включённой жёсткой привязке провайдеры с низкими замерами уступают гонке. Существующие соединения и явные закрепления остаются без изменений"
+  zh: "按各提供商的峰值已确认字节速率相对其宣称带宽的比例，为新的 TLS 竞速加权。启用强亲和性时，测量值低的提供商会让位于竞速。现有连接和显式固定保持不变"

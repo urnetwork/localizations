@@ -3,4 +3,9 @@ source: "Probe all exits now"
 platforms:
   - android
 localizations:
+  ar: "فحص كل المخارج الآن"
+  de: "Alle Exits jetzt prüfen"
   en: "Probe all exits now"
+  es: "Sondear todas las salidas ahora"
+  ru: "Проверить все выходы сейчас"
+  zh: "立即探测所有出口"

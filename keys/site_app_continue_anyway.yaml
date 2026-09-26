@@ -3,4 +3,9 @@ source: "Continue anyway"
 platforms:
   - site
 localizations:
+  ar: "المتابعة على أي حال"
+  de: "Trotzdem fortfahren"
   en: "Continue anyway"
+  es: "Continuar de todos modos"
+  ru: "Всё равно продолжить"
+  zh: "仍然继续"

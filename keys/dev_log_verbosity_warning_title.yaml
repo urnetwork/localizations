@@ -3,4 +3,9 @@ source: "Logs are recording your real traffic"
 platforms:
   - android
 localizations:
+  ar: "السجلات تسجّل حركة بياناتك الفعلية"
+  de: "Die Logs zeichnen deinen echten Datenverkehr auf"
   en: "Logs are recording your real traffic"
+  es: "Los registros están guardando tu tráfico real"
+  ru: "Логи записывают ваш реальный трафик"
+  zh: "日志正在记录您的真实流量"

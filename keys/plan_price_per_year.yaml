@@ -7,4 +7,9 @@ placeholders:
   - name: price
     type: string
 localizations:
+  ar: "{price}/سنة"
+  de: "{price}/Jahr"
   en: "{price}/year"
+  es: "{price}/año"
+  ru: "{price}/год"
+  zh: "{price}/年"

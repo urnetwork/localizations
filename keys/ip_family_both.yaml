@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "كلاهما"
+  de: "Beide"
   en: "Both"
+  es: "Ambas"
+  ru: "Обе"
+  zh: "两者"

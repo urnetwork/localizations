@@ -8,4 +8,9 @@ placeholders:
   - name: error
     type: string
 localizations:
+  ar: "رُفض التفعيل: {error}"
+  de: "Aktivierung abgelehnt: {error}"
   en: "Activation refused: {error}"
+  es: "Activación rechazada: {error}"
+  ru: "В активации отказано: {error}"
+  zh: "激活被拒绝：{error}"

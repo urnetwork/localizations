@@ -3,4 +3,9 @@ source: "Change wallet"
 platforms:
   - windows
 localizations:
+  ar: "تغيير المحفظة"
+  de: "Wallet wechseln"
   en: "Change wallet"
+  es: "Cambiar billetera"
+  ru: "Сменить кошелек"
+  zh: "更换钱包"

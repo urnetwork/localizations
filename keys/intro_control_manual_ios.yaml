@@ -3,4 +3,9 @@ source: "Open Control Center, tap +, then Add a Control, and pick URnetwork."
 platforms:
   - apple
 localizations:
+  ar: "افتح مركز التحكم، واضغط على +، ثم «إضافة عنصر تحكم»، واختر URnetwork."
+  de: "Öffne das Kontrollzentrum, tippe auf +, dann auf „Steuerelement hinzufügen“ und wähle URnetwork."
   en: "Open Control Center, tap +, then Add a Control, and pick URnetwork."
+  es: "Abre el Centro de control, toca +, luego «Añadir un control» y elige URnetwork."
+  ru: "Откройте Пункт управления, коснитесь +, затем «Добавить элемент управления» и выберите URnetwork."
+  zh: "打开控制中心，轻点 +，然后轻点“添加控制”，并选择 URnetwork。"

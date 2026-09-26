@@ -3,4 +3,9 @@ source: "Total since reset, so runs of different lengths compare"
 platforms:
   - android
 localizations:
+  ar: "الإجمالي منذ إعادة التعيين، لتسهيل مقارنة التشغيلات مختلفة المدة"
+  de: "Summe seit dem Zurücksetzen, damit Läufe unterschiedlicher Länge vergleichbar sind"
   en: "Total since reset, so runs of different lengths compare"
+  es: "Total desde el restablecimiento, para poder comparar ejecuciones de distinta duración"
+  ru: "Всего с момента сброса, чтобы можно было сравнивать прогоны разной длительности"
+  zh: "自重置以来的总数，便于比较不同时长的运行"

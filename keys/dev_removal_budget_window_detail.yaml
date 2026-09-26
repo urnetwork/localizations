@@ -3,4 +3,9 @@ source: "The window the removal limit is counted over. Off (like a limit of 0) t
 platforms:
   - android
 localizations:
+  ar: "النافذة التي يُحتسب عليها حد الإزالة. الإيقاف (مثل حد يساوي 0) يعطّل القاطع"
+  de: "Das Fenster, über das das Entfernungslimit gezählt wird. Aus (wie ein Limit von 0) schaltet den Schutzschalter ab"
   en: "The window the removal limit is counted over. Off (like a limit of 0) turns the breaker off"
+  es: "La ventana en la que se cuenta el límite de eliminaciones. Desactivado (como un límite de 0) apaga el disyuntor"
+  ru: "Окно, за которое считается лимит удалений. Выключенное значение (как и лимит 0) отключает предохранитель"
+  zh: "计算移除上限所用的窗口。关闭（与上限为 0 相同）会停用熔断器"

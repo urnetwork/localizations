@@ -3,4 +3,9 @@ source: "Flows opened"
 platforms:
   - android
 localizations:
+  ar: "التدفقات المفتوحة"
+  de: "Geöffnete Flows"
   en: "Flows opened"
+  es: "Flujos abiertos"
+  ru: "Открыто потоков"
+  zh: "已打开的流"

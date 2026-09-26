@@ -3,4 +3,9 @@ source: "Sign each binding digest with the hotkey using your own tooling (snclai
 platforms:
   - site
 localizations:
+  ar: "وقّع كل ملخص ربط باستخدام hotkey عبر أدواتك الخاصة (snclaim bind-head) والصق التوقيع هنا."
+  de: "Signiere jeden Bindungs-Digest mit dem Hotkey über deine eigenen Tools (snclaim bind-head) und füge die Signatur hier ein."
   en: "Sign each binding digest with the hotkey using your own tooling (snclaim bind-head) and paste the signature here."
+  es: "Firma cada resumen de vinculación con la hotkey usando tus propias herramientas (snclaim bind-head) y pega la firma aquí."
+  ru: "Подпишите каждый дайджест привязки ключом hotkey с помощью собственных инструментов (snclaim bind-head) и вставьте подпись сюда."
+  zh: "请使用您自己的工具（snclaim bind-head）以 hotkey 为每个绑定摘要签名，然后将签名粘贴到此处。"

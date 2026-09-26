@@ -6,4 +6,9 @@ placeholders:
   - name: count
     type: int
 localizations:
+  ar: "التدفقات: {count}"
+  de: "Flows: {count}"
   en: "{count} flows"
+  es: "Flujos: {count}"
+  ru: "Потоков: {count}"
+  zh: "{count} 个流"

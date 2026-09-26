@@ -11,6 +11,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "تم استيراد {count} موسّع"
+    one: "تم استيراد موسّع واحد"
+    two: "تم استيراد موسّعين"
+    few: "تم استيراد {count} موسّعات"
+    many: "تم استيراد {count} موسّعًا"
+    other: "تم استيراد {count} موسّع"
+  de:
+    one: "{count} Extender importiert"
+    other: "{count} Extender importiert"
   en:
     one: "Imported {count} extender"
     other: "Imported {count} extenders"
+  es:
+    one: "Se importó {count} extensor"
+    other: "Se importaron {count} extensores"
+  ru:
+    one: "Импортирован {count} экстендер"
+    few: "Импортировано {count} экстендера"
+    many: "Импортировано {count} экстендеров"
+    other: "Импортировано {count} экстендера"
+  zh:
+    other: "已导入 {count} 个扩展器"

@@ -3,4 +3,9 @@ source: "Export redacted logs"
 platforms:
   - android
 localizations:
+  ar: "تصدير السجلات المنقّحة"
+  de: "Bereinigte Logs exportieren"
   en: "Export redacted logs"
+  es: "Exportar registros anonimizados"
+  ru: "Экспортировать обезличенные логи"
+  zh: "导出脱敏日志"

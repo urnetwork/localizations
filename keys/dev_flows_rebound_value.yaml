@@ -10,4 +10,9 @@ placeholders:
   - name: redialed
     type: int
 localizations:
+  ar: "{total} ({accepted} مقبولة / {redialed} أُعيد الاتصال بها)"
+  de: "{total} ({accepted} akzeptiert / {redialed} neu verbunden)"
   en: "{total} ({accepted} accepted / {redialed} re-dialed)"
+  es: "{total} ({accepted} aceptados / {redialed} reconectados)"
+  ru: "{total} ({accepted} принято / {redialed} переподключено)"
+  zh: "{total}（已接受 {accepted} / 重新拨号 {redialed}）"

@@ -6,4 +6,9 @@ placeholders:
   - name: error
     type: string
 localizations:
+  ar: "فشل التصدير: {error}"
+  de: "Export fehlgeschlagen: {error}"
   en: "Export failed: {error}"
+  es: "Error al exportar: {error}"
+  ru: "Не удалось экспортировать: {error}"
+  zh: "导出失败：{error}"

@@ -7,4 +7,9 @@ placeholders:
   - name: count
     type: int
 localizations:
+  ar: "{count}/20"
+  de: "{count}/20"
   en: "{count}/20"
+  es: "{count}/20"
+  ru: "{count}/20"
+  zh: "{count}/20"

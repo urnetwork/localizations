@@ -3,4 +3,9 @@ source: "Rebind QUIC on exit loss"
 platforms:
   - android
 localizations:
+  ar: "إعادة ربط QUIC عند فقدان مخرج"
+  de: "QUIC bei Exit-Verlust neu binden"
   en: "Rebind QUIC on exit loss"
+  es: "Reasociar QUIC al perder una salida"
+  ru: "Перепривязывать QUIC при потере выхода"
+  zh: "出口丢失时重新绑定 QUIC"

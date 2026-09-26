@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "السجل"
+  de: "Verlauf"
   en: "History"
+  es: "Historial"
+  ru: "История"
+  zh: "历史记录"

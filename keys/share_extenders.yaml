@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "مشاركة الموسّعات"
+  de: "Extender teilen"
   en: "Share extenders"
+  es: "Compartir extensores"
+  ru: "Поделиться экстендерами"
+  zh: "分享扩展器"

@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "ستظهر إحصاءات المزود عند تفعيل المزود."
+  de: "Anbieterstatistiken erscheinen, sobald der Anbieter aktiviert ist."
   en: "Provider stats will appear when the provider is enabled."
+  es: "Las estadísticas del proveedor aparecerán cuando se active el proveedor."
+  ru: "Статистика провайдера появится, когда провайдер будет включён."
+  zh: "启用提供商后，将显示提供商统计信息。"

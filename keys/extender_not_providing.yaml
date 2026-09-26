@@ -4,4 +4,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "لا يوفّر"
+  de: "Keine Bereitstellung"
   en: "Not providing"
+  es: "Sin proporcionar"
+  ru: "Не предоставляет"
+  zh: "未提供"

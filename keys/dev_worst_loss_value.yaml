@@ -6,4 +6,9 @@ placeholders:
   - name: count
     type: int
 localizations:
+  ar: "الاتصالات: {count}"
+  de: "Verbindungen: {count}"
   en: "{count} connections"
+  es: "Conexiones: {count}"
+  ru: "Соединений: {count}"
+  zh: "{count} 个连接"

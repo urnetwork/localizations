@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "هذا ليس عنوان Bittensor صالحًا."
+  de: "Das ist keine gültige Bittensor-Adresse."
   en: "That is not a valid Bittensor address."
+  es: "Esa no es una dirección de Bittensor válida."
+  ru: "Это недействительный адрес Bittensor."
+  zh: "这不是有效的 Bittensor 地址。"

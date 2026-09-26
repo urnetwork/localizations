@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "متخفٍّ في هيئة حركة DNS مع ضخ ثابت للردود. أدنى عرض نطاق، وأعلى توافر."
+  de: "Als DNS-Verkehr getarnt, mit konstantem Antwortstrom. Geringste Bandbreite, höchste Verfügbarkeit."
   en: "Disguised as DNS traffic with a constant reply pump. Lowest bandwidth, highest availability."
+  es: "Camuflado como tráfico DNS con un bombeo constante de respuestas. Menor ancho de banda, mayor disponibilidad."
+  ru: "Маскируется под DNS-трафик с постоянной подкачкой ответов. Минимальная пропускная способность, максимальная доступность."
+  zh: "伪装成 DNS 流量，并持续泵送应答。带宽最低，可用性最高。"

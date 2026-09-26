@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تحصل على بيانات مجانية كل يوم."
+  de: "Du erhältst jeden Tag kostenlose Daten."
   en: "You get free data every day."
+  es: "Recibes datos gratis cada día."
+  ru: "Вы получаете бесплатные данные каждый день."
+  zh: "您每天都能获得免费流量。"

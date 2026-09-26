@@ -3,4 +3,9 @@ source: "Removal storm window"
 platforms:
   - android
 localizations:
+  ar: "نافذة عاصفة الإزالة"
+  de: "Fenster für Entfernungsstürme"
   en: "Removal storm window"
+  es: "Ventana de tormenta de eliminaciones"
+  ru: "Окно шторма удалений"
+  zh: "移除风暴窗口"

@@ -3,4 +3,9 @@ source: "Keeps a site on one exit when its hostname is not visible"
 platforms:
   - android
 localizations:
+  ar: "يُبقي الموقع على مخرج واحد عندما يكون اسم المضيف الخاص به غير مرئي"
+  de: "Hält eine Website auf einem Exit, wenn ihr Hostname nicht sichtbar ist"
   en: "Keeps a site on one exit when its hostname is not visible"
+  es: "Mantiene un sitio en una sola salida cuando su nombre de host no es visible"
+  ru: "Удерживает сайт на одном выходе, когда его имя хоста не видно"
+  zh: "当站点的主机名不可见时，让其保持在同一出口上"

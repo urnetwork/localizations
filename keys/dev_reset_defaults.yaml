@@ -3,4 +3,9 @@ source: "Reset to shipped defaults"
 platforms:
   - android
 localizations:
+  ar: "إعادة التعيين إلى الإعدادات الافتراضية الأصلية"
+  de: "Auf Werkseinstellungen zurücksetzen"
   en: "Reset to shipped defaults"
+  es: "Restablecer los valores de fábrica"
+  ru: "Сбросить к заводским значениям"
+  zh: "恢复为出厂默认值"

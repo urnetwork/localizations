@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "اسمح لأجهزتك بمشاركة الإنترنت فيما بينها"
+  de: "Lass deine Geräte ihr Internet untereinander teilen"
   en: "Allow your devices to share internet with each other"
+  es: "Permite que tus dispositivos compartan internet entre sí"
+  ru: "Разрешите своим устройствам делиться интернетом друг с другом"
+  zh: "允许您的设备彼此共享网络"

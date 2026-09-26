@@ -3,4 +3,9 @@ source: "Your network"
 platforms:
   - windows
 localizations:
+  ar: "شبكتك"
+  de: "Dein Netzwerk"
   en: "Your network"
+  es: "Tu red"
+  ru: "Ваша сеть"
+  zh: "您的网络"

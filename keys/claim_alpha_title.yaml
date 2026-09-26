@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "المطالبة بـ SN25α"
+  de: "SN25α einlösen"
   en: "Claim SN25α"
+  es: "Reclamar SN25α"
+  ru: "Получить SN25α"
+  zh: "领取 SN25α"

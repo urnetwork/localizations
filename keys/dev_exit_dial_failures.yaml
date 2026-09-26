@@ -6,4 +6,9 @@ placeholders:
   - name: count
     type: int
 localizations:
+  ar: "محاولات اتصال فاشلة: {count}"
+  de: "Fehlgeschlagene Verbindungsversuche: {count}"
   en: "{count} failed dials"
+  es: "Intentos de conexión fallidos: {count}"
+  ru: "Неудачных попыток соединения: {count}"
+  zh: "{count} 次拨号失败"

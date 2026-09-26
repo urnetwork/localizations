@@ -11,6 +11,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} متصل"
+    one: "متصل واحد"
+    two: "متصلان"
+    few: "{count} متصلين"
+    many: "{count} متصلًا"
+    other: "{count} متصل"
+  de:
+    one: "{count} verbunden"
+    other: "{count} verbunden"
   en:
     one: "{count} connected"
     other: "{count} connected"
+  es:
+    one: "{count} conectado"
+    other: "{count} conectados"
+  ru:
+    one: "{count} подключён"
+    few: "{count} подключено"
+    many: "{count} подключено"
+    other: "{count} подключено"
+  zh:
+    other: "已连接 {count} 个"

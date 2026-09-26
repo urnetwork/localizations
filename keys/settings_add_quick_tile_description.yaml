@@ -3,4 +3,9 @@ source: "Connect and disconnect from the Quick Settings panel and the lock scree
 platforms:
   - android
 localizations:
+  ar: "اتصل واقطع الاتصال من لوحة الإعدادات السريعة وشاشة القفل."
+  de: "Verbinde und trenne dich über die Schnelleinstellungen und den Sperrbildschirm."
   en: "Connect and disconnect from the Quick Settings panel and the lock screen."
+  es: "Conéctate y desconéctate desde el panel de Ajustes rápidos y la pantalla de bloqueo."
+  ru: "Подключайтесь и отключайтесь с панели быстрых настроек и экрана блокировки."
+  zh: "从快捷设置面板和锁定屏幕连接或断开连接。"

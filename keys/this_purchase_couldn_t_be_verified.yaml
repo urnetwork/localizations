@@ -3,4 +3,9 @@ source: "This purchase couldn't be verified with the App Store, so it can't be a
 platforms:
   - apple
 localizations:
+  ar: "تعذّر التحقق من عملية الشراء هذه عبر App Store، لذا لا يمكن تطبيقها على حسابك. إذا تم تحصيل رسوم منك ولم تُحدَّث خطتك، يرجى التواصل مع الدعم."
+  de: "Dieser Kauf konnte beim App Store nicht verifiziert werden und kann deshalb nicht auf dein Konto angewendet werden. Falls dir etwas berechnet wurde und dein Plan nicht aktualisiert wird, wende dich bitte an den Support."
   en: "This purchase couldn't be verified with the App Store, so it can't be applied to your account. If you were charged and your plan doesn't update, please contact support."
+  es: "No se pudo verificar esta compra con el App Store, así que no se puede aplicar a tu cuenta. Si se te cobró y tu plan no se actualiza, contacta con el soporte."
+  ru: "Эту покупку не удалось подтвердить в App Store, поэтому её нельзя применить к вашему аккаунту. Если с вас списали оплату, а тариф не обновился, обратитесь в поддержку."
+  zh: "无法通过 App Store 验证此次购买，因此无法将其应用到您的账户。如果您已被扣款但方案未更新，请联系支持团队。"

@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "تبديل URnetwork VPN"
+  de: "URnetwork-VPN umschalten"
   en: "Toggle URnetwork VPN"
+  es: "Activar o desactivar la VPN de URnetwork"
+  ru: "Переключить VPN URnetwork"
+  zh: "切换 URnetwork VPN"

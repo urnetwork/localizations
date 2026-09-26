@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "يوفّر للجميع أثناء اتصالك، وإلا فلأجهزتك فقط."
+  de: "Stellt allen bereit, während du verbunden bist, sonst nur deinen eigenen Geräten."
   en: "Provides to everyone while you're connected, otherwise only to your own devices."
+  es: "Proporciona a todos mientras estás conectado; si no, solo a tus propios dispositivos."
+  ru: "Предоставляет доступ всем, пока вы подключены, а в остальное время — только вашим устройствам."
+  zh: "连接期间向所有人提供，否则仅向您自己的设备提供。"

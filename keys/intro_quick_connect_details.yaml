@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "شغّل URnetwork وأوقفه من الإعدادات السريعة، وتابعه من شاشتك الرئيسية."
+  de: "Schalte URnetwork in den Schnelleinstellungen ein und aus und behalte es auf deinem Startbildschirm im Blick."
   en: "Turn URnetwork on and off from Quick Settings, and keep an eye on it from your home screen."
+  es: "Activa y desactiva URnetwork desde Ajustes rápidos y vigílalo desde tu pantalla de inicio."
+  ru: "Включайте и выключайте URnetwork в быстрых настройках и следите за ним с главного экрана."
+  zh: "在快捷设置中开关 URnetwork，并在主屏幕上随时查看其状态。"

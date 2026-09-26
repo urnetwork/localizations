@@ -4,4 +4,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "وفّر 33%"
+  de: "33 % sparen"
   en: "Save 33%"
+  es: "Ahorra 33%"
+  ru: "Экономия 33%"
+  zh: "省 33%"

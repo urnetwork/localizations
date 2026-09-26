@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "مرتبة حسب الأفضلية: H3 و H1 أولًا، ثم whodis، ثم whodis pump. الترتيب ثابت. يبقى بروتوكول نقل واحد على الأقل مفعّلًا."
+  de: "In der Reihenfolge der Präferenz aufgeführt: zuerst H3 und H1, dann whodis, dann whodis pump. Die Reihenfolge ist fest. Mindestens ein Transport bleibt aktiviert."
   en: "Listed in preference order: H3 and H1 first, then whodis, then whodis pump. The order is fixed. At least one transport stays enabled."
+  es: "Ordenados por preferencia: primero H3 y H1, luego whodis y después whodis pump. El orden es fijo. Al menos un transporte permanece activado."
+  ru: "Указаны в порядке предпочтения: сначала H3 и H1, затем whodis, затем whodis pump. Порядок фиксирован. Хотя бы один транспорт всегда остаётся включённым."
+  zh: "按优先顺序列出：先是 H3 和 H1，然后是 whodis，最后是 whodis pump。顺序固定。至少会有一种传输方式保持启用。"

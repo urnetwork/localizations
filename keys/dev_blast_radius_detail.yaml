@@ -3,4 +3,9 @@ source: "Connections lost per provider failure. Lower is better"
 platforms:
   - android
 localizations:
+  ar: "الاتصالات المفقودة لكل عطل في المزود. الأقل أفضل"
+  de: "Verlorene Verbindungen pro Anbieterausfall. Niedriger ist besser"
   en: "Connections lost per provider failure. Lower is better"
+  es: "Conexiones perdidas por cada fallo de proveedor. Cuanto menos, mejor"
+  ru: "Потерянные соединения на один сбой провайдера. Чем меньше, тем лучше"
+  zh: "每次提供商故障丢失的连接数。越低越好"

@@ -3,4 +3,9 @@ source: "Hard fresh-flow affinity"
 platforms:
   - android
 localizations:
+  ar: "تقارب صارم للتدفقات الجديدة"
+  de: "Harte Affinität für neue Flows"
   en: "Hard fresh-flow affinity"
+  es: "Afinidad estricta para flujos nuevos"
+  ru: "Жёсткая привязка новых потоков"
+  zh: "新流强亲和性"

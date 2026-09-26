@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "لا يوجد مزودون"
+  de: "Keine Anbieter"
   en: "No providers"
+  es: "No hay proveedores"
+  ru: "Нет провайдеров"
+  zh: "没有提供商"

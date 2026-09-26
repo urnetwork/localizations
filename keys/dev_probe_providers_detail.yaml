@@ -3,4 +3,9 @@ source: "Qualify exits by dialing real sites through them. An answer proves the 
 platforms:
   - android
 localizations:
+  ar: "يؤهّل المخارج عبر الاتصال بمواقع حقيقية من خلالها. الرد يُثبت صلاحية المخرج؛ والصمت لا يُحتسب ضده أبدًا"
+  de: "Qualifiziert Exits, indem echte Websites über sie angewählt werden. Eine Antwort bestätigt den Exit; Stille wird nie gegen ihn gewertet"
   en: "Qualify exits by dialing real sites through them. An answer proves the exit; silence never counts against it"
+  es: "Califica las salidas conectando con sitios reales a través de ellas. Una respuesta valida la salida; el silencio nunca cuenta en su contra"
+  ru: "Проверяет пригодность выходов, подключаясь через них к реальным сайтам. Ответ подтверждает выход; молчание никогда не засчитывается против него"
+  zh: "通过出口拨号访问真实站点来验证出口。收到应答即证明该出口可用；无应答绝不会被计为不利"

@@ -3,4 +3,9 @@ source: "Timing"
 platforms:
   - android
 localizations:
+  ar: "التوقيت"
+  de: "Zeitsteuerung"
   en: "Timing"
+  es: "Tiempos"
+  ru: "Тайминги"
+  zh: "时序"

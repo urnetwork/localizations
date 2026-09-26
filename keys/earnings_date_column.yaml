@@ -3,4 +3,9 @@ source: "Date"
 platforms:
   - windows
 localizations:
+  ar: "التاريخ"
+  de: "Datum"
   en: "Date"
+  es: "Fecha"
+  ru: "Дата"
+  zh: "日期"

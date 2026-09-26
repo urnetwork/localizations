@@ -3,4 +3,9 @@ source: "The checkout view closed unexpectedly. If your payment went through, yo
 platforms:
   - windows
 localizations:
+  ar: "أُغلقت نافذة الدفع بشكل غير متوقع. إذا تمت عملية الدفع، فسيتم تحديث خطتك هنا تلقائيًا — لا داعي للشراء مرة أخرى."
+  de: "Die Kaufansicht wurde unerwartet geschlossen. Falls deine Zahlung durchgegangen ist, wird dein Plan hier automatisch aktualisiert — du musst nicht noch einmal kaufen."
   en: "The checkout view closed unexpectedly. If your payment went through, your plan updates here automatically — there's no need to buy again."
+  es: "La ventana de pago se cerró inesperadamente. Si tu pago se completó, tu plan se actualizará aquí automáticamente — no hace falta volver a comprar."
+  ru: "Окно оплаты неожиданно закрылось. Если платёж прошёл, ваш тариф обновится здесь автоматически — покупать повторно не нужно."
+  zh: "结账页面意外关闭。如果您的付款已完成，您的方案会在此处自动更新，无需再次购买。"

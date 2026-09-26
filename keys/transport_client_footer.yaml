@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "بروتوكول النقل الذي يستخدمه هذا الجهاز للوصول إلى المزودين. يجرّب الوضع «تلقائي» بروتوكولات النقل المفعّلة حسب ترتيب الأفضلية، ويُبقي كل بروتوكولات النقل السليمة من الفئة نفسها متصلة بالتوازي."
+  de: "Der Transport, über den dieses Gerät Anbieter erreicht. „Automatisch“ probiert die aktivierten Transporte in der Reihenfolge der Präferenz aus und hält alle funktionierenden Transporte derselben Stufe parallel verbunden."
   en: "The transport this device uses to reach providers. Auto tries the enabled transports in preference order and keeps every healthy transport of the same tier connected in parallel."
+  es: "El transporte que usa este dispositivo para llegar a los proveedores. «Automático» prueba los transportes activados por orden de preferencia y mantiene conectados en paralelo todos los transportes en buen estado del mismo nivel."
+  ru: "Транспорт, через который это устройство подключается к провайдерам. Режим «Автоматически» перебирает включённые транспорты в порядке предпочтения и держит все исправные транспорты одного уровня подключёнными параллельно."
+  zh: "此设备用于连接提供商的传输方式。“自动”模式会按优先顺序尝试已启用的传输方式，并让同一层级中所有正常的传输方式保持并行连接。"

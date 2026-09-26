@@ -3,4 +3,9 @@ source: "Available for Chrome, Edge, Brave and Firefox."
 platforms:
   - site
 localizations:
+  ar: "متاحة لـ Chrome و Edge و Brave و Firefox."
+  de: "Verfügbar für Chrome, Edge, Brave und Firefox."
   en: "Available for Chrome, Edge, Brave and Firefox."
+  es: "Disponible para Chrome, Edge, Brave y Firefox."
+  ru: "Доступно для Chrome, Edge, Brave и Firefox."
+  zh: "适用于 Chrome、Edge、Brave 和 Firefox。"

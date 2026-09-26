@@ -10,4 +10,9 @@ placeholders:
   - name: share
     type: string
 localizations:
+  ar: "{share} من الكتلة"
+  de: "{share} des Blocks"
   en: "{share} of block"
+  es: "{share} del bloque"
+  ru: "{share} блока"
+  zh: "区块的 {share}"

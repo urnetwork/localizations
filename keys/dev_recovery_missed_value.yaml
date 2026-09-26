@@ -8,4 +8,9 @@ placeholders:
   - name: total
     type: int
 localizations:
+  ar: "{missed} من {total}"
+  de: "{missed} von {total}"
   en: "{missed} of {total}"
+  es: "{missed} de {total}"
+  ru: "{missed} из {total}"
+  zh: "{missed} / {total}"

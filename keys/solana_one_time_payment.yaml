@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "الدفع بـ USDC على Solana دفعة سنوية لمرة واحدة، دون تجربة مجانية."
+  de: "Die Zahlung mit USDC auf Solana ist eine einmalige Jahreszahlung ohne kostenlose Testphase."
   en: "Paying with USDC on Solana is a one-time yearly payment, with no free trial."
+  es: "Pagar con USDC en Solana es un pago anual único, sin prueba gratuita."
+  ru: "Оплата в USDC в сети Solana — это разовый годовой платёж без бесплатного пробного периода."
+  zh: "使用 Solana 上的 USDC 支付为一次性年付，不含免费试用。"

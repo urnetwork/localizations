@@ -3,4 +3,9 @@ source: "Confirmation is taking longer than expected. Your plan will update auto
 platforms:
   - android
 localizations:
+  ar: "يستغرق التأكيد وقتًا أطول من المتوقع. سيتم تحديث خطتك تلقائيًا بمجرد تأكيد الدفع — لا داعي للشراء مرة أخرى."
+  de: "Die Bestätigung dauert länger als erwartet. Dein Plan wird automatisch aktualisiert, sobald die Zahlung bestätigt ist — du musst nicht noch einmal kaufen."
   en: "Confirmation is taking longer than expected. Your plan will update automatically once it's confirmed — there's no need to buy again."
+  es: "La confirmación está tardando más de lo esperado. Tu plan se actualizará automáticamente en cuanto se confirme — no hace falta volver a comprar."
+  ru: "Подтверждение занимает больше времени, чем ожидалось. Ваш тариф обновится автоматически, как только оплата будет подтверждена, — покупать повторно не нужно."
+  zh: "确认时间比预期要长。确认后，您的方案会自动更新，无需再次购买。"

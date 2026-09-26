@@ -3,4 +3,9 @@ source: "Paste the binding payload exactly as the app shows it."
 platforms:
   - site
 localizations:
+  ar: "الصق بيانات الربط تمامًا كما يعرضها التطبيق."
+  de: "Füge die Bindungs-Payload genau so ein, wie die App sie anzeigt."
   en: "Paste the binding payload exactly as the app shows it."
+  es: "Pega la carga útil de vinculación exactamente como la muestra la app."
+  ru: "Вставьте данные привязки точно в том виде, в каком их показывает приложение."
+  zh: "请完全按照应用显示的内容粘贴绑定数据。"

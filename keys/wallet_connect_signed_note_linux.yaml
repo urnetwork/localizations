@@ -3,4 +3,9 @@ source: "Your wallet signs a message to prove it is yours. Nothing is sent on ch
 platforms:
   - linux
 localizations:
+  ar: "توقّع محفظتك رسالة لإثبات أنها ملكك. لا يُرسل أي شيء على السلسلة."
+  de: "Deine Wallet signiert eine Nachricht, um zu beweisen, dass sie dir gehört. Es wird nichts an die Chain gesendet."
   en: "Your wallet signs a message to prove it is yours. Nothing is sent on chain."
+  es: "Tu billetera firma un mensaje para demostrar que es tuya. No se envía nada a la cadena."
+  ru: "Ваш кошелек подписывает сообщение, чтобы подтвердить, что он ваш. В блокчейн ничего не отправляется."
+  zh: "您的钱包会签署一条消息以证明其归您所有。不会在链上发送任何内容。"

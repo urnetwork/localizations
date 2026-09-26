@@ -7,4 +7,9 @@ placeholders:
   - name: rate
     type: string
 localizations:
+  ar: "الذروة {rate}"
+  de: "Spitze {rate}"
   en: "{rate} peak"
+  es: "Pico de {rate}"
+  ru: "Пик {rate}"
+  zh: "峰值 {rate}"

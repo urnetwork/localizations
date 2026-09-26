@@ -3,4 +3,9 @@ source: "State heartbeat"
 platforms:
   - android
 localizations:
+  ar: "نبض الحالة"
+  de: "Status-Heartbeat"
   en: "State heartbeat"
+  es: "Latido de estado"
+  ru: "Пульс состояния"
+  zh: "状态心跳"

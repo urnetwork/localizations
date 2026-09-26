@@ -5,4 +5,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "ألغاه المشغّل"
+  de: "Vom Betreiber widerrufen"
   en: "Revoked by the operator"
+  es: "Revocado por el operador"
+  ru: "Отозван оператором"
+  zh: "已被运营方撤销"

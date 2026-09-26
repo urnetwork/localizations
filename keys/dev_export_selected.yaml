@@ -3,4 +3,9 @@ source: "Export selected"
 platforms:
   - android
 localizations:
+  ar: "تصدير المحدد"
+  de: "Auswahl exportieren"
   en: "Export selected"
+  es: "Exportar selección"
+  ru: "Экспортировать выбранные"
+  zh: "导出所选项"

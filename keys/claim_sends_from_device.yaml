@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "يرسل جهازك طلب المطالبة إلى عقد الخزنة. تُدفع رسوم الغاز بعملة TAO من مفتاح الغاز الخاص بك. ويصل Alpha إلى coldkey الخاص بك."
+  de: "Dein Gerät sendet die Einlösung an den Vault-Vertrag. Das Gas wird in TAO von deinem Gas-Schlüssel bezahlt. Das Alpha landet auf deinem Coldkey."
   en: "Your device sends the claim to the vault contract. Gas is paid in TAO from your gas key. Alpha lands on your coldkey."
+  es: "Tu dispositivo envía la reclamación al contrato de bóveda. El gas se paga en TAO desde tu clave de gas. El Alpha llega a tu coldkey."
+  ru: "Ваше устройство отправляет запрос на получение в контракт хранилища. Газ оплачивается в TAO с вашего ключа для оплаты газа. Alpha поступает на ваш coldkey."
+  zh: "您的设备会将领取请求发送到金库合约。Gas 费以 TAO 从您的 Gas 密钥中支付。Alpha 将存入您的 coldkey。"

@@ -3,4 +3,9 @@ source: "Epoch"
 platforms:
   - linux
 localizations:
+  ar: "الفترة"
+  de: "Epoche"
   en: "Epoch"
+  es: "Época"
+  ru: "Эпоха"
+  zh: "周期"

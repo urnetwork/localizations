@@ -3,4 +3,9 @@ source: "Stall"
 platforms:
   - android
 localizations:
+  ar: "إيقاف"
+  de: "Hängen lassen"
   en: "Stall"
+  es: "Bloquear"
+  ru: "Заморозить"
+  zh: "使停滞"

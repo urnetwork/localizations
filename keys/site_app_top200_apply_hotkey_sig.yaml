@@ -3,4 +3,9 @@ source: "Apply hotkey signature"
 platforms:
   - site
 localizations:
+  ar: "تطبيق توقيع hotkey"
+  de: "Hotkey-Signatur anwenden"
   en: "Apply hotkey signature"
+  es: "Aplicar la firma de la hotkey"
+  ru: "Применить подпись hotkey"
+  zh: "应用 hotkey 签名"

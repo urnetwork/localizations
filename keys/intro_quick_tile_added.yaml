@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "تمت الإضافة إلى الإعدادات السريعة"
+  de: "Zu den Schnelleinstellungen hinzugefügt"
   en: "Added to Quick Settings"
+  es: "Añadido a Ajustes rápidos"
+  ru: "Добавлено в быстрые настройки"
+  zh: "已添加到快捷设置"

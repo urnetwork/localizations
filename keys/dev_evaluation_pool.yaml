@@ -3,4 +3,9 @@ source: "Candidates evaluated per slot"
 platforms:
   - android
 localizations:
+  ar: "المرشحون المُقيَّمون لكل خانة"
+  de: "Bewertete Kandidaten pro Slot"
   en: "Candidates evaluated per slot"
+  es: "Candidatos evaluados por hueco"
+  ru: "Кандидатов на слот"
+  zh: "每个槽位评估的候选数"

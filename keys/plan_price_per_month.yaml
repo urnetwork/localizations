@@ -6,4 +6,9 @@ placeholders:
   - name: price
     type: string
 localizations:
+  ar: "{price}/شهر"
+  de: "{price}/Monat"
   en: "{price}/month"
+  es: "{price}/mes"
+  ru: "{price}/месяц"
+  zh: "{price}/月"

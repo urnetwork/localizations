@@ -8,4 +8,9 @@ placeholders:
   - name: acquitted
     type: int
 localizations:
+  ar: "{sent} مُرسَلة / {acquitted} مُبرّأة"
+  de: "{sent} gesendet / {acquitted} freigesprochen"
   en: "{sent} sent / {acquitted} acquitted"
+  es: "{sent} enviadas / {acquitted} absueltas"
+  ru: "{sent} отправлено / {acquitted} оправдано"
+  zh: "已发送 {sent} / 判为无罪 {acquitted}"

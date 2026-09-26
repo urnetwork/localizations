@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "لا يوجد أي نشاط لهذا العنوان على سلسلة Bittensor بعد. يبدو أنها محفظة جديدة. تأكد من أنها ملكك قبل المتابعة."
+  de: "Diese Adresse hat noch keine Aktivität auf der Bittensor-Chain. Es sieht nach einer neuen Wallet aus. Vergewissere dich, dass sie dir gehört, bevor du fortfährst."
   en: "This address has no activity on the Bittensor chain yet. It looks like a new wallet. Make sure it is yours before continuing."
+  es: "Esta dirección aún no tiene actividad en la cadena de Bittensor. Parece una billetera nueva. Asegúrate de que es tuya antes de continuar."
+  ru: "У этого адреса пока нет активности в блокчейне Bittensor. Похоже, это новый кошелек. Прежде чем продолжить, убедитесь, что он ваш."
+  zh: "此地址在 Bittensor 链上尚无任何活动，看起来是一个新钱包。继续之前，请确认它属于您。"

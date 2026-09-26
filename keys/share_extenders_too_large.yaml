@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "رمز المشاركة كبير جدًا بالنسبة لرمز QR. انسخ نص المشاركة بدلًا من ذلك."
+  de: "Der Freigabecode ist zu groß für einen QR-Code. Kopiere stattdessen den Freigabetext."
   en: "The share code is too large for a QR code. Copy the share text instead."
+  es: "El código para compartir es demasiado grande para un código QR. Copia el texto para compartir en su lugar."
+  ru: "Код слишком велик для QR-кода. Вместо этого скопируйте текст кода."
+  zh: "分享码过大，无法生成二维码。请改为复制分享文本。"

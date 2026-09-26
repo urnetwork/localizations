@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "أفضل 200"
+  de: "Top 200"
   en: "Top 200"
+  es: "Top 200"
+  ru: "Топ-200"
+  zh: "前 200 名"

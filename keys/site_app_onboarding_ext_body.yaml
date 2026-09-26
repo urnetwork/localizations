@@ -3,4 +3,9 @@ source: "URnetwork routes this browser through its extension. Install it, and th
 platforms:
   - site
 localizations:
+  ar: "يوجّه URnetwork هذا المتصفح عبر إضافته. ثبّتها، وسيصبح زر الاتصال هنا جاهزًا للاستخدام."
+  de: "URnetwork leitet diesen Browser über seine Erweiterung. Installiere sie, und der Button zum Verbinden hier ist sofort einsatzbereit."
   en: "URnetwork routes this browser through its extension. Install it, and the Connect button here is ready to go."
+  es: "URnetwork enruta este navegador a través de su extensión. Instálala y el botón de conexión de aquí estará listo para usarse."
+  ru: "URnetwork направляет трафик этого браузера через своё расширение. Установите его, и кнопка подключения здесь сразу заработает."
+  zh: "URnetwork 通过其扩展为此浏览器传输流量。安装后，此处的“连接”按钮即可使用。"

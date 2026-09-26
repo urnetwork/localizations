@@ -3,4 +3,9 @@ source: "Tools for diagnosing connection freezes. These act on the live connecti
 platforms:
   - android
 localizations:
+  ar: "أدوات لتشخيص تجمّد الاتصال. تعمل هذه الأدوات على الاتصال الحالي."
+  de: "Werkzeuge zur Diagnose von Verbindungshängern. Diese wirken direkt auf die aktive Verbindung."
   en: "Tools for diagnosing connection freezes. These act on the live connection."
+  es: "Herramientas para diagnosticar bloqueos de la conexión. Actúan sobre la conexión activa."
+  ru: "Инструменты для диагностики зависаний соединения. Они воздействуют на активное соединение."
+  zh: "用于诊断连接卡顿的工具。这些工具会作用于当前连接。"

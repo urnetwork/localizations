@@ -3,4 +3,9 @@ source: "Extra silent destinations required per this many flows before a busy ex
 platforms:
   - android
 localizations:
+  ar: "عدد الوجهات الصامتة الإضافية المطلوبة لكل هذا العدد من التدفقات قبل أن يمكن حجر مخرج مشغول بناءً على أدلة ضعيفة: المخرج ذو 24 تدفقًا عند القيمة 8 يحتاج إلى 3 مواقع صامتة لا 2. عند الإيقاف، يبقى الحد الأدنى الثابت"
+  de: "Zusätzliche stille Ziele, die pro so vielen Flows nötig sind, bevor ein ausgelasteter Exit auf schwache Hinweise hin auf die Ersatzbank gesetzt werden kann: Ein Exit mit 24 Flows braucht bei 8 3 stille Websites statt 2. Aus: behält das feste Minimum"
   en: "Extra silent destinations required per this many flows before a busy exit can be benched on soft evidence: a 24-flow exit at 8 needs 3 silent sites, not 2. Off keeps the flat minimum"
+  es: "Destinos silenciosos adicionales necesarios por cada esta cantidad de flujos antes de poder mandar al banquillo una salida ocupada con indicios débiles: una salida de 24 flujos con 8 necesita 3 sitios silenciosos, no 2. Si está desactivado, se mantiene el mínimo fijo"
+  ru: "Сколько дополнительных молчащих адресатов требуется на каждое такое число потоков, прежде чем загруженный выход можно отстранить по косвенным признакам: выходу с 24 потоками при значении 8 нужно 3 молчащих сайта, а не 2. Если выключено, действует фиксированный минимум"
+  zh: "在仅凭弱证据隔离繁忙出口之前，每达到此数量的流需额外增加的静默目标数：值为 8 时，有 24 个流的出口需要 3 个静默站点，而不是 2 个。关闭时保持固定的最小值"

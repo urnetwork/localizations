@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "سجّل الدخول واتصل لإدارة الموسّعات."
+  de: "Melde dich an und verbinde dich, um Extender zu verwalten."
   en: "Sign in and connect to manage extenders."
+  es: "Inicia sesión y conéctate para gestionar los extensores."
+  ru: "Войдите и подключитесь, чтобы управлять экстендерами."
+  zh: "登录并连接后即可管理扩展器。"

@@ -3,4 +3,9 @@ source: "How many providers a window expansion pings and ranks per slot it needs
 platforms:
   - android
 localizations:
+  ar: "عدد المزودين الذين يرسل إليهم توسيع النافذة ping ويرتّبهم لكل خانة يحتاجها، مع الاحتفاظ بالأفضل. القيمة 1 تقيّم العدد المطلوب بالضبط"
+  de: "Wie viele Anbieter eine Fenstererweiterung pro benötigtem Slot anpingt und bewertet, wobei die besten behalten werden. 1 bewertet genau so viele wie nötig"
   en: "How many providers a window expansion pings and ranks per slot it needs, keeping the best. 1 evaluates exactly what it needs"
+  es: "Cuántos proveedores sondea con ping y clasifica una ampliación de ventana por cada hueco que necesita, quedándose con los mejores. 1 evalúa exactamente los que necesita"
+  ru: "Сколько провайдеров расширение окна пингует и ранжирует на каждый нужный слот, оставляя лучших. 1 — оценивать ровно столько, сколько нужно"
+  zh: "窗口扩展时为每个所需槽位 ping 并排名的提供商数量，保留最佳者。1 表示只评估恰好所需的数量"

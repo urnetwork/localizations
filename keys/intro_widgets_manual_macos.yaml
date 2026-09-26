@@ -3,4 +3,9 @@ source: "Open the widget gallery from Notification Center, search URnetwork, and
 platforms:
   - apple
 localizations:
+  ar: "افتح معرض الأدوات من مركز الإشعارات، وابحث عن URnetwork، واسحب أداة إلى سطح المكتب."
+  de: "Öffne die Widget-Galerie über die Mitteilungszentrale, suche nach URnetwork und ziehe ein Widget auf den Schreibtisch."
   en: "Open the widget gallery from Notification Center, search URnetwork, and drag a widget to the desktop."
+  es: "Abre la galería de widgets desde el Centro de notificaciones, busca URnetwork y arrastra un widget al escritorio."
+  ru: "Откройте галерею виджетов из Центра уведомлений, найдите URnetwork и перетащите виджет на рабочий стол."
+  zh: "从通知中心打开小组件库，搜索 URnetwork，然后将小组件拖到桌面。"

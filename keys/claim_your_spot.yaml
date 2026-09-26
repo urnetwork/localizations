@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "احجز مكانك"
+  de: "Sichere dir deinen Platz"
   en: "Claim your spot"
+  es: "Reclama tu puesto"
+  ru: "Займите своё место"
+  zh: "获取您的席位"

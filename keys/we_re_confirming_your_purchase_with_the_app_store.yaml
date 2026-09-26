@@ -3,4 +3,9 @@ source: "We're confirming your purchase with the App Store. Your plan will updat
 platforms:
   - apple
 localizations:
+  ar: "نحن نؤكد عملية الشراء مع App Store. سيتم تحديث خطتك تلقائيًا."
+  de: "Wir bestätigen deinen Kauf beim App Store. Dein Plan wird automatisch aktualisiert."
   en: "We're confirming your purchase with the App Store. Your plan will update automatically."
+  es: "Estamos confirmando tu compra con el App Store. Tu plan se actualizará automáticamente."
+  ru: "Мы подтверждаем вашу покупку в App Store. Ваш тариф обновится автоматически."
+  zh: "我们正在通过 App Store 确认您的购买。您的方案将自动更新。"

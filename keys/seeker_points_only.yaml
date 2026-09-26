@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "ينطبق مضاعف Seeker على النقاط فقط."
+  de: "Der Seeker-Multiplikator gilt nur für Punkte."
   en: "The Seeker multiplier applies to points only."
+  es: "El multiplicador de Seeker solo se aplica a los puntos."
+  ru: "Множитель Seeker применяется только к очкам."
+  zh: "Seeker 倍增器仅适用于积分。"

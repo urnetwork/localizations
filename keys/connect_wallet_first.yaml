@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "اربط محفظة Bittensor أولًا."
+  de: "Verbinde zuerst eine Bittensor-Wallet."
   en: "Connect a Bittensor wallet first."
+  es: "Primero conecta una billetera de Bittensor."
+  ru: "Сначала подключите кошелек Bittensor."
+  zh: "请先连接 Bittensor 钱包。"

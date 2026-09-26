@@ -3,4 +3,9 @@ source: "Gas balance"
 platforms:
   - windows
 localizations:
+  ar: "رصيد الغاز"
+  de: "Gas-Guthaben"
   en: "Gas balance"
+  es: "Saldo para gas"
+  ru: "Баланс для газа"
+  zh: "Gas 余额"

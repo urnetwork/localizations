@@ -3,4 +3,9 @@ source: "How many health sites one qualification pass dials through an exit. 0 p
 platforms:
   - android
 localizations:
+  ar: "عدد مواقع فحص السلامة التي تتصل بها جولة تأهيل واحدة عبر مخرج. القيمة 0 تفحص القائمة المضمّنة بأكملها؛ والعدد الأصغر يمر عليها على دفعات"
+  de: "Wie viele Health-Websites ein Qualifizierungsdurchlauf über einen Exit anwählt. 0 prüft die gesamte eingebettete Liste; eine kleinere Zahl arbeitet sie blockweise ab"
   en: "How many health sites one qualification pass dials through an exit. 0 probes the entire embedded list; a smaller number rotates through it in blocks"
+  es: "Cuántos sitios de comprobación contacta una pasada de calificación a través de una salida. 0 sondea toda la lista integrada; un número menor la recorre por bloques"
+  ru: "Сколько проверочных сайтов один проход квалификации вызывает через выход. 0 — проверять весь встроенный список; меньшее число перебирает его блоками"
+  zh: "一轮验证通过某个出口拨号访问的健康检查站点数量。0 表示探测整个内置列表；较小的数值则分块轮流探测"

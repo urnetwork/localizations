@@ -3,4 +3,9 @@ source: "Provider connect failures"
 platforms:
   - android
 localizations:
+  ar: "إخفاقات اتصال المزود"
+  de: "Verbindungsfehler bei Anbietern"
   en: "Provider connect failures"
+  es: "Fallos de conexión del proveedor"
+  ru: "Сбои подключения у провайдеров"
+  zh: "提供商连接失败"

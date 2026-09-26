@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "القرار لك، والأمر اختياري تمامًا:"
+  de: "Deine Entscheidung, völlig optional:"
   en: "Your choice, completely optional:"
+  es: "Tú decides, es totalmente opcional:"
+  ru: "Решать вам, это совершенно необязательно:"
+  zh: "由您决定，完全可选："

@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "محفظة Bittensor"
+  de: "Bittensor-Wallet"
   en: "Bittensor wallet"
+  es: "Billetera de Bittensor"
+  ru: "Кошелек Bittensor"
+  zh: "Bittensor 钱包"

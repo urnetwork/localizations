@@ -3,4 +3,9 @@ source: "Head miners are the top {cutoff} networks by routable egress IP breadth
 platforms:
   - site
 localizations:
+  ar: "كبار المعدِّنين هم أفضل {cutoff} شبكة من حيث تنوّع عناوين IP الخروج القابلة للتوجيه. تدفع الشبكة الفرعية مقابل المقعد الرئيسي بشكل أصلي في كل tempo، مباشرةً إلى coldkey الخاص بك."
+  de: "Head-Miner sind die Top-{cutoff}-Netzwerke nach der Vielfalt routbarer Egress-IPs. Ein Head-Platz wird in jedem Tempo nativ vom Subnetz bezahlt, direkt an deinen Coldkey."
   en: "Head miners are the top {cutoff} networks by routable egress IP breadth. A head spot is paid natively by the subnet every tempo, straight to your coldkey."
+  es: "Los mineros principales son las {cutoff} mejores redes según la variedad de IP de salida enrutables. La subred paga un puesto principal de forma nativa en cada tempo, directamente a tu coldkey."
+  ru: "Ведущие майнеры — это {cutoff} лучших сетей по разнообразию маршрутизируемых исходящих IP. Подсеть нативно оплачивает ведущее место в каждом tempo — прямо на ваш coldkey."
+  zh: "头部矿工是按可路由出口 IP 广度排名前 {cutoff} 的网络。头部席位由子网在每个 tempo 原生支付，直接发放到您的 coldkey。"

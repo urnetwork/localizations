@@ -3,4 +3,9 @@ source: "Clearing logs…"
 platforms:
   - android
 localizations:
+  ar: "جارٍ مسح السجلات…"
+  de: "Logs werden gelöscht…"
   en: "Clearing logs…"
+  es: "Borrando registros…"
+  ru: "Очистка логов…"
+  zh: "正在清除日志…"

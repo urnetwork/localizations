@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "في قائمة الانتظار"
+  de: "in Warteschlange"
   en: "queued"
+  es: "en cola"
+  ru: "в очереди"
+  zh: "排队中"

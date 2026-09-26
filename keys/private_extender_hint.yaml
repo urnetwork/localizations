@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "يحلّ الموسّع الخاص محل كل الموسّعات المكتشفة. اتركه فارغًا لاستخدام الاكتشاف التلقائي."
+  de: "Ein privater Extender ersetzt alle gefundenen Extender. Lass das Feld leer, um die automatische Suche zu verwenden."
   en: "A private extender replaces every discovered extender. Leave it empty to use discovery."
+  es: "Un extensor privado sustituye a todos los extensores descubiertos. Déjalo vacío para usar la detección."
+  ru: "Частный экстендер заменяет все найденные экстендеры. Оставьте поле пустым, чтобы использовать автоматический поиск."
+  zh: "私有扩展器会替换所有已发现的扩展器。留空则使用自动发现。"

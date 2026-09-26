@@ -3,4 +3,9 @@ source: "Calldata appears once the device signature and the hotkey signature bot
 platforms:
   - site
 localizations:
+  ar: "تظهر بيانات calldata بعد التحقق من توقيع الجهاز وتوقيع hotkey كليهما."
+  de: "Die Calldata erscheint, sobald sowohl die Gerätesignatur als auch die Hotkey-Signatur verifiziert sind."
   en: "Calldata appears once the device signature and the hotkey signature both verify."
+  es: "El calldata aparece cuando se verifican tanto la firma del dispositivo como la firma de la hotkey."
+  ru: "Calldata появится, когда будут проверены и подпись устройства, и подпись hotkey."
+  zh: "设备签名和 hotkey 签名均验证通过后，将显示 calldata。"

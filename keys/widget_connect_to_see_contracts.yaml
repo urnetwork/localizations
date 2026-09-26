@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "اتصل لعرض عقودك"
+  de: "Verbinde dich, um deine Verträge zu sehen"
   en: "Connect to see your contracts"
+  es: "Conéctate para ver tus contratos"
+  ru: "Подключитесь, чтобы увидеть свои контракты"
+  zh: "连接后即可查看您的合约"

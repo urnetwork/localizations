@@ -7,4 +7,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "إصدارات IP"
+  de: "IP-Versionen"
   en: "IP versions"
+  es: "Versiones de IP"
+  ru: "Версии IP"
+  zh: "IP 版本"

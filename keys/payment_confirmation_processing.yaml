@@ -3,4 +3,9 @@ source: "We're confirming your payment now. Your plan will update automatically 
 platforms:
   - android
 localizations:
+  ar: "نحن نؤكد دفعتك الآن. سيتم تحديث خطتك تلقائيًا — لا تحتاج إلى فعل أي شيء."
+  de: "Wir bestätigen gerade deine Zahlung. Dein Plan wird automatisch aktualisiert — du musst nichts tun."
   en: "We're confirming your payment now. Your plan will update automatically — you don't need to do anything."
+  es: "Estamos confirmando tu pago. Tu plan se actualizará automáticamente — no tienes que hacer nada."
+  ru: "Мы подтверждаем ваш платёж. Ваш тариф обновится автоматически — ничего делать не нужно."
+  zh: "我们正在确认您的付款。您的方案会自动更新，您无需进行任何操作。"

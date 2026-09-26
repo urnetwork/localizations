@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "لم يتم تسجيل الدخول"
+  de: "Nicht angemeldet"
   en: "Not signed in"
+  es: "Sin iniciar sesión"
+  ru: "Вход не выполнен"
+  zh: "未登录"

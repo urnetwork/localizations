@@ -3,4 +3,9 @@ source: "Moved to another exit"
 platforms:
   - android
 localizations:
+  ar: "نُقلت إلى مخرج آخر"
+  de: "Auf anderen Exit verschoben"
   en: "Moved to another exit"
+  es: "Movidos a otra salida"
+  ru: "Перенесено на другой выход"
+  zh: "已转移到其他出口"

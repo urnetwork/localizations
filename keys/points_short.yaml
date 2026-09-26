@@ -10,4 +10,9 @@ placeholders:
   - name: points
     type: string
 localizations:
+  ar: "{points} نقطة"
+  de: "{points} Pkt."
   en: "{points} pts"
+  es: "{points} pts"
+  ru: "{points} очк."
+  zh: "{points} 积分"

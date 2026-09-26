@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "المفعّلة في الوضع «تلقائي»"
+  de: "Aktiviert unter „Automatisch“"
   en: "Enabled under Auto"
+  es: "Activados en «Automático»"
+  ru: "Включены в режиме «Автоматически»"
+  zh: "“自动”模式下启用"

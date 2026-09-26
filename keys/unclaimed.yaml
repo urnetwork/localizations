@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "غير مُطالَب به"
+  de: "Nicht eingelöst"
   en: "Unclaimed"
+  es: "Sin reclamar"
+  ru: "Не получено"
+  zh: "未领取"

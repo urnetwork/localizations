@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "يُدفع بعملة USDC على Solana."
+  de: "Bezahlt in USDC auf Solana."
   en: "Paid in USDC on Solana."
+  es: "Se paga en USDC en Solana."
+  ru: "Оплата в USDC в сети Solana."
+  zh: "使用 Solana 上的 USDC 支付。"

@@ -3,4 +3,9 @@ source: "Share of block"
 platforms:
   - linux
 localizations:
+  ar: "الحصة من الكتلة"
+  de: "Anteil am Block"
   en: "Share of block"
+  es: "Participación en el bloque"
+  ru: "Доля блока"
+  zh: "区块份额"

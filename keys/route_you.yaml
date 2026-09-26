@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "أنت"
+  de: "Du"
   en: "You"
+  es: "Tú"
+  ru: "Вы"
+  zh: "您"

@@ -3,4 +3,9 @@ source: "Busy probes"
 platforms:
   - android
 localizations:
+  ar: "فحوصات الانشغال"
+  de: "Busy-Prüfungen"
   en: "Busy probes"
+  es: "Sondas de ocupación"
+  ru: "Пробы занятости"
+  zh: "繁忙探测"

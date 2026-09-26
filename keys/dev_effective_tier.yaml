@@ -3,4 +3,9 @@ source: "Live tier demotion"
 platforms:
   - android
 localizations:
+  ar: "خفض الفئة فوريًا"
+  de: "Stufen-Herabstufung in Echtzeit"
   en: "Live tier demotion"
+  es: "Degradación de nivel en vivo"
+  ru: "Понижение уровня в реальном времени"
+  zh: "实时层级降级"

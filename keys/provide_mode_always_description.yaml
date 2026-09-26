@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "يوفّر للجميع طالما أن التطبيق قيد التشغيل."
+  de: "Stellt allen bereit, solange die App läuft."
   en: "Provides to everyone whenever the app is running."
+  es: "Proporciona a todos siempre que la app esté en ejecución."
+  ru: "Предоставляет доступ всем, пока приложение запущено."
+  zh: "只要应用在运行，就向所有人提供。"

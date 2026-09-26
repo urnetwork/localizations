@@ -3,4 +3,9 @@ source: "Observability"
 platforms:
   - android
 localizations:
+  ar: "قابلية المراقبة"
+  de: "Beobachtbarkeit"
   en: "Observability"
+  es: "Observabilidad"
+  ru: "Наблюдаемость"
+  zh: "可观测性"

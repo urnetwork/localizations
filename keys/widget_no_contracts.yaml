@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "لا توجد عقود"
+  de: "Keine Verträge"
   en: "No contracts"
+  es: "No hay contratos"
+  ru: "Нет контрактов"
+  zh: "没有合约"

@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "جارٍ التحقق من العنوان…"
+  de: "Adresse wird geprüft…"
   en: "Checking address…"
+  es: "Comprobando la dirección…"
+  ru: "Проверка адреса…"
+  zh: "正在检查地址…"

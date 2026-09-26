@@ -3,4 +3,9 @@ source: "Suspends caught"
 platforms:
   - android
 localizations:
+  ar: "حالات التعليق المرصودة"
+  de: "Erkannte Ruhezustände"
   en: "Suspends caught"
+  es: "Suspensiones detectadas"
+  ru: "Обнаружено приостановок"
+  zh: "捕获的挂起"

@@ -3,4 +3,9 @@ source: "Load corroboration"
 platforms:
   - android
 localizations:
+  ar: "التحقق حسب الحمل"
+  de: "Lastabhängige Bestätigung"
   en: "Load corroboration"
+  es: "Corroboración por carga"
+  ru: "Подтверждение с учётом нагрузки"
+  zh: "负载佐证"

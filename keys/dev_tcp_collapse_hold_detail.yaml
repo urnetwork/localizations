@@ -3,4 +3,9 @@ source: "How long retransmits are held before one is released. Off waits 30s"
 platforms:
   - android
 localizations:
+  ar: "المدة التي تُحتجز فيها عمليات إعادة الإرسال قبل تحرير إحداها. عند الإيقاف، ينتظر 30 ثانية"
+  de: "Wie lange Neuübertragungen zurückgehalten werden, bevor eine freigegeben wird. Aus: wartet 30 s"
   en: "How long retransmits are held before one is released. Off waits 30s"
+  es: "Cuánto tiempo se retienen las retransmisiones antes de liberar una. Si está desactivado, espera 30 s"
+  ru: "Как долго удерживаются повторные передачи, прежде чем одна будет отпущена. Если выключено, ожидание 30 с"
+  zh: "重传在释放其中一个之前被保留的时长。关闭时等待 30 秒"

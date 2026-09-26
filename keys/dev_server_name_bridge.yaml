@@ -3,4 +3,9 @@ source: "Converge late-named flows"
 platforms:
   - android
 localizations:
+  ar: "دمج التدفقات متأخرة التسمية"
+  de: "Spät benannte Flows zusammenführen"
   en: "Converge late-named flows"
+  es: "Unificar flujos con nombre tardío"
+  ru: "Объединять потоки с поздним именем сервера"
+  zh: "合并较晚获得名称的流"

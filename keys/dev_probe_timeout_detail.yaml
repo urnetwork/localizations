@@ -3,4 +3,9 @@ source: "How long a qualification probe waits for an answer. Off uses the built-
 platforms:
   - android
 localizations:
+  ar: "المدة التي ينتظر فيها فحص التأهيل ردًا. عند الإيقاف، تُستخدم المهلة المدمجة البالغة 4 ثوانٍ. يحدّ فقط من انتظار الإثبات، ولا يُدين أبدًا"
+  de: "Wie lange eine Qualifizierungsprüfung auf eine Antwort wartet. Aus: nutzt die eingebauten 4 s. Begrenzt nur das Warten auf einen Nachweis und verurteilt nie"
   en: "How long a qualification probe waits for an answer. Off uses the built-in 4s. It only bounds waiting for proof, it never convicts"
+  es: "Cuánto espera una sonda de calificación una respuesta. Si está desactivado, se usan los 4 s integrados. Solo limita la espera de una prueba; nunca condena"
+  ru: "Как долго проба квалификации ждёт ответа. Если выключено, используются встроенные 4 с. Ограничивает только ожидание подтверждения и никогда не осуждает"
+  zh: "验证探测等待应答的时长。关闭时使用内置的 4 秒。它只限制等待证明的时间，绝不定罪"

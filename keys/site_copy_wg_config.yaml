@@ -3,4 +3,9 @@ source: "Copy config"
 platforms:
   - site
 localizations:
+  ar: "نسخ الإعدادات"
+  de: "Konfiguration kopieren"
   en: "Copy config"
+  es: "Copiar configuración"
+  ru: "Скопировать конфигурацию"
+  zh: "复制配置"

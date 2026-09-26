@@ -3,4 +3,9 @@ source: "Measurements"
 platforms:
   - android
 localizations:
+  ar: "القياسات"
+  de: "Messungen"
   en: "Measurements"
+  es: "Mediciones"
+  ru: "Измерения"
+  zh: "测量"

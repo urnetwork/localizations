@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "متصل ببروتوكول UR. يصل ما تطالب به إلى هنا. يتراكم Alpha بدءًا من الفترة التالية بعد الاتصال."
+  de: "Mit dem UR-Protokoll verbunden. Einlösungen landen hier. Alpha sammelt sich ab der nächsten Epoche nach dem Verbinden an."
   en: "Connected to the UR protocol. Claims land here. Alpha accrues from the next epoch after connecting."
+  es: "Conectado al protocolo UR. Lo que reclames llega aquí. El Alpha se acumula a partir de la siguiente época tras conectarte."
+  ru: "Подключено к протоколу UR. Полученные средства поступают сюда. Alpha начисляется со следующей эпохи после подключения."
+  zh: "已连接到 UR 协议。领取的收益将存入此处。Alpha 从连接后的下一个周期开始累积。"

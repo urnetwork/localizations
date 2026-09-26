@@ -3,4 +3,9 @@ source: "Cut dead connects early"
 platforms:
   - android
 localizations:
+  ar: "قطع الاتصالات الميتة مبكرًا"
+  de: "Tote Verbindungsaufbauten früh abbrechen"
   en: "Cut dead connects early"
+  es: "Cortar pronto las conexiones muertas"
+  ru: "Рано обрывать мёртвые подключения"
+  zh: "提前中止无效连接"

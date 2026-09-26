@@ -3,4 +3,9 @@ source: "The purchase could not be completed. Please try again."
 platforms:
   - apple
 localizations:
+  ar: "تعذّر إتمام عملية الشراء. يرجى المحاولة مرة أخرى."
+  de: "Der Kauf konnte nicht abgeschlossen werden. Bitte versuche es erneut."
   en: "The purchase could not be completed. Please try again."
+  es: "No se pudo completar la compra. Inténtalo de nuevo."
+  ru: "Не удалось завершить покупку. Попробуйте снова."
+  zh: "无法完成购买。请重试。"

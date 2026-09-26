@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تعذّر الوصول إلى RPC الخاص بالسلسلة. حاول مرة أخرى."
+  de: "Der Chain-RPC ist nicht erreichbar. Versuche es erneut."
   en: "The chain RPC is unreachable. Try again."
+  es: "No se puede acceder al RPC de la cadena. Inténtalo de nuevo."
+  ru: "RPC блокчейна недоступен. Попробуйте снова."
+  zh: "无法访问链的 RPC。请重试。"

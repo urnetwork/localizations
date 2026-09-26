@@ -3,4 +3,9 @@ source: "Log detail"
 platforms:
   - android
 localizations:
+  ar: "مستوى تفاصيل السجل"
+  de: "Log-Detailgrad"
   en: "Log detail"
+  es: "Detalle del registro"
+  ru: "Детализация логов"
+  zh: "日志详细程度"

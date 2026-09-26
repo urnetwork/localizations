@@ -11,6 +11,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} قيد الاتصال"
+    one: "واحد قيد الاتصال"
+    two: "اثنان قيد الاتصال"
+    few: "{count} قيد الاتصال"
+    many: "{count} قيد الاتصال"
+    other: "{count} قيد الاتصال"
+  de:
+    one: "{count} im Aufbau"
+    other: "{count} im Aufbau"
   en:
     one: "{count} connecting"
     other: "{count} connecting"
+  es:
+    one: "{count} conectándose"
+    other: "{count} conectándose"
+  ru:
+    one: "{count} подключается"
+    few: "{count} подключаются"
+    many: "{count} подключаются"
+    other: "{count} подключаются"
+  zh:
+    other: "正在连接 {count} 个"

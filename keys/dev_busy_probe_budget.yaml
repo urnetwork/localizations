@@ -3,4 +3,9 @@ source: "Busy probe wait"
 platforms:
   - android
 localizations:
+  ar: "مهلة فحص الانشغال"
+  de: "Wartezeit der Busy-Prüfung"
   en: "Busy probe wait"
+  es: "Espera de la sonda de ocupación"
+  ru: "Ожидание пробы занятости"
+  zh: "繁忙探测等待时间"

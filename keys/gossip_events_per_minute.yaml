@@ -11,6 +11,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} حدث/دقيقة"
+    one: "حدث واحد/دقيقة"
+    two: "حدثان/دقيقة"
+    few: "{count} أحداث/دقيقة"
+    many: "{count} حدثًا/دقيقة"
+    other: "{count} حدث/دقيقة"
+  de:
+    one: "{count} Ereignis/Min."
+    other: "{count} Ereignisse/Min."
   en:
     one: "{count} event/min"
     other: "{count} events/min"
+  es:
+    one: "{count} evento/min"
+    other: "{count} eventos/min"
+  ru:
+    one: "{count} событие/мин"
+    few: "{count} события/мин"
+    many: "{count} событий/мин"
+    other: "{count} события/мин"
+  zh:
+    other: "{count} 个事件/分钟"

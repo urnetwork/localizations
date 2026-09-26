@@ -3,4 +3,9 @@ source: "Default"
 platforms:
   - android
 localizations:
+  ar: "افتراضي"
+  de: "Standard"
   en: "Default"
+  es: "Predeterminado"
+  ru: "По умолчанию"
+  zh: "默认"

@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "تم حفظ إعدادات الموسّع"
+  de: "Extender-Einstellungen gespeichert"
   en: "Extender settings saved"
+  es: "Ajustes del extensor guardados"
+  ru: "Настройки экстендера сохранены"
+  zh: "扩展器设置已保存"

@@ -4,4 +4,9 @@ source: "your@email.com"
 platforms:
   - apple
 localizations:
+  ar: "name@email.com"
+  de: "deine@email.com"
   en: "your@email.com"
+  es: "tu@email.com"
+  ru: "name@email.com"
+  zh: "name@email.com"

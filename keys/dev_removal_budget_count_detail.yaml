@@ -3,4 +3,9 @@ source: "How many verdict removals are allowed per window before the rest are de
 platforms:
   - android
 localizations:
+  ar: "عدد عمليات الإزالة بموجب الأحكام المسموح بها في كل نافذة قبل تأجيل الباقي؛ فالموجة المفاجئة غالبًا ما يكون سببها محليًا واحدًا لا أعطالًا كثيرة. عند الإيقاف، تتم الإزالة دون حد"
+  de: "Wie viele Entfernungen durch Urteile pro Fenster erlaubt sind, bevor der Rest zurückgestellt wird; eine Häufung hat eher eine lokale Ursache als viele Ausfälle. Aus: entfernt ohne Limit"
   en: "How many verdict removals are allowed per window before the rest are deferred; a burst is more likely one local cause than many failures. Off removes without limit"
+  es: "Cuántas eliminaciones por veredicto se permiten por ventana antes de aplazar el resto; una ráfaga suele deberse a una causa local más que a muchos fallos. Si está desactivado, se elimina sin límite"
+  ru: "Сколько удалений по вердикту разрешено за окно, прежде чем остальные откладываются; всплеск скорее вызван одной локальной причиной, чем множеством сбоев. Если выключено, удаление без ограничений"
+  zh: "每个窗口内允许基于判定执行的移除次数，超出部分将被推迟；突发的大量移除更可能源于单一本地原因，而非许多故障。关闭时不限制移除"

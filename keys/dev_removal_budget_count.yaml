@@ -3,4 +3,9 @@ source: "Removal storm limit"
 platforms:
   - android
 localizations:
+  ar: "حد عاصفة الإزالة"
+  de: "Limit für Entfernungsstürme"
   en: "Removal storm limit"
+  es: "Límite de tormenta de eliminaciones"
+  ru: "Лимит шторма удалений"
+  zh: "移除风暴上限"

@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "الاتصال بشبكة URnetwork VPN أو قطع الاتصال بها."
+  de: "Das URnetwork-VPN verbinden oder trennen."
   en: "Connect or disconnect the URnetwork VPN."
+  es: "Conecta o desconecta la VPN de URnetwork."
+  ru: "Подключение и отключение VPN URnetwork."
+  zh: "连接或断开 URnetwork VPN。"

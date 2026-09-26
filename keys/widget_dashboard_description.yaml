@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "رصيد البيانات والموقع المتصل وحركة البيانات، مع الاتصال السريع."
+  de: "Datenguthaben, verbundener Standort und Datenverkehr, mit Schnellverbindung."
   en: "Transfer balance, connected location and traffic, with quick connect."
+  es: "Saldo de datos, ubicación conectada y tráfico, con conexión rápida."
+  ru: "Баланс трафика, подключённая локация и трафик, с быстрым подключением."
+  zh: "流量余额、已连接位置和流量，并支持快速连接。"

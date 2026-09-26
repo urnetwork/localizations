@@ -8,4 +8,9 @@ placeholders:
   - name: error
     type: string
 localizations:
+  ar: "تعذّر الاستماع: {error}"
+  de: "Lauschen nicht möglich: {error}"
   en: "Could not listen: {error}"
+  es: "No se pudo escuchar: {error}"
+  ru: "Не удалось начать прослушивание: {error}"
+  zh: "无法监听：{error}"

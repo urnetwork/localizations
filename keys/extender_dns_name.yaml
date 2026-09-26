@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "اسم DNS للموسّع"
+  de: "Extender-DNS-Name"
   en: "Extender DNS name"
+  es: "Nombre DNS del extensor"
+  ru: "DNS-имя экстендера"
+  zh: "扩展器 DNS 名称"

@@ -10,6 +10,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "تم تصدير {count} ملف سجل ({size})"
+    one: "تم تصدير ملف سجل واحد ({size})"
+    two: "تم تصدير ملفي سجل ({size})"
+    few: "تم تصدير {count} ملفات سجل ({size})"
+    many: "تم تصدير {count} ملف سجل ({size})"
+    other: "تم تصدير {count} ملف سجل ({size})"
+  de:
+    one: "{count} Logdatei exportiert ({size})"
+    other: "{count} Logdateien exportiert ({size})"
   en:
     one: "Exported {count} log file ({size})"
     other: "Exported {count} log files ({size})"
+  es:
+    one: "Se exportó {count} archivo de registro ({size})"
+    other: "Se exportaron {count} archivos de registro ({size})"
+  ru:
+    one: "Экспортирован {count} файл логов ({size})"
+    few: "Экспортировано {count} файла логов ({size})"
+    many: "Экспортировано {count} файлов логов ({size})"
+    other: "Экспортировано {count} файла логов ({size})"
+  zh:
+    other: "已导出 {count} 个日志文件（{size}）"

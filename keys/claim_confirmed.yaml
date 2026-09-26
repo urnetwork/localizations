@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "تمت المطالبة"
+  de: "Eingelöst"
   en: "Claimed"
+  es: "Reclamado"
+  ru: "Получено"
+  zh: "已领取"

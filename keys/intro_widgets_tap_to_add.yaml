@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "اضغط على أداة لإضافتها إلى شاشتك الرئيسية."
+  de: "Tippe auf ein Widget, um es deinem Startbildschirm hinzuzufügen."
   en: "Tap a widget to add it to your home screen."
+  es: "Toca un widget para añadirlo a tu pantalla de inicio."
+  ru: "Нажмите на виджет, чтобы добавить его на главный экран."
+  zh: "轻点小组件即可将其添加到主屏幕。"

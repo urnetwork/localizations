@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "Google"
+  de: "Google"
   en: "Google"
+  es: "Google"
+  ru: "Google"
+  zh: "Google"

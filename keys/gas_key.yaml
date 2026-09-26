@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "مفتاح الغاز"
+  de: "Gas-Schlüssel"
   en: "Gas key"
+  es: "Clave de gas"
+  ru: "Ключ для оплаты газа"
+  zh: "Gas 密钥"

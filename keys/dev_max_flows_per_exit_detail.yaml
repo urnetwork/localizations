@@ -3,4 +3,9 @@ source: "Losing an exit kills every connection on it. Lower spreads the damage; 
 platforms:
   - android
 localizations:
+  ar: "فقدان مخرج يقطع كل الاتصالات عليه. القيمة الأقل توزّع الضرر؛ وقد يستخدم الموقع حينها أكثر من عنوان IP للخروج"
+  de: "Fällt ein Exit weg, brechen alle Verbindungen darauf ab. Ein niedrigerer Wert verteilt den Schaden; eine Website nutzt dann womöglich mehr als eine Exit-IP"
   en: "Losing an exit kills every connection on it. Lower spreads the damage; a site may then use more than one exit IP"
+  es: "Perder una salida corta todas sus conexiones. Un valor más bajo reparte el daño; entonces un sitio puede usar más de una IP de salida"
+  ru: "Потеря выхода обрывает все его соединения. Меньшее значение распределяет ущерб; тогда сайт может использовать больше одного IP выхода"
+  zh: "失去一个出口会中断其上的所有连接。数值越低，损失越分散；但站点可能因此使用多个出口 IP"

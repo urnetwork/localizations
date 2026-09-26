@@ -3,4 +3,9 @@ source: "Verbose"
 platforms:
   - android
 localizations:
+  ar: "مفصّل"
+  de: "Ausführlich"
   en: "Verbose"
+  es: "Detallado"
+  ru: "Подробный"
+  zh: "详细"

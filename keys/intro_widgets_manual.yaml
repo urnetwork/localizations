@@ -4,4 +4,9 @@ platforms:
   - android
   - apple
 localizations:
+  ar: "اضغط مطولًا على شاشتك الرئيسية، واختر «الأدوات»، ثم اختر URnetwork."
+  de: "Drücke lange auf deinen Startbildschirm, wähle „Widgets“ und dann URnetwork."
   en: "Long-press your home screen, choose Widgets, and pick URnetwork."
+  es: "Mantén pulsada tu pantalla de inicio, elige «Widgets» y selecciona URnetwork."
+  ru: "Нажмите и удерживайте главный экран, выберите «Виджеты» и найдите URnetwork."
+  zh: "长按主屏幕，选择“小组件”，然后选择 URnetwork。"

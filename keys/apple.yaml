@@ -7,4 +7,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "Apple"
+  de: "Apple"
   en: "Apple"
+  es: "Apple"
+  ru: "Apple"
+  zh: "Apple"

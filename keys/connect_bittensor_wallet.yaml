@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "ربط محفظة Bittensor"
+  de: "Bittensor-Wallet verbinden"
   en: "Connect Bittensor wallet"
+  es: "Conectar billetera de Bittensor"
+  ru: "Подключить кошелек Bittensor"
+  zh: "连接 Bittensor 钱包"

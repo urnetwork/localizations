@@ -3,4 +3,9 @@ source: "Binding calldata"
 platforms:
   - site
 localizations:
+  ar: "بيانات calldata للربط"
+  de: "Bindungs-Calldata"
   en: "Binding calldata"
+  es: "Calldata de vinculación"
+  ru: "Calldata привязки"
+  zh: "绑定 calldata"

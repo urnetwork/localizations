@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "النقاط المكتسبة"
+  de: "Verdiente Punkte"
   en: "Points earned"
+  es: "Puntos obtenidos"
+  ru: "Заработано очков"
+  zh: "已获得积分"

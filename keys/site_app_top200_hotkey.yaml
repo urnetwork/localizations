@@ -3,4 +3,9 @@ source: "Hotkey"
 platforms:
   - site
 localizations:
+  ar: "Hotkey"
+  de: "Hotkey"
   en: "Hotkey"
+  es: "Hotkey"
+  ru: "Hotkey"
+  zh: "Hotkey"

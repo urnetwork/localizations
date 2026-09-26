@@ -3,4 +3,9 @@ source: "From an exit dying to that site answering again"
 platforms:
   - android
 localizations:
+  ar: "من توقف المخرج حتى يستجيب ذلك الموقع مجددًا"
+  de: "Vom Ausfall eines Exits, bis die Website wieder antwortet"
   en: "From an exit dying to that site answering again"
+  es: "Desde que muere una salida hasta que ese sitio vuelve a responder"
+  ru: "С момента гибели выхода до повторного ответа сайта"
+  zh: "从出口失效到该站点再次应答的时间"

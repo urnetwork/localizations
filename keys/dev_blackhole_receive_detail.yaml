@@ -3,4 +3,9 @@ source: "How long a provider still acknowledging traffic may return nothing befo
 platforms:
   - android
 localizations:
+  ar: "المدة التي يمكن فيها لمزود لا يزال يؤكد حركة البيانات ألّا يُرجع شيئًا قبل إسقاطه. عند الإيقاف، يُحتفظ به حتى يتوقف عن التأكيد"
+  de: "Wie lange ein Anbieter, der Datenverkehr noch bestätigt, nichts zurückliefern darf, bevor er verworfen wird. Aus: behält ihn, bis er keine Bestätigungen mehr sendet"
   en: "How long a provider still acknowledging traffic may return nothing before it is dropped. Off keeps them until they stop acknowledging"
+  es: "Cuánto tiempo puede un proveedor que aún confirma el tráfico no devolver nada antes de descartarlo. Si está desactivado, se mantiene hasta que deje de confirmar"
+  ru: "Как долго провайдер, который ещё подтверждает трафик, может ничего не возвращать, прежде чем его отключат. Если выключено, он сохраняется, пока не перестанет подтверждать"
+  zh: "仍在确认流量的提供商在被丢弃前可以不返回任何数据的时长。关闭时会保留它们，直到它们停止确认"

@@ -3,4 +3,9 @@ source: "Each provider device signs its fleet binding from its app under Account
 platforms:
   - site
 localizations:
+  ar: "يوقّع كل جهاز مزود على ربط أسطوله من تطبيقه ضمن الحساب › أفضل 200. الصق هنا بيانات الربط لكل جهاز، جهازًا تلو الآخر."
+  de: "Jedes Anbietergerät signiert seine Flotten-Bindung in seiner App unter Konto › Top 200. Füge hier die Bindungs-Payload jedes Geräts ein, ein Gerät nach dem anderen."
   en: "Each provider device signs its fleet binding from its app under Account › Top 200. Paste each device's binding payload here, one device at a time."
+  es: "Cada dispositivo proveedor firma su vinculación de flota desde su app en Cuenta › Top 200. Pega aquí la carga útil de vinculación de cada dispositivo, de uno en uno."
+  ru: "Каждое устройство-провайдер подписывает привязку своего парка в приложении в разделе Аккаунт › Топ-200. Вставляйте сюда данные привязки каждого устройства по одному."
+  zh: "每台提供商设备都在其应用的“帐户 › 前 200 名”中为设备群绑定签名。请在此处逐台粘贴每台设备的绑定数据。"

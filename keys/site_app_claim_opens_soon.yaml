@@ -3,4 +3,9 @@ source: "Opens soon"
 platforms:
   - site
 localizations:
+  ar: "يُفتح قريبًا"
+  de: "Öffnet bald"
   en: "Opens soon"
+  es: "Se abre pronto"
+  ru: "Скоро откроется"
+  zh: "即将开放"

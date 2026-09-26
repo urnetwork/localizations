@@ -6,4 +6,9 @@ placeholders:
   - name: amount
     type: string
 localizations:
+  ar: "{amount} TAO"
+  de: "{amount} TAO"
   en: "{amount} TAO"
+  es: "{amount} TAO"
+  ru: "{amount} TAO"
+  zh: "{amount} TAO"

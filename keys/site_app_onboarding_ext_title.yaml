@@ -3,4 +3,9 @@ source: "Connect this browser"
 platforms:
   - site
 localizations:
+  ar: "ربط هذا المتصفح"
+  de: "Diesen Browser verbinden"
   en: "Connect this browser"
+  es: "Conecta este navegador"
+  ru: "Подключите этот браузер"
+  zh: "连接此浏览器"

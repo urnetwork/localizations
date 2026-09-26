@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "المزود"
+  de: "Anbieter"
   en: "Provider"
+  es: "Proveedor"
+  ru: "Провайдер"
+  zh: "提供商"

@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "لا يمكن استخدام هذه المحفظة مع URnetwork."
+  de: "Diese Wallet kann nicht mit URnetwork verwendet werden."
   en: "This wallet can't be used with URnetwork."
+  es: "Esta billetera no se puede usar con URnetwork."
+  ru: "Этот кошелек нельзя использовать с URnetwork."
+  zh: "此钱包无法用于 URnetwork。"

@@ -3,4 +3,9 @@ source: "Removals the storm breaker held back after a correlated burst"
 platforms:
   - android
 localizations:
+  ar: "عمليات الإزالة التي أوقفها قاطع العاصفة بعد موجة مترابطة"
+  de: "Entfernungen, die der Sturm-Schutzschalter nach einer korrelierten Häufung zurückgehalten hat"
   en: "Removals the storm breaker held back after a correlated burst"
+  es: "Eliminaciones que el disyuntor de tormentas retuvo tras una ráfaga correlacionada"
+  ru: "Удаления, которые предохранитель от шторма придержал после коррелированного всплеска"
+  zh: "风暴熔断器在关联性突发后暂缓执行的移除"

@@ -3,4 +3,9 @@ source: "Release stuck retransmits"
 platforms:
   - android
 localizations:
+  ar: "تحرير عمليات إعادة الإرسال العالقة"
+  de: "Hängende Neuübertragungen freigeben"
   en: "Release stuck retransmits"
+  es: "Liberar retransmisiones atascadas"
+  ru: "Отпускать застрявшие повторные передачи"
+  zh: "释放卡住的重传"

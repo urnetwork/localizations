@@ -4,4 +4,9 @@ platforms:
   - apple
   - android
 localizations:
+  ar: "أهم عقود العميل لديك، تتدفق مع ظهورها واختفائها."
+  de: "Deine wichtigsten Client-Verträge, im Fluss, wie sie kommen und gehen."
   en: "Your top client contracts, flowing as they come and go."
+  es: "Tus principales contratos de cliente, en movimiento a medida que van y vienen."
+  ru: "Ваши главные клиентские контракты в движении — по мере того как они появляются и исчезают."
+  zh: "您的主要客户端合约，随其建立与结束实时流动。"

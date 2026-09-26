@@ -3,4 +3,9 @@ source: "Removals deferred"
 platforms:
   - android
 localizations:
+  ar: "عمليات الإزالة المؤجلة"
+  de: "Zurückgestellte Entfernungen"
   en: "Removals deferred"
+  es: "Eliminaciones aplazadas"
+  ru: "Отложенные удаления"
+  zh: "推迟的移除"

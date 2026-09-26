@@ -3,4 +3,9 @@ source: "Submit binding"
 platforms:
   - site
 localizations:
+  ar: "إرسال الربط"
+  de: "Bindung einreichen"
   en: "Submit binding"
+  es: "Enviar vinculación"
+  ru: "Отправить привязку"
+  zh: "提交绑定"

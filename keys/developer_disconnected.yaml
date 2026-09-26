@@ -3,4 +3,9 @@ source: "Connect to use these tools."
 platforms:
   - android
 localizations:
+  ar: "اتصل لاستخدام هذه الأدوات."
+  de: "Verbinde dich, um diese Werkzeuge zu nutzen."
   en: "Connect to use these tools."
+  es: "Conéctate para usar estas herramientas."
+  ru: "Подключитесь, чтобы использовать эти инструменты."
+  zh: "连接后即可使用这些工具。"

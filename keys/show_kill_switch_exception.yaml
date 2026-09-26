@@ -6,4 +6,9 @@ platforms:
   - windows
   - linux
 localizations:
+  ar: "عرض استثناء مفتاح القتل"
+  de: "Ausnahme vom Kill switch anzeigen"
   en: "Show kill switch exception"
+  es: "Mostrar la excepción del Kill switch"
+  ru: "Показать исключение для Kill switch"
+  zh: "显示断网保护例外"

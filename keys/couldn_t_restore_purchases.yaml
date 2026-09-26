@@ -3,4 +3,9 @@ source: "Couldn't restore purchases. Please try again."
 platforms:
   - apple
 localizations:
+  ar: "تعذّرت استعادة المشتريات. يرجى المحاولة مرة أخرى."
+  de: "Käufe konnten nicht wiederhergestellt werden. Bitte versuche es erneut."
   en: "Couldn't restore purchases. Please try again."
+  es: "No se pudieron restaurar las compras. Inténtalo de nuevo."
+  ru: "Не удалось восстановить покупки. Попробуйте снова."
+  zh: "无法恢复购买。请重试。"

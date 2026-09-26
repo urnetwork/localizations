@@ -3,4 +3,9 @@ source: "How often one line summarizing live state is written to the log for lat
 platforms:
   - android
 localizations:
+  ar: "عدد مرات كتابة سطر يلخّص الحالة الحية في السجل لأغراض التحليل لاحقًا. عند الإيقاف، يتوقف؛ الفترة الأقصر ترصد التحولات، والأطول تحتفظ بمخزن مؤقت أكبر"
+  de: "Wie oft eine Zeile mit einer Zusammenfassung des aktuellen Zustands für spätere Analysen ins Log geschrieben wird. Aus: schaltet sie stumm; kürzer erfasst Übergänge, länger behält mehr Puffer"
   en: "How often one line summarizing live state is written to the log for later forensics. Off silences it; shorter spots a transition, longer keeps more buffer"
+  es: "Con qué frecuencia se escribe en el registro una línea que resume el estado actual para un análisis forense posterior. Si está desactivado, se silencia; un intervalo más corto detecta una transición y uno más largo conserva más búfer"
+  ru: "Как часто в лог записывается строка со сводкой текущего состояния для последующего анализа. Если выключено, запись отключается; меньший интервал позволяет заметить переход, больший — сохранить больше буфера"
+  zh: "将一行实时状态摘要写入日志以供事后排查的频率。关闭时不写入；间隔越短越容易发现状态切换，越长则保留越多缓冲"

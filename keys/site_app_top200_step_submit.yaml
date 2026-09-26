@@ -3,4 +3,9 @@ source: "Submit the binding from your own EVM wallet. URnetwork never sends tran
 platforms:
   - site
 localizations:
+  ar: "أرسل الربط من محفظة EVM الخاصة بك. لا يرسل URnetwork أي معاملات نيابةً عنك أبدًا."
+  de: "Reiche die Bindung über deine eigene EVM-Wallet ein. URnetwork sendet niemals Transaktionen für dich."
   en: "Submit the binding from your own EVM wallet. URnetwork never sends transactions for you."
+  es: "Envía la vinculación desde tu propia billetera EVM. URnetwork nunca envía transacciones por ti."
+  ru: "Отправьте привязку из собственного EVM-кошелька. URnetwork никогда не отправляет транзакции за вас."
+  zh: "请从您自己的 EVM 钱包提交绑定。URnetwork 绝不会代您发送交易。"

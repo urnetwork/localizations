@@ -3,4 +3,9 @@ source: "Max connections per exit"
 platforms:
   - android
 localizations:
+  ar: "الحد الأقصى للاتصالات لكل مخرج"
+  de: "Max. Verbindungen pro Exit"
   en: "Max connections per exit"
+  es: "Máx. de conexiones por salida"
+  ru: "Макс. соединений на выход"
+  zh: "每个出口的最大连接数"

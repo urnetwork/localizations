@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "اربط تطبيق محفظة Solana، أو أدخل عنوان USDC على Solana يدويًا."
+  de: "Verbinde eine Solana-Wallet-App oder gib eine Solana-USDC-Adresse manuell ein."
   en: "Connect a Solana wallet app, or enter a Solana USDC address manually."
+  es: "Conecta una app de billetera de Solana o introduce manualmente una dirección USDC de Solana."
+  ru: "Подключите приложение-кошелек Solana или введите адрес USDC в сети Solana вручную."
+  zh: "连接 Solana 钱包应用，或手动输入 Solana USDC 地址。"

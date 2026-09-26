@@ -3,4 +3,9 @@ source: "No provider failures yet. Stall an exit below to cause one."
 platforms:
   - android
 localizations:
+  ar: "لا توجد أعطال في المزودين بعد. أوقف مخرجًا أدناه لإحداث عطل."
+  de: "Noch keine Anbieterausfälle. Lass unten einen Exit hängen, um einen auszulösen."
   en: "No provider failures yet. Stall an exit below to cause one."
+  es: "Aún no hay fallos de proveedores. Bloquea una salida abajo para provocar uno."
+  ru: "Сбоев провайдеров пока нет. Заморозьте выход ниже, чтобы вызвать сбой."
+  zh: "暂无提供商故障。在下方让某个出口停滞即可制造一次。"

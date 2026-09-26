@@ -3,4 +3,9 @@ source: "Recovery time"
 platforms:
   - android
 localizations:
+  ar: "وقت الاستعادة"
+  de: "Wiederherstellungszeit"
   en: "Recovery time"
+  es: "Tiempo de recuperación"
+  ru: "Время восстановления"
+  zh: "恢复时间"

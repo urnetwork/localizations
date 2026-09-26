@@ -3,4 +3,9 @@ source: "Never came back"
 platforms:
   - android
 localizations:
+  ar: "لم تعد أبدًا"
+  de: "Nie zurückgekehrt"
   en: "Never came back"
+  es: "Nunca se recuperaron"
+  ru: "Не восстановились"
+  zh: "未恢复"

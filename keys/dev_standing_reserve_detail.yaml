@@ -3,4 +3,9 @@ source: "Size each window one exit beyond its target so a replacement is already
 platforms:
   - android
 localizations:
+  ar: "يجعل حجم كل نافذة أكبر من هدفها بمخرج واحد ليكون البديل متصلًا مسبقًا. عند الإيقاف، ينتظر حدوث فقدان قبل التعويض"
+  de: "Bemisst jedes Fenster einen Exit über seinem Ziel, damit bereits ein Ersatz verbunden ist. Aus: füllt erst nach einem Verlust nach"
   en: "Size each window one exit beyond its target so a replacement is already connected. Off waits until a loss to backfill"
+  es: "Dimensiona cada ventana con una salida más que su objetivo para que ya haya un reemplazo conectado. Si está desactivado, espera a que haya una pérdida para reponer"
+  ru: "Делает каждое окно на один выход больше целевого размера, чтобы замена уже была подключена. Если выключено, пополнение происходит только после потери"
+  zh: "让每个窗口比目标多一个出口，以便替补已提前连接。关闭时等到出现损失后再补充"

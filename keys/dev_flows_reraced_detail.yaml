@@ -3,4 +3,9 @@ source: "How many of those failures were quietly moved instead of hanging"
 platforms:
   - android
 localizations:
+  ar: "عدد تلك الإخفاقات التي نُقلت بهدوء بدلًا من أن تبقى معلّقة"
+  de: "Wie viele dieser Ausfälle unbemerkt verschoben wurden, statt hängen zu bleiben"
   en: "How many of those failures were quietly moved instead of hanging"
+  es: "Cuántos de esos fallos se movieron sin que se notara en lugar de quedarse colgados"
+  ru: "Сколько из этих сбоев было незаметно перенесено, а не зависло"
+  zh: "这些故障中有多少被静默转移，而没有挂起"

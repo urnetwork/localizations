@@ -11,4 +11,9 @@ placeholders:
   - name: reserve
     type: int
 localizations:
+  ar: "{active} من {reserve}"
+  de: "{active} von {reserve}"
   en: "{active} of {reserve}"
+  es: "{active} de {reserve}"
+  ru: "{active} из {reserve}"
+  zh: "{active} / {reserve}"

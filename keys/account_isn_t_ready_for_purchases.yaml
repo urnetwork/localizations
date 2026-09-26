@@ -3,4 +3,9 @@ source: "Your account isn't ready for purchases. Please restart the app and try 
 platforms:
   - apple
 localizations:
+  ar: "حسابك غير جاهز لعمليات الشراء بعد. يرجى إعادة تشغيل التطبيق والمحاولة مرة أخرى."
+  de: "Dein Konto ist noch nicht für Käufe bereit. Bitte starte die App neu und versuche es erneut."
   en: "Your account isn't ready for purchases. Please restart the app and try again."
+  es: "Tu cuenta aún no está lista para compras. Reinicia la app e inténtalo de nuevo."
+  ru: "Ваш аккаунт пока не готов к покупкам. Перезапустите приложение и попробуйте снова."
+  zh: "您的账户暂时无法进行购买。请重启应用后重试。"

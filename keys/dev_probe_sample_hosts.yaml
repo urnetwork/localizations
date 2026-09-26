@@ -3,4 +3,9 @@ source: "Probe hosts per pass"
 platforms:
   - android
 localizations:
+  ar: "المضيفون المفحوصون في كل جولة"
+  de: "Prüf-Hosts pro Durchlauf"
   en: "Probe hosts per pass"
+  es: "Hosts sondeados por pasada"
+  ru: "Хостов для проб за проход"
+  zh: "每轮探测的主机数"

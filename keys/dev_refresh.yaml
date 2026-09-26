@@ -3,4 +3,9 @@ source: "Refresh"
 platforms:
   - android
 localizations:
+  ar: "تحديث"
+  de: "Aktualisieren"
   en: "Refresh"
+  es: "Actualizar"
+  ru: "Обновить"
+  zh: "刷新"

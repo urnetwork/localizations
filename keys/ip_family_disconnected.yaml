@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "غير متصل"
+  de: "getrennt"
   en: "disconnected"
+  es: "desconectado"
+  ru: "отключено"
+  zh: "未连接"

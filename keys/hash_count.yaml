@@ -6,4 +6,9 @@ placeholders:
   - name: count
     type: int
 localizations:
+  ar: "#{count}"
+  de: "#{count}"
   en: "#{count}"
+  es: "#{count}"
+  ru: "#{count}"
+  zh: "#{count}"

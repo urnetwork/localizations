@@ -12,4 +12,9 @@ placeholders:
   - name: rank
     type: int
 localizations:
+  ar: "UID {uid} · المرتبة #{rank}"
+  de: "UID {uid} · Rang #{rank}"
   en: "UID {uid} · rank #{rank}"
+  es: "UID {uid} · puesto #{rank}"
+  ru: "UID {uid} · место #{rank}"
+  zh: "UID {uid} · 第 {rank} 名"

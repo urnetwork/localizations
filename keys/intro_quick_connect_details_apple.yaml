@@ -3,4 +3,9 @@ source: "Turn URnetwork on and off from Control Center, and keep an eye on it fr
 platforms:
   - apple
 localizations:
+  ar: "شغّل URnetwork وأوقفه من مركز التحكم، وتابعه من شاشتك الرئيسية."
+  de: "Schalte URnetwork im Kontrollzentrum ein und aus und behalte es auf deinem Home-Bildschirm im Blick."
   en: "Turn URnetwork on and off from Control Center, and keep an eye on it from your Home Screen."
+  es: "Activa y desactiva URnetwork desde el Centro de control y vigílalo desde tu pantalla de inicio."
+  ru: "Включайте и выключайте URnetwork в Пункте управления и следите за ним с экрана «Домой»."
+  zh: "在控制中心开关 URnetwork，并在主屏幕上随时查看其状态。"

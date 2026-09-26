@@ -3,4 +3,9 @@ source: "Connect to URnetwork"
 platforms:
   - android
 localizations:
+  ar: "الاتصال بـ URnetwork"
+  de: "Mit URnetwork verbinden"
   en: "Connect to URnetwork"
+  es: "Conectarse a URnetwork"
+  ru: "Подключиться к URnetwork"
+  zh: "连接到 URnetwork"

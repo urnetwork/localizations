@@ -3,4 +3,9 @@ source: "Open developer tools"
 platforms:
   - android
 localizations:
+  ar: "فتح أدوات المطوّرين"
+  de: "Entwicklertools öffnen"
   en: "Open developer tools"
+  es: "Abrir herramientas para desarrolladores"
+  ru: "Открыть инструменты разработчика"
+  zh: "打开开发者工具"

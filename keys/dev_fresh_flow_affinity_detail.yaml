@@ -3,4 +3,9 @@ source: "Assign each new connection to the exit its IP or domain already uses. O
 platforms:
   - android
 localizations:
+  ar: "يُسند كل اتصال جديد إلى المخرج الذي يستخدمه عنوان IP أو النطاق الخاص به بالفعل. الإيقاف هو الإعداد الافتراضي: كل اتصال جديد عادي يدخل سباق المزودين. تبقى الاتصالات الحالية والتثبيتات الصريحة دون تغيير دائمًا"
+  de: "Weist jede neue Verbindung dem Exit zu, den ihre IP oder Domain bereits nutzt. Aus ist die Voreinstellung: Jede gewöhnliche neue Verbindung geht in das Anbieter-Race. Bestehende Verbindungen und explizite Pins bleiben immer unverändert"
   en: "Assign each new connection to the exit its IP or domain already uses. Off is the default: every ordinary fresh connection reaches the provider race. Existing connections and explicit pins always stay fixed"
+  es: "Asigna cada conexión nueva a la salida que ya usa su IP o dominio. Desactivado es el valor predeterminado: cada conexión nueva normal llega a la carrera de proveedores. Las conexiones existentes y las fijaciones explícitas nunca cambian"
+  ru: "Назначает каждое новое соединение на выход, который уже использует его IP или домен. По умолчанию выключено: каждое обычное новое соединение попадает в гонку провайдеров. Существующие соединения и явные закрепления всегда остаются без изменений"
+  zh: "将每个新连接分配给其 IP 或域名已在使用的出口。默认关闭：每个普通的新连接都会进入提供商竞速。现有连接和显式固定始终保持不变"

@@ -3,4 +3,9 @@ source: "That balance code isn't valid. Check the code and try again."
 platforms:
   - android
 localizations:
+  ar: "رمز الرصيد هذا غير صالح. تحقق من الرمز وحاول مرة أخرى."
+  de: "Dieser Guthabencode ist ungültig. Überprüfe den Code und versuche es erneut."
   en: "That balance code isn't valid. Check the code and try again."
+  es: "Ese código de saldo no es válido. Revisa el código e inténtalo de nuevo."
+  ru: "Этот код баланса недействителен. Проверьте код и попробуйте снова."
+  zh: "该余额码无效。请检查后重试。"

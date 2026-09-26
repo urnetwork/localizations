@@ -3,4 +3,9 @@ source: "How long an exit may stop delivering before it is dropped. Off waits 30
 platforms:
   - android
 localizations:
+  ar: "المدة التي يمكن فيها للمخرج التوقف عن التسليم قبل إسقاطه. عند الإيقاف، ينتظر 30 ثانية"
+  de: "Wie lange ein Exit nichts ausliefern darf, bevor er verworfen wird. Aus: wartet 30 s"
   en: "How long an exit may stop delivering before it is dropped. Off waits 30s"
+  es: "Cuánto tiempo puede una salida dejar de entregar antes de descartarla. Si está desactivado, espera 30 s"
+  ru: "Как долго выход может ничего не доставлять, прежде чем его отключат. Если выключено, ожидание 30 с"
+  zh: "出口停止传送多长时间后会被丢弃。关闭时等待 30 秒"

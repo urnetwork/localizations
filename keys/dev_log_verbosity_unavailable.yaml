@@ -3,4 +3,9 @@ source: "Unavailable"
 platforms:
   - android
 localizations:
+  ar: "غير متاح"
+  de: "Nicht verfügbar"
   en: "Unavailable"
+  es: "No disponible"
+  ru: "Недоступно"
+  zh: "不可用"

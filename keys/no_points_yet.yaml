@@ -7,4 +7,9 @@ platforms:
   - linux
   - site
 localizations:
+  ar: "لا توجد فترات بعد. تظهر النقاط بعد أول فترة مكتملة لك."
+  de: "Noch keine Epochen. Punkte erscheinen nach deiner ersten abgeschlossenen Epoche."
   en: "No epochs yet. Points appear after your first finalized epoch."
+  es: "Aún no hay épocas. Los puntos aparecen después de tu primera época finalizada."
+  ru: "Эпох пока нет. Очки появятся после вашей первой завершённой эпохи."
+  zh: "暂无周期。积分将在您的第一个周期确认后显示。"

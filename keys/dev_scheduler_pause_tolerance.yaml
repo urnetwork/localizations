@@ -3,4 +3,9 @@ source: "Suspend detector"
 platforms:
   - android
 localizations:
+  ar: "كاشف التعليق"
+  de: "Ruhezustandserkennung"
   en: "Suspend detector"
+  es: "Detector de suspensión"
+  ru: "Детектор приостановки"
+  zh: "挂起检测器"

@@ -3,4 +3,9 @@ source: "Longer TCP idle timeout"
 platforms:
   - android
 localizations:
+  ar: "مهلة خمول أطول لـ TCP"
+  de: "Längeres TCP-Leerlauf-Timeout"
   en: "Longer TCP idle timeout"
+  es: "Tiempo de inactividad de TCP más largo"
+  ru: "Увеличенный тайм-аут простоя TCP"
+  zh: "更长的 TCP 空闲超时"

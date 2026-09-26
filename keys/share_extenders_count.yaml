@@ -11,6 +11,26 @@ placeholders:
 plurals:
   select: count
 localizations:
+  ar:
+    zero: "{count} موسّع"
+    one: "موسّع واحد"
+    two: "موسّعان"
+    few: "{count} موسّعات"
+    many: "{count} موسّعًا"
+    other: "{count} موسّع"
+  de:
+    one: "{count} Extender"
+    other: "{count} Extender"
   en:
     one: "{count} extender"
     other: "{count} extenders"
+  es:
+    one: "{count} extensor"
+    other: "{count} extensores"
+  ru:
+    one: "{count} экстендер"
+    few: "{count} экстендера"
+    many: "{count} экстендеров"
+    other: "{count} экстендера"
+  zh:
+    other: "{count} 个扩展器"

@@ -6,4 +6,9 @@ platforms:
   - linux
   - windows
 localizations:
+  ar: "استخدام إعدادات الموسّع"
+  de: "Extender-Einstellungen verwenden"
   en: "Use extender settings"
+  es: "Usar los ajustes del extensor"
+  ru: "Использовать настройки экстендера"
+  zh: "使用扩展器设置"

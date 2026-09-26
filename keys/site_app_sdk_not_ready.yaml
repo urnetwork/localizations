@@ -3,4 +3,9 @@ source: "Claim data is not available in this version of the web app. Reload and 
 platforms:
   - site
 localizations:
+  ar: "بيانات المطالبة غير متاحة في هذا الإصدار من تطبيق الويب. أعد التحميل وحاول مرة أخرى."
+  de: "Einlösedaten sind in dieser Version der Web-App nicht verfügbar. Lade die Seite neu und versuche es erneut."
   en: "Claim data is not available in this version of the web app. Reload and try again."
+  es: "Los datos de reclamación no están disponibles en esta versión de la app web. Recarga e inténtalo de nuevo."
+  ru: "Данные для получения недоступны в этой версии веб-приложения. Перезагрузите страницу и попробуйте снова."
+  zh: "此版本的网页应用无法获取领取数据。请重新加载后重试。"
