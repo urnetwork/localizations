@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): the screen's state when the account's sign-in was rejected and the user must sign in again. Generic: it names no cause. sessions_signed_out_remotely is the line for when the app knows another device signed this session out."
+source: "Sign in again to manage sessions."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "سجّل الدخول مجددًا لإدارة الجلسات."
+  cs: "Pro správu relací se znovu přihlaste."
+  de: "Melde dich erneut an, um Sitzungen zu verwalten."
+  el: "Συνδεθείτε ξανά για να διαχειριστείτε τις συνεδρίες."
+  en: "Sign in again to manage sessions."
+  es: "Vuelve a iniciar sesión para gestionar las sesiones."
+  es-419: "Vuelve a iniciar sesión para administrar las sesiones."
+  es-MX: "Vuelve a iniciar sesión para administrar las sesiones."
+  fr: "Reconnectez-vous pour gérer les sessions."
+  he: "התחברו שוב כדי לנהל את ההפעלות."
+  hi: "सत्र प्रबंधित करने के लिए फिर से साइन इन करें।"
+  id: "Masuk kembali untuk mengelola sesi."
+  it: "Accedi di nuovo per gestire le sessioni."
+  ja: "セッションを管理するには、もう一度サインインしてください。"
+  ko: "세션을 관리하려면 다시 로그인하세요."
+  nl: "Log opnieuw in om sessies te beheren."
+  pl: "Zaloguj się ponownie, aby zarządzać sesjami."
+  pt: "Volte a iniciar sessão para gerir as sessões."
+  pt-BR: "Entre novamente para gerenciar as sessões."
+  pt-PT: "Volte a iniciar sessão para gerir as sessões."
+  ru: "Войдите снова, чтобы управлять сеансами."
+  sv: "Logga in igen för att hantera sessioner."
+  sw: "Ingia tena ili kudhibiti vipindi."
+  th: "ลงชื่อเข้าใช้อีกครั้งเพื่อจัดการเซสชัน"
+  uk: "Увійдіть знову, щоб керувати сеансами."
+  vi: "Hãy đăng nhập lại để quản lý các phiên."
+  zh: "请重新登录以管理会话。"
+  zh-HK: "請重新登入以管理工作階段。"

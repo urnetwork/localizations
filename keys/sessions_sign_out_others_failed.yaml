@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): shown under the Sign out all other sessions button when signing the other sessions out failed."
+source: "Couldn't sign out the other sessions. Try again."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تعذّر تسجيل الخروج من الجلسات الأخرى. حاول مرة أخرى."
+  cs: "Ostatní relace se nepodařilo odhlásit. Zkuste to znovu."
+  de: "Die anderen Sitzungen konnten nicht abgemeldet werden. Versuche es erneut."
+  el: "Δεν ήταν δυνατή η αποσύνδεση των άλλων συνεδριών. Δοκιμάστε ξανά."
+  en: "Couldn't sign out the other sessions. Try again."
+  es: "No se pudieron cerrar las demás sesiones. Inténtalo de nuevo."
+  es-419: "No se pudieron cerrar las demás sesiones. Inténtalo de nuevo."
+  es-MX: "No se pudieron cerrar las demás sesiones. Inténtalo de nuevo."
+  fr: "Impossible de déconnecter les autres sessions. Réessayez."
+  he: "ההתנתקות מההפעלות האחרות נכשלה. נסו שוב."
+  hi: "अन्य सत्रों से साइन आउट नहीं हो सका। पुनः प्रयास करें।"
+  id: "Tidak dapat keluar dari sesi lain. Coba lagi."
+  it: "Impossibile chiudere le altre sessioni. Riprova."
+  ja: "他のセッションからサインアウトできませんでした。もう一度お試しください。"
+  ko: "다른 세션에서 로그아웃할 수 없습니다. 다시 시도하세요."
+  nl: "Kan de andere sessies niet uitloggen. Probeer het opnieuw."
+  pl: "Nie udało się wylogować innych sesji. Spróbuj ponownie."
+  pt: "Não foi possível terminar as outras sessões. Tente novamente."
+  pt-BR: "Não foi possível encerrar as outras sessões. Tente novamente."
+  pt-PT: "Não foi possível terminar as outras sessões. Tente novamente."
+  ru: "Не удалось завершить остальные сеансы. Попробуйте ещё раз."
+  sv: "Det gick inte att logga ut de andra sessionerna. Försök igen."
+  sw: "Imeshindwa kutoka kwenye vipindi vingine. Jaribu tena."
+  th: "ออกจากระบบเซสชันอื่นไม่ได้ ลองอีกครั้ง"
+  uk: "Не вдалося завершити інші сеанси. Спробуйте ще раз."
+  vi: "Không thể đăng xuất các phiên khác. Hãy thử lại."
+  zh: "无法退出其他会话。请重试。"
+  zh-HK: "無法登出其他工作階段。請再試一次。"
