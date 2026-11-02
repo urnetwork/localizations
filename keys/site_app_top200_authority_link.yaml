@@ -1,0 +1,11 @@
+description: "App top200: link that downloads the reviewed fleet runtime authority document"
+source: "Download the fleet runtime authority document"
+platforms:
+  - site
+localizations:
+  ar: "نزّل مستند سلطة بيئة تشغيل الأسطول"
+  de: "Autoritätsdokument der Flotten-Runtime herunterladen"
+  en: "Download the fleet runtime authority document"
+  es: "Descargar el documento de autoridad del runtime de flota"
+  ru: "Скачать документ полномочий среды выполнения парка"
+  zh: "下载设备群运行时授权文档"

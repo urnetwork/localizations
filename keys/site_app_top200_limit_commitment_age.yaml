@@ -1,0 +1,11 @@
+description: "App top200 limits: a commitment past 100,800 blocks (14 days) can't bind new devices, so a fleet adding devices later publishes again"
+source: "A commitment older than 14 days can't bind new devices, so publish again before adding devices later."
+platforms:
+  - site
+localizations:
+  ar: "لا يمكن لالتزام مضى عليه أكثر من 14 يومًا ربط أجهزة جديدة، لذا انشر من جديد قبل إضافة أجهزة لاحقًا."
+  de: "Ein Commitment, das älter als 14 Tage ist, kann keine neuen Geräte binden. Veröffentliche also erneut, bevor du später Geräte hinzufügst."
+  en: "A commitment older than 14 days can't bind new devices, so publish again before adding devices later."
+  es: "Un compromiso con más de 14 días no puede vincular dispositivos nuevos, así que publica de nuevo antes de añadir dispositivos más adelante."
+  ru: "Коммитмент старше 14 дней не может привязать новые устройства, поэтому перед добавлением устройств опубликуйте его заново."
+  zh: "超过 14 天的承诺无法绑定新设备，因此以后添加设备前请重新发布。"

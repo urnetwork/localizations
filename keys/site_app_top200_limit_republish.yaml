@@ -1,0 +1,11 @@
+description: "App top200 limits: a fleet that already published may have to publish again; old-format (Sha256) commitments are not mirrored and a mirror past 100,800 blocks can't bind"
+source: "If you published before, you may need to publish again. Commitments in the old format aren't mirrored, and a mirror older than 14 days can't bind."
+platforms:
+  - site
+localizations:
+  ar: "إذا كنت قد نشرت من قبل، فقد تحتاج إلى النشر من جديد. لا تُنسخ الالتزامات ذات التنسيق القديم، ولا يمكن لنسخة مضى عليها أكثر من 14 يومًا أن تربط الأجهزة."
+  de: "Wenn du schon veröffentlicht hast, musst du eventuell erneut veröffentlichen. Commitments im alten Format werden nicht gespiegelt, und eine Spiegelung, die älter als 14 Tage ist, kann nicht binden."
+  en: "If you published before, you may need to publish again. Commitments in the old format aren't mirrored, and a mirror older than 14 days can't bind."
+  es: "Si ya publicaste, quizá tengas que publicar de nuevo. Los compromisos en el formato antiguo no se reflejan, y un reflejo con más de 14 días no puede vincular."
+  ru: "Если вы уже публиковали коммитмент, возможно, его нужно опубликовать заново. Коммитменты в старом формате не зеркалируются, а зеркало старше 14 дней не может привязывать устройства."
+  zh: "如果您之前已发布过，可能需要重新发布。旧格式的承诺不会被镜像，超过 14 天的镜像也无法绑定。"

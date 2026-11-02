@@ -1,0 +1,11 @@
+description: "App top200 and the Earnings tile: link to the docs page on claiming a spot with btcli and provider"
+source: "Claim from the command line"
+platforms:
+  - site
+localizations:
+  ar: "احجز من سطر الأوامر"
+  de: "Über die Kommandozeile sichern"
+  en: "Claim from the command line"
+  es: "Reclamar desde la línea de comandos"
+  ru: "Занять место из командной строки"
+  zh: "通过命令行获取"

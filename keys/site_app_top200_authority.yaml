@@ -1,0 +1,11 @@
+description: "App top200: what the mainnet fleet commands need; the page shows the document's download link and SHA-256 right after this line"
+source: "Mainnet commands need the reviewed fleet runtime authority document. Download it, then pass its path with --mainnet-runtime-authority and this SHA-256 with --mainnet-runtime-authority-sha256:"
+platforms:
+  - site
+localizations:
+  ar: "تحتاج أوامر الشبكة الرئيسية إلى مستند سلطة بيئة تشغيل الأسطول الذي جرت مراجعته. نزّله، ثم مرّر مساره باستخدام --mainnet-runtime-authority وقيمة SHA-256 هذه باستخدام --mainnet-runtime-authority-sha256:"
+  de: "Mainnet-Befehle brauchen das geprüfte Autoritätsdokument der Flotten-Runtime. Lade es herunter und übergib seinen Pfad mit --mainnet-runtime-authority und diesen SHA-256 mit --mainnet-runtime-authority-sha256:"
+  en: "Mainnet commands need the reviewed fleet runtime authority document. Download it, then pass its path with --mainnet-runtime-authority and this SHA-256 with --mainnet-runtime-authority-sha256:"
+  es: "Los comandos de mainnet necesitan el documento de autoridad revisado del runtime de flota. Descárgalo y pasa su ruta con --mainnet-runtime-authority y este SHA-256 con --mainnet-runtime-authority-sha256:"
+  ru: "Командам в mainnet нужен проверенный документ полномочий среды выполнения парка. Скачайте его и укажите путь в --mainnet-runtime-authority, а этот SHA-256 в --mainnet-runtime-authority-sha256:"
+  zh: "主网命令需要经过审查的设备群运行时授权文档。请下载该文档，并用 --mainnet-runtime-authority 传入其路径，用 --mainnet-runtime-authority-sha256 传入此 SHA-256："
