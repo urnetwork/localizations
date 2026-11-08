@@ -3,6 +3,8 @@ source: "Couldn't load your devices."
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "تعذّر تحميل أجهزتك."
   cs: "Zařízení se nepodařilo načíst."

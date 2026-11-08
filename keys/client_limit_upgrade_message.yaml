@@ -3,6 +3,8 @@ source: "Your free plan connects a limited number of devices at once. Upgrade to
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "تتيح خطتك المجانية توصيل عدد محدود من الأجهزة في الوقت نفسه. قم بالترقية إلى UR Pro لتوصيل المزيد، أو افصل URnetwork على جهاز آخر."
   cs: "Váš bezplatný tarif umožňuje připojit najednou jen omezený počet zařízení. Přejděte na UR Pro a připojte jich víc, nebo odpojte URnetwork na jiném zařízení."

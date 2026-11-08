@@ -3,6 +3,8 @@ source: "Remove this device?"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "إزالة هذا الجهاز؟"
   cs: "Odebrat toto zařízení?"

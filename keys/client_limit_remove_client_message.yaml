@@ -3,6 +3,8 @@ source: "Your plan's limit of devices connected at once is reached. Sign out of 
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "بلغت خطتك الحد الأقصى للأجهزة المتصلة في الوقت نفسه. سجّل الخروج من URnetwork على جهاز لم تعد تستخدمه، ثم حاول مرة أخرى."
   cs: "Váš tarif dosáhl limitu zařízení připojených najednou. Odhlaste se z URnetwork na zařízení, které už nepoužíváte, a zkuste to znovu."

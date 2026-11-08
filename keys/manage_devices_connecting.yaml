@@ -3,6 +3,8 @@ source: "Connecting this device…"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "جارٍ توصيل هذا الجهاز…"
   cs: "Připojování tohoto zařízení…"
