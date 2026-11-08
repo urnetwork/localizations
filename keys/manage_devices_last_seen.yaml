@@ -1,0 +1,37 @@
+description: "Device list, a row's second line for a device that is not connected now: when it last signed in. {time} is a relative time up to 7 days (such as \"5m ago\" or \"now\"), then a date (\"Oct 3\"), so the wording must read with either."
+source: "Last seen %@"
+platforms:
+  - android
+  - apple
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "آخر ظهور: {time}"
+  cs: "Naposledy viděno: {time}"
+  de: "Zuletzt gesehen: {time}"
+  el: "Τελευταία εμφάνιση: {time}"
+  en: "Last seen {time}"
+  es: "Visto por última vez: {time}"
+  es-419: "Visto por última vez: {time}"
+  es-MX: "Visto por última vez: {time}"
+  fr: "Vu pour la dernière fois : {time}"
+  he: "נראה לאחרונה: {time}"
+  hi: "आख़िरी बार देखा गया: {time}"
+  id: "Terakhir terlihat: {time}"
+  it: "Ultima attività: {time}"
+  ja: "最終確認: {time}"
+  ko: "마지막 확인: {time}"
+  nl: "Laatst gezien: {time}"
+  pl: "Ostatnio widziane: {time}"
+  pt: "Visto por último: {time}"
+  pt-BR: "Visto por último: {time}"
+  pt-PT: "Visto pela última vez: {time}"
+  ru: "Последняя активность: {time}"
+  sv: "Senast sedd: {time}"
+  sw: "Ilionekana mwisho: {time}"
+  th: "เห็นล่าสุด: {time}"
+  uk: "Остання активність: {time}"
+  vi: "Lần cuối: {time}"
+  zh: "上次在线：{time}"
+  zh-HK: "上次在線：{time}"
