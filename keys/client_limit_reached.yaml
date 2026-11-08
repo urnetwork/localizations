@@ -3,6 +3,8 @@ source: "Device limit reached"
 platforms:
   - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "تم بلوغ الحد الأقصى للأجهزة"
   cs: "Dosažen limit zařízení"
