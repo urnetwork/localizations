@@ -1,4 +1,4 @@
-description: "Device list: the label of the row for the device the app runs on. It cannot be removed here (the user signs out instead). On apple the same source text resolves to top200_sign_this_device."
+description: "Device list: the label of the row for the device the app runs on. It cannot be removed here (the user signs out instead). On apple the same source text resolves to top200_sign_this_device, so the translations must stay the same as that key's."
 source: "This device"
 platforms:
   - android
@@ -29,5 +29,5 @@ localizations:
   th: "อุปกรณ์นี้"
   uk: "Цей пристрій"
   vi: "Thiết bị này"
-  zh: "此设备"
-  zh-HK: "此裝置"
+  zh: "这台设备"
+  zh-HK: "這部裝置"
