@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "تعذّرت إزالة الجهاز. حاول مرة أخرى."
   cs: "Zařízení se nepodařilo odebrat. Zkuste to znovu."

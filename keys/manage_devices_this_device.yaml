@@ -3,6 +3,7 @@ source: "This device"
 platforms:
   - android
   - windows
+  - linux
 localizations:
   ar: "هذا الجهاز"
   cs: "Toto zařízení"

@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "سجّل الدخول مرة أخرى لإدارة الأجهزة."
   cs: "Pro správu zařízení se znovu přihlaste."

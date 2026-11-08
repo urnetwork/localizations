@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "تعذّر تحميل أجهزتك."
   cs: "Zařízení se nepodařilo načíst."

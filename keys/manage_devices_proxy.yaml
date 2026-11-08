@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "وكيل مستضاف"
   cs: "Hostovaná proxy"
