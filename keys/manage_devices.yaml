@@ -3,6 +3,7 @@ source: "Manage devices"
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "إدارة الأجهزة"
   cs: "Spravovat zařízení"

@@ -3,6 +3,7 @@ source: "Couldn't remove the device. Try again."
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "تعذّرت إزالة الجهاز. حاول مرة أخرى."
   cs: "Zařízení se nepodařilo odebrat. Zkuste to znovu."

@@ -3,6 +3,7 @@ source: "Last seen %@"
 platforms:
   - android
   - apple
+  - windows
 placeholders:
   - name: time
     type: string

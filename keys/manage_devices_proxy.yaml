@@ -3,6 +3,7 @@ source: "Hosted proxy"
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "وكيل مستضاف"
   cs: "Hostovaná proxy"

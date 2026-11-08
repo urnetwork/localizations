@@ -2,6 +2,7 @@ description: "Device list: the label of the row for the device the app runs on. 
 source: "This device"
 platforms:
   - android
+  - windows
 localizations:
   ar: "هذا الجهاز"
   cs: "Toto zařízení"

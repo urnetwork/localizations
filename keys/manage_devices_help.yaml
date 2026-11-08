@@ -3,6 +3,7 @@ source: "Each connected device or proxy uses a slot of your plan. Remove one you
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "يستخدم كل جهاز أو وكيل متصل مكانًا من خطتك. أزل ما لم تعد تستخدمه لتحرير مكانه."
   cs: "Každé připojené zařízení nebo proxy zabírá jedno místo vašeho tarifu. Odeberte to, které už nepoužíváte, a uvolněte jeho místo."

@@ -3,6 +3,7 @@ source: "Sign in again to manage devices."
 platforms:
   - android
   - apple
+  - windows
 localizations:
   ar: "سجّل الدخول مرة أخرى لإدارة الأجهزة."
   cs: "Pro správu zařízení se znovu přihlaste."
