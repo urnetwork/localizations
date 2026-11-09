@@ -1,0 +1,39 @@
+description: "DNS settings: the name of DNS4EU's child protection preset in \"Family\", which blocks malware, adult sites, gambling, drugs and violence and doesn't block ads. Next to it is the same protection with ads blocked (dns_preset_name_child_ads). Shown alone as the preset's label on the DNS screen, and inserted as is wherever the selected preset is named, as in \"DNS: DNS4EU Child\" and \"DNS4EU Child isn't answering\", so it reads as a short name that works on its own and inside a sentence. {provider} is the adblock provider's short name, inserted as is (for example DNS4EU); keep it first, so the presets of a group stay in alphabetical order."
+source: "%@ Child"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} للأطفال"
+  cs: "{provider} Děti"
+  de: "{provider} Kinderschutz"
+  el: "{provider} Παιδιά"
+  en: "{provider} Child"
+  es: "{provider} Infantil"
+  es-419: "{provider} Infantil"
+  es-MX: "{provider} Infantil"
+  fr: "{provider} Enfants"
+  he: "{provider} ילדים"
+  hi: "{provider} बच्चों के लिए"
+  id: "{provider} Anak"
+  it: "{provider} Bambini"
+  ja: "{provider} 子ども向け"
+  ko: "{provider} 어린이"
+  nl: "{provider} Kinderen"
+  pl: "{provider} Dzieci"
+  pt: "{provider} Infantil"
+  pt-BR: "{provider} Infantil"
+  pt-PT: "{provider} Infantil"
+  ru: "{provider} Детский"
+  sv: "{provider} Barn"
+  sw: "{provider} Watoto"
+  th: "{provider} สำหรับเด็ก"
+  uk: "{provider} Дитячий"
+  vi: "{provider} Trẻ em"
+  zh: "{provider} 儿童"
+  zh-HK: "{provider} 兒童"

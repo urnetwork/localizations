@@ -1,4 +1,4 @@
-description: "DNS settings and connect drawer: status line when an adblock provider's family, malware-blocking or personal pick isn't answering. To keep its filtering, URnetwork doesn't switch to other DNS, so sites may not load until the adblock provider answers or the person picks \"Use URnetwork DNS\". {provider} is the adblock provider's name, inserted as is."
+description: "DNS settings and connect drawer: status line when an adblock provider's family, malware-blocking or personal pick isn't answering. To keep its filtering, URnetwork doesn't switch to other DNS, so sites may not load until the adblock provider answers or the person picks \"Use URnetwork DNS\". {provider} is the selected preset's name (dns_preset_name_*, for example AdGuard Family), inserted as is."
 source: "%@ isn't answering"
 platforms:
   - android

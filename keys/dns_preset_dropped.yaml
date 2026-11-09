@@ -1,4 +1,4 @@
-description: "DNS settings and connect drawer: notice after an app update removed the adblock provider the person had selected. The app switched to URnetwork's own DNS, which doesn't filter. {provider} is the removed adblock provider's name, inserted as is."
+description: "DNS settings and connect drawer: notice after an app update removed the preset the person had selected. The app switched to URnetwork's own DNS, which doesn't filter. {provider} is the removed preset's name (dns_preset_name_*, for example AdGuard Family), inserted as is."
 source: "%@ is no longer available. You're using URnetwork DNS, so lookups aren't filtered."
 platforms:
   - android

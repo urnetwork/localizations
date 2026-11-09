@@ -1,4 +1,4 @@
-description: "DNS settings and connect drawer: status line when an adblock provider that blocks ads isn't answering from the current exit, so URnetwork's own DNS answers for now and ads aren't blocked. It switches back on its own when the adblock provider answers. {provider} is the adblock provider's name, inserted as is."
+description: "DNS settings and connect drawer: status line when an adblock provider that blocks ads isn't answering from the current exit, so URnetwork's own DNS answers for now and ads aren't blocked. It switches back on its own when the adblock provider answers. {provider} is the selected preset's name (dns_preset_name_*, for example AdGuard Ad Blocking), inserted as is."
 source: "Ad blocking paused: %@ isn't answering"
 platforms:
   - android

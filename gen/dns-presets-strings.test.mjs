@@ -2,10 +2,13 @@
 // screen's provider picker, its status lines and notices, the personal ID
 // field and the blocked lookups count, in the four apps.
 //
-// The sdk hands the apps some of these ids to look up (the personal ID errors
-// and the free-tier notes), so they are pinned here. Provider names reach
-// every string through a placeholder, never as text a translation could
-// change (G2).
+// The sdk hands the apps some of these ids to look up (the personal ID errors,
+// the free-tier notes and the presets' names), so they are pinned here.
+// Provider names reach every string through a placeholder, never as text a
+// translation could change (G2). Each preset has a name of its own, the
+// adblock provider's short name and the preset's purpose (owner,
+// 2026-11-09), which the lines that name the selected preset take as their
+// {provider}.
 import assert from "node:assert/strict";
 import test from "node:test";
 
@@ -26,6 +29,15 @@ const FEATURE = {
 	dns_provider_custom: APPS,
 	dns_provider_custom_copy: APPS,
 	dns_provider_regional: APPS,
+	// each preset's name: the adblock provider's short name and its purpose
+	// (owner, 2026-11-09)
+	dns_preset_name_ad_blocking: APPS,
+	dns_preset_name_malware_blocking: APPS,
+	dns_preset_name_family: APPS,
+	dns_preset_name_child: APPS,
+	dns_preset_name_child_ads: APPS,
+	dns_preset_name_no_filtering: APPS,
+	dns_preset_name_personal: APPS,
 	// what each pick blocks
 	dns_preset_copy_ads_phishing: APPS,
 	dns_preset_copy_ads_malware: APPS,
@@ -58,13 +70,8 @@ const FEATURE = {
 	dns_verify_unconfirmed: APPS,
 	dns_verify_rejected_controld: APPS,
 	dns_verify_malformed_adguard: APPS,
-	// the summary row
+	// the summary row; a selected preset's is dns_status_provider, with its name
 	dns_summary_default: APPS,
-	dns_summary_ad_blocking: APPS,
-	dns_summary_malware_blocking: APPS,
-	dns_summary_family: APPS,
-	dns_summary_no_filtering: APPS,
-	dns_summary_personal: APPS,
 	dns_summary_custom: APPS,
 	dns_summary_custom_unencrypted: APPS,
 	dns_summary_regional: APPS,
@@ -105,7 +112,8 @@ const FEATURE = {
 };
 
 // the ids the sdk returns for the apps to look up:
-// ValidateDnsPresetPersonalId's errors and DnsPreset.QuotaNoteKey
+// ValidateDnsPresetPersonalId's errors, DnsPreset.QuotaNoteKey and the
+// presets' names (DnsPreset.NameKey)
 const SDK_IDS = [
 	"dns_preset_error_unknown",
 	"dns_preset_error_personal_id_required",
@@ -114,6 +122,27 @@ const SDK_IDS = [
 	"dns_preset_error_personal_id_not_accepted",
 	"dns_personal_id_quota_nextdns",
 	"dns_personal_id_quota_adguard",
+	"dns_preset_name_ad_blocking",
+	"dns_preset_name_malware_blocking",
+	"dns_preset_name_family",
+	"dns_preset_name_child",
+	"dns_preset_name_child_ads",
+	"dns_preset_name_no_filtering",
+	"dns_preset_name_personal",
+];
+
+// the presets' names (DnsPreset.NameKey), each the adblock provider's short
+// name ({provider}) and the preset's purpose (owner, 2026-11-09)
+const NAME_KEYS = SDK_IDS.filter((id) => id.startsWith("dns_preset_name_"));
+
+// the summary rows a preset had before it had a name: a preset's summary row
+// is now "DNS: <name>" (dns_status_provider), and no app looks these up
+const RETIRED = [
+	"dns_summary_ad_blocking",
+	"dns_summary_malware_blocking",
+	"dns_summary_family",
+	"dns_summary_no_filtering",
+	"dns_summary_personal",
 ];
 
 // the catalog's providers and operators, which only a placeholder inserts
@@ -208,6 +237,66 @@ test("the blocked lookups count is a plural on the count, with the provider", ()
 	assert.deepEqual(k.placeholders, [{ name: "count", type: "int" }, { name: "provider", type: "string" }]);
 	assert.equal(k.plurals.select, "count");
 	assert.equal(k.source, "%lld lookups blocked by %@ this connection");
+});
+
+test("every preset's name is the adblock provider's short name, first, then its purpose, in every language", () => {
+	// first, so the presets of a group read in alphabetical order by adblock
+	// provider in every language (O9); once, as every other DNS string takes
+	// its placeholder
+	const wrong = [];
+	for (const id of NAME_KEYS) {
+		const k = keys.get(id);
+		assert.deepEqual(k.placeholders, [{ name: "provider", type: "string" }], id);
+		for (const loc of LOCALES) {
+			const s = k.localizations[loc];
+			if (typeof s !== "string" || !s.startsWith("{provider} ") || s.split("{provider}").length !== 2 || s.trim() === "{provider}")
+				wrong.push(`${id}[${loc}]: ${s}`);
+		}
+	}
+	assert.deepEqual(wrong, []);
+});
+
+test("no two presets' names read alike in any language", () => {
+	// a preset's name is unique in the catalog by its adblock provider and its
+	// purpose, so the purposes read apart in every language, DNS4EU's two
+	// family names included
+	const wrong = [];
+	for (const loc of LOCALES) {
+		const names = NAME_KEYS.map((id) => keys.get(id).localizations[loc]);
+		if (new Set(names).size !== names.length) wrong.push(`${loc}: ${names.join(" | ")}`);
+	}
+	assert.deepEqual(wrong, []);
+});
+
+test("the English names are short and say what each preset does, DNS4EU's family names as decision 20 has them", () => {
+	assert.deepEqual(Object.fromEntries(NAME_KEYS.map((id) => [id, keys.get(id).localizations.en])), {
+		dns_preset_name_ad_blocking: "{provider} Ad Blocking",
+		dns_preset_name_malware_blocking: "{provider} Malware Blocking",
+		dns_preset_name_family: "{provider} Family",
+		dns_preset_name_child: "{provider} Child",
+		dns_preset_name_child_ads: "{provider} Child, no ads",
+		dns_preset_name_no_filtering: "{provider} No Filtering",
+		dns_preset_name_personal: "{provider} Personal",
+	});
+});
+
+test("a selected preset's summary row is DNS: and its name, the status line's text", () => {
+	// the sdk hands dns_status_provider as a preset's summary row: its name
+	// says what it does, and apple keys a string by its text, so the two
+	// lines share one key
+	const k = keys.get("dns_status_provider");
+	assert.equal(k.source, "DNS: %@");
+	assert.deepEqual(k.placeholders, [{ name: "provider", type: "string" }]);
+});
+
+test("the summary rows a preset had before its name are retired on every app", () => {
+	// android drops itself from platforms; apple keeps them stale
+	for (const id of RETIRED) {
+		const k = keys.get(id);
+		assert.deepEqual([...k.deprecated].sort(), APPS, id);
+		assert.ok(!k.platforms.includes("android"), id);
+		assert.ok(!(id in FEATURE), id);
+	}
 });
 
 test("technical values and provider labels stay as they are in every language", () => {

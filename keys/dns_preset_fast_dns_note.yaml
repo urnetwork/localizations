@@ -1,4 +1,4 @@
-description: "DNS settings: note beside the \"Fast DNS on connect\" toggle while an adblock provider is selected. While the tunnel connects, lookups go to URnetwork's own DNS, so the adblock provider never sees the person's own address, but those lookups aren't filtered. {provider} is the adblock provider's name, inserted as is."
+description: "DNS settings: note beside the \"Fast DNS on connect\" toggle while an adblock provider is selected. While the tunnel connects, lookups go to URnetwork's own DNS, so the adblock provider never sees the person's own address, but those lookups aren't filtered. {provider} is the selected preset's name (dns_preset_name_*, for example AdGuard Family), inserted as is."
 source: "While connecting, lookups use URnetwork DNS, so %@ doesn't filter them."
 platforms:
   - android
