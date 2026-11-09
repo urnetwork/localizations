@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the line under each provider in \"Use my account\". {provider} is the provider's name (AdGuard DNS, Control D or NextDNS), inserted as is."
+description: "DNS settings, adblock provider picker: the line under each adblock provider in \"Use my account\". {provider} is the adblock provider's name (AdGuard DNS, Control D or NextDNS), inserted as is."
 source: "Uses the filters you set up in your %@ account"
 platforms:
   - android

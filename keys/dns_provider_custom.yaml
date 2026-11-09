@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the pick that opens the advanced editor, where the person enters their own DNS over HTTPS URLs and DNS servers. Other strings send the reader to this pick by name (\"Enter it yourself under Custom\"), so they use the same word."
+description: "DNS settings, adblock provider picker: the pick that opens the advanced editor, where the person enters their own DNS over HTTPS URLs and DNS servers. Other strings send the reader to this pick by name (\"Enter it yourself under Custom\"), so they use the same word."
 source: "Custom"
 platforms:
   - android

@@ -1,4 +1,4 @@
-description: "DNS settings: button on the notice of a removed DNS provider that opens the Custom editor, where the person can enter the provider's addresses themselves. It names the \"Custom\" pick, so it uses that pick's exact word."
+description: "DNS settings: button on the notice of a removed adblock provider that opens the Custom editor, where the person can enter the adblock provider's addresses themselves. It names the \"Custom\" pick, so it uses that pick's exact word."
 source: "Enter it yourself under Custom"
 platforms:
   - android

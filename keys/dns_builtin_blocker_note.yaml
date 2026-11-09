@@ -1,4 +1,4 @@
-description: "Connect drawer and DNS settings: line under the URnetwork ad blocker toggle. It can stay on with any DNS choice, a provider that blocks ads included, and it checks each name before the DNS provider is asked."
+description: "Connect drawer and DNS settings: line under the URnetwork ad blocker toggle. It can stay on with any DNS choice, an adblock provider that blocks ads included, and it checks each name before the chosen DNS is asked."
 source: "URnetwork's own blocker. It works with any DNS choice and checks each name first."
 platforms:
   - android

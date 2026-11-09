@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the line under \"URnetwork (default)\" that says what it does: names are resolved over encrypted DNS inside the VPN tunnel, and nothing is blocked."
+description: "DNS settings, adblock provider picker: the line under \"URnetwork (default)\" that says what it does: names are resolved over encrypted DNS inside the VPN tunnel, and nothing is blocked."
 source: "Encrypted DNS through the tunnel, with no filtering"
 platforms:
   - android

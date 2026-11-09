@@ -1,4 +1,4 @@
-description: "DNS settings: result of the check the app runs after a filtering DNS provider is chosen: the provider answered a name it normally blocks with a real address, so it isn't filtering from the current exit location. {provider} is the provider's name, inserted as is."
+description: "DNS settings: result of the check the app runs after a filtering adblock provider is chosen: the adblock provider answered a name it normally blocks with a real address, so it isn't filtering from the current exit location. {provider} is the adblock provider's name, inserted as is."
 source: "%@ isn't filtering from this location"
 platforms:
   - android

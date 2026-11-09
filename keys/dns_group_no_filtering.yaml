@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: heading of the group of other DNS providers that resolve every name and block nothing."
+description: "DNS settings, adblock provider picker: heading of the group of the adblock providers' picks that resolve every name and block nothing."
 source: "No filtering"
 platforms:
   - android

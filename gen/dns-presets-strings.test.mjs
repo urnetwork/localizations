@@ -223,3 +223,111 @@ test("technical values and provider labels stay as they are in every language", 
 			for (const literal of literals) if (!s.includes(literal)) wrong.push(`${id}[${loc}]: ${literal}`);
 	assert.deepEqual(wrong, []);
 });
+
+// The DNS companies these screens list (AdGuard, Control D, Quad9, Cloudflare,
+// DNS4EU, NextDNS) are adblock providers, never a bare provider: in URnetwork
+// a provider is one of the bandwidth providers (owner, 2026-11-09). Each
+// language names them with its own term for an adblock provider, which reads
+// apart from the word its apps use for URnetwork's providers.
+const ADBLOCK_PROVIDER = {
+	en: /\badblock providers?\b/gi,
+	ar: /موفّر حظر (ال)?إعلانات/g,
+	cs: /služb\p{L}* blokování reklam/gu,
+	de: /Adblock-Anbieter\p{L}*/gu,
+	el: /πάροχ\p{L}* αποκλεισμού διαφημίσεων/gu,
+	es: /proveedor(es)? de bloqueo de anuncios/g,
+	"es-419": /proveedor(es)? de bloqueo de anuncios/g,
+	"es-MX": /proveedor(es)? de bloqueo de anuncios/g,
+	fr: /fournisseurs? de blocage des publicités/g,
+	he: /ספק חסימת (ה)?פרסומות/g,
+	hi: /विज्ञापन ब्लॉकिंग प्रदाता/g,
+	id: /penyedia pemblokiran iklan/g,
+	it: /provider di blocco della pubblicità/g,
+	ja: /広告ブロックサービス/g,
+	ko: /광고 차단 서비스/g,
+	nl: /adblockaanbieder\p{L}*/gu,
+	pl: /dostawc\p{L}* blokowania reklam/gu,
+	pt: /fornecedor(es)? de bloqueio de anúncios/g,
+	"pt-BR": /provedor(es)? de bloqueio de anúncios/g,
+	"pt-PT": /fornecedor(es)? de bloqueio de anúncios/g,
+	ru: /сервис\p{L}* блокировки рекламы/gu,
+	sv: /annonsblockeringsleverantör\p{L}*/gu,
+	sw: /mtoa huduma (\p{L}+ )?wa kuzuia matangazo/gu,
+	th: /ผู้ให้บริการบล็อกโฆษณา/g,
+	uk: /сервіс\p{L}* блокування реклами/gu,
+	vi: /nhà cung cấp chặn quảng cáo/g,
+	zh: /广告拦截服务商/g,
+	"zh-HK": /廣告攔截服務商/g,
+};
+
+// the word each language's apps use for URnetwork's providers ("Best
+// available provider"), and the docs glossary's (mmm ur.io/docs/i18n)
+const URNETWORK_PROVIDER = {
+	en: /\bproviders?\b/i,
+	ar: /مزو/,
+	cs: /poskytovatel/i,
+	de: /anbieter|provider/i,
+	el: /πάροχ|παρόχ/i,
+	es: /proveedor/i,
+	"es-419": /proveedor/i,
+	"es-MX": /proveedor/i,
+	fr: /fournisseur/i,
+	he: /ספק/,
+	hi: /प्रदाता/,
+	id: /penyedia/i,
+	it: /provider|fornitor/i,
+	ja: /プロバイダ/,
+	ko: /제공업체|제공자/,
+	nl: /aanbieder|provider/i,
+	pl: /dostawc/i,
+	pt: /fornecedor|provedor/i,
+	"pt-BR": /fornecedor|provedor/i,
+	"pt-PT": /fornecedor|provedor/i,
+	ru: /провайдер/i,
+	sv: /leverantör/i,
+	sw: /mtoa huduma|watoa huduma/i,
+	th: /ผู้ให้บริการ/,
+	uk: /провайдер/i,
+	vi: /nhà cung cấp/i,
+	zh: /提供者|提供商|供应商/,
+	"zh-HK": /提供者|提供商|供應商/,
+};
+
+// the ADBLOCK3RD strings: the DNS screen's and the drawer's
+const dnsKeys = () => [...keys.values()].filter((k) => k.id.startsWith("dns_") || k.id === "block_ads_and_trackers");
+const withoutAdblockProvider = (s, loc) => s.split("{provider}").join("").replace(ADBLOCK_PROVIDER[loc], "");
+
+test("every language has a term for an adblock provider and a word for URnetwork's", () => {
+	assert.deepEqual(Object.keys(ADBLOCK_PROVIDER).sort(), [...LOCALES].sort());
+	assert.deepEqual(Object.keys(URNETWORK_PROVIDER).sort(), [...LOCALES].sort());
+});
+
+test("no DNS string calls a DNS company by the word for URnetwork's providers", () => {
+	const wrong = [];
+	for (const k of dnsKeys()) {
+		if (URNETWORK_PROVIDER.en.test(withoutAdblockProvider(k.source, "en"))) wrong.push(`${k.id}[source]: ${k.source}`);
+		for (const [loc, v] of Object.entries(k.localizations))
+			for (const s of texts(v)) if (URNETWORK_PROVIDER[loc].test(withoutAdblockProvider(s, loc))) wrong.push(`${k.id}[${loc}]: ${s}`);
+	}
+	assert.deepEqual(wrong, []);
+});
+
+test("the address of another adblock provider names it in full both times, as the English does", () => {
+	const k = keys.get("dns_preset_error_personal_id_other_provider");
+	assert.equal(k.source, "This address belongs to another adblock provider. Choose that adblock provider instead.");
+	const wrong = [];
+	for (const loc of LOCALES) {
+		const s = k.localizations[loc];
+		if ((s.match(ADBLOCK_PROVIDER[loc]) ?? []).length !== 2) wrong.push(`${loc}: ${s}`);
+	}
+	assert.deepEqual(wrong, []);
+});
+
+test("the DNS strings' descriptions say adblock provider, so their translations do", () => {
+	const wrong = [];
+	for (const k of dnsKeys()) {
+		const rest = withoutAdblockProvider(k.description, "en").replace(/URnetwork's providers, which are the bandwidth providers/g, "");
+		if (URNETWORK_PROVIDER.en.test(rest)) wrong.push(`${k.id}: ${k.description}`);
+	}
+	assert.deepEqual(wrong, []);
+});

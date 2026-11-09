@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: heading of the group for people with their own account at a DNS provider (AdGuard DNS, Control D, NextDNS). Choosing one asks for the account's profile ID, so the provider applies the person's own filters."
+description: "DNS settings, adblock provider picker: heading of the group for people with their own account at an adblock provider (AdGuard DNS, Control D, NextDNS). Choosing one asks for the account's profile ID, so the adblock provider applies the person's own filters."
 source: "Use my account"
 platforms:
   - android

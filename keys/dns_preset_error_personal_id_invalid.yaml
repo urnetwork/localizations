@@ -1,4 +1,4 @@
-description: "DNS settings, Use my account: error id the sdk returns when the profile ID doesn't have the provider's format. The provider's own format line is shown with it."
+description: "DNS settings, Use my account: error id the sdk returns when the profile ID doesn't have the adblock provider's format. The adblock provider's own format line is shown with it."
 source: "This ID isn't in the right format."
 platforms:
   - android

@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: heading of the group of family DNS providers, which block adult sites and similar content (some of them also block ads)."
+description: "DNS settings, adblock provider picker: heading of the group of the adblock providers' family filters, which block adult sites and similar content (some of them also block ads)."
 source: "Family"
 platforms:
   - android

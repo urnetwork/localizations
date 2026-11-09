@@ -1,4 +1,4 @@
-description: "DNS settings, Use my account: label of the field where the person enters the ID of their profile at the DNS provider, or pastes the DNS address the provider's dashboard shows (a DNS over HTTPS URL or a Private DNS hostname)."
+description: "DNS settings, Use my account: label of the field where the person enters the ID of their profile at the adblock provider, or pastes the DNS address the adblock provider's dashboard shows (a DNS over HTTPS URL or a Private DNS hostname)."
 source: "Profile ID or DNS address"
 platforms:
   - android

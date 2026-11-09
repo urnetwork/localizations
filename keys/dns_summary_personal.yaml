@@ -1,4 +1,4 @@
-description: "Connect drawer, DNS card: summary row while a provider from \"Use my account\" is selected. The profile ID itself is never shown. {provider} is the provider's name, inserted as is."
+description: "Connect drawer, DNS card: summary row while an adblock provider from \"Use my account\" is selected. The profile ID itself is never shown. {provider} is the adblock provider's name, inserted as is."
 source: "DNS: %@ · your profile"
 platforms:
   - android

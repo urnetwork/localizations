@@ -1,4 +1,4 @@
-description: "DNS settings and connect drawer: status line when a DNS provider from \"No filtering\" isn't answering, so URnetwork's own DNS answers until it does. {provider} is the provider's name, inserted as is."
+description: "DNS settings and connect drawer: status line when an adblock provider from \"No filtering\" isn't answering, so URnetwork's own DNS answers until it does. {provider} is the adblock provider's name, inserted as is."
 source: "%@ isn't answering. Using URnetwork DNS."
 platforms:
   - android

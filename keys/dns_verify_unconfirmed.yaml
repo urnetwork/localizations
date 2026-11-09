@@ -1,4 +1,4 @@
-description: "DNS settings, Use my account: shown after a profile ID is saved and the provider answers normally. A wrong ID or a used-up free plan also answers normally, just without filtering, so the app can't confirm the profile. {provider} is the provider's name, inserted as is."
+description: "DNS settings, Use my account: shown after a profile ID is saved and the adblock provider answers normally. A wrong ID or a used-up free plan also answers normally, just without filtering, so the app can't confirm the profile. {provider} is the adblock provider's name, inserted as is."
 source: "Saved, but we can't confirm this profile. If the ID is wrong, %@ answers without filtering."
 platforms:
   - android

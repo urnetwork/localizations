@@ -1,4 +1,4 @@
-description: "DNS settings: note under the blocked lookups count. Some ways a provider answers a block can't be recognized, so the count is a minimum."
+description: "DNS settings: note under the blocked lookups count. Some ways an adblock provider answers a block can't be recognized, so the count is a minimum."
 source: "Some blocks aren't counted, so the real number may be higher."
 platforms:
   - android

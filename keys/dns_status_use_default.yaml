@@ -1,4 +1,4 @@
-description: "DNS settings and connect drawer: button beside a DNS provider status that isn't answering. It switches back to URnetwork's own DNS, the default, in one tap."
+description: "DNS settings and connect drawer: button beside the status of an adblock provider that isn't answering. It switches back to URnetwork's own DNS, the default, in one tap."
 source: "Use URnetwork DNS"
 platforms:
   - android

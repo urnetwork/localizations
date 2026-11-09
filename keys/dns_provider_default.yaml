@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the first pick, URnetwork's own encrypted DNS through the tunnel, which every app uses by default. URnetwork is the product name."
+description: "DNS settings, adblock provider picker: the first pick, URnetwork's own encrypted DNS through the tunnel, which every app uses by default. URnetwork is the product name."
 source: "URnetwork (default)"
 platforms:
   - android
