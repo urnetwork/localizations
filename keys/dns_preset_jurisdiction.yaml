@@ -1,0 +1,39 @@
+description: "DNS settings, provider picker: which country's law the DNS provider operates under. {jurisdiction} comes from the app's provider catalog in English (for example Cyprus or Switzerland) and is inserted as is."
+source: "Jurisdiction: %@"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: jurisdiction
+    type: string
+localizations:
+  ar: "الولاية القضائية: {jurisdiction}"
+  cs: "Jurisdikce: {jurisdiction}"
+  de: "Rechtsraum: {jurisdiction}"
+  el: "Δικαιοδοσία: {jurisdiction}"
+  en: "Jurisdiction: {jurisdiction}"
+  es: "Jurisdicción: {jurisdiction}"
+  es-419: "Jurisdicción: {jurisdiction}"
+  es-MX: "Jurisdicción: {jurisdiction}"
+  fr: "Juridiction : {jurisdiction}"
+  he: "סמכות שיפוט: {jurisdiction}"
+  hi: "क्षेत्राधिकार: {jurisdiction}"
+  id: "Yurisdiksi: {jurisdiction}"
+  it: "Giurisdizione: {jurisdiction}"
+  ja: "管轄: {jurisdiction}"
+  ko: "관할권: {jurisdiction}"
+  nl: "Rechtsgebied: {jurisdiction}"
+  pl: "Jurysdykcja: {jurisdiction}"
+  pt: "Jurisdição: {jurisdiction}"
+  pt-BR: "Jurisdição: {jurisdiction}"
+  pt-PT: "Jurisdição: {jurisdiction}"
+  ru: "Юрисдикция: {jurisdiction}"
+  sv: "Jurisdiktion: {jurisdiction}"
+  sw: "Mamlaka ya kisheria: {jurisdiction}"
+  th: "เขตอำนาจศาล: {jurisdiction}"
+  uk: "Юрисдикція: {jurisdiction}"
+  vi: "Quyền tài phán: {jurisdiction}"
+  zh: "司法管辖区：{jurisdiction}"
+  zh-HK: "司法管轄區：{jurisdiction}"

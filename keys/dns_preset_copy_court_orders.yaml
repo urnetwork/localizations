@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the line under DNS4EU in \"No filtering\". It does no protective filtering, but the domains courts order blocked stay blocked on every DNS4EU resolver. The provider's name is shown above it, not in this string."
+source: "Blocks only what courts order it to block"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "يحظر فقط ما تأمر المحاكم بحظره"
+  cs: "Blokuje jen to, co nařídí soudy"
+  de: "Blockiert nur, was Gerichte anordnen"
+  el: "Αποκλείει μόνο ό,τι διατάσσουν τα δικαστήρια"
+  en: "Blocks only what courts order it to block"
+  es: "Solo bloquea lo que ordenan los tribunales"
+  es-419: "Solo bloquea lo que ordenan los tribunales"
+  es-MX: "Solo bloquea lo que ordenan los tribunales"
+  fr: "Ne bloque que ce que les tribunaux ordonnent de bloquer"
+  he: "חוסם רק את מה שבתי משפט מורים לחסום"
+  hi: "सिर्फ़ वही ब्लॉक करता है जिसका अदालतें आदेश देती हैं"
+  id: "Hanya memblokir yang diperintahkan pengadilan"
+  it: "Blocca solo ciò che ordinano i tribunali"
+  ja: "裁判所の命令によるもののみブロック"
+  ko: "법원이 명령한 것만 차단"
+  nl: "Blokkeert alleen wat rechtbanken laten blokkeren"
+  pl: "Blokuje tylko to, co nakażą sądy"
+  pt: "Bloqueia apenas o que os tribunais ordenam"
+  pt-BR: "Bloqueia apenas o que os tribunais ordenam"
+  pt-PT: "Bloqueia apenas o que os tribunais ordenam"
+  ru: "Блокирует только то, что предписывают суды"
+  sv: "Blockerar bara det som domstolar beordrar"
+  sw: "Huzuia tu kile ambacho mahakama huamuru"
+  th: "บล็อกเฉพาะสิ่งที่ศาลสั่งให้บล็อก"
+  uk: "Блокує лише те, що наказують суди"
+  vi: "Chỉ chặn những gì tòa án yêu cầu"
+  zh: "仅拦截法院命令拦截的内容"
+  zh-HK: "只攔截法院命令攔截的內容"

@@ -1,0 +1,36 @@
+description: "DNS settings: line under \"Ad blocking paused: … isn't answering\". \"it\" is the ad-blocking DNS provider named in that line."
+source: "Using URnetwork DNS until it answers. Ad blocking comes back on its own."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "يتم استخدام DNS الخاص بـ URnetwork حتى يستجيب المزوّد. وسيعود حظر الإعلانات تلقائيًا."
+  cs: "Než znovu odpoví, používá se DNS od URnetwork. Blokování reklam se pak obnoví samo."
+  de: "Bis der Anbieter wieder antwortet, wird URnetwork-DNS verwendet. Die Werbeblockierung startet danach von selbst wieder."
+  el: "Χρησιμοποιείται το DNS του URnetwork μέχρι να απαντήσει ο πάροχος. Ο αποκλεισμός διαφημίσεων θα επανέλθει αυτόματα."
+  en: "Using URnetwork DNS until it answers. Ad blocking comes back on its own."
+  es: "Se usa el DNS de URnetwork hasta que el proveedor responda. El bloqueo de anuncios vuelve solo."
+  es-419: "Se usa el DNS de URnetwork hasta que el proveedor responda. El bloqueo de anuncios vuelve solo."
+  es-MX: "Se usa el DNS de URnetwork hasta que el proveedor responda. El bloqueo de anuncios vuelve solo."
+  fr: "Le DNS d'URnetwork prend le relais jusqu'à ce que le fournisseur réponde. Le blocage des publicités reprendra tout seul."
+  he: "נעשה שימוש ב-DNS של URnetwork עד שהספק יענה. חסימת הפרסומות תחזור מעצמה."
+  hi: "प्रदाता के जवाब देने तक URnetwork DNS इस्तेमाल हो रहा है। विज्ञापन ब्लॉकिंग अपने-आप फिर शुरू हो जाएगी।"
+  id: "Menggunakan DNS URnetwork sampai penyedia itu merespons. Pemblokiran iklan akan aktif lagi dengan sendirinya."
+  it: "Viene usato il DNS di URnetwork finché il provider non risponde. Il blocco della pubblicità riprende da solo."
+  ja: "プロバイダーが応答するまでURnetworkのDNSを使用します。広告ブロックは自動的に再開されます。"
+  ko: "제공업체가 응답할 때까지 URnetwork DNS를 사용합니다. 광고 차단은 자동으로 다시 시작됩니다."
+  nl: "Tot de aanbieder weer reageert, wordt URnetwork-DNS gebruikt. Advertentieblokkering gaat daarna vanzelf weer aan."
+  pl: "Do czasu odpowiedzi używany jest DNS URnetwork. Blokowanie reklam wznowi się samo."
+  pt: "A usar o DNS da URnetwork até o fornecedor responder. O bloqueio de anúncios volta sozinho."
+  pt-BR: "Usando o DNS da URnetwork até o provedor responder. O bloqueio de anúncios volta sozinho."
+  pt-PT: "A usar o DNS da URnetwork até o fornecedor responder. O bloqueio de anúncios volta sozinho."
+  ru: "Пока сервис не ответит, используется DNS URnetwork. Блокировка рекламы возобновится сама."
+  sv: "URnetworks DNS används tills leverantören svarar. Annonsblockeringen kommer tillbaka av sig själv."
+  sw: "Inatumia DNS ya URnetwork hadi mtoa huduma ajibu. Uzuiaji wa matangazo utarudi wenyewe."
+  th: "ใช้ DNS ของ URnetwork จนกว่าผู้ให้บริการจะตอบสนอง การบล็อกโฆษณาจะกลับมาเองโดยอัตโนมัติ"
+  uk: "Поки сервіс не відповість, використовується DNS URnetwork. Блокування реклами відновиться саме."
+  vi: "Đang dùng DNS của URnetwork cho đến khi nhà cung cấp phản hồi. Tính năng chặn quảng cáo sẽ tự bật lại."
+  zh: "在其恢复响应前使用 URnetwork DNS。广告拦截会自动恢复。"
+  zh-HK: "在其恢復回應前使用 URnetwork DNS。廣告攔截會自動恢復。"

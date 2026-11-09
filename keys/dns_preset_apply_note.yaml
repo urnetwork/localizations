@@ -1,0 +1,36 @@
+description: "DNS settings: footnote. A new DNS choice applies to new lookups at once, but apps keep answers they already have for up to about a minute."
+source: "Changes apply to new lookups right away. Apps may keep earlier answers for about a minute."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "تُطبَّق التغييرات على عمليات البحث الجديدة فورًا. قد تحتفظ التطبيقات بالإجابات السابقة لمدة دقيقة تقريبًا."
+  cs: "Změny platí pro nové dotazy okamžitě. Aplikace si mohou předchozí odpovědi ponechat asi minutu."
+  de: "Änderungen gelten sofort für neue Abfragen. Apps behalten frühere Antworten eventuell etwa eine Minute lang."
+  el: "Οι αλλαγές ισχύουν αμέσως για νέες αναζητήσεις. Οι εφαρμογές μπορεί να κρατούν προηγούμενες απαντήσεις για περίπου ένα λεπτό."
+  en: "Changes apply to new lookups right away. Apps may keep earlier answers for about a minute."
+  es: "Los cambios se aplican al instante a las consultas nuevas. Las apps pueden conservar respuestas anteriores durante un minuto aproximadamente."
+  es-419: "Los cambios se aplican al instante a las consultas nuevas. Las apps pueden conservar respuestas anteriores durante un minuto aproximadamente."
+  es-MX: "Los cambios se aplican al instante a las consultas nuevas. Las apps pueden conservar respuestas anteriores durante un minuto aproximadamente."
+  fr: "Les modifications s'appliquent tout de suite aux nouvelles requêtes. Les applications peuvent garder les réponses précédentes environ une minute."
+  he: "השינויים חלים מיד על חיפושים חדשים. אפליקציות עשויות לשמור תשובות קודמות למשך כדקה."
+  hi: "बदलाव नए लुकअप पर तुरंत लागू होते हैं। ऐप्स पुराने जवाब लगभग एक मिनट तक रख सकते हैं।"
+  id: "Perubahan langsung berlaku untuk pencarian baru. Aplikasi mungkin menyimpan jawaban sebelumnya selama sekitar satu menit."
+  it: "Le modifiche si applicano subito alle nuove richieste. Le app potrebbero conservare le risposte precedenti per circa un minuto."
+  ja: "変更は新しい問い合わせにすぐ適用されます。アプリは以前の応答を1分ほど保持する場合があります。"
+  ko: "변경 사항은 새 조회에 바로 적용됩니다. 앱에서 이전 응답을 1분 정도 유지할 수 있습니다."
+  nl: "Wijzigingen gelden meteen voor nieuwe opzoekingen. Apps kunnen eerdere antwoorden ongeveer een minuut bewaren."
+  pl: "Zmiany obowiązują od razu dla nowych zapytań. Aplikacje mogą zachować wcześniejsze odpowiedzi przez około minutę."
+  pt: "As alterações aplicam-se de imediato às novas pesquisas. As aplicações podem manter respostas anteriores durante cerca de um minuto."
+  pt-BR: "As alterações valem na hora para novas consultas. Os apps podem manter respostas anteriores por cerca de um minuto."
+  pt-PT: "As alterações aplicam-se de imediato às novas pesquisas. As aplicações podem manter respostas anteriores durante cerca de um minuto."
+  ru: "Изменения сразу применяются к новым запросам. Приложения могут хранить прежние ответы около минуты."
+  sv: "Ändringar gäller nya uppslag direkt. Appar kan behålla tidigare svar i ungefär en minut."
+  sw: "Mabadiliko hutumika mara moja kwa hoja mpya. Programu zinaweza kuhifadhi majibu ya awali kwa takriban dakika moja."
+  th: "การเปลี่ยนแปลงมีผลกับการค้นหาใหม่ทันที แอปอาจเก็บคำตอบเดิมไว้ประมาณหนึ่งนาที"
+  uk: "Зміни одразу застосовуються до нових запитів. Застосунки можуть зберігати попередні відповіді приблизно хвилину."
+  vi: "Thay đổi áp dụng ngay cho các truy vấn mới. Ứng dụng có thể giữ câu trả lời cũ trong khoảng một phút."
+  zh: "更改会立即应用于新的查询。应用可能会将之前的结果保留约一分钟。"
+  zh-HK: "更改會即時套用於新的查詢。應用程式可能會將之前的結果保留約一分鐘。"

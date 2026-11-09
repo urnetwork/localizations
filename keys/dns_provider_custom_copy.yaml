@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the line under \"Custom\" that says what it holds."
+source: "Your own DNS over HTTPS URLs and DNS servers"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "عناوين URL لـ DNS عبر HTTPS وخوادم DNS الخاصة بك"
+  cs: "Vaše vlastní adresy URL pro DNS přes HTTPS a servery DNS"
+  de: "Deine eigenen URLs für DNS über HTTPS und DNS-Server"
+  el: "Τα δικά σας URL για DNS μέσω HTTPS και διακομιστές DNS"
+  en: "Your own DNS over HTTPS URLs and DNS servers"
+  es: "Tus propias URL de DNS sobre HTTPS y servidores DNS"
+  es-419: "Tus propias URL de DNS sobre HTTPS y servidores DNS"
+  es-MX: "Tus propias URL de DNS sobre HTTPS y servidores DNS"
+  fr: "Vos propres URL DNS via HTTPS et serveurs DNS"
+  he: "כתובות URL משלכם ל-DNS דרך HTTPS ושרתי DNS"
+  hi: "आपके अपने HTTPS पर DNS वाले URL और DNS सर्वर"
+  id: "URL DNS melalui HTTPS dan server DNS milik Anda sendiri"
+  it: "I tuoi URL DNS su HTTPS e server DNS"
+  ja: "独自のDNS over HTTPSのURLとDNSサーバー"
+  ko: "직접 지정하는 DNS over HTTPS URL 및 DNS 서버"
+  nl: "Je eigen DNS over HTTPS-URL's en DNS-servers"
+  pl: "Własne adresy URL DNS przez HTTPS i serwery DNS"
+  pt: "Os seus próprios URLs de DNS sobre HTTPS e servidores DNS"
+  pt-BR: "Suas próprias URLs de DNS sobre HTTPS e servidores DNS"
+  pt-PT: "Os seus próprios URLs de DNS sobre HTTPS e servidores DNS"
+  ru: "Ваши собственные URL DNS через HTTPS и DNS-серверы"
+  sv: "Egna URL:er för DNS över HTTPS och DNS-servrar"
+  sw: "URL zako mwenyewe za DNS kupitia HTTPS na seva za DNS"
+  th: "URL ของ DNS ผ่าน HTTPS และเซิร์ฟเวอร์ DNS ของคุณเอง"
+  uk: "Власні URL-адреси DNS через HTTPS і DNS-сервери"
+  vi: "URL DNS qua HTTPS và máy chủ DNS của riêng bạn"
+  zh: "您自己的 DNS over HTTPS URL 和 DNS 服务器"
+  zh-HK: "你自己的 DNS over HTTPS URL 和 DNS 伺服器"

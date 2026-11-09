@@ -1,0 +1,39 @@
+description: "DNS settings: note beside the \"Fast DNS on connect\" toggle while a DNS provider is selected. While the tunnel connects, lookups go to URnetwork's own DNS, so the provider never sees the person's own address, but those lookups aren't filtered. {provider} is the provider's name, inserted as is."
+source: "While connecting, lookups use URnetwork DNS, so %@ doesn't filter them."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "أثناء الاتصال، تستخدم عمليات البحث DNS الخاص بـ URnetwork، لذا لا يقوم {provider} بتصفيتها."
+  cs: "Během připojování se dotazy překládají přes DNS od URnetwork, takže je {provider} nefiltruje."
+  de: "Während die Verbindung aufgebaut wird, laufen Abfragen über URnetwork-DNS, daher filtert {provider} sie nicht."
+  el: "Κατά τη σύνδεση, οι αναζητήσεις χρησιμοποιούν το DNS του URnetwork, οπότε {provider} δεν τις φιλτράρει."
+  en: "While connecting, lookups use URnetwork DNS, so {provider} doesn't filter them."
+  es: "Mientras se conecta, las consultas usan el DNS de URnetwork, así que {provider} no las filtra."
+  es-419: "Mientras se conecta, las consultas usan el DNS de URnetwork, así que {provider} no las filtra."
+  es-MX: "Mientras se conecta, las consultas usan el DNS de URnetwork, así que {provider} no las filtra."
+  fr: "Pendant la connexion, les requêtes passent par le DNS d'URnetwork : {provider} ne les filtre donc pas."
+  he: "בזמן ההתחברות, החיפושים משתמשים ב-DNS של URnetwork, ולכן {provider} לא מסנן אותם."
+  hi: "कनेक्ट होते समय लुकअप URnetwork DNS से होते हैं, इसलिए {provider} उन्हें फ़िल्टर नहीं करता।"
+  id: "Saat menghubungkan, pencarian menggunakan DNS URnetwork, jadi {provider} tidak memfilternya."
+  it: "Durante la connessione, le richieste usano il DNS di URnetwork, quindi {provider} non le filtra."
+  ja: "接続中の問い合わせはURnetworkのDNSを使用するため、{provider}によるフィルタリングは行われません。"
+  ko: "연결 중에는 조회에 URnetwork DNS를 사용하므로 {provider}에서 필터링하지 않습니다."
+  nl: "Tijdens het verbinden gebruiken opzoekingen URnetwork-DNS, dus {provider} filtert ze niet."
+  pl: "Podczas łączenia zapytania korzystają z DNS URnetwork, więc {provider} ich nie filtruje."
+  pt: "Durante a ligação, as pesquisas usam o DNS da URnetwork, por isso {provider} não as filtra."
+  pt-BR: "Durante a conexão, as consultas usam o DNS da URnetwork, então {provider} não as filtra."
+  pt-PT: "Durante a ligação, as pesquisas usam o DNS da URnetwork, por isso {provider} não as filtra."
+  ru: "Во время подключения запросы идут через DNS URnetwork, поэтому {provider} их не фильтрует."
+  sv: "Medan anslutningen upprättas används URnetworks DNS för uppslag, så {provider} filtrerar dem inte."
+  sw: "Wakati wa kuunganisha, hoja hutumia DNS ya URnetwork, kwa hiyo {provider} haizichuji."
+  th: "ระหว่างเชื่อมต่อ การค้นหาจะใช้ DNS ของ URnetwork ดังนั้น {provider} จะไม่กรองการค้นหาเหล่านั้น"
+  uk: "Під час підключення запити йдуть через DNS URnetwork, тож {provider} їх не фільтрує."
+  vi: "Trong lúc kết nối, các truy vấn dùng DNS của URnetwork nên {provider} không lọc chúng."
+  zh: "连接过程中，查询会使用 URnetwork DNS，因此 {provider} 不会对其进行过滤。"
+  zh-HK: "連接期間，查詢會使用 URnetwork DNS，因此 {provider} 不會過濾這些查詢。"

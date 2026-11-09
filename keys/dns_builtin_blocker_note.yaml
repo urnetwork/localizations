@@ -1,0 +1,36 @@
+description: "Connect drawer and DNS settings: line under the URnetwork ad blocker toggle. It can stay on with any DNS choice, a provider that blocks ads included, and it checks each name before the DNS provider is asked."
+source: "URnetwork's own blocker. It works with any DNS choice and checks each name first."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "مانع URnetwork الخاص. يعمل مع أي خيار DNS ويتحقق من كل اسم أولًا."
+  cs: "Vlastní blokátor URnetwork. Funguje s jakoukoli volbou DNS a každý název kontroluje jako první."
+  de: "Der eigene Blocker von URnetwork. Er funktioniert mit jeder DNS-Auswahl und prüft jeden Namen zuerst."
+  el: "Ο δικός αποκλειστής του URnetwork. Λειτουργεί με οποιαδήποτε επιλογή DNS και ελέγχει πρώτος κάθε όνομα."
+  en: "URnetwork's own blocker. It works with any DNS choice and checks each name first."
+  es: "El bloqueador propio de URnetwork. Funciona con cualquier DNS que elijas y revisa cada nombre primero."
+  es-419: "El bloqueador propio de URnetwork. Funciona con cualquier DNS que elijas y revisa cada nombre primero."
+  es-MX: "El bloqueador propio de URnetwork. Funciona con cualquier DNS que elijas y revisa cada nombre primero."
+  fr: "Le bloqueur intégré d'URnetwork. Il fonctionne avec n'importe quel choix de DNS et vérifie chaque nom en premier."
+  he: "החוסם של URnetwork עצמו. הוא עובד עם כל בחירת DNS ובודק כל שם ראשון."
+  hi: "URnetwork का अपना ब्लॉकर। यह किसी भी DNS के साथ काम करता है और हर नाम को सबसे पहले जाँचता है।"
+  id: "Pemblokir milik URnetwork sendiri. Berfungsi dengan pilihan DNS apa pun dan memeriksa setiap nama lebih dulu."
+  it: "Il blocco integrato di URnetwork. Funziona con qualsiasi DNS scelto e controlla per primo ogni nome."
+  ja: "URnetwork独自のブロッカーです。どのDNSを選んでも動作し、各名前を最初にチェックします。"
+  ko: "URnetwork 자체 차단기입니다. 어떤 DNS를 선택해도 작동하며 각 이름을 가장 먼저 확인합니다."
+  nl: "De eigen blokker van URnetwork. Werkt met elke DNS-keuze en controleert elke naam als eerste."
+  pl: "Własna blokada URnetwork. Działa z każdym wybranym DNS i sprawdza każdą nazwę jako pierwsza."
+  pt: "O bloqueador da própria URnetwork. Funciona com qualquer escolha de DNS e verifica cada nome primeiro."
+  pt-BR: "O bloqueador da própria URnetwork. Funciona com qualquer escolha de DNS e verifica cada nome primeiro."
+  pt-PT: "O bloqueador da própria URnetwork. Funciona com qualquer escolha de DNS e verifica cada nome primeiro."
+  ru: "Собственный блокировщик URnetwork. Работает с любым выбранным DNS и проверяет каждое имя первым."
+  sv: "URnetworks egen blockerare. Den fungerar med alla DNS-val och kontrollerar varje namn först."
+  sw: "Kizuia cha URnetwork chenyewe. Hufanya kazi na DNS yoyote utakayochagua na hukagua kila jina kwanza."
+  th: "ตัวบล็อกของ URnetwork เอง ใช้ได้กับ DNS ทุกตัวที่เลือก และตรวจสอบทุกชื่อก่อน"
+  uk: "Власний блокувальник URnetwork. Працює з будь-яким вибраним DNS і перевіряє кожне ім'я першим."
+  vi: "Trình chặn riêng của URnetwork. Hoạt động với mọi lựa chọn DNS và kiểm tra từng tên trước tiên."
+  zh: "URnetwork 自有的拦截器。适用于任何 DNS 选择，并会最先检查每个域名。"
+  zh-HK: "URnetwork 自家的攔截器。適用於任何 DNS 選擇，並會最先檢查每個網域名稱。"

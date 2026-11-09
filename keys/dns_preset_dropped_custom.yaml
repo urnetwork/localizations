@@ -1,0 +1,36 @@
+description: "DNS settings: button on the notice of a removed DNS provider that opens the Custom editor, where the person can enter the provider's addresses themselves. It names the \"Custom\" pick, so it uses that pick's exact word."
+source: "Enter it yourself under Custom"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "أدخله بنفسك ضمن مخصص"
+  cs: "Zadat ho sami v části Vlastní"
+  de: "Selbst unter „Benutzerdefiniert“ eingeben"
+  el: "Χειροκίνητη εισαγωγή στο Προσαρμοσμένο"
+  en: "Enter it yourself under Custom"
+  es: "Introducirlo manualmente en Personalizado"
+  es-419: "Ingresarlo manualmente en Personalizado"
+  es-MX: "Ingresarlo manualmente en Personalizado"
+  fr: "Le saisir vous-même dans Personnalisé"
+  he: "הזנה ידנית תחת מותאם אישית"
+  hi: "इसे कस्टम में खुद दर्ज करें"
+  id: "Masukkan sendiri di Khusus"
+  it: "Inseriscilo tu in Personalizzato"
+  ja: "カスタムから自分で入力"
+  ko: "사용자 지정에서 직접 입력"
+  nl: "Zelf invoeren onder Aangepast"
+  pl: "Wpisz go ręcznie w sekcji Własny"
+  pt: "Introduzi-lo manualmente em Personalizado"
+  pt-BR: "Inserir manualmente em Personalizado"
+  pt-PT: "Introduzi-lo manualmente em Personalizado"
+  ru: "Ввести вручную в разделе «Пользовательский»"
+  sv: "Ange det själv under Anpassad"
+  sw: "Iweke mwenyewe chini ya Maalum"
+  th: "ป้อนเองในส่วน “กำหนดเอง”"
+  uk: "Ввести вручну в розділі «Власний»"
+  vi: "Tự nhập trong mục Tùy chỉnh"
+  zh: "在“自定义”中自行输入"
+  zh-HK: "在「自訂」中自行輸入"

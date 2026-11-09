@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: free-plan note under the profile ID field for NextDNS, which answers without filtering once the free monthly queries are used up. {provider} is NextDNS, inserted as is. The sdk names this key for the preset."
+source: "%@'s free plan stops filtering after 300,000 queries a month."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "تتوقف خطة {provider} المجانية عن التصفية بعد 300,000 استعلام شهريًا."
+  cs: "Bezplatný tarif {provider} přestane filtrovat po 300 000 dotazech za měsíc."
+  de: "Der kostenlose Tarif von {provider} filtert nach 300.000 Abfragen im Monat nicht mehr."
+  el: "Το δωρεάν πρόγραμμα του {provider} σταματά να φιλτράρει μετά από 300.000 ερωτήματα τον μήνα."
+  en: "{provider}'s free plan stops filtering after 300,000 queries a month."
+  es: "El plan gratuito de {provider} deja de filtrar después de 300.000 consultas al mes."
+  es-419: "El plan gratuito de {provider} deja de filtrar después de 300,000 consultas al mes."
+  es-MX: "El plan gratuito de {provider} deja de filtrar después de 300,000 consultas al mes."
+  fr: "L'offre gratuite de {provider} cesse de filtrer après 300 000 requêtes par mois."
+  he: "התוכנית החינמית של {provider} מפסיקה לסנן אחרי 300,000 שאילתות בחודש."
+  hi: "{provider} का मुफ़्त प्लान हर महीने 3,00,000 क्वेरी के बाद फ़िल्टर करना बंद कर देता है।"
+  id: "Paket gratis {provider} berhenti memfilter setelah 300.000 kueri per bulan."
+  it: "Il piano gratuito di {provider} smette di filtrare dopo 300.000 richieste al mese."
+  ja: "{provider}の無料プランは、月30万クエリを超えるとフィルタリングを停止します。"
+  ko: "{provider} 무료 요금제는 월 30만 쿼리를 넘으면 필터링을 멈춥니다."
+  nl: "Het gratis abonnement van {provider} stopt met filteren na 300.000 verzoeken per maand."
+  pl: "Darmowy plan {provider} przestaje filtrować po 300 000 zapytań miesięcznie."
+  pt: "O plano gratuito de {provider} deixa de filtrar após 300 000 consultas por mês."
+  pt-BR: "O plano gratuito de {provider} para de filtrar depois de 300.000 consultas por mês."
+  pt-PT: "O plano gratuito de {provider} deixa de filtrar após 300 000 consultas por mês."
+  ru: "Бесплатный тариф {provider} перестаёт фильтровать после 300 000 запросов в месяц."
+  sv: "Gratisplanen hos {provider} slutar filtrera efter 300 000 förfrågningar i månaden."
+  sw: "Mpango wa bure wa {provider} huacha kuchuja baada ya hoja 300,000 kwa mwezi."
+  th: "แพ็กเกจฟรีของ {provider} จะหยุดกรองหลังจาก 300,000 คำค้นต่อเดือน"
+  uk: "Безкоштовний тариф {provider} припиняє фільтрувати після 300 000 запитів на місяць."
+  vi: "Gói miễn phí của {provider} ngừng lọc sau 300.000 truy vấn mỗi tháng."
+  zh: "{provider} 免费套餐每月超过 30 万次查询后将停止过滤。"
+  zh-HK: "{provider} 免費計劃每月超過 30 萬次查詢後會停止過濾。"

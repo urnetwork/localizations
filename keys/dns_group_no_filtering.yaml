@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: heading of the group of other DNS providers that resolve every name and block nothing."
+source: "No filtering"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "بدون تصفية"
+  cs: "Bez filtrování"
+  de: "Ohne Filterung"
+  el: "Χωρίς φιλτράρισμα"
+  en: "No filtering"
+  es: "Sin filtrado"
+  es-419: "Sin filtrado"
+  es-MX: "Sin filtrado"
+  fr: "Sans filtrage"
+  he: "ללא סינון"
+  hi: "बिना फ़िल्टरिंग"
+  id: "Tanpa pemfilteran"
+  it: "Nessun filtro"
+  ja: "フィルタリングなし"
+  ko: "필터링 없음"
+  nl: "Geen filtering"
+  pl: "Bez filtrowania"
+  pt: "Sem filtragem"
+  pt-BR: "Sem filtragem"
+  pt-PT: "Sem filtragem"
+  ru: "Без фильтрации"
+  sv: "Ingen filtrering"
+  sw: "Bila uchujaji"
+  th: "ไม่มีการกรอง"
+  uk: "Без фільтрування"
+  vi: "Không lọc"
+  zh: "不过滤"
+  zh-HK: "不過濾"

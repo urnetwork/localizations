@@ -1,0 +1,36 @@
+description: "DNS settings: line under \"… isn't answering\" for a family, malware-blocking or personal DNS provider. \"it\" is the DNS provider named in that line."
+source: "To keep filtering on, URnetwork doesn't switch DNS for you. Sites may not load until it answers."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "للإبقاء على التصفية، لا يبدّل URnetwork خادم DNS تلقائيًا. قد لا يتم تحميل المواقع حتى يستجيب المزوّد."
+  cs: "Aby filtrování zůstalo zapnuté, URnetwork DNS sám nepřepne. Weby se nemusí načítat, dokud služba neodpoví."
+  de: "Damit die Filterung aktiv bleibt, wechselt URnetwork das DNS nicht von selbst. Bis der Anbieter antwortet, laden Seiten eventuell nicht."
+  el: "Για να μείνει ενεργό το φιλτράρισμα, το URnetwork δεν αλλάζει DNS από μόνο του. Οι ιστότοποι μπορεί να μη φορτώνουν μέχρι να απαντήσει ο πάροχος."
+  en: "To keep filtering on, URnetwork doesn't switch DNS for you. Sites may not load until it answers."
+  es: "Para mantener el filtrado, URnetwork no cambia de DNS por su cuenta. Puede que los sitios no carguen hasta que el proveedor responda."
+  es-419: "Para mantener el filtrado, URnetwork no cambia de DNS por su cuenta. Puede que los sitios no carguen hasta que el proveedor responda."
+  es-MX: "Para mantener el filtrado, URnetwork no cambia de DNS por su cuenta. Puede que los sitios no carguen hasta que el proveedor responda."
+  fr: "Pour garder le filtrage actif, URnetwork ne change pas de DNS de lui-même. Les sites peuvent ne pas se charger tant que le fournisseur ne répond pas."
+  he: "כדי לשמור על הסינון, URnetwork לא מחליף DNS בעצמו. ייתכן שאתרים לא ייטענו עד שהספק יענה."
+  hi: "फ़िल्टरिंग चालू रखने के लिए URnetwork अपने-आप DNS नहीं बदलता। प्रदाता के जवाब देने तक साइटें शायद लोड न हों।"
+  id: "Agar pemfilteran tetap aktif, URnetwork tidak mengganti DNS secara otomatis. Situs mungkin tidak dapat dimuat sampai penyedia itu merespons."
+  it: "Per mantenere attivo il filtro, URnetwork non cambia DNS da solo. I siti potrebbero non caricarsi finché il provider non risponde."
+  ja: "フィルタリングを維持するため、URnetworkはDNSを自動で切り替えません。プロバイダーが応答するまでサイトが読み込めない場合があります。"
+  ko: "필터링을 유지하기 위해 URnetwork는 DNS를 자동으로 바꾸지 않습니다. 제공업체가 응답할 때까지 사이트가 로드되지 않을 수 있습니다."
+  nl: "Om de filtering aan te houden, schakelt URnetwork niet zelf over op andere DNS. Sites laden mogelijk niet tot de aanbieder weer reageert."
+  pl: "Aby filtrowanie pozostało włączone, URnetwork nie zmienia DNS samodzielnie. Strony mogą się nie ładować, dopóki dostawca nie odpowie."
+  pt: "Para manter a filtragem, a URnetwork não muda de DNS por si. Os sites podem não carregar até o fornecedor responder."
+  pt-BR: "Para manter a filtragem, a URnetwork não troca de DNS sozinha. Os sites podem não carregar até o provedor responder."
+  pt-PT: "Para manter a filtragem, a URnetwork não muda de DNS por si. Os sites podem não carregar até o fornecedor responder."
+  ru: "Чтобы фильтрация оставалась включённой, URnetwork не переключает DNS сам. Пока сервис не ответит, сайты могут не загружаться."
+  sv: "För att filtreringen ska vara kvar byter URnetwork inte DNS på egen hand. Webbplatser kanske inte laddas förrän leverantören svarar."
+  sw: "Ili uchujaji uendelee, URnetwork haibadilishi DNS yenyewe. Huenda tovuti zisipakie hadi mtoa huduma ajibu."
+  th: "เพื่อให้การกรองยังทำงานอยู่ URnetwork จะไม่เปลี่ยน DNS ให้เอง เว็บไซต์อาจโหลดไม่ได้จนกว่าผู้ให้บริการจะตอบสนอง"
+  uk: "Щоб фільтрування залишалося ввімкненим, URnetwork не перемикає DNS самостійно. Поки сервіс не відповість, сайти можуть не завантажуватися."
+  vi: "Để giữ tính năng lọc, URnetwork không tự đổi DNS. Các trang web có thể không tải được cho đến khi nhà cung cấp phản hồi."
+  zh: "为保持过滤，URnetwork 不会自动切换 DNS。在其恢复响应前，网站可能无法加载。"
+  zh-HK: "為保持過濾，URnetwork 不會自動切換 DNS。在其恢復回應前，網站可能無法載入。"

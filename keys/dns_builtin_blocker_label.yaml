@@ -1,0 +1,36 @@
+description: "Connect drawer and DNS settings: label of the toggle for URnetwork's own ad and tracker blocker, which works on the device beside any DNS choice. It is named as URnetwork's own so it isn't mistaken for the DNS providers in \"Block ads and trackers\"."
+source: "URnetwork ad blocker"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "مانع الإعلانات من URnetwork"
+  cs: "Blokátor reklam URnetwork"
+  de: "URnetwork-Werbeblocker"
+  el: "Αποκλεισμός διαφημίσεων URnetwork"
+  en: "URnetwork ad blocker"
+  es: "Bloqueador de anuncios de URnetwork"
+  es-419: "Bloqueador de anuncios de URnetwork"
+  es-MX: "Bloqueador de anuncios de URnetwork"
+  fr: "Bloqueur de publicités d'URnetwork"
+  he: "חוסם הפרסומות של URnetwork"
+  hi: "URnetwork ऐड ब्लॉकर"
+  id: "Pemblokir iklan URnetwork"
+  it: "Blocco pubblicità di URnetwork"
+  ja: "URnetworkの広告ブロッカー"
+  ko: "URnetwork 광고 차단기"
+  nl: "URnetwork-advertentieblokker"
+  pl: "Blokada reklam URnetwork"
+  pt: "Bloqueador de anúncios da URnetwork"
+  pt-BR: "Bloqueador de anúncios da URnetwork"
+  pt-PT: "Bloqueador de anúncios da URnetwork"
+  ru: "Блокировщик рекламы URnetwork"
+  sv: "URnetworks annonsblockerare"
+  sw: "Kizuia matangazo cha URnetwork"
+  th: "ตัวบล็อกโฆษณาของ URnetwork"
+  uk: "Блокувальник реклами URnetwork"
+  vi: "Trình chặn quảng cáo của URnetwork"
+  zh: "URnetwork 广告拦截器"
+  zh-HK: "URnetwork 廣告攔截器"

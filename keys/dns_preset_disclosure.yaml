@@ -1,0 +1,39 @@
+description: "DNS settings: disclosure under the selected DNS provider, above the Privacy policy and Help links. The provider receives the names looked up while connected, from the VPN exit's address, never the person's own IP address. {provider} is the provider's name (for example AdGuard DNS), inserted as is."
+source: "Your DNS lookups go to %@ through the tunnel, so it never sees your IP address. Its privacy policy applies."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "تذهب عمليات بحث DNS الخاصة بك إلى {provider} عبر النفق، فلا يرى عنوان IP الخاص بك أبدًا. وتنطبق سياسة الخصوصية الخاصة به."
+  cs: "Vaše dotazy DNS jdou přes tunel ke službě {provider}, takže nikdy neuvidí vaši IP adresu. Platí její zásady ochrany osobních údajů."
+  de: "Deine DNS-Abfragen gehen durch den Tunnel an {provider}, daher sieht der Anbieter nie deine IP-Adresse. Es gilt seine Datenschutzerklärung."
+  el: "Οι αναζητήσεις DNS σας πηγαίνουν στο {provider} μέσω του τούνελ, οπότε δεν βλέπει ποτέ τη διεύθυνση IP σας. Ισχύει η πολιτική απορρήτου του."
+  en: "Your DNS lookups go to {provider} through the tunnel, so it never sees your IP address. Its privacy policy applies."
+  es: "Tus consultas DNS van a {provider} a través del túnel, así que nunca ve tu dirección IP. Se aplica su política de privacidad."
+  es-419: "Tus consultas DNS van a {provider} a través del túnel, así que nunca ve tu dirección IP. Se aplica su política de privacidad."
+  es-MX: "Tus consultas DNS van a {provider} a través del túnel, así que nunca ve tu dirección IP. Se aplica su política de privacidad."
+  fr: "Vos requêtes DNS passent par le tunnel jusqu'à {provider}, qui ne voit donc jamais votre adresse IP. Sa politique de confidentialité s'applique."
+  he: "חיפושי ה-DNS שלכם עוברים דרך המנהרה אל {provider}, כך שהוא לעולם לא רואה את כתובת ה-IP שלכם. מדיניות הפרטיות שלו חלה."
+  hi: "आपके DNS लुकअप टनल के ज़रिए {provider} को जाते हैं, इसलिए उसे आपका IP पता कभी नहीं दिखता। उसकी गोपनीयता नीति लागू होती है।"
+  id: "Pencarian DNS Anda dikirim ke {provider} melalui terowongan, sehingga penyedia itu tidak pernah melihat alamat IP Anda. Kebijakan privasinya berlaku."
+  it: "Le tue richieste DNS arrivano a {provider} attraverso il tunnel, quindi non vede mai il tuo indirizzo IP. Si applica la sua informativa sulla privacy."
+  ja: "DNSの問い合わせはトンネル経由で{provider}に送られるため、あなたのIPアドレスが知られることはありません。同社のプライバシーポリシーが適用されます。"
+  ko: "DNS 조회는 터널을 통해 {provider}에 전달되므로 사용자의 IP 주소는 절대 노출되지 않습니다. 해당 업체의 개인정보 처리방침이 적용됩니다."
+  nl: "Je DNS-opzoekingen gaan via de tunnel naar {provider}, dus die ziet nooit je IP-adres. Het privacybeleid van die aanbieder is van toepassing."
+  pl: "Twoje zapytania DNS trafiają przez tunel do {provider}, więc ten dostawca nigdy nie widzi Twojego adresu IP. Obowiązuje jego polityka prywatności."
+  pt: "As suas pesquisas DNS seguem pelo túnel até {provider}, que nunca vê o seu endereço IP. Aplica-se a respetiva política de privacidade."
+  pt-BR: "Suas consultas DNS seguem pelo túnel até {provider}, que nunca vê seu endereço IP. Vale a política de privacidade dele."
+  pt-PT: "As suas pesquisas DNS seguem pelo túnel até {provider}, que nunca vê o seu endereço IP. Aplica-se a respetiva política de privacidade."
+  ru: "Ваши DNS-запросы идут через туннель к {provider}, поэтому сервис никогда не видит ваш IP-адрес. Действует его политика конфиденциальности."
+  sv: "Dina DNS-uppslag går genom tunneln till {provider}, så leverantören ser aldrig din IP-adress. Leverantörens integritetspolicy gäller."
+  sw: "Hoja zako za DNS huenda kwa {provider} kupitia tuneli, kwa hiyo haioni kamwe anwani yako ya IP. Sera yake ya faragha inatumika."
+  th: "การค้นหา DNS ของคุณส่งไปยัง {provider} ผ่านอุโมงค์ จึงไม่เห็นที่อยู่ IP ของคุณ และใช้นโยบายความเป็นส่วนตัวของผู้ให้บริการนี้"
+  uk: "Ваші DNS-запити йдуть через тунель до {provider}, тож сервіс ніколи не бачить вашої IP-адреси. Діє його політика конфіденційності."
+  vi: "Các truy vấn DNS của bạn đi qua đường hầm đến {provider}, nên nhà cung cấp này không bao giờ thấy địa chỉ IP của bạn. Chính sách quyền riêng tư của họ được áp dụng."
+  zh: "您的 DNS 查询经由隧道发送到 {provider}，因此它永远看不到您的 IP 地址。适用其隐私政策。"
+  zh-HK: "你的 DNS 查詢經隧道傳送到 {provider}，因此它永遠看不到你的 IP 位址。適用其私隱政策。"

@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the line under a DNS provider's name that says what it blocks. Used for AdGuard DNS Family in \"Family\": it also forces safe search on search engines. The provider's name is shown above it, not in this string."
+source: "Blocks ads, trackers and adult sites, and turns on safe search"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "يحظر الإعلانات والمتعقبات ومواقع البالغين، ويفعّل البحث الآمن"
+  cs: "Blokuje reklamy, trackery a stránky pro dospělé a zapíná bezpečné vyhledávání"
+  de: "Blockiert Werbung, Tracker und Seiten für Erwachsene und aktiviert SafeSearch"
+  el: "Αποκλείει διαφημίσεις, ιχνηλάτες και ιστότοπους για ενηλίκους και ενεργοποιεί την ασφαλή αναζήτηση"
+  en: "Blocks ads, trackers and adult sites, and turns on safe search"
+  es: "Bloquea anuncios, rastreadores y sitios para adultos, y activa la búsqueda segura"
+  es-419: "Bloquea anuncios, rastreadores y sitios para adultos, y activa la búsqueda segura"
+  es-MX: "Bloquea anuncios, rastreadores y sitios para adultos, y activa la búsqueda segura"
+  fr: "Bloque les publicités, les traqueurs et les sites pour adultes, et active la recherche sécurisée"
+  he: "חוסם פרסומות, רכיבי מעקב ואתרים למבוגרים, ומפעיל חיפוש בטוח"
+  hi: "विज्ञापन, ट्रैकर और वयस्क साइटें ब्लॉक करता है, और सुरक्षित खोज चालू करता है"
+  id: "Memblokir iklan, pelacak, dan situs dewasa, serta mengaktifkan pencarian aman"
+  it: "Blocca pubblicità, tracker e siti per adulti e attiva la ricerca sicura"
+  ja: "広告、トラッカー、アダルトサイトをブロックし、セーフサーチを有効にします"
+  ko: "광고, 트래커, 성인 사이트를 차단하고 세이프서치를 켭니다"
+  nl: "Blokkeert advertenties, trackers en sites voor volwassenen en zet veilig zoeken aan"
+  pl: "Blokuje reklamy, trackery i strony dla dorosłych oraz włącza bezpieczne wyszukiwanie"
+  pt: "Bloqueia anúncios, rastreadores e sites para adultos, e ativa a pesquisa segura"
+  pt-BR: "Bloqueia anúncios, rastreadores e sites para adultos, e ativa a pesquisa segura"
+  pt-PT: "Bloqueia anúncios, rastreadores e sites para adultos, e ativa a pesquisa segura"
+  ru: "Блокирует рекламу, трекеры и сайты для взрослых, включает безопасный поиск"
+  sv: "Blockerar annonser, spårare och vuxensajter och slår på säker sökning"
+  sw: "Huzuia matangazo, vifuatiliaji na tovuti za watu wazima, na huwasha utafutaji salama"
+  th: "บล็อกโฆษณา ตัวติดตาม และเว็บไซต์สำหรับผู้ใหญ่ และเปิดการค้นหาปลอดภัย"
+  uk: "Блокує рекламу, трекери та сайти для дорослих і вмикає безпечний пошук"
+  vi: "Chặn quảng cáo, trình theo dõi và trang web người lớn, đồng thời bật tìm kiếm an toàn"
+  zh: "拦截广告、跟踪器和成人网站，并开启安全搜索"
+  zh-HK: "攔截廣告、追蹤器和成人網站，並開啟安全搜尋"

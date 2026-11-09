@@ -1,0 +1,36 @@
+description: "DNS settings: button on the notice of a removed DNS provider that opens the provider list. \"Preset\" means one of the DNS providers listed on the screen."
+source: "Choose another preset"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "اختر إعدادًا مسبقًا آخر"
+  cs: "Vybrat jinou předvolbu"
+  de: "Andere Voreinstellung wählen"
+  el: "Επιλογή άλλης προρύθμισης"
+  en: "Choose another preset"
+  es: "Elegir otra opción predefinida"
+  es-419: "Elegir otra opción predefinida"
+  es-MX: "Elegir otra opción predefinida"
+  fr: "Choisir un autre préréglage"
+  he: "בחירת הגדרה מוכנה אחרת"
+  hi: "दूसरा प्रीसेट चुनें"
+  id: "Pilih preset lain"
+  it: "Scegli un'altra preimpostazione"
+  ja: "別のプリセットを選ぶ"
+  ko: "다른 프리셋 선택"
+  nl: "Andere voorinstelling kiezen"
+  pl: "Wybierz inne gotowe ustawienie"
+  pt: "Escolher outra predefinição"
+  pt-BR: "Escolher outra predefinição"
+  pt-PT: "Escolher outra predefinição"
+  ru: "Выбрать другую предустановку"
+  sv: "Välj en annan förinställning"
+  sw: "Chagua mpangilio mwingine uliowekwa tayari"
+  th: "เลือกพรีเซ็ตอื่น"
+  uk: "Вибрати інше готове налаштування"
+  vi: "Chọn cài đặt sẵn khác"
+  zh: "选择其他预设"
+  zh-HK: "選擇其他選項"

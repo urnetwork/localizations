@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the line under a DNS provider's name in \"No filtering\" (AdGuard DNS, Cloudflare, Control D): the provider resolves every name and blocks nothing. The provider's name is shown above it, not in this string."
+source: "Blocks nothing"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "لا يحظر أي شيء"
+  cs: "Neblokuje nic"
+  de: "Blockiert nichts"
+  el: "Δεν αποκλείει τίποτα"
+  en: "Blocks nothing"
+  es: "No bloquea nada"
+  es-419: "No bloquea nada"
+  es-MX: "No bloquea nada"
+  fr: "Ne bloque rien"
+  he: "לא חוסם דבר"
+  hi: "कुछ भी ब्लॉक नहीं करता"
+  id: "Tidak memblokir apa pun"
+  it: "Non blocca nulla"
+  ja: "何もブロックしません"
+  ko: "아무것도 차단하지 않음"
+  nl: "Blokkeert niets"
+  pl: "Niczego nie blokuje"
+  pt: "Não bloqueia nada"
+  pt-BR: "Não bloqueia nada"
+  pt-PT: "Não bloqueia nada"
+  ru: "Ничего не блокирует"
+  sv: "Blockerar ingenting"
+  sw: "Haizuii chochote"
+  th: "ไม่บล็อกอะไรเลย"
+  uk: "Нічого не блокує"
+  vi: "Không chặn gì"
+  zh: "不拦截任何内容"
+  zh-HK: "不攔截任何內容"

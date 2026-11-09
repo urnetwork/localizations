@@ -1,0 +1,36 @@
+description: "Android connect screen: line added to the strict Private DNS notice while a DNS provider is selected, since Android's Private DNS sends lookups to its own server instead. {provider} is the selected DNS provider's name, inserted as is. Private DNS is Android's own setting, named as in Android."
+source: "Private DNS overrides your DNS choice (%1$s)."
+platforms:
+  - android
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "يتجاوز DNS الخاص اختيارك لخادم DNS ({provider})."
+  cs: "Soukromé DNS přepisuje vaši volbu DNS ({provider})."
+  de: "Privates DNS setzt deine DNS-Auswahl ({provider}) außer Kraft."
+  el: "Το Ιδιωτικό DNS παρακάμπτει την επιλογή DNS σας ({provider})."
+  en: "Private DNS overrides your DNS choice ({provider})."
+  es: "El DNS privado anula tu elección de DNS ({provider})."
+  es-419: "El DNS privado anula tu elección de DNS ({provider})."
+  es-MX: "El DNS privado anula tu elección de DNS ({provider})."
+  fr: "Le DNS privé remplace votre choix de DNS ({provider})."
+  he: "DNS פרטי עוקף את בחירת ה-DNS שלכם ({provider})."
+  hi: "निजी DNS आपकी चुनी हुई DNS ({provider}) को ओवरराइड कर देता है।"
+  id: "DNS Pribadi mengesampingkan pilihan DNS Anda ({provider})."
+  it: "Il DNS privato sostituisce il DNS che hai scelto ({provider})."
+  ja: "プライベートDNSが、選択したDNS（{provider}）より優先されます。"
+  ko: "비공개 DNS가 선택한 DNS({provider})보다 우선 적용됩니다."
+  nl: "Privé-DNS overschrijft je DNS-keuze ({provider})."
+  pl: "Prywatny DNS zastępuje wybrany przez Ciebie DNS ({provider})."
+  pt: "O DNS privado substitui a sua escolha de DNS ({provider})."
+  pt-BR: "O DNS privado substitui sua escolha de DNS ({provider})."
+  pt-PT: "O DNS privado substitui a sua escolha de DNS ({provider})."
+  ru: "Частный DNS заменяет выбранный вами DNS ({provider})."
+  sv: "Privat DNS åsidosätter ditt DNS-val ({provider})."
+  sw: "DNS ya Faragha hubatilisha chaguo lako la DNS ({provider})."
+  th: "DNS ส่วนตัวจะแทนที่ DNS ที่คุณเลือก ({provider})"
+  uk: "Приватний DNS замінює вибраний вами DNS ({provider})."
+  vi: "DNS riêng tư ghi đè lựa chọn DNS của bạn ({provider})."
+  zh: "私人 DNS 会覆盖您选择的 DNS（{provider}）。"
+  zh-HK: "私人 DNS 會覆蓋你選擇的 DNS（{provider}）。"

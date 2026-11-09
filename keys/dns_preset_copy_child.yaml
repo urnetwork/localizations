@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the line under a DNS provider's name that says what it blocks, and that it doesn't block ads. Used for DNS4EU's child protection in \"Family\". The provider's name is shown above it, not in this string."
+source: "Blocks malware, adult sites, gambling, drugs and violence, not ads"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "يحظر البرمجيات الخبيثة ومواقع البالغين والمقامرة والمخدرات والعنف، وليس الإعلانات"
+  cs: "Blokuje malware, stránky pro dospělé, hazard, drogy a násilí, ne reklamy"
+  de: "Blockiert Malware, Seiten für Erwachsene, Glücksspiel, Drogen und Gewalt, keine Werbung"
+  el: "Αποκλείει κακόβουλο λογισμικό, ιστότοπους για ενηλίκους, τζόγο, ναρκωτικά και βία, όχι διαφημίσεις"
+  en: "Blocks malware, adult sites, gambling, drugs and violence, not ads"
+  es: "Bloquea malware, sitios para adultos, apuestas, drogas y violencia, no anuncios"
+  es-419: "Bloquea malware, sitios para adultos, apuestas, drogas y violencia, no anuncios"
+  es-MX: "Bloquea malware, sitios para adultos, apuestas, drogas y violencia, no anuncios"
+  fr: "Bloque les logiciels malveillants, les sites pour adultes, les jeux d'argent, la drogue et la violence, pas les publicités"
+  he: "חוסם תוכנות זדוניות, אתרים למבוגרים, הימורים, סמים ואלימות, לא פרסומות"
+  hi: "मैलवेयर, वयस्क साइटें, जुआ, ड्रग्स और हिंसा ब्लॉक करता है, विज्ञापन नहीं"
+  id: "Memblokir malware, situs dewasa, perjudian, narkoba, dan kekerasan, bukan iklan"
+  it: "Blocca malware, siti per adulti, gioco d'azzardo, droghe e violenza, non la pubblicità"
+  ja: "マルウェア、アダルトサイト、ギャンブル、薬物、暴力をブロック（広告は対象外）"
+  ko: "악성코드, 성인 사이트, 도박, 마약, 폭력 차단(광고는 차단 안 함)"
+  nl: "Blokkeert malware, sites voor volwassenen, gokken, drugs en geweld, geen advertenties"
+  pl: "Blokuje złośliwe oprogramowanie, strony dla dorosłych, hazard, narkotyki i przemoc, nie reklamy"
+  pt: "Bloqueia malware, sites para adultos, jogos de azar, drogas e violência, não anúncios"
+  pt-BR: "Bloqueia malware, sites para adultos, jogos de azar, drogas e violência, não anúncios"
+  pt-PT: "Bloqueia malware, sites para adultos, jogos de azar, drogas e violência, não anúncios"
+  ru: "Блокирует вредоносное ПО, сайты для взрослых, азартные игры, наркотики и насилие, но не рекламу"
+  sv: "Blockerar skadlig kod, vuxensajter, spel om pengar, droger och våld, inte annonser"
+  sw: "Huzuia programu hasidi, tovuti za watu wazima, kamari, dawa za kulevya na vurugu, si matangazo"
+  th: "บล็อกมัลแวร์ เว็บไซต์สำหรับผู้ใหญ่ การพนัน ยาเสพติด และความรุนแรง ไม่บล็อกโฆษณา"
+  uk: "Блокує шкідливе ПЗ, сайти для дорослих, азартні ігри, наркотики та насильство, але не рекламу"
+  vi: "Chặn phần mềm độc hại, trang web người lớn, cờ bạc, ma túy và bạo lực, không chặn quảng cáo"
+  zh: "拦截恶意软件、成人网站、赌博、毒品和暴力内容，不拦截广告"
+  zh-HK: "攔截惡意軟件、成人網站、賭博、毒品和暴力內容，不攔截廣告"

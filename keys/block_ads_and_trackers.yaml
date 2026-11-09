@@ -1,4 +1,4 @@
-description: "dns settings"
+description: "DNS settings: heading of the group of DNS providers that block ads and trackers (AdGuard DNS, Control D, DNS4EU), beside \"Block malware\" and \"Family\". Screens that haven't moved to dns_builtin_blocker_label also label URnetwork's own blocker's toggle with it, so it reads both as a heading and as an action."
 source: "Block ads and trackers"
 platforms:
   - android

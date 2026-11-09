@@ -1,0 +1,36 @@
+description: "DNS settings, Custom: note that a filtering DNS server added beside URnetwork's default servers doesn't filter, because each lookup takes the fastest answer, usually an unfiltered one."
+source: "Mixing a filtering server with the default servers doesn't filter: the fastest answer wins."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "خلط خادم يقوم بالتصفية مع الخوادم الافتراضية لا يحقق التصفية: فالإجابة الأسرع هي التي تُعتمد."
+  cs: "Kombinace filtrujícího serveru s výchozími servery nefiltruje: vyhrává nejrychlejší odpověď."
+  de: "Ein filternder Server zusammen mit den Standardservern filtert nicht: Die schnellste Antwort gewinnt."
+  el: "Ο συνδυασμός ενός διακομιστή φιλτραρίσματος με τους προεπιλεγμένους διακομιστές δεν φιλτράρει: κερδίζει η ταχύτερη απάντηση."
+  en: "Mixing a filtering server with the default servers doesn't filter: the fastest answer wins."
+  es: "Mezclar un servidor con filtrado y los servidores predeterminados no filtra: gana la respuesta más rápida."
+  es-419: "Mezclar un servidor con filtrado y los servidores predeterminados no filtra: gana la respuesta más rápida."
+  es-MX: "Mezclar un servidor con filtrado y los servidores predeterminados no filtra: gana la respuesta más rápida."
+  fr: "Mélanger un serveur filtrant avec les serveurs par défaut ne filtre pas : la réponse la plus rapide l'emporte."
+  he: "שילוב שרת מסנן עם שרתי ברירת המחדל לא מסנן: התשובה המהירה ביותר מנצחת."
+  hi: "फ़िल्टर करने वाले सर्वर को डिफ़ॉल्ट सर्वरों के साथ मिलाने से फ़िल्टरिंग नहीं होती: सबसे तेज़ जवाब ही इस्तेमाल होता है।"
+  id: "Mencampur server pemfilter dengan server bawaan tidak akan memfilter: jawaban tercepat yang dipakai."
+  it: "Combinare un server con filtro e i server predefiniti non filtra: vince la risposta più veloce."
+  ja: "フィルタリングするサーバーをデフォルトのサーバーと混在させてもフィルタリングされません。最も速い応答が使われるためです。"
+  ko: "필터링 서버를 기본 서버와 함께 쓰면 필터링되지 않습니다. 가장 빠른 응답이 사용되기 때문입니다."
+  nl: "Een filterende server combineren met de standaardservers filtert niet: het snelste antwoord wint."
+  pl: "Połączenie filtrującego serwera z serwerami domyślnymi nie filtruje: wygrywa najszybsza odpowiedź."
+  pt: "Misturar um servidor com filtragem com os servidores predefinidos não filtra: ganha a resposta mais rápida."
+  pt-BR: "Misturar um servidor com filtragem com os servidores padrão não filtra: vence a resposta mais rápida."
+  pt-PT: "Misturar um servidor com filtragem com os servidores predefinidos não filtra: ganha a resposta mais rápida."
+  ru: "Сочетание фильтрующего сервера с серверами по умолчанию не фильтрует: побеждает самый быстрый ответ."
+  sv: "En filtrerande server tillsammans med standardservrarna filtrerar inte: det snabbaste svaret vinner."
+  sw: "Kuchanganya seva inayochuja na seva chaguo-msingi hakuchuji: jibu la haraka zaidi ndilo hushinda."
+  th: "การใช้เซิร์ฟเวอร์ที่กรองร่วมกับเซิร์ฟเวอร์เริ่มต้นจะไม่กรอง เพราะคำตอบที่เร็วที่สุดจะถูกใช้"
+  uk: "Поєднання фільтрувального сервера із серверами за замовчуванням не фільтрує: перемагає найшвидша відповідь."
+  vi: "Kết hợp máy chủ có lọc với các máy chủ mặc định sẽ không lọc: câu trả lời nhanh nhất được dùng."
+  zh: "将过滤服务器与默认服务器混用不会过滤：最快的应答会胜出。"
+  zh-HK: "將過濾伺服器與預設伺服器混用不會過濾：最快的回應會勝出。"

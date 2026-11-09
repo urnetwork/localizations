@@ -1,0 +1,39 @@
+description: "DNS settings: status line while the selected DNS provider answers normally. {provider} is the provider's name (for example AdGuard DNS), inserted as is."
+source: "DNS: %@"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "DNS: {provider}"
+  cs: "DNS: {provider}"
+  de: "DNS: {provider}"
+  el: "DNS: {provider}"
+  en: "DNS: {provider}"
+  es: "DNS: {provider}"
+  es-419: "DNS: {provider}"
+  es-MX: "DNS: {provider}"
+  fr: "DNS : {provider}"
+  he: "DNS: {provider}"
+  hi: "DNS: {provider}"
+  id: "DNS: {provider}"
+  it: "DNS: {provider}"
+  ja: "DNS: {provider}"
+  ko: "DNS: {provider}"
+  nl: "DNS: {provider}"
+  pl: "DNS: {provider}"
+  pt: "DNS: {provider}"
+  pt-BR: "DNS: {provider}"
+  pt-PT: "DNS: {provider}"
+  ru: "DNS: {provider}"
+  sv: "DNS: {provider}"
+  sw: "DNS: {provider}"
+  th: "DNS: {provider}"
+  uk: "DNS: {provider}"
+  vi: "DNS: {provider}"
+  zh: "DNS：{provider}"
+  zh-HK: "DNS：{provider}"

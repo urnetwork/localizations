@@ -1,0 +1,36 @@
+description: "DNS settings, Use my account: error id the sdk returns when the profile ID doesn't have the provider's format. The provider's own format line is shown with it."
+source: "This ID isn't in the right format."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "صيغة هذا المعرّف غير صحيحة."
+  cs: "Toto ID nemá správný formát."
+  de: "Diese ID hat nicht das richtige Format."
+  el: "Αυτό το αναγνωριστικό δεν έχει τη σωστή μορφή."
+  en: "This ID isn't in the right format."
+  es: "Este ID no tiene el formato correcto."
+  es-419: "Este ID no tiene el formato correcto."
+  es-MX: "Este ID no tiene el formato correcto."
+  fr: "Cet ID n'est pas au bon format."
+  he: "המזהה הזה לא בפורמט הנכון."
+  hi: "यह ID सही फ़ॉर्मैट में नहीं है।"
+  id: "Format ID ini tidak benar."
+  it: "Questo ID non è nel formato corretto."
+  ja: "このIDの形式が正しくありません。"
+  ko: "이 ID의 형식이 올바르지 않습니다."
+  nl: "Deze ID heeft niet de juiste indeling."
+  pl: "Ten identyfikator ma nieprawidłowy format."
+  pt: "Este ID não está no formato correto."
+  pt-BR: "Este ID não está no formato correto."
+  pt-PT: "Este ID não está no formato correto."
+  ru: "Неверный формат ID."
+  sv: "Det här ID:t har fel format."
+  sw: "Kitambulisho hiki hakiko katika muundo sahihi."
+  th: "รูปแบบของ ID นี้ไม่ถูกต้อง"
+  uk: "Неправильний формат ID."
+  vi: "ID này không đúng định dạng."
+  zh: "此 ID 格式不正确。"
+  zh-HK: "此 ID 格式不正確。"

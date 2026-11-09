@@ -1,0 +1,39 @@
+description: "Connect drawer, DNS card: summary row while a DNS provider from \"No filtering\" is selected. {provider} is the provider's name, inserted as is."
+source: "DNS: %@ · No filtering"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "DNS: {provider} · بدون تصفية"
+  cs: "DNS: {provider} · Bez filtrování"
+  de: "DNS: {provider} · Ohne Filterung"
+  el: "DNS: {provider} · Χωρίς φιλτράρισμα"
+  en: "DNS: {provider} · No filtering"
+  es: "DNS: {provider} · Sin filtrado"
+  es-419: "DNS: {provider} · Sin filtrado"
+  es-MX: "DNS: {provider} · Sin filtrado"
+  fr: "DNS : {provider} · Sans filtrage"
+  he: "DNS: {provider} · ללא סינון"
+  hi: "DNS: {provider} · बिना फ़िल्टरिंग"
+  id: "DNS: {provider} · Tanpa pemfilteran"
+  it: "DNS: {provider} · Nessun filtro"
+  ja: "DNS: {provider} · フィルタリングなし"
+  ko: "DNS: {provider} · 필터링 없음"
+  nl: "DNS: {provider} · Geen filtering"
+  pl: "DNS: {provider} · Bez filtrowania"
+  pt: "DNS: {provider} · Sem filtragem"
+  pt-BR: "DNS: {provider} · Sem filtragem"
+  pt-PT: "DNS: {provider} · Sem filtragem"
+  ru: "DNS: {provider} · Без фильтрации"
+  sv: "DNS: {provider} · Ingen filtrering"
+  sw: "DNS: {provider} · Bila uchujaji"
+  th: "DNS: {provider} · ไม่มีการกรอง"
+  uk: "DNS: {provider} · Без фільтрування"
+  vi: "DNS: {provider} · Không lọc"
+  zh: "DNS：{provider} · 不过滤"
+  zh-HK: "DNS：{provider} · 不過濾"

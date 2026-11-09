@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: heading of the group of family DNS providers, which block adult sites and similar content (some of them also block ads)."
+source: "Family"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "العائلة"
+  cs: "Rodina"
+  de: "Familie"
+  el: "Οικογένεια"
+  en: "Family"
+  es: "Familia"
+  es-419: "Familia"
+  es-MX: "Familia"
+  fr: "Famille"
+  he: "משפחה"
+  hi: "परिवार"
+  id: "Keluarga"
+  it: "Famiglia"
+  ja: "ファミリー"
+  ko: "가족"
+  nl: "Gezin"
+  pl: "Rodzina"
+  pt: "Família"
+  pt-BR: "Família"
+  pt-PT: "Família"
+  ru: "Семья"
+  sv: "Familj"
+  sw: "Familia"
+  th: "ครอบครัว"
+  uk: "Сім'я"
+  vi: "Gia đình"
+  zh: "家庭"
+  zh-HK: "家庭"

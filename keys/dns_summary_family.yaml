@@ -1,0 +1,39 @@
+description: "Connect drawer, DNS card: summary row while a DNS provider from \"Family\" is selected. {provider} is the provider's name, inserted as is."
+source: "DNS: %@ · Family filter"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "DNS: {provider} · فلتر العائلة"
+  cs: "DNS: {provider} · Rodinný filtr"
+  de: "DNS: {provider} · Familienfilter"
+  el: "DNS: {provider} · Οικογενειακό φίλτρο"
+  en: "DNS: {provider} · Family filter"
+  es: "DNS: {provider} · Filtro familiar"
+  es-419: "DNS: {provider} · Filtro familiar"
+  es-MX: "DNS: {provider} · Filtro familiar"
+  fr: "DNS : {provider} · Filtre familial"
+  he: "DNS: {provider} · סינון משפחתי"
+  hi: "DNS: {provider} · फ़ैमिली फ़िल्टर"
+  id: "DNS: {provider} · Filter keluarga"
+  it: "DNS: {provider} · Filtro famiglia"
+  ja: "DNS: {provider} · ファミリーフィルター"
+  ko: "DNS: {provider} · 가족 필터"
+  nl: "DNS: {provider} · Gezinsfilter"
+  pl: "DNS: {provider} · Filtr rodzinny"
+  pt: "DNS: {provider} · Filtro familiar"
+  pt-BR: "DNS: {provider} · Filtro familiar"
+  pt-PT: "DNS: {provider} · Filtro familiar"
+  ru: "DNS: {provider} · Семейный фильтр"
+  sv: "DNS: {provider} · Familjefilter"
+  sw: "DNS: {provider} · Kichujio cha familia"
+  th: "DNS: {provider} · ตัวกรองสำหรับครอบครัว"
+  uk: "DNS: {provider} · Сімейний фільтр"
+  vi: "DNS: {provider} · Bộ lọc gia đình"
+  zh: "DNS：{provider} · 家庭过滤"
+  zh-HK: "DNS：{provider} · 家庭過濾"

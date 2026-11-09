@@ -1,0 +1,106 @@
+description: "DNS settings: how many DNS lookups the selected filtering provider has blocked since the device connected. Counted on the device only and reset at each connect. {count} is the number, {provider} the provider's name, inserted as is."
+source: "%lld lookups blocked by %@ this connection"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: count
+    type: int
+  - name: provider
+    type: string
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "لم يتم حظر أي عملية بحث بواسطة {provider} خلال هذا الاتصال"
+    one: "تم حظر عملية بحث واحدة بواسطة {provider} خلال هذا الاتصال"
+    two: "تم حظر عمليتي بحث بواسطة {provider} خلال هذا الاتصال"
+    few: "تم حظر {count} عمليات بحث بواسطة {provider} خلال هذا الاتصال"
+    many: "تم حظر {count} عملية بحث بواسطة {provider} خلال هذا الاتصال"
+    other: "تم حظر {count} عملية بحث بواسطة {provider} خلال هذا الاتصال"
+  cs:
+    one: "{count} dotaz zablokován službou {provider} v tomto připojení"
+    few: "{count} dotazy zablokovány službou {provider} v tomto připojení"
+    many: "{count} dotazu zablokováno službou {provider} v tomto připojení"
+    other: "{count} dotazů zablokováno službou {provider} v tomto připojení"
+  de:
+    one: "{count} Abfrage in dieser Verbindung von {provider} blockiert"
+    other: "{count} Abfragen in dieser Verbindung von {provider} blockiert"
+  el:
+    one: "{count} αναζήτηση αποκλείστηκε από {provider} σε αυτήν τη σύνδεση"
+    other: "{count} αναζητήσεις αποκλείστηκαν από {provider} σε αυτήν τη σύνδεση"
+  en:
+    one: "{count} lookup blocked by {provider} this connection"
+    other: "{count} lookups blocked by {provider} this connection"
+  es:
+    one: "{count} consulta bloqueada por {provider} en esta conexión"
+    other: "{count} consultas bloqueadas por {provider} en esta conexión"
+  es-419:
+    one: "{count} consulta bloqueada por {provider} en esta conexión"
+    other: "{count} consultas bloqueadas por {provider} en esta conexión"
+  es-MX:
+    one: "{count} consulta bloqueada por {provider} en esta conexión"
+    other: "{count} consultas bloqueadas por {provider} en esta conexión"
+  fr:
+    one: "{count} requête bloquée par {provider} pendant cette connexion"
+    other: "{count} requêtes bloquées par {provider} pendant cette connexion"
+  he:
+    one: "חיפוש אחד נחסם על ידי {provider} בחיבור הזה"
+    two: "שני חיפושים נחסמו על ידי {provider} בחיבור הזה"
+    many: "{count} חיפושים נחסמו על ידי {provider} בחיבור הזה"
+    other: "{count} חיפושים נחסמו על ידי {provider} בחיבור הזה"
+  hi:
+    one: "इस कनेक्शन में {provider} ने {count} लुकअप ब्लॉक किया"
+    other: "इस कनेक्शन में {provider} ने {count} लुकअप ब्लॉक किए"
+  id:
+    other: "{count} pencarian diblokir oleh {provider} dalam koneksi ini"
+  it:
+    one: "{count} richiesta bloccata da {provider} in questa connessione"
+    other: "{count} richieste bloccate da {provider} in questa connessione"
+  ja:
+    other: "この接続中に{provider}がブロックした問い合わせ: {count}件"
+  ko:
+    other: "이번 연결 중 {provider}에서 차단한 조회: {count}건"
+  nl:
+    one: "{count} opzoeking geblokkeerd door {provider} tijdens deze verbinding"
+    other: "{count} opzoekingen geblokkeerd door {provider} tijdens deze verbinding"
+  pl:
+    one: "{count} zapytanie zablokowane przez {provider} w tym połączeniu"
+    few: "{count} zapytania zablokowane przez {provider} w tym połączeniu"
+    many: "{count} zapytań zablokowanych przez {provider} w tym połączeniu"
+    other: "{count} zapytań zablokowanych przez {provider} w tym połączeniu"
+  pt:
+    one: "{count} pesquisa bloqueada por {provider} nesta ligação"
+    other: "{count} pesquisas bloqueadas por {provider} nesta ligação"
+  pt-BR:
+    one: "{count} consulta bloqueada por {provider} nesta conexão"
+    other: "{count} consultas bloqueadas por {provider} nesta conexão"
+  pt-PT:
+    one: "{count} pesquisa bloqueada por {provider} nesta ligação"
+    other: "{count} pesquisas bloqueadas por {provider} nesta ligação"
+  ru:
+    one: "{count} запрос заблокирован сервисом {provider} за это подключение"
+    few: "{count} запроса заблокированы сервисом {provider} за это подключение"
+    many: "{count} запросов заблокировано сервисом {provider} за это подключение"
+    other: "{count} запроса заблокировано сервисом {provider} за это подключение"
+  sv:
+    one: "{count} uppslag blockerat av {provider} under den här anslutningen"
+    other: "{count} uppslag blockerade av {provider} under den här anslutningen"
+  sw:
+    one: "Hoja {count} imezuiwa na {provider} katika muunganisho huu"
+    other: "Hoja {count} zimezuiwa na {provider} katika muunganisho huu"
+  th:
+    other: "{provider} บล็อกการค้นหาไปแล้ว {count} รายการในการเชื่อมต่อนี้"
+  uk:
+    one: "{count} запит заблоковано сервісом {provider} за це підключення"
+    few: "{count} запити заблоковано сервісом {provider} за це підключення"
+    many: "{count} запитів заблоковано сервісом {provider} за це підключення"
+    other: "{count} запиту заблоковано сервісом {provider} за це підключення"
+  vi:
+    other: "{provider} đã chặn {count} truy vấn trong kết nối này"
+  zh:
+    other: "本次连接中 {provider} 已拦截 {count} 次查询"
+  zh-HK:
+    other: "今次連接中 {provider} 已攔截 {count} 次查詢"
