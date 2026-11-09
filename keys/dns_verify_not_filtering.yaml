@@ -1,0 +1,39 @@
+description: "DNS settings: result of the check the app runs after a filtering DNS provider is chosen: the provider answered a name it normally blocks with a real address, so it isn't filtering from the current exit location. {provider} is the provider's name, inserted as is."
+source: "%@ isn't filtering from this location"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} لا يقوم بالتصفية من هذا الموقع"
+  cs: "{provider} z tohoto umístění nefiltruje"
+  de: "{provider} filtert von diesem Standort aus nicht"
+  el: "{provider} δεν φιλτράρει από αυτήν την τοποθεσία"
+  en: "{provider} isn't filtering from this location"
+  es: "{provider} no está filtrando desde esta ubicación"
+  es-419: "{provider} no está filtrando desde esta ubicación"
+  es-MX: "{provider} no está filtrando desde esta ubicación"
+  fr: "{provider} ne filtre pas depuis cet emplacement"
+  he: "{provider} לא מסנן מהמיקום הזה"
+  hi: "{provider} इस स्थान से फ़िल्टर नहीं कर रहा"
+  id: "{provider} tidak memfilter dari lokasi ini"
+  it: "{provider} non filtra da questa posizione"
+  ja: "{provider}はこの場所からはフィルタリングしていません"
+  ko: "이 위치에서는 {provider} 필터링이 작동하지 않습니다"
+  nl: "{provider} filtert niet vanaf deze locatie"
+  pl: "{provider} nie filtruje z tej lokalizacji"
+  pt: "{provider} não está a filtrar a partir desta localização"
+  pt-BR: "{provider} não está filtrando a partir deste local"
+  pt-PT: "{provider} não está a filtrar a partir desta localização"
+  ru: "{provider} не фильтрует из этой локации"
+  sv: "{provider} filtrerar inte från den här platsen"
+  sw: "{provider} haichuji kutoka eneo hili"
+  th: "{provider} ไม่ได้กรองจากตำแหน่งนี้"
+  uk: "{provider} не фільтрує з цієї локації"
+  vi: "{provider} không lọc từ vị trí này"
+  zh: "{provider} 在此位置未进行过滤"
+  zh-HK: "{provider} 在此位置沒有過濾"

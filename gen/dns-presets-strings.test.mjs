@@ -1,0 +1,225 @@
+// The third-party DNS presets (connect ADBLOCK3RD.md, section G): the DNS
+// screen's provider picker, its status lines and notices, the personal ID
+// field and the blocked lookups count, in the four apps.
+//
+// The sdk hands the apps some of these ids to look up (the personal ID errors
+// and the free-tier notes), so they are pinned here. Provider names reach
+// every string through a placeholder, never as text a translation could
+// change (G2).
+import assert from "node:assert/strict";
+import test from "node:test";
+
+import { LOCALES, loadStore } from "./store.mjs";
+
+const keys = new Map(loadStore().map((k) => [k.id, k]));
+const APPS = ["android", "apple", "linux", "windows"];
+
+// every string of the feature, with the platforms that show it
+const FEATURE = {
+	// the picks, in the screen's order, and their groups
+	dns_provider_default: APPS,
+	dns_provider_default_copy: APPS,
+	dns_group_block_malware: APPS,
+	dns_group_family: APPS,
+	dns_group_my_account: APPS,
+	dns_group_no_filtering: APPS,
+	dns_provider_custom: APPS,
+	dns_provider_custom_copy: APPS,
+	dns_provider_regional: APPS,
+	// what each pick blocks
+	dns_preset_copy_ads_phishing: APPS,
+	dns_preset_copy_ads_malware: APPS,
+	dns_preset_copy_ads_malware_phishing: APPS,
+	dns_preset_copy_malware: APPS,
+	dns_preset_copy_malware_phishing: APPS,
+	dns_preset_copy_ads_adult_safe_search: APPS,
+	dns_preset_copy_malware_adult: APPS,
+	dns_preset_copy_ads_malware_adult_drugs: APPS,
+	dns_preset_copy_child: APPS,
+	dns_preset_copy_child_ads: APPS,
+	dns_preset_copy_nothing: APPS,
+	dns_preset_copy_court_orders: APPS,
+	dns_preset_copy_personal: APPS,
+	// under the selected pick
+	dns_preset_jurisdiction: APPS,
+	dns_preset_privacy_link: APPS,
+	dns_preset_help_link: APPS,
+	dns_preset_disclosure: APPS,
+	// status and verification
+	dns_status_provider: APPS,
+	dns_status_paused: APPS,
+	dns_status_paused_detail: APPS,
+	dns_status_fallback: APPS,
+	dns_status_unreachable: APPS,
+	dns_status_unreachable_detail: APPS,
+	dns_status_use_default: APPS,
+	dns_status_change_location: APPS,
+	dns_verify_not_filtering: APPS,
+	dns_verify_unconfirmed: APPS,
+	dns_verify_rejected_controld: APPS,
+	dns_verify_malformed_adguard: APPS,
+	// the summary row
+	dns_summary_default: APPS,
+	dns_summary_ad_blocking: APPS,
+	dns_summary_malware_blocking: APPS,
+	dns_summary_family: APPS,
+	dns_summary_no_filtering: APPS,
+	dns_summary_personal: APPS,
+	dns_summary_custom: APPS,
+	dns_summary_custom_unencrypted: APPS,
+	dns_summary_regional: APPS,
+	// the blocked lookups count
+	dns_blocked_count: APPS,
+	dns_blocked_count_floor_note: APPS,
+	// the personal ID field
+	dns_personal_id_label: APPS,
+	dns_personal_id_where_nextdns: APPS,
+	dns_personal_id_where_controld: APPS,
+	dns_personal_id_where_adguard: APPS,
+	dns_personal_id_format_nextdns: APPS,
+	dns_personal_id_format_controld: APPS,
+	dns_personal_id_format_adguard: APPS,
+	dns_personal_id_quota_nextdns: APPS,
+	dns_personal_id_quota_adguard: APPS,
+	dns_personal_id_linked_ip_note: APPS,
+	dns_personal_id_block_response: APPS,
+	dns_personal_id_dashboard_link: APPS,
+	// the sdk's errors
+	dns_preset_error_unknown: APPS,
+	dns_preset_error_personal_id_required: APPS,
+	dns_preset_error_personal_id_invalid: APPS,
+	dns_preset_error_personal_id_other_provider: APPS,
+	dns_preset_error_personal_id_not_accepted: APPS,
+	// notes
+	dns_preset_fast_dns_note: APPS,
+	dns_preset_dropped: APPS,
+	dns_preset_dropped_choose: APPS,
+	dns_preset_dropped_custom: APPS,
+	dns_custom_mix_note: APPS,
+	dns_preset_apply_note: APPS,
+	dns_builtin_blocker_label: APPS,
+	dns_builtin_blocker_note: APPS,
+	// one platform's own line
+	dns_apple_profiles_note: ["apple"],
+	dns_private_dns_overrides_preset: ["android"],
+};
+
+// the ids the sdk returns for the apps to look up:
+// ValidateDnsPresetPersonalId's errors and DnsPreset.QuotaNoteKey
+const SDK_IDS = [
+	"dns_preset_error_unknown",
+	"dns_preset_error_personal_id_required",
+	"dns_preset_error_personal_id_invalid",
+	"dns_preset_error_personal_id_other_provider",
+	"dns_preset_error_personal_id_not_accepted",
+	"dns_personal_id_quota_nextdns",
+	"dns_personal_id_quota_adguard",
+];
+
+// the catalog's providers and operators, which only a placeholder inserts
+const PROVIDER_NAMES = ["AdGuard", "Control D", "ControlD", "NextDNS", "Quad9", "Cloudflare", "DNS4EU", "Whalebone"];
+
+const texts = (v) => (typeof v === "string" ? [v] : Object.values(v));
+const english = (k) => (k.plurals ? k.localizations.en.other : k.localizations.en);
+
+test("every DNS preset string is in the store, tagged for exactly the apps that show it", () => {
+	for (const [id, platforms] of Object.entries(FEATURE)) {
+		const k = keys.get(id);
+		assert.ok(k, `${id} is not in the store`);
+		assert.deepEqual([...k.platforms].sort(), [...platforms].sort(), id);
+		assert.deepEqual(k.deprecated, [], id);
+	}
+});
+
+test("the ids the sdk returns are DNS preset strings", () => {
+	for (const id of SDK_IDS) assert.ok(FEATURE[id], `${id} is not among the DNS preset strings`);
+});
+
+test("an sdk error reads without arguments, so an app shows any of them the same way", () => {
+	for (const id of SDK_IDS.filter((id) => id.startsWith("dns_preset_error_")))
+		assert.deepEqual(keys.get(id).placeholders, [], id);
+});
+
+test("provider names reach the strings through a placeholder, never as text", () => {
+	const wrong = [];
+	for (const id of Object.keys(FEATURE))
+		for (const [loc, v] of Object.entries(keys.get(id).localizations))
+			for (const s of texts(v))
+				for (const name of PROVIDER_NAMES) if (s.includes(name)) wrong.push(`${id}[${loc}]: ${name}`);
+	assert.deepEqual(wrong, []);
+});
+
+test("RethinkDNS is not offered", () => {
+	// dropped by the owner on 2026-11-09: it forwards to Cloudflare and then
+	// Google, which support item 8236 asked to avoid. Custom still takes it.
+	const wrong = [];
+	for (const k of keys.values()) {
+		if (!k.id.startsWith("dns_")) continue;
+		for (const s of [k.description, k.source, ...Object.values(k.localizations).flatMap(texts)])
+			if (/rethink/i.test(s)) wrong.push(k.id);
+	}
+	assert.deepEqual(wrong, []);
+});
+
+test("no text inserts a placeholder twice", () => {
+	// windows and linux format a lone placeholder as {}, which takes one
+	// argument per use, and apple's %@ does too
+	const wrong = [];
+	for (const id of Object.keys(FEATURE)) {
+		const k = keys.get(id);
+		for (const [loc, v] of Object.entries(k.localizations))
+			for (const s of texts(v))
+				for (const p of k.placeholders)
+					if (s.split(`{${p.name}}`).length > 2) wrong.push(`${id}[${loc}]: {${p.name}}`);
+	}
+	assert.deepEqual(wrong, []);
+});
+
+test("an apple source is the literal Text() makes of the English", () => {
+	// SwiftUI keys Text("…\(value)…") by its literal with %@ for a String and
+	// %lld for an Int, in order. A source in the store's {name} form is a key
+	// no call site looks up, and the screen stays in English.
+	const conv = { string: "%@", int: "%lld" };
+	for (const id of Object.keys(FEATURE)) {
+		const k = keys.get(id);
+		if (!k.platforms.includes("apple")) continue;
+		const en = english(k);
+		const order = k.placeholders.map((p) => en.indexOf(`{${p.name}}`));
+		assert.deepEqual(order, [...order].sort((a, b) => a - b), `${id}: placeholders out of argument order`);
+		let want = en;
+		for (const p of k.placeholders) want = want.split(`{${p.name}}`).join(conv[p.type]);
+		assert.equal(k.source, want, id);
+	}
+});
+
+test("the lines that send the reader to Custom name the pick in its own words", () => {
+	const custom = keys.get("dns_provider_custom").localizations;
+	const wrong = [];
+	for (const id of ["dns_preset_dropped_custom", "dns_summary_custom", "dns_summary_custom_unencrypted"])
+		for (const loc of LOCALES) {
+			const s = keys.get(id).localizations[loc];
+			if (!s.includes(custom[loc])) wrong.push(`${id}[${loc}]: ${s}`);
+		}
+	assert.deepEqual(wrong, []);
+});
+
+test("the blocked lookups count is a plural on the count, with the provider", () => {
+	const k = keys.get("dns_blocked_count");
+	assert.deepEqual(k.placeholders, [{ name: "count", type: "int" }, { name: "provider", type: "string" }]);
+	assert.equal(k.plurals.select, "count");
+	assert.equal(k.source, "%lld lookups blocked by %@ this connection");
+});
+
+test("technical values and provider labels stay as they are in every language", () => {
+	const KEEP = {
+		dns_personal_id_block_response: ["0.0.0.0", "NXDOMAIN", "REFUSED"],
+		// the button and page names in the providers' English dashboards
+		dns_personal_id_where_controld: ["Show Resolvers"],
+		dns_personal_id_where_nextdns: ["Setup"],
+	};
+	const wrong = [];
+	for (const [id, literals] of Object.entries(KEEP))
+		for (const [loc, s] of Object.entries(keys.get(id).localizations))
+			for (const literal of literals) if (!s.includes(literal)) wrong.push(`${id}[${loc}]: ${literal}`);
+	assert.deepEqual(wrong, []);
+});

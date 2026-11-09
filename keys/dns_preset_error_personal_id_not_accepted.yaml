@@ -1,0 +1,36 @@
+description: "DNS settings: error id the sdk returns when a profile ID is given for a DNS preset that doesn't take one. \"Preset\" means one of the DNS providers listed on the screen."
+source: "This preset doesn't use a profile ID."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "هذا الإعداد المسبق لا يستخدم معرّف ملف شخصي."
+  cs: "Tato předvolba nepoužívá ID profilu."
+  de: "Diese Voreinstellung verwendet keine Profil-ID."
+  el: "Αυτή η προρύθμιση δεν χρησιμοποιεί αναγνωριστικό προφίλ."
+  en: "This preset doesn't use a profile ID."
+  es: "Esta opción predefinida no usa ID de perfil."
+  es-419: "Esta opción predefinida no usa ID de perfil."
+  es-MX: "Esta opción predefinida no usa ID de perfil."
+  fr: "Ce préréglage n'utilise pas d'ID de profil."
+  he: "ההגדרה המוכנה הזו לא משתמשת במזהה פרופיל."
+  hi: "यह प्रीसेट प्रोफ़ाइल ID का इस्तेमाल नहीं करता।"
+  id: "Preset ini tidak menggunakan ID profil."
+  it: "Questa preimpostazione non usa un ID profilo."
+  ja: "このプリセットではプロファイルIDを使用しません。"
+  ko: "이 프리셋은 프로필 ID를 사용하지 않습니다."
+  nl: "Deze voorinstelling gebruikt geen profiel-ID."
+  pl: "To gotowe ustawienie nie używa identyfikatora profilu."
+  pt: "Esta predefinição não usa um ID de perfil."
+  pt-BR: "Esta predefinição não usa um ID de perfil."
+  pt-PT: "Esta predefinição não usa um ID de perfil."
+  ru: "Эта предустановка не использует ID профиля."
+  sv: "Den här förinställningen använder inget profil-ID."
+  sw: "Mpangilio huu uliowekwa tayari hautumii kitambulisho cha wasifu."
+  th: "พรีเซ็ตนี้ไม่ใช้รหัสโปรไฟล์"
+  uk: "Це готове налаштування не використовує ID профілю."
+  vi: "Cài đặt sẵn này không dùng ID hồ sơ."
+  zh: "此预设不使用配置文件 ID。"
+  zh-HK: "此選項不使用設定檔 ID。"

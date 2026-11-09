@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: link that opens the provider's dashboard, for example under \"Saved, but we can't confirm this profile\". {provider} is the provider's name, inserted as is."
+source: "Open your %@ dashboard"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "افتح لوحة تحكم {provider}"
+  cs: "Otevřít ovládací panel {provider}"
+  de: "Dashboard von {provider} öffnen"
+  el: "Άνοιγμα πίνακα ελέγχου {provider}"
+  en: "Open your {provider} dashboard"
+  es: "Abrir tu panel de {provider}"
+  es-419: "Abrir tu panel de {provider}"
+  es-MX: "Abrir tu panel de {provider}"
+  fr: "Ouvrir votre tableau de bord {provider}"
+  he: "פתיחת לוח הבקרה של {provider}"
+  hi: "अपना {provider} डैशबोर्ड खोलें"
+  id: "Buka dasbor {provider} Anda"
+  it: "Apri la dashboard di {provider}"
+  ja: "{provider}のダッシュボードを開く"
+  ko: "{provider} 대시보드 열기"
+  nl: "Je dashboard van {provider} openen"
+  pl: "Otwórz panel {provider}"
+  pt: "Abrir o seu painel {provider}"
+  pt-BR: "Abrir seu painel {provider}"
+  pt-PT: "Abrir o seu painel {provider}"
+  ru: "Открыть панель управления {provider}"
+  sv: "Öppna kontrollpanelen hos {provider}"
+  sw: "Fungua dashibodi yako ya {provider}"
+  th: "เปิดแดชบอร์ด {provider} ของคุณ"
+  uk: "Відкрити панель керування {provider}"
+  vi: "Mở bảng điều khiển {provider} của bạn"
+  zh: "打开您的 {provider} 控制台"
+  zh-HK: "開啟你的 {provider} 控制台"

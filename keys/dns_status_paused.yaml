@@ -1,0 +1,39 @@
+description: "DNS settings and connect drawer: status line when an ad-blocking DNS provider isn't answering from the current exit, so URnetwork's own DNS answers for now and ads aren't blocked. It switches back on its own when the provider answers. {provider} is the provider's name, inserted as is."
+source: "Ad blocking paused: %@ isn't answering"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "تم إيقاف حظر الإعلانات مؤقتًا: {provider} لا يستجيب"
+  cs: "Blokování reklam pozastaveno: {provider} neodpovídá"
+  de: "Werbeblockierung pausiert: {provider} antwortet nicht"
+  el: "Ο αποκλεισμός διαφημίσεων είναι σε παύση: {provider} δεν απαντά"
+  en: "Ad blocking paused: {provider} isn't answering"
+  es: "Bloqueo de anuncios en pausa: {provider} no responde"
+  es-419: "Bloqueo de anuncios en pausa: {provider} no responde"
+  es-MX: "Bloqueo de anuncios en pausa: {provider} no responde"
+  fr: "Blocage des publicités en pause : {provider} ne répond pas"
+  he: "חסימת הפרסומות מושהית: {provider} לא עונה"
+  hi: "विज्ञापन ब्लॉकिंग रुकी है: {provider} जवाब नहीं दे रहा"
+  id: "Pemblokiran iklan dijeda: {provider} tidak merespons"
+  it: "Blocco della pubblicità in pausa: {provider} non risponde"
+  ja: "広告ブロックを一時停止中: {provider}が応答していません"
+  ko: "광고 차단 일시 중지됨: {provider} 응답 없음"
+  nl: "Advertentieblokkering gepauzeerd: {provider} reageert niet"
+  pl: "Blokowanie reklam wstrzymane: {provider} nie odpowiada"
+  pt: "Bloqueio de anúncios em pausa: {provider} não está a responder"
+  pt-BR: "Bloqueio de anúncios pausado: {provider} não está respondendo"
+  pt-PT: "Bloqueio de anúncios em pausa: {provider} não está a responder"
+  ru: "Блокировка рекламы приостановлена: {provider} не отвечает"
+  sv: "Annonsblockering pausad: {provider} svarar inte"
+  sw: "Uzuiaji wa matangazo umesitishwa: {provider} haijibu"
+  th: "หยุดการบล็อกโฆษณาชั่วคราว: {provider} ไม่ตอบสนอง"
+  uk: "Блокування реклами призупинено: {provider} не відповідає"
+  vi: "Đã tạm dừng chặn quảng cáo: {provider} không phản hồi"
+  zh: "广告拦截已暂停：{provider} 无响应"
+  zh-HK: "廣告攔截已暫停：{provider} 沒有回應"

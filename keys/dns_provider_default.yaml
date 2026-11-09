@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the first pick, URnetwork's own encrypted DNS through the tunnel, which every app uses by default. URnetwork is the product name."
+source: "URnetwork (default)"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "URnetwork (الافتراضي)"
+  cs: "URnetwork (výchozí)"
+  de: "URnetwork (Standard)"
+  el: "URnetwork (προεπιλογή)"
+  en: "URnetwork (default)"
+  es: "URnetwork (predeterminado)"
+  es-419: "URnetwork (predeterminado)"
+  es-MX: "URnetwork (predeterminado)"
+  fr: "URnetwork (par défaut)"
+  he: "URnetwork (ברירת מחדל)"
+  hi: "URnetwork (डिफ़ॉल्ट)"
+  id: "URnetwork (bawaan)"
+  it: "URnetwork (predefinito)"
+  ja: "URnetwork（デフォルト）"
+  ko: "URnetwork(기본값)"
+  nl: "URnetwork (standaard)"
+  pl: "URnetwork (domyślny)"
+  pt: "URnetwork (predefinido)"
+  pt-BR: "URnetwork (padrão)"
+  pt-PT: "URnetwork (predefinido)"
+  ru: "URnetwork (по умолчанию)"
+  sv: "URnetwork (standard)"
+  sw: "URnetwork (chaguo-msingi)"
+  th: "URnetwork (ค่าเริ่มต้น)"
+  uk: "URnetwork (за замовчуванням)"
+  vi: "URnetwork (mặc định)"
+  zh: "URnetwork（默认）"
+  zh-HK: "URnetwork（預設）"

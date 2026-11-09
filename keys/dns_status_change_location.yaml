@@ -1,0 +1,36 @@
+description: "DNS settings and connect drawer: button beside a DNS provider status that opens the location picker, since a provider can be blocked or unreachable from some exit locations."
+source: "Change location"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "تغيير الموقع"
+  cs: "Změnit umístění"
+  de: "Standort ändern"
+  el: "Αλλαγή τοποθεσίας"
+  en: "Change location"
+  es: "Cambiar ubicación"
+  es-419: "Cambiar ubicación"
+  es-MX: "Cambiar ubicación"
+  fr: "Changer d'emplacement"
+  he: "שינוי מיקום"
+  hi: "स्थान बदलें"
+  id: "Ubah lokasi"
+  it: "Cambia posizione"
+  ja: "場所を変更"
+  ko: "위치 변경"
+  nl: "Locatie wijzigen"
+  pl: "Zmień lokalizację"
+  pt: "Alterar localização"
+  pt-BR: "Alterar local"
+  pt-PT: "Alterar localização"
+  ru: "Сменить локацию"
+  sv: "Byt plats"
+  sw: "Badilisha eneo"
+  th: "เปลี่ยนตำแหน่ง"
+  uk: "Змінити локацію"
+  vi: "Đổi vị trí"
+  zh: "更改位置"
+  zh-HK: "更改位置"

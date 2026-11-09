@@ -1,0 +1,39 @@
+description: "Connect drawer, DNS card: summary row while a DNS provider from \"Block ads and trackers\" is selected. {provider} is the provider's name, inserted as is."
+source: "DNS: %@ · Ad blocking"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "DNS: {provider} · حظر الإعلانات"
+  cs: "DNS: {provider} · Blokování reklam"
+  de: "DNS: {provider} · Werbeblockierung"
+  el: "DNS: {provider} · Αποκλεισμός διαφημίσεων"
+  en: "DNS: {provider} · Ad blocking"
+  es: "DNS: {provider} · Bloqueo de anuncios"
+  es-419: "DNS: {provider} · Bloqueo de anuncios"
+  es-MX: "DNS: {provider} · Bloqueo de anuncios"
+  fr: "DNS : {provider} · Blocage des publicités"
+  he: "DNS: {provider} · חסימת פרסומות"
+  hi: "DNS: {provider} · विज्ञापन ब्लॉकिंग"
+  id: "DNS: {provider} · Pemblokiran iklan"
+  it: "DNS: {provider} · Blocco della pubblicità"
+  ja: "DNS: {provider} · 広告ブロック"
+  ko: "DNS: {provider} · 광고 차단"
+  nl: "DNS: {provider} · Advertentieblokkering"
+  pl: "DNS: {provider} · Blokowanie reklam"
+  pt: "DNS: {provider} · Bloqueio de anúncios"
+  pt-BR: "DNS: {provider} · Bloqueio de anúncios"
+  pt-PT: "DNS: {provider} · Bloqueio de anúncios"
+  ru: "DNS: {provider} · Блокировка рекламы"
+  sv: "DNS: {provider} · Annonsblockering"
+  sw: "DNS: {provider} · Uzuiaji wa matangazo"
+  th: "DNS: {provider} · บล็อกโฆษณา"
+  uk: "DNS: {provider} · Блокування реклами"
+  vi: "DNS: {provider} · Chặn quảng cáo"
+  zh: "DNS：{provider} · 广告拦截"
+  zh-HK: "DNS：{provider} · 廣告攔截"

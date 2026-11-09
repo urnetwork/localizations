@@ -1,0 +1,36 @@
+description: "DNS settings: link under the selected DNS provider that opens the provider's privacy policy."
+source: "Privacy policy"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "سياسة الخصوصية"
+  cs: "Zásady ochrany osobních údajů"
+  de: "Datenschutzerklärung"
+  el: "Πολιτική απορρήτου"
+  en: "Privacy policy"
+  es: "Política de privacidad"
+  es-419: "Política de privacidad"
+  es-MX: "Política de privacidad"
+  fr: "Politique de confidentialité"
+  he: "מדיניות פרטיות"
+  hi: "गोपनीयता नीति"
+  id: "Kebijakan privasi"
+  it: "Informativa sulla privacy"
+  ja: "プライバシーポリシー"
+  ko: "개인정보 처리방침"
+  nl: "Privacybeleid"
+  pl: "Polityka prywatności"
+  pt: "Política de privacidade"
+  pt-BR: "Política de privacidade"
+  pt-PT: "Política de privacidade"
+  ru: "Политика конфиденциальности"
+  sv: "Integritetspolicy"
+  sw: "Sera ya faragha"
+  th: "นโยบายความเป็นส่วนตัว"
+  uk: "Політика конфіденційності"
+  vi: "Chính sách quyền riêng tư"
+  zh: "隐私政策"
+  zh-HK: "私隱政策"

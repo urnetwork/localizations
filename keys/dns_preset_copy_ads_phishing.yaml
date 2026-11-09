@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the line under a DNS provider's name that says what it blocks. Used for AdGuard DNS in \"Block ads and trackers\". The provider's name is shown above it, not in this string."
+source: "Blocks ads, trackers and phishing"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "يحظر الإعلانات والمتعقبات والتصيد الاحتيالي"
+  cs: "Blokuje reklamy, trackery a phishing"
+  de: "Blockiert Werbung, Tracker und Phishing"
+  el: "Αποκλείει διαφημίσεις, ιχνηλάτες και ηλεκτρονικό ψάρεμα"
+  en: "Blocks ads, trackers and phishing"
+  es: "Bloquea anuncios, rastreadores y phishing"
+  es-419: "Bloquea anuncios, rastreadores y phishing"
+  es-MX: "Bloquea anuncios, rastreadores y phishing"
+  fr: "Bloque les publicités, les traqueurs et l'hameçonnage"
+  he: "חוסם פרסומות, רכיבי מעקב ופישינג"
+  hi: "विज्ञापन, ट्रैकर और फ़िशिंग ब्लॉक करता है"
+  id: "Memblokir iklan, pelacak, dan phishing"
+  it: "Blocca pubblicità, tracker e phishing"
+  ja: "広告、トラッカー、フィッシングをブロック"
+  ko: "광고, 트래커, 피싱 차단"
+  nl: "Blokkeert advertenties, trackers en phishing"
+  pl: "Blokuje reklamy, trackery i phishing"
+  pt: "Bloqueia anúncios, rastreadores e phishing"
+  pt-BR: "Bloqueia anúncios, rastreadores e phishing"
+  pt-PT: "Bloqueia anúncios, rastreadores e phishing"
+  ru: "Блокирует рекламу, трекеры и фишинг"
+  sv: "Blockerar annonser, spårare och nätfiske"
+  sw: "Huzuia matangazo, vifuatiliaji na hadaa"
+  th: "บล็อกโฆษณา ตัวติดตาม และฟิชชิง"
+  uk: "Блокує рекламу, трекери та фішинг"
+  vi: "Chặn quảng cáo, trình theo dõi và lừa đảo"
+  zh: "拦截广告、跟踪器和钓鱼网站"
+  zh-HK: "攔截廣告、追蹤器和釣魚網站"

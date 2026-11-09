@@ -1,0 +1,36 @@
+description: "DNS settings: note under the blocked lookups count. Some ways a provider answers a block can't be recognized, so the count is a minimum."
+source: "Some blocks aren't counted, so the real number may be higher."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "لا يتم احتساب بعض عمليات الحظر، لذا قد يكون العدد الفعلي أعلى."
+  cs: "Některá blokování se nezapočítávají, takže skutečný počet může být vyšší."
+  de: "Manche Blockierungen werden nicht gezählt, daher kann die tatsächliche Zahl höher sein."
+  el: "Ορισμένοι αποκλεισμοί δεν μετρώνται, οπότε ο πραγματικός αριθμός μπορεί να είναι μεγαλύτερος."
+  en: "Some blocks aren't counted, so the real number may be higher."
+  es: "Algunos bloqueos no se cuentan, así que la cifra real puede ser mayor."
+  es-419: "Algunos bloqueos no se cuentan, así que la cifra real puede ser mayor."
+  es-MX: "Algunos bloqueos no se cuentan, así que la cifra real puede ser mayor."
+  fr: "Certains blocages ne sont pas comptés : le nombre réel peut donc être plus élevé."
+  he: "חלק מהחסימות לא נספרות, כך שהמספר האמיתי עשוי להיות גבוה יותר."
+  hi: "कुछ ब्लॉक गिने नहीं जाते, इसलिए असली संख्या ज़्यादा हो सकती है।"
+  id: "Beberapa pemblokiran tidak terhitung, jadi jumlah sebenarnya bisa lebih tinggi."
+  it: "Alcuni blocchi non vengono conteggiati, quindi il numero reale potrebbe essere più alto."
+  ja: "一部のブロックはカウントされないため、実際の数はこれより多い場合があります。"
+  ko: "일부 차단은 집계되지 않으므로 실제 수는 더 많을 수 있습니다."
+  nl: "Sommige blokkeringen worden niet geteld, dus het werkelijke aantal kan hoger zijn."
+  pl: "Niektóre blokady nie są liczone, więc faktyczna liczba może być wyższa."
+  pt: "Alguns bloqueios não são contados, por isso o número real pode ser maior."
+  pt-BR: "Alguns bloqueios não são contados, então o número real pode ser maior."
+  pt-PT: "Alguns bloqueios não são contados, por isso o número real pode ser maior."
+  ru: "Некоторые блокировки не учитываются, поэтому реальное число может быть больше."
+  sv: "Vissa blockeringar räknas inte, så det verkliga antalet kan vara högre."
+  sw: "Baadhi ya vizuizi havihesabiwi, kwa hiyo idadi halisi inaweza kuwa kubwa zaidi."
+  th: "การบล็อกบางรายการไม่ถูกนับ จำนวนจริงจึงอาจสูงกว่านี้"
+  uk: "Деякі блокування не враховуються, тож реальне число може бути більшим."
+  vi: "Một số lượt chặn không được tính, nên con số thực tế có thể cao hơn."
+  zh: "部分拦截未被计入，因此实际数量可能更高。"
+  zh-HK: "部分攔截未被計入，因此實際數量可能更高。"

@@ -1,0 +1,36 @@
+description: "Connect drawer, DNS card: summary row while the person's own servers are selected under \"Custom\", all of them encrypted."
+source: "DNS: Custom"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "DNS: مخصص"
+  cs: "DNS: Vlastní"
+  de: "DNS: Benutzerdefiniert"
+  el: "DNS: Προσαρμοσμένο"
+  en: "DNS: Custom"
+  es: "DNS: Personalizado"
+  es-419: "DNS: Personalizado"
+  es-MX: "DNS: Personalizado"
+  fr: "DNS : Personnalisé"
+  he: "DNS: מותאם אישית"
+  hi: "DNS: कस्टम"
+  id: "DNS: Khusus"
+  it: "DNS: Personalizzato"
+  ja: "DNS: カスタム"
+  ko: "DNS: 사용자 지정"
+  nl: "DNS: Aangepast"
+  pl: "DNS: Własny"
+  pt: "DNS: Personalizado"
+  pt-BR: "DNS: Personalizado"
+  pt-PT: "DNS: Personalizado"
+  ru: "DNS: Пользовательский"
+  sv: "DNS: Anpassad"
+  sw: "DNS: Maalum"
+  th: "DNS: กำหนดเอง"
+  uk: "DNS: Власний"
+  vi: "DNS: Tùy chỉnh"
+  zh: "DNS：自定义"
+  zh-HK: "DNS：自訂"

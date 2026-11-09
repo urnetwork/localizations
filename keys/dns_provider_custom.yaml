@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the pick that opens the advanced editor, where the person enters their own DNS over HTTPS URLs and DNS servers. Other strings send the reader to this pick by name (\"Enter it yourself under Custom\"), so they use the same word."
+source: "Custom"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "مخصص"
+  cs: "Vlastní"
+  de: "Benutzerdefiniert"
+  el: "Προσαρμοσμένο"
+  en: "Custom"
+  es: "Personalizado"
+  es-419: "Personalizado"
+  es-MX: "Personalizado"
+  fr: "Personnalisé"
+  he: "מותאם אישית"
+  hi: "कस्टम"
+  id: "Khusus"
+  it: "Personalizzato"
+  ja: "カスタム"
+  ko: "사용자 지정"
+  nl: "Aangepast"
+  pl: "Własny"
+  pt: "Personalizado"
+  pt-BR: "Personalizado"
+  pt-PT: "Personalizado"
+  ru: "Пользовательский"
+  sv: "Anpassad"
+  sw: "Maalum"
+  th: "กำหนดเอง"
+  uk: "Власний"
+  vi: "Tùy chỉnh"
+  zh: "自定义"
+  zh-HK: "自訂"

@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: shown after a profile ID is saved and the provider answers normally. A wrong ID or a used-up free plan also answers normally, just without filtering, so the app can't confirm the profile. {provider} is the provider's name, inserted as is."
+source: "Saved, but we can't confirm this profile. If the ID is wrong, %@ answers without filtering."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "تم الحفظ، لكن لا يمكننا تأكيد هذا الملف الشخصي. إذا كان المعرّف خاطئًا، فسيجيب {provider} دون تصفية."
+  cs: "Uloženo, ale tento profil nemůžeme ověřit. Pokud je ID chybné, {provider} odpovídá bez filtrování."
+  de: "Gespeichert, aber wir können dieses Profil nicht bestätigen. Ist die ID falsch, antwortet {provider} ohne Filterung."
+  el: "Αποθηκεύτηκε, αλλά δεν μπορούμε να επιβεβαιώσουμε αυτό το προφίλ. Αν το αναγνωριστικό είναι λάθος, {provider} απαντά χωρίς φιλτράρισμα."
+  en: "Saved, but we can't confirm this profile. If the ID is wrong, {provider} answers without filtering."
+  es: "Guardado, pero no podemos confirmar este perfil. Si el ID es incorrecto, {provider} responde sin filtrar."
+  es-419: "Guardado, pero no podemos confirmar este perfil. Si el ID es incorrecto, {provider} responde sin filtrar."
+  es-MX: "Guardado, pero no podemos confirmar este perfil. Si el ID es incorrecto, {provider} responde sin filtrar."
+  fr: "Enregistré, mais nous ne pouvons pas confirmer ce profil. Si l'ID est erroné, {provider} répond sans filtrage."
+  he: "נשמר, אבל איננו יכולים לאמת את הפרופיל הזה. אם המזהה שגוי, {provider} עונה ללא סינון."
+  hi: "सहेजा गया, लेकिन हम इस प्रोफ़ाइल की पुष्टि नहीं कर सकते। अगर ID गलत है, तो {provider} बिना फ़िल्टरिंग के जवाब देता है।"
+  id: "Tersimpan, tetapi kami tidak dapat memastikan profil ini. Jika ID-nya salah, {provider} menjawab tanpa pemfilteran."
+  it: "Salvato, ma non possiamo confermare questo profilo. Se l'ID è sbagliato, {provider} risponde senza filtri."
+  ja: "保存しましたが、このプロファイルを確認できません。IDが間違っている場合、{provider}はフィルタリングせずに応答します。"
+  ko: "저장했지만 이 프로필을 확인할 수 없습니다. ID가 잘못되면 {provider}에서 필터링 없이 응답합니다."
+  nl: "Opgeslagen, maar we kunnen dit profiel niet bevestigen. Als de ID onjuist is, antwoordt {provider} zonder filtering."
+  pl: "Zapisano, ale nie możemy potwierdzić tego profilu. Jeśli identyfikator jest błędny, {provider} odpowiada bez filtrowania."
+  pt: "Guardado, mas não conseguimos confirmar este perfil. Se o ID estiver errado, {provider} responde sem filtragem."
+  pt-BR: "Salvo, mas não conseguimos confirmar este perfil. Se o ID estiver errado, {provider} responde sem filtragem."
+  pt-PT: "Guardado, mas não conseguimos confirmar este perfil. Se o ID estiver errado, {provider} responde sem filtragem."
+  ru: "Сохранено, но мы не можем подтвердить этот профиль. Если ID неверный, {provider} отвечает без фильтрации."
+  sv: "Sparat, men vi kan inte bekräfta den här profilen. Om ID:t är fel svarar {provider} utan filtrering."
+  sw: "Imehifadhiwa, lakini hatuwezi kuthibitisha wasifu huu. Ikiwa kitambulisho si sahihi, {provider} hujibu bila kuchuja."
+  th: "บันทึกแล้ว แต่เรายืนยันโปรไฟล์นี้ไม่ได้ หาก ID ไม่ถูกต้อง {provider} จะตอบกลับโดยไม่กรอง"
+  uk: "Збережено, але ми не можемо підтвердити цей профіль. Якщо ID неправильний, {provider} відповідає без фільтрування."
+  vi: "Đã lưu, nhưng chúng tôi không thể xác nhận hồ sơ này. Nếu ID sai, {provider} sẽ trả lời mà không lọc."
+  zh: "已保存，但我们无法确认此配置文件。如果 ID 有误，{provider} 会在不过滤的情况下应答。"
+  zh-HK: "已儲存，但我們無法確認此設定檔。如果 ID 有誤，{provider} 會在不過濾的情況下回應。"

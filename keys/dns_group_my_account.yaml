@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: heading of the group for people with their own account at a DNS provider (AdGuard DNS, Control D, NextDNS). Choosing one asks for the account's profile ID, so the provider applies the person's own filters."
+source: "Use my account"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "استخدام حسابي"
+  cs: "Použít můj účet"
+  de: "Mein Konto verwenden"
+  el: "Χρήση του λογαριασμού μου"
+  en: "Use my account"
+  es: "Usar mi cuenta"
+  es-419: "Usar mi cuenta"
+  es-MX: "Usar mi cuenta"
+  fr: "Utiliser mon compte"
+  he: "שימוש בחשבון שלי"
+  hi: "मेरा खाता इस्तेमाल करें"
+  id: "Gunakan akun saya"
+  it: "Usa il mio account"
+  ja: "自分のアカウントを使用"
+  ko: "내 계정 사용"
+  nl: "Mijn account gebruiken"
+  pl: "Użyj mojego konta"
+  pt: "Usar a minha conta"
+  pt-BR: "Usar minha conta"
+  pt-PT: "Usar a minha conta"
+  ru: "Использовать мой аккаунт"
+  sv: "Använd mitt konto"
+  sw: "Tumia akaunti yangu"
+  th: "ใช้บัญชีของฉัน"
+  uk: "Використати мій обліковий запис"
+  vi: "Dùng tài khoản của tôi"
+  zh: "使用我的账户"
+  zh-HK: "使用我的帳戶"

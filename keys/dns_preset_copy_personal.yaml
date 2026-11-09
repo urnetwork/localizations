@@ -1,0 +1,39 @@
+description: "DNS settings, provider picker: the line under each provider in \"Use my account\". {provider} is the provider's name (AdGuard DNS, Control D or NextDNS), inserted as is."
+source: "Uses the filters you set up in your %@ account"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "يستخدم عوامل التصفية التي أعددتها في حسابك على {provider}"
+  cs: "Používá filtry nastavené ve vašem účtu {provider}"
+  de: "Verwendet die Filter aus deinem Konto bei {provider}"
+  el: "Χρησιμοποιεί τα φίλτρα που ορίσατε στον λογαριασμό σας {provider}"
+  en: "Uses the filters you set up in your {provider} account"
+  es: "Usa los filtros que has configurado en tu cuenta de {provider}"
+  es-419: "Usa los filtros que configuraste en tu cuenta de {provider}"
+  es-MX: "Usa los filtros que configuraste en tu cuenta de {provider}"
+  fr: "Utilise les filtres définis dans votre compte {provider}"
+  he: "משתמש במסננים שהגדרתם בחשבון {provider} שלכם"
+  hi: "आपके {provider} खाते में सेट किए गए फ़िल्टर इस्तेमाल करता है"
+  id: "Menggunakan filter yang Anda atur di akun {provider} Anda"
+  it: "Usa i filtri che hai impostato nel tuo account {provider}"
+  ja: "{provider}アカウントで設定したフィルターを使用"
+  ko: "{provider} 계정에서 설정한 필터를 사용"
+  nl: "Gebruikt de filters die je hebt ingesteld in je account bij {provider}"
+  pl: "Używa filtrów ustawionych na Twoim koncie {provider}"
+  pt: "Usa os filtros que configurou na sua conta {provider}"
+  pt-BR: "Usa os filtros que você configurou na sua conta {provider}"
+  pt-PT: "Usa os filtros que configurou na sua conta {provider}"
+  ru: "Использует фильтры из вашего аккаунта {provider}"
+  sv: "Använder filtren du har ställt in i ditt konto hos {provider}"
+  sw: "Hutumia vichujio ulivyoweka kwenye akaunti yako ya {provider}"
+  th: "ใช้ตัวกรองที่คุณตั้งไว้ในบัญชี {provider} ของคุณ"
+  uk: "Використовує фільтри з вашого облікового запису {provider}"
+  vi: "Dùng các bộ lọc bạn đã thiết lập trong tài khoản {provider} của bạn"
+  zh: "使用您在 {provider} 账户中设置的过滤规则"
+  zh-HK: "使用你在 {provider} 帳戶中設定的過濾規則"

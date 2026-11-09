@@ -1,0 +1,36 @@
+description: "DNS settings, Use my account: label of the field where the person enters the ID of their profile at the DNS provider, or pastes the DNS address the provider's dashboard shows (a DNS over HTTPS URL or a Private DNS hostname)."
+source: "Profile ID or DNS address"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "معرّف الملف الشخصي أو عنوان DNS"
+  cs: "ID profilu nebo adresa DNS"
+  de: "Profil-ID oder DNS-Adresse"
+  el: "Αναγνωριστικό προφίλ ή διεύθυνση DNS"
+  en: "Profile ID or DNS address"
+  es: "ID de perfil o dirección DNS"
+  es-419: "ID de perfil o dirección DNS"
+  es-MX: "ID de perfil o dirección DNS"
+  fr: "ID de profil ou adresse DNS"
+  he: "מזהה פרופיל או כתובת DNS"
+  hi: "प्रोफ़ाइल ID या DNS पता"
+  id: "ID profil atau alamat DNS"
+  it: "ID profilo o indirizzo DNS"
+  ja: "プロファイルIDまたはDNSアドレス"
+  ko: "프로필 ID 또는 DNS 주소"
+  nl: "Profiel-ID of DNS-adres"
+  pl: "Identyfikator profilu lub adres DNS"
+  pt: "ID do perfil ou endereço DNS"
+  pt-BR: "ID do perfil ou endereço DNS"
+  pt-PT: "ID do perfil ou endereço DNS"
+  ru: "ID профиля или адрес DNS"
+  sv: "Profil-ID eller DNS-adress"
+  sw: "Kitambulisho cha wasifu au anwani ya DNS"
+  th: "รหัสโปรไฟล์หรือที่อยู่ DNS"
+  uk: "ID профілю або адреса DNS"
+  vi: "ID hồ sơ hoặc địa chỉ DNS"
+  zh: "配置文件 ID 或 DNS 地址"
+  zh-HK: "設定檔 ID 或 DNS 位址"

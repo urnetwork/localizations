@@ -1,0 +1,39 @@
+description: "DNS settings and connect drawer: status line when a DNS provider from \"No filtering\" isn't answering, so URnetwork's own DNS answers until it does. {provider} is the provider's name, inserted as is."
+source: "%@ isn't answering. Using URnetwork DNS."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} لا يستجيب. يتم استخدام DNS الخاص بـ URnetwork."
+  cs: "{provider} neodpovídá. Používá se DNS od URnetwork."
+  de: "{provider} antwortet nicht. URnetwork-DNS wird verwendet."
+  el: "{provider} δεν απαντά. Χρησιμοποιείται το DNS του URnetwork."
+  en: "{provider} isn't answering. Using URnetwork DNS."
+  es: "{provider} no responde. Se usa el DNS de URnetwork."
+  es-419: "{provider} no responde. Se usa el DNS de URnetwork."
+  es-MX: "{provider} no responde. Se usa el DNS de URnetwork."
+  fr: "{provider} ne répond pas. Le DNS d'URnetwork est utilisé."
+  he: "{provider} לא עונה. נעשה שימוש ב-DNS של URnetwork."
+  hi: "{provider} जवाब नहीं दे रहा। URnetwork DNS इस्तेमाल हो रहा है।"
+  id: "{provider} tidak merespons. Menggunakan DNS URnetwork."
+  it: "{provider} non risponde. Viene usato il DNS di URnetwork."
+  ja: "{provider}が応答していません。URnetworkのDNSを使用しています。"
+  ko: "{provider} 응답 없음. URnetwork DNS를 사용 중입니다."
+  nl: "{provider} reageert niet. URnetwork-DNS wordt gebruikt."
+  pl: "{provider} nie odpowiada. Używany jest DNS URnetwork."
+  pt: "{provider} não está a responder. A usar o DNS da URnetwork."
+  pt-BR: "{provider} não está respondendo. Usando o DNS da URnetwork."
+  pt-PT: "{provider} não está a responder. A usar o DNS da URnetwork."
+  ru: "{provider} не отвечает. Используется DNS URnetwork."
+  sv: "{provider} svarar inte. URnetworks DNS används."
+  sw: "{provider} haijibu. Inatumia DNS ya URnetwork."
+  th: "{provider} ไม่ตอบสนอง กำลังใช้ DNS ของ URnetwork"
+  uk: "{provider} не відповідає. Використовується DNS URnetwork."
+  vi: "{provider} không phản hồi. Đang dùng DNS của URnetwork."
+  zh: "{provider} 无响应。正在使用 URnetwork DNS。"
+  zh-HK: "{provider} 沒有回應。正在使用 URnetwork DNS。"

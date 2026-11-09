@@ -1,0 +1,39 @@
+description: "DNS settings and connect drawer: status line when a family, malware-blocking or personal DNS provider isn't answering. To keep its filtering, URnetwork doesn't switch to other DNS, so sites may not load until the provider answers or the person picks \"Use URnetwork DNS\". {provider} is the provider's name, inserted as is."
+source: "%@ isn't answering"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} لا يستجيب"
+  cs: "{provider} neodpovídá"
+  de: "{provider} antwortet nicht"
+  el: "{provider} δεν απαντά"
+  en: "{provider} isn't answering"
+  es: "{provider} no responde"
+  es-419: "{provider} no responde"
+  es-MX: "{provider} no responde"
+  fr: "{provider} ne répond pas"
+  he: "{provider} לא עונה"
+  hi: "{provider} जवाब नहीं दे रहा"
+  id: "{provider} tidak merespons"
+  it: "{provider} non risponde"
+  ja: "{provider}が応答していません"
+  ko: "{provider} 응답 없음"
+  nl: "{provider} reageert niet"
+  pl: "{provider} nie odpowiada"
+  pt: "{provider} não está a responder"
+  pt-BR: "{provider} não está respondendo"
+  pt-PT: "{provider} não está a responder"
+  ru: "{provider} не отвечает"
+  sv: "{provider} svarar inte"
+  sw: "{provider} haijibu"
+  th: "{provider} ไม่ตอบสนอง"
+  uk: "{provider} не відповідає"
+  vi: "{provider} không phản hồi"
+  zh: "{provider} 无响应"
+  zh-HK: "{provider} 沒有回應"

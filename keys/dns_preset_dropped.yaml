@@ -1,0 +1,39 @@
+description: "DNS settings and connect drawer: notice after an app update removed the DNS provider the person had selected. The app switched to URnetwork's own DNS, which doesn't filter. {provider} is the removed provider's name, inserted as is."
+source: "%@ is no longer available. You're using URnetwork DNS, so lookups aren't filtered."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "لم يعد {provider} متاحًا. أنت تستخدم DNS الخاص بـ URnetwork، لذا لا تتم تصفية عمليات البحث."
+  cs: "{provider} už není k dispozici. Používáte DNS od URnetwork, takže dotazy nejsou filtrované."
+  de: "{provider} ist nicht mehr verfügbar. Du nutzt jetzt URnetwork-DNS, daher werden Abfragen nicht gefiltert."
+  el: "{provider} δεν είναι πλέον διαθέσιμο. Χρησιμοποιείτε το DNS του URnetwork, οπότε οι αναζητήσεις δεν φιλτράρονται."
+  en: "{provider} is no longer available. You're using URnetwork DNS, so lookups aren't filtered."
+  es: "{provider} ya no está disponible. Estás usando el DNS de URnetwork, así que las consultas no se filtran."
+  es-419: "{provider} ya no está disponible. Estás usando el DNS de URnetwork, así que las consultas no se filtran."
+  es-MX: "{provider} ya no está disponible. Estás usando el DNS de URnetwork, así que las consultas no se filtran."
+  fr: "{provider} n'est plus disponible. Vous utilisez le DNS d'URnetwork : les requêtes ne sont donc pas filtrées."
+  he: "{provider} כבר לא זמין. אתם משתמשים ב-DNS של URnetwork, ולכן החיפושים לא מסוננים."
+  hi: "{provider} अब उपलब्ध नहीं है। आप URnetwork DNS इस्तेमाल कर रहे हैं, इसलिए लुकअप फ़िल्टर नहीं होते।"
+  id: "{provider} tidak tersedia lagi. Anda menggunakan DNS URnetwork, jadi pencarian tidak difilter."
+  it: "{provider} non è più disponibile. Stai usando il DNS di URnetwork, quindi le richieste non vengono filtrate."
+  ja: "{provider}は利用できなくなりました。URnetworkのDNSを使用中のため、問い合わせはフィルタリングされません。"
+  ko: "{provider} 서비스를 더 이상 사용할 수 없습니다. URnetwork DNS를 사용 중이므로 조회가 필터링되지 않습니다."
+  nl: "{provider} is niet meer beschikbaar. Je gebruikt URnetwork-DNS, dus opzoekingen worden niet gefilterd."
+  pl: "Usługa {provider} nie jest już dostępna. Używasz DNS URnetwork, więc zapytania nie są filtrowane."
+  pt: "{provider} já não está disponível. Está a usar o DNS da URnetwork, por isso as pesquisas não são filtradas."
+  pt-BR: "{provider} não está mais disponível. Você está usando o DNS da URnetwork, então as consultas não são filtradas."
+  pt-PT: "{provider} já não está disponível. Está a usar o DNS da URnetwork, por isso as pesquisas não são filtradas."
+  ru: "Сервис {provider} больше недоступен. Вы используете DNS URnetwork, поэтому запросы не фильтруются."
+  sv: "{provider} är inte längre tillgänglig. Du använder URnetworks DNS, så uppslag filtreras inte."
+  sw: "{provider} haipatikani tena. Unatumia DNS ya URnetwork, kwa hiyo hoja hazichujwi."
+  th: "{provider} ไม่พร้อมให้บริการแล้ว คุณกำลังใช้ DNS ของ URnetwork การค้นหาจึงไม่ถูกกรอง"
+  uk: "Сервіс {provider} більше недоступний. Ви використовуєте DNS URnetwork, тож запити не фільтруються."
+  vi: "{provider} không còn khả dụng. Bạn đang dùng DNS của URnetwork nên các truy vấn không được lọc."
+  zh: "{provider} 已不再提供。您正在使用 URnetwork DNS，因此查询不会被过滤。"
+  zh-HK: "{provider} 已不再提供。你正在使用 URnetwork DNS，因此查詢不會被過濾。"

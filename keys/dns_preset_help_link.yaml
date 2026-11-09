@@ -1,0 +1,36 @@
+description: "DNS settings: link under the selected DNS provider, beside \"Privacy policy\", that opens the provider's help page."
+source: "Help"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "المساعدة"
+  cs: "Nápověda"
+  de: "Hilfe"
+  el: "Βοήθεια"
+  en: "Help"
+  es: "Ayuda"
+  es-419: "Ayuda"
+  es-MX: "Ayuda"
+  fr: "Aide"
+  he: "עזרה"
+  hi: "सहायता"
+  id: "Bantuan"
+  it: "Guida"
+  ja: "ヘルプ"
+  ko: "도움말"
+  nl: "Hulp"
+  pl: "Pomoc"
+  pt: "Ajuda"
+  pt-BR: "Ajuda"
+  pt-PT: "Ajuda"
+  ru: "Справка"
+  sv: "Hjälp"
+  sw: "Msaada"
+  th: "ความช่วยเหลือ"
+  uk: "Довідка"
+  vi: "Trợ giúp"
+  zh: "帮助"
+  zh-HK: "說明"

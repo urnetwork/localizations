@@ -1,0 +1,36 @@
+description: "DNS settings, provider picker: the line under \"URnetwork (default)\" that says what it does: names are resolved over encrypted DNS inside the VPN tunnel, and nothing is blocked."
+source: "Encrypted DNS through the tunnel, with no filtering"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "DNS مشفّر عبر النفق، دون أي تصفية"
+  cs: "Šifrované DNS přes tunel, bez filtrování"
+  de: "Verschlüsseltes DNS durch den Tunnel, ohne Filterung"
+  el: "Κρυπτογραφημένο DNS μέσω του τούνελ, χωρίς φιλτράρισμα"
+  en: "Encrypted DNS through the tunnel, with no filtering"
+  es: "DNS cifrado a través del túnel, sin filtrado"
+  es-419: "DNS cifrado a través del túnel, sin filtrado"
+  es-MX: "DNS cifrado a través del túnel, sin filtrado"
+  fr: "DNS chiffré à travers le tunnel, sans filtrage"
+  he: "DNS מוצפן דרך המנהרה, ללא סינון"
+  hi: "टनल के ज़रिए एन्क्रिप्टेड DNS, बिना फ़िल्टरिंग के"
+  id: "DNS terenkripsi melalui terowongan, tanpa pemfilteran"
+  it: "DNS crittografato attraverso il tunnel, senza filtri"
+  ja: "トンネル経由の暗号化DNS。フィルタリングなし"
+  ko: "터널을 통한 암호화 DNS, 필터링 없음"
+  nl: "Versleutelde DNS via de tunnel, zonder filtering"
+  pl: "Szyfrowany DNS przez tunel, bez filtrowania"
+  pt: "DNS encriptado através do túnel, sem filtragem"
+  pt-BR: "DNS criptografado através do túnel, sem filtragem"
+  pt-PT: "DNS encriptado através do túnel, sem filtragem"
+  ru: "Зашифрованный DNS через туннель, без фильтрации"
+  sv: "Krypterad DNS genom tunneln, utan filtrering"
+  sw: "DNS iliyosimbwa kupitia tuneli, bila uchujaji"
+  th: "DNS ที่เข้ารหัสผ่านอุโมงค์ ไม่มีการกรอง"
+  uk: "Зашифрований DNS через тунель, без фільтрування"
+  vi: "DNS được mã hóa qua đường hầm, không lọc"
+  zh: "通过隧道的加密 DNS，不做过滤"
+  zh-HK: "經隧道的加密 DNS，不作過濾"

@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: help about the provider's block response setting. URnetwork treats a REFUSED answer as a failing provider, so blocks must be answered with zero IP (0.0.0.0, the providers' default) or NXDOMAIN. 0.0.0.0, NXDOMAIN and REFUSED are technical values: keep them as they are. {provider} is the provider's name, inserted as is."
+source: "In %@, keep the block response at zero IP (0.0.0.0, the default) or NXDOMAIN. REFUSED and other responses look like an outage."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "في {provider}، أبقِ استجابة الحظر على IP صفري (0.0.0.0، وهو الافتراضي) أو NXDOMAIN. تبدو REFUSED والاستجابات الأخرى كأنها انقطاع في الخدمة."
+  cs: "Ve službě {provider} ponechte odpověď na blokování na nulové IP (0.0.0.0, výchozí) nebo NXDOMAIN. REFUSED a jiné odpovědi vypadají jako výpadek."
+  de: "Belass die Blockier-Antwort bei {provider} auf Null-IP (0.0.0.0, Standard) oder NXDOMAIN. REFUSED und andere Antworten wirken wie ein Ausfall."
+  el: "Στο {provider}, αφήστε την απόκριση αποκλεισμού σε μηδενική IP (0.0.0.0, η προεπιλογή) ή NXDOMAIN. Το REFUSED και άλλες αποκρίσεις μοιάζουν με διακοπή λειτουργίας."
+  en: "In {provider}, keep the block response at zero IP (0.0.0.0, the default) or NXDOMAIN. REFUSED and other responses look like an outage."
+  es: "En {provider}, deja la respuesta de bloqueo en IP cero (0.0.0.0, la predeterminada) o NXDOMAIN. REFUSED y otras respuestas parecen una caída del servicio."
+  es-419: "En {provider}, deja la respuesta de bloqueo en IP cero (0.0.0.0, la predeterminada) o NXDOMAIN. REFUSED y otras respuestas parecen una caída del servicio."
+  es-MX: "En {provider}, deja la respuesta de bloqueo en IP cero (0.0.0.0, la predeterminada) o NXDOMAIN. REFUSED y otras respuestas parecen una caída del servicio."
+  fr: "Dans {provider}, gardez la réponse de blocage sur IP nulle (0.0.0.0, par défaut) ou NXDOMAIN. REFUSED et les autres réponses ressemblent à une panne."
+  he: "ב-{provider}, השאירו את תגובת החסימה על IP אפס (0.0.0.0, ברירת המחדל) או NXDOMAIN. REFUSED ותגובות אחרות נראות כמו תקלה."
+  hi: "{provider} में ब्लॉक रिस्पॉन्स को ज़ीरो IP (0.0.0.0, डिफ़ॉल्ट) या NXDOMAIN पर रखें। REFUSED और दूसरे रिस्पॉन्स आउटेज जैसे दिखते हैं।"
+  id: "Di {provider}, biarkan respons blokir pada IP nol (0.0.0.0, bawaan) atau NXDOMAIN. REFUSED dan respons lain akan terlihat seperti gangguan."
+  it: "In {provider}, lascia la risposta di blocco su IP zero (0.0.0.0, l'impostazione predefinita) o NXDOMAIN. REFUSED e le altre risposte sembrano un'interruzione del servizio."
+  ja: "{provider}では、ブロック時の応答をゼロIP（0.0.0.0、デフォルト）またはNXDOMAINのままにしてください。REFUSEDなどの応答は障害のように見えます。"
+  ko: "{provider}에서 차단 응답을 제로 IP(0.0.0.0, 기본값) 또는 NXDOMAIN으로 유지하세요. REFUSED 등 다른 응답은 장애처럼 보입니다."
+  nl: "Laat in {provider} het blokkeerantwoord op nul-IP (0.0.0.0, de standaard) of NXDOMAIN staan. REFUSED en andere antwoorden lijken op een storing."
+  pl: "W {provider} zostaw odpowiedź blokady na zerowym IP (0.0.0.0, domyślnie) lub NXDOMAIN. REFUSED i inne odpowiedzi wyglądają jak awaria."
+  pt: "Em {provider}, mantenha a resposta de bloqueio em IP zero (0.0.0.0, a predefinição) ou NXDOMAIN. REFUSED e outras respostas parecem uma falha."
+  pt-BR: "Em {provider}, mantenha a resposta de bloqueio em IP zero (0.0.0.0, o padrão) ou NXDOMAIN. REFUSED e outras respostas parecem uma falha."
+  pt-PT: "Em {provider}, mantenha a resposta de bloqueio em IP zero (0.0.0.0, a predefinição) ou NXDOMAIN. REFUSED e outras respostas parecem uma falha."
+  ru: "В {provider} оставьте ответ на блокировку «нулевой IP» (0.0.0.0, по умолчанию) или NXDOMAIN. REFUSED и другие ответы выглядят как сбой."
+  sv: "Låt blockeringssvaret i {provider} vara noll-IP (0.0.0.0, standard) eller NXDOMAIN. REFUSED och andra svar ser ut som ett avbrott."
+  sw: "Katika {provider}, acha jibu la kuzuia kwenye IP sifuri (0.0.0.0, chaguo-msingi) au NXDOMAIN. REFUSED na majibu mengine huonekana kama hitilafu ya huduma."
+  th: "ใน {provider} ให้ตั้งการตอบกลับเมื่อบล็อกเป็น IP ศูนย์ (0.0.0.0 ซึ่งเป็นค่าเริ่มต้น) หรือ NXDOMAIN ส่วน REFUSED และการตอบกลับอื่นจะดูเหมือนบริการขัดข้อง"
+  uk: "У {provider} залиште відповідь на блокування «нульова IP» (0.0.0.0, за замовчуванням) або NXDOMAIN. REFUSED та інші відповіді виглядають як збій."
+  vi: "Trong {provider}, hãy để phản hồi chặn ở IP 0 (0.0.0.0, mặc định) hoặc NXDOMAIN. REFUSED và các phản hồi khác trông như sự cố."
+  zh: "请在 {provider} 中将拦截响应保持为零 IP（0.0.0.0，默认）或 NXDOMAIN。REFUSED 等其他响应看起来像服务中断。"
+  zh-HK: "請在 {provider} 中將攔截回應保持為零 IP（0.0.0.0，預設）或 NXDOMAIN。REFUSED 等其他回應看起來像服務中斷。"

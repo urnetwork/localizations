@@ -1,0 +1,36 @@
+description: "DNS settings and connect drawer: button beside a DNS provider status that isn't answering. It switches back to URnetwork's own DNS, the default, in one tap."
+source: "Use URnetwork DNS"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "استخدام DNS الخاص بـ URnetwork"
+  cs: "Použít DNS od URnetwork"
+  de: "URnetwork-DNS verwenden"
+  el: "Χρήση DNS του URnetwork"
+  en: "Use URnetwork DNS"
+  es: "Usar el DNS de URnetwork"
+  es-419: "Usar el DNS de URnetwork"
+  es-MX: "Usar el DNS de URnetwork"
+  fr: "Utiliser le DNS d'URnetwork"
+  he: "שימוש ב-DNS של URnetwork"
+  hi: "URnetwork DNS इस्तेमाल करें"
+  id: "Gunakan DNS URnetwork"
+  it: "Usa il DNS di URnetwork"
+  ja: "URnetworkのDNSを使用"
+  ko: "URnetwork DNS 사용"
+  nl: "URnetwork-DNS gebruiken"
+  pl: "Użyj DNS URnetwork"
+  pt: "Usar o DNS da URnetwork"
+  pt-BR: "Usar o DNS da URnetwork"
+  pt-PT: "Usar o DNS da URnetwork"
+  ru: "Использовать DNS URnetwork"
+  sv: "Använd URnetworks DNS"
+  sw: "Tumia DNS ya URnetwork"
+  th: "ใช้ DNS ของ URnetwork"
+  uk: "Використовувати DNS URnetwork"
+  vi: "Dùng DNS của URnetwork"
+  zh: "使用 URnetwork DNS"
+  zh-HK: "使用 URnetwork DNS"

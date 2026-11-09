@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: help under the profile ID field for Control D. {provider} is Control D, inserted as is. \"Show Resolvers\" is the button's name in Control D's English dashboard, so it stays in English; an endpoint is what Control D calls a device or profile you connect."
+source: "In your %@ dashboard, choose Show Resolvers on your endpoint."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "في لوحة تحكم {provider}، اختر Show Resolvers على نقطة النهاية الخاصة بك."
+  cs: "V ovládacím panelu {provider} zvolte u svého koncového bodu Show Resolvers."
+  de: "Wähle im Dashboard von {provider} bei deinem Endpunkt „Show Resolvers“."
+  el: "Στον πίνακα ελέγχου του {provider}, επιλέξτε Show Resolvers στο τελικό σημείο σας."
+  en: "In your {provider} dashboard, choose Show Resolvers on your endpoint."
+  es: "En tu panel de {provider}, elige Show Resolvers en tu endpoint."
+  es-419: "En tu panel de {provider}, elige Show Resolvers en tu endpoint."
+  es-MX: "En tu panel de {provider}, elige Show Resolvers en tu endpoint."
+  fr: "Dans votre tableau de bord {provider}, choisissez Show Resolvers sur votre endpoint."
+  he: "בלוח הבקרה של {provider}, בחרו Show Resolvers בנקודת הקצה שלכם."
+  hi: "अपने {provider} डैशबोर्ड में, अपने एंडपॉइंट पर Show Resolvers चुनें।"
+  id: "Di dasbor {provider} Anda, pilih Show Resolvers pada endpoint Anda."
+  it: "Nella dashboard di {provider}, scegli Show Resolvers sul tuo endpoint."
+  ja: "{provider}のダッシュボードで、エンドポイントの「Show Resolvers」を選択します。"
+  ko: "{provider} 대시보드에서 엔드포인트의 Show Resolvers를 선택하세요."
+  nl: "Kies in je dashboard van {provider} bij je endpoint voor Show Resolvers."
+  pl: "W panelu {provider} wybierz Show Resolvers przy swoim punkcie końcowym."
+  pt: "No seu painel {provider}, escolha Show Resolvers no seu endpoint."
+  pt-BR: "No seu painel {provider}, escolha Show Resolvers no seu endpoint."
+  pt-PT: "No seu painel {provider}, escolha Show Resolvers no seu endpoint."
+  ru: "В панели управления {provider} выберите Show Resolvers для своей конечной точки."
+  sv: "Välj Show Resolvers för din slutpunkt i kontrollpanelen hos {provider}."
+  sw: "Kwenye dashibodi yako ya {provider}, chagua Show Resolvers kwenye endpoint yako."
+  th: "ในแดชบอร์ด {provider} ของคุณ ให้เลือก Show Resolvers ที่ปลายทาง (endpoint) ของคุณ"
+  uk: "На панелі керування {provider} виберіть Show Resolvers для своєї кінцевої точки."
+  vi: "Trong bảng điều khiển {provider}, chọn Show Resolvers trên endpoint của bạn."
+  zh: "在 {provider} 控制台中，为您的终端选择 Show Resolvers。"
+  zh-HK: "在 {provider} 控制台中，為你的端點選擇 Show Resolvers。"

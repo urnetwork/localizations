@@ -1,0 +1,39 @@
+description: "Connect drawer, DNS card: summary row while a provider from \"Use my account\" is selected. The profile ID itself is never shown. {provider} is the provider's name, inserted as is."
+source: "DNS: %@ · your profile"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "DNS: {provider} · ملفك الشخصي"
+  cs: "DNS: {provider} · váš profil"
+  de: "DNS: {provider} · dein Profil"
+  el: "DNS: {provider} · το προφίλ σας"
+  en: "DNS: {provider} · your profile"
+  es: "DNS: {provider} · tu perfil"
+  es-419: "DNS: {provider} · tu perfil"
+  es-MX: "DNS: {provider} · tu perfil"
+  fr: "DNS : {provider} · votre profil"
+  he: "DNS: {provider} · הפרופיל שלכם"
+  hi: "DNS: {provider} · आपकी प्रोफ़ाइल"
+  id: "DNS: {provider} · profil Anda"
+  it: "DNS: {provider} · il tuo profilo"
+  ja: "DNS: {provider} · あなたのプロファイル"
+  ko: "DNS: {provider} · 내 프로필"
+  nl: "DNS: {provider} · je profiel"
+  pl: "DNS: {provider} · Twój profil"
+  pt: "DNS: {provider} · o seu perfil"
+  pt-BR: "DNS: {provider} · seu perfil"
+  pt-PT: "DNS: {provider} · o seu perfil"
+  ru: "DNS: {provider} · ваш профиль"
+  sv: "DNS: {provider} · din profil"
+  sw: "DNS: {provider} · wasifu wako"
+  th: "DNS: {provider} · โปรไฟล์ของคุณ"
+  uk: "DNS: {provider} · ваш профіль"
+  vi: "DNS: {provider} · hồ sơ của bạn"
+  zh: "DNS：{provider} · 您的配置文件"
+  zh-HK: "DNS：{provider} · 你的設定檔"

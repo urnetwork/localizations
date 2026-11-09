@@ -1,0 +1,36 @@
+description: "DNS settings, Use my account: provider dashboards suggest linking your IP address to your account. Through URnetwork, lookups come from the VPN exit's address, which belongs to someone else, so the app uses only the ID and doesn't offer linking."
+source: "No need to link an IP address in your dashboard: through URnetwork, your lookups come from an address that isn't yours. Your ID is enough."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "لا حاجة لربط عنوان IP في لوحة التحكم: عبر URnetwork، تأتي عمليات البحث الخاصة بك من عنوان ليس لك. يكفي معرّفك."
+  cs: "V ovládacím panelu není třeba propojovat IP adresu: přes URnetwork přicházejí vaše dotazy z adresy, která není vaše. Stačí vaše ID."
+  de: "Du musst im Dashboard keine IP-Adresse verknüpfen: Über URnetwork kommen deine Abfragen von einer Adresse, die nicht deine ist. Deine ID genügt."
+  el: "Δεν χρειάζεται να συνδέσετε διεύθυνση IP στον πίνακα ελέγχου: μέσω του URnetwork, οι αναζητήσεις σας προέρχονται από μια διεύθυνση που δεν είναι δική σας. Αρκεί το αναγνωριστικό σας."
+  en: "No need to link an IP address in your dashboard: through URnetwork, your lookups come from an address that isn't yours. Your ID is enough."
+  es: "No hace falta vincular una dirección IP en tu panel: con URnetwork, tus consultas salen de una dirección que no es la tuya. Basta con tu ID."
+  es-419: "No es necesario vincular una dirección IP en tu panel: con URnetwork, tus consultas salen de una dirección que no es la tuya. Basta con tu ID."
+  es-MX: "No es necesario vincular una dirección IP en tu panel: con URnetwork, tus consultas salen de una dirección que no es la tuya. Basta con tu ID."
+  fr: "Inutile d'associer une adresse IP dans votre tableau de bord : avec URnetwork, vos requêtes proviennent d'une adresse qui n'est pas la vôtre. Votre ID suffit."
+  he: "אין צורך לקשר כתובת IP בלוח הבקרה: דרך URnetwork, החיפושים שלכם מגיעים מכתובת שאינה שלכם. המזהה שלכם מספיק."
+  hi: "डैशबोर्ड में IP पता लिंक करने की ज़रूरत नहीं: URnetwork के ज़रिए आपके लुकअप ऐसे पते से आते हैं जो आपका नहीं है। आपकी ID ही काफ़ी है।"
+  id: "Tidak perlu menautkan alamat IP di dasbor: melalui URnetwork, pencarian Anda berasal dari alamat yang bukan milik Anda. ID Anda sudah cukup."
+  it: "Non serve collegare un indirizzo IP nella dashboard: con URnetwork le tue richieste partono da un indirizzo che non è il tuo. Basta il tuo ID."
+  ja: "ダッシュボードでIPアドレスを紐付ける必要はありません。URnetwork経由の問い合わせは、あなたのものではないアドレスから送られます。IDだけで十分です。"
+  ko: "대시보드에서 IP 주소를 연결할 필요가 없습니다. URnetwork를 거친 조회는 내 것이 아닌 주소에서 나옵니다. ID만 있으면 됩니다."
+  nl: "Je hoeft in je dashboard geen IP-adres te koppelen: via URnetwork komen je opzoekingen van een adres dat niet van jou is. Je ID is genoeg."
+  pl: "Nie musisz łączyć adresu IP w panelu: przez URnetwork Twoje zapytania pochodzą z adresu, który nie jest Twój. Wystarczy Twój identyfikator."
+  pt: "Não precisa de associar um endereço IP no painel: através da URnetwork, as suas pesquisas vêm de um endereço que não é seu. Basta o seu ID."
+  pt-BR: "Não é preciso vincular um endereço IP no painel: pela URnetwork, suas consultas vêm de um endereço que não é seu. Basta o seu ID."
+  pt-PT: "Não precisa de associar um endereço IP no painel: através da URnetwork, as suas pesquisas vêm de um endereço que não é seu. Basta o seu ID."
+  ru: "Привязывать IP-адрес в панели управления не нужно: через URnetwork ваши запросы идут с чужого адреса. Достаточно вашего ID."
+  sv: "Du behöver inte koppla någon IP-adress i kontrollpanelen: via URnetwork kommer dina uppslag från en adress som inte är din. Ditt ID räcker."
+  sw: "Hakuna haja ya kuunganisha anwani ya IP kwenye dashibodi: kupitia URnetwork, hoja zako hutoka kwenye anwani isiyo yako. Kitambulisho chako kinatosha."
+  th: "ไม่ต้องเชื่อมโยงที่อยู่ IP ในแดชบอร์ด เพราะเมื่อใช้ URnetwork การค้นหาของคุณจะมาจากที่อยู่ที่ไม่ใช่ของคุณ ใช้แค่ ID ก็พอ"
+  uk: "Прив'язувати IP-адресу на панелі керування не потрібно: через URnetwork ваші запити йдуть з чужої адреси. Достатньо вашого ID."
+  vi: "Không cần liên kết địa chỉ IP trong bảng điều khiển: qua URnetwork, các truy vấn của bạn đến từ một địa chỉ không phải của bạn. Chỉ cần ID là đủ."
+  zh: "无需在控制台中绑定 IP 地址：通过 URnetwork，您的查询来自不属于您的地址。只需 ID 即可。"
+  zh-HK: "無需在控制台中綁定 IP 位址：透過 URnetwork，你的查詢來自不屬於你的位址。只需 ID 即可。"

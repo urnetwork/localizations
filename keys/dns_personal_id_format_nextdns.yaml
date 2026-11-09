@@ -1,0 +1,41 @@
+description: "DNS settings, Use my account: shown under the profile ID field when the NextDNS ID has the wrong format. {provider} is NextDNS and {example} an example ID such as abc123, both inserted as is."
+source: "%@ IDs are 6 characters: digits and the letters a to f, like %@."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+  - name: example
+    type: string
+localizations:
+  ar: "تتكون معرّفات {provider} من 6 أحرف: أرقام والأحرف من a إلى f، مثل {example}."
+  cs: "ID služby {provider} mají 6 znaků: číslice a písmena a až f, například {example}."
+  de: "IDs von {provider} haben 6 Zeichen: Ziffern und die Buchstaben a bis f, zum Beispiel {example}."
+  el: "Τα αναγνωριστικά του {provider} έχουν 6 χαρακτήρες: ψηφία και τα γράμματα a έως f, όπως {example}."
+  en: "{provider} IDs are 6 characters: digits and the letters a to f, like {example}."
+  es: "Los ID de {provider} tienen 6 caracteres: dígitos y las letras de la a a la f, como {example}."
+  es-419: "Los ID de {provider} tienen 6 caracteres: dígitos y las letras de la a a la f, como {example}."
+  es-MX: "Los ID de {provider} tienen 6 caracteres: dígitos y las letras de la a a la f, como {example}."
+  fr: "Les ID {provider} comptent 6 caractères : des chiffres et les lettres a à f, par exemple {example}."
+  he: "מזהי {provider} הם בני 6 תווים: ספרות והאותיות a עד f, למשל {example}."
+  hi: "{provider} ID में 6 अक्षर होते हैं: अंक और a से f तक के अक्षर, जैसे {example}।"
+  id: "ID {provider} terdiri dari 6 karakter: angka dan huruf a sampai f, misalnya {example}."
+  it: "Gli ID di {provider} hanno 6 caratteri: cifre e lettere dalla a alla f, ad esempio {example}."
+  ja: "{provider}のIDは6文字で、数字とaからfの英字で構成されます（例: {example}）。"
+  ko: "{provider} ID는 숫자와 a~f 문자로 된 6자입니다(예: {example})."
+  nl: "ID's van {provider} hebben 6 tekens: cijfers en de letters a tot en met f, zoals {example}."
+  pl: "Identyfikatory {provider} mają 6 znaków: cyfry i litery od a do f, np. {example}."
+  pt: "Os ID de {provider} têm 6 caracteres: algarismos e as letras de a a f, por exemplo {example}."
+  pt-BR: "Os IDs de {provider} têm 6 caracteres: dígitos e as letras de a a f, como {example}."
+  pt-PT: "Os ID de {provider} têm 6 caracteres: algarismos e as letras de a a f, por exemplo {example}."
+  ru: "ID {provider} состоят из 6 символов: цифр и букв от a до f, например {example}."
+  sv: "ID:n för {provider} har 6 tecken: siffror och bokstäverna a till f, till exempel {example}."
+  sw: "Vitambulisho vya {provider} vina herufi 6: tarakimu na herufi a hadi f, kwa mfano {example}."
+  th: "ID ของ {provider} มี 6 อักขระ ประกอบด้วยตัวเลขและตัวอักษร a ถึง f เช่น {example}"
+  uk: "ID {provider} мають 6 символів: цифри та літери від a до f, наприклад {example}."
+  vi: "ID của {provider} gồm 6 ký tự: chữ số và các chữ cái từ a đến f, ví dụ {example}."
+  zh: "{provider} ID 为 6 个字符，由数字和字母 a 到 f 组成，例如 {example}。"
+  zh-HK: "{provider} ID 為 6 個字元，由數字和字母 a 至 f 組成，例如 {example}。"

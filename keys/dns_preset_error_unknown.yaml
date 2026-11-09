@@ -1,0 +1,36 @@
+description: "DNS settings: error id the sdk returns when a DNS preset is no longer in the app's catalog. \"Preset\" means one of the DNS providers listed on the screen."
+source: "This preset isn't available. Choose another one."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "هذا الإعداد المسبق غير متاح. اختر إعدادًا آخر."
+  cs: "Tato předvolba není k dispozici. Vyberte jinou."
+  de: "Diese Voreinstellung ist nicht verfügbar. Wähle eine andere."
+  el: "Αυτή η προρύθμιση δεν είναι διαθέσιμη. Επιλέξτε άλλη."
+  en: "This preset isn't available. Choose another one."
+  es: "Esta opción predefinida no está disponible. Elige otra."
+  es-419: "Esta opción predefinida no está disponible. Elige otra."
+  es-MX: "Esta opción predefinida no está disponible. Elige otra."
+  fr: "Ce préréglage n'est pas disponible. Choisissez-en un autre."
+  he: "ההגדרה המוכנה הזו לא זמינה. בחרו אחרת."
+  hi: "यह प्रीसेट उपलब्ध नहीं है। कोई दूसरा चुनें।"
+  id: "Preset ini tidak tersedia. Pilih yang lain."
+  it: "Questa preimpostazione non è disponibile. Scegline un'altra."
+  ja: "このプリセットは利用できません。別のプリセットを選んでください。"
+  ko: "이 프리셋은 사용할 수 없습니다. 다른 프리셋을 선택하세요."
+  nl: "Deze voorinstelling is niet beschikbaar. Kies een andere."
+  pl: "To gotowe ustawienie jest niedostępne. Wybierz inne."
+  pt: "Esta predefinição não está disponível. Escolha outra."
+  pt-BR: "Esta predefinição não está disponível. Escolha outra."
+  pt-PT: "Esta predefinição não está disponível. Escolha outra."
+  ru: "Эта предустановка недоступна. Выберите другую."
+  sv: "Den här förinställningen är inte tillgänglig. Välj en annan."
+  sw: "Mpangilio huu uliowekwa tayari haupatikani. Chagua mwingine."
+  th: "พรีเซ็ตนี้ใช้งานไม่ได้ เลือกพรีเซ็ตอื่น"
+  uk: "Це готове налаштування недоступне. Виберіть інше."
+  vi: "Cài đặt sẵn này không khả dụng. Hãy chọn cài đặt khác."
+  zh: "此预设不可用。请选择其他预设。"
+  zh-HK: "此選項無法使用。請選擇其他選項。"
