@@ -5,7 +5,6 @@ deprecated:
   - linux
   - windows
 platforms:
-  - android
   - apple
   - linux
   - windows
