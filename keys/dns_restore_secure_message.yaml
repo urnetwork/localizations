@@ -2,6 +2,7 @@ description: "dns settings"
 source: "Restore the most secure settings: encrypted DNS over HTTPS through the tunnel."
 deprecated:
   - android
+  - apple
   - linux
   - windows
 platforms:
