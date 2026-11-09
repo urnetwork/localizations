@@ -1,5 +1,7 @@
 description: "dns settings"
 source: "Using most secure default settings"
+deprecated:
+  - windows
 platforms:
   - android
   - apple
