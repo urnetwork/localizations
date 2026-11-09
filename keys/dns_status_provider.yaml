@@ -1,4 +1,4 @@
-description: "DNS settings: status line while the selected adblock provider answers normally. {provider} is the adblock provider's name (for example AdGuard DNS), inserted as is."
+description: "DNS settings and connect drawer: status line while the selected preset answers normally, and the summary row of a selected preset. {provider} is the preset's name (dns_preset_name_*, for example AdGuard Family), inserted as is; the name already says what the preset does."
 source: "DNS: %@"
 platforms:
   - android

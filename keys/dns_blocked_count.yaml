@@ -1,4 +1,4 @@
-description: "DNS settings: how many DNS lookups the selected adblock provider has blocked since the device connected. Counted on the device only and reset at each connect. {count} is the number, {provider} the adblock provider's name, inserted as is."
+description: "DNS settings: how many DNS lookups the selected adblock provider has blocked since the device connected. Counted on the device only and reset at each connect. {count} is the number, {provider} the selected preset's name (dns_preset_name_*, for example AdGuard Ad Blocking), inserted as is."
 source: "%lld lookups blocked by %@ this connection"
 platforms:
   - android

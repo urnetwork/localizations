@@ -1,4 +1,4 @@
-description: "Android connect screen: line added to the strict Private DNS notice while an adblock provider is selected, since Android's Private DNS sends lookups to its own server instead. {provider} is the selected adblock provider's name, inserted as is. Private DNS is Android's own setting, named as in Android."
+description: "Android connect screen: line added to the strict Private DNS notice while an adblock provider is selected, since Android's Private DNS sends lookups to its own server instead. {provider} is the selected preset's name (dns_preset_name_*, for example AdGuard Family), inserted as is. Private DNS is Android's own setting, named as in Android."
 source: "Private DNS overrides your DNS choice (%1$s)."
 platforms:
   - android

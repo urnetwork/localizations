@@ -1,0 +1,39 @@
+description: "DNS settings: the name of an adblock provider's preset in \"No filtering\", which blocks nothing. Shown alone as the preset's label on the DNS screen, and inserted as is wherever the selected preset is named, as in \"DNS: Cloudflare No Filtering\" and \"Cloudflare No Filtering isn't answering\", so it reads as a short name that works on its own and inside a sentence. {provider} is the adblock provider's short name, inserted as is (for example Cloudflare); keep it first, so the presets of a group stay in alphabetical order."
+source: "%@ No Filtering"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} بدون تصفية"
+  cs: "{provider} Bez filtrování"
+  de: "{provider} Ohne Filterung"
+  el: "{provider} Χωρίς φιλτράρισμα"
+  en: "{provider} No Filtering"
+  es: "{provider} Sin filtrado"
+  es-419: "{provider} Sin filtrado"
+  es-MX: "{provider} Sin filtrado"
+  fr: "{provider} Sans filtrage"
+  he: "{provider} ללא סינון"
+  hi: "{provider} बिना फ़िल्टरिंग"
+  id: "{provider} Tanpa pemfilteran"
+  it: "{provider} Nessun filtro"
+  ja: "{provider} フィルタリングなし"
+  ko: "{provider} 필터링 없음"
+  nl: "{provider} Geen filtering"
+  pl: "{provider} Bez filtrowania"
+  pt: "{provider} Sem filtragem"
+  pt-BR: "{provider} Sem filtragem"
+  pt-PT: "{provider} Sem filtragem"
+  ru: "{provider} Без фильтрации"
+  sv: "{provider} Ingen filtrering"
+  sw: "{provider} Bila uchujaji"
+  th: "{provider} ไม่มีการกรอง"
+  uk: "{provider} Без фільтрування"
+  vi: "{provider} Không lọc"
+  zh: "{provider} 不过滤"
+  zh-HK: "{provider} 不過濾"
