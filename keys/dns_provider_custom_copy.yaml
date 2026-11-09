@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the line under \"Custom\" that says what it holds."
+description: "DNS settings, adblock provider picker: the line under \"Custom\" that says what it holds."
 source: "Your own DNS over HTTPS URLs and DNS servers"
 platforms:
   - android

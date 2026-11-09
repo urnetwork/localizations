@@ -1,4 +1,4 @@
-description: "DNS settings, Use my account: link that opens the provider's dashboard, for example under \"Saved, but we can't confirm this profile\". {provider} is the provider's name, inserted as is."
+description: "DNS settings, Use my account: link that opens the adblock provider's dashboard, for example under \"Saved, but we can't confirm this profile\". {provider} is the adblock provider's name, inserted as is."
 source: "Open your %@ dashboard"
 platforms:
   - android

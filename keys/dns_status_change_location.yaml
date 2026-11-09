@@ -1,4 +1,4 @@
-description: "DNS settings and connect drawer: button beside a DNS provider status that opens the location picker, since a provider can be blocked or unreachable from some exit locations."
+description: "DNS settings and connect drawer: button beside an adblock provider's status that opens the location picker, since an adblock provider can be blocked or unreachable from some exit locations."
 source: "Change location"
 platforms:
   - android

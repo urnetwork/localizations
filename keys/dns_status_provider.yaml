@@ -1,4 +1,4 @@
-description: "DNS settings: status line while the selected DNS provider answers normally. {provider} is the provider's name (for example AdGuard DNS), inserted as is."
+description: "DNS settings: status line while the selected adblock provider answers normally. {provider} is the adblock provider's name (for example AdGuard DNS), inserted as is."
 source: "DNS: %@"
 platforms:
   - android

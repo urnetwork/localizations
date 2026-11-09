@@ -1,4 +1,4 @@
-description: "DNS settings: link under the selected DNS provider, beside \"Privacy policy\", that opens the provider's help page."
+description: "DNS settings: link under the selected adblock provider, beside \"Privacy policy\", that opens the adblock provider's help page."
 source: "Help"
 platforms:
   - android

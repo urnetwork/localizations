@@ -1,4 +1,4 @@
-description: "DNS settings and connect drawer: notice after an app update removed the DNS provider the person had selected. The app switched to URnetwork's own DNS, which doesn't filter. {provider} is the removed provider's name, inserted as is."
+description: "DNS settings and connect drawer: notice after an app update removed the adblock provider the person had selected. The app switched to URnetwork's own DNS, which doesn't filter. {provider} is the removed adblock provider's name, inserted as is."
 source: "%@ is no longer available. You're using URnetwork DNS, so lookups aren't filtered."
 platforms:
   - android

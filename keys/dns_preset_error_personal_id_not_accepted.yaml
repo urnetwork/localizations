@@ -1,4 +1,4 @@
-description: "DNS settings: error id the sdk returns when a profile ID is given for a DNS preset that doesn't take one. \"Preset\" means one of the DNS providers listed on the screen."
+description: "DNS settings: error id the sdk returns when a profile ID is given for a DNS preset that doesn't take one. \"Preset\" means one of the adblock providers listed on the screen."
 source: "This preset doesn't use a profile ID."
 platforms:
   - android

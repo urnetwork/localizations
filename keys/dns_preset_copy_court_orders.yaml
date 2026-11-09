@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the line under DNS4EU in \"No filtering\". It does no protective filtering, but the domains courts order blocked stay blocked on every DNS4EU resolver. The provider's name is shown above it, not in this string."
+description: "DNS settings, adblock provider picker: the line under DNS4EU in \"No filtering\". It does no protective filtering, but the domains courts order blocked stay blocked on every DNS4EU resolver. The adblock provider's name is shown above it, not in this string."
 source: "Blocks only what courts order it to block"
 platforms:
   - android

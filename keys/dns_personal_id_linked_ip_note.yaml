@@ -1,4 +1,4 @@
-description: "DNS settings, Use my account: provider dashboards suggest linking your IP address to your account. Through URnetwork, lookups come from the VPN exit's address, which belongs to someone else, so the app uses only the ID and doesn't offer linking."
+description: "DNS settings, Use my account: adblock provider dashboards suggest linking your IP address to your account. Through URnetwork, lookups come from the VPN exit's address, which belongs to someone else, so the app uses only the ID and doesn't offer linking."
 source: "No need to link an IP address in your dashboard: through URnetwork, your lookups come from an address that isn't yours. Your ID is enough."
 platforms:
   - android

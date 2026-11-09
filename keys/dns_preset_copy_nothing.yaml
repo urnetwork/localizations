@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the line under a DNS provider's name in \"No filtering\" (AdGuard DNS, Cloudflare, Control D): the provider resolves every name and blocks nothing. The provider's name is shown above it, not in this string."
+description: "DNS settings, adblock provider picker: the line under an adblock provider's name in \"No filtering\" (AdGuard DNS, Cloudflare, Control D): the adblock provider resolves every name and blocks nothing. The adblock provider's name is shown above it, not in this string."
 source: "Blocks nothing"
 platforms:
   - android

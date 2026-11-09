@@ -1,4 +1,4 @@
-description: "Connect drawer and DNS settings: label of the toggle for URnetwork's own ad and tracker blocker, which works on the device beside any DNS choice. It is named as URnetwork's own so it isn't mistaken for the DNS providers in \"Block ads and trackers\"."
+description: "Connect drawer and DNS settings: label of the toggle for URnetwork's own ad and tracker blocker, which works on the device beside any DNS choice. It is named as URnetwork's own so it isn't mistaken for the adblock providers in \"Block ads and trackers\"."
 source: "URnetwork ad blocker"
 platforms:
   - android

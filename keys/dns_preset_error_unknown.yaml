@@ -1,4 +1,4 @@
-description: "DNS settings: error id the sdk returns when a DNS preset is no longer in the app's catalog. \"Preset\" means one of the DNS providers listed on the screen."
+description: "DNS settings: error id the sdk returns when a DNS preset is no longer in the app's catalog. \"Preset\" means one of the adblock providers listed on the screen."
 source: "This preset isn't available. Choose another one."
 platforms:
   - android

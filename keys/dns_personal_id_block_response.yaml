@@ -1,4 +1,4 @@
-description: "DNS settings, Use my account: help about the provider's block response setting. URnetwork treats a REFUSED answer as a failing provider, so blocks must be answered with zero IP (0.0.0.0, the providers' default) or NXDOMAIN. 0.0.0.0, NXDOMAIN and REFUSED are technical values: keep them as they are. {provider} is the provider's name, inserted as is."
+description: "DNS settings, Use my account: help about the adblock provider's block response setting. URnetwork treats a REFUSED answer as a failing adblock provider, so blocks must be answered with zero IP (0.0.0.0, the adblock providers' default) or NXDOMAIN. 0.0.0.0, NXDOMAIN and REFUSED are technical values: keep them as they are. {provider} is the adblock provider's name, inserted as is."
 source: "In %@, keep the block response at zero IP (0.0.0.0, the default) or NXDOMAIN. REFUSED and other responses look like an outage."
 platforms:
   - android

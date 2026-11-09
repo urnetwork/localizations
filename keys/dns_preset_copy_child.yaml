@@ -1,4 +1,4 @@
-description: "DNS settings, provider picker: the line under a DNS provider's name that says what it blocks, and that it doesn't block ads. Used for DNS4EU's child protection in \"Family\". The provider's name is shown above it, not in this string."
+description: "DNS settings, adblock provider picker: the line under an adblock provider's name that says what it blocks, and that it doesn't block ads. Used for DNS4EU's child protection in \"Family\". The adblock provider's name is shown above it, not in this string."
 source: "Blocks malware, adult sites, gambling, drugs and violence, not ads"
 platforms:
   - android

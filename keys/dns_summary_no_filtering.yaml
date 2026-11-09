@@ -1,4 +1,4 @@
-description: "Connect drawer, DNS card: summary row while a DNS provider from \"No filtering\" is selected. {provider} is the provider's name, inserted as is."
+description: "Connect drawer, DNS card: summary row while an adblock provider from \"No filtering\" is selected. {provider} is the adblock provider's name, inserted as is."
 source: "DNS: %@ · No filtering"
 platforms:
   - android
