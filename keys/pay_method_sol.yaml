@@ -1,0 +1,9 @@
+description: "Payment method, in the More coins list: the option to pay in SOL, the Solana network's own coin (USDC on Solana is its own tab). Also the coin's name in Pay with {method} and the other method lines. A ticker: never translated."
+source: "SOL"
+translatable: false
+platforms:
+  - android
+  - apple
+  - site
+localizations:
+  en: "SOL"

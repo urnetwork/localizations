@@ -1,4 +1,4 @@
-description: "Account screen and plan area: the label of the row or banner that reopens a crypto invoice (USDC, Zcash or Monero) saved on this device and not paid yet. Tapping it opens the invoice."
+description: "Account screen and plan area: the label of the row or banner that reopens a crypto invoice (in any coin) saved on this device and not paid yet. Tapping it opens the invoice."
 source: "Payment in progress"
 platforms:
   - android

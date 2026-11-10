@@ -1,4 +1,4 @@
-description: "Payment method row: the note under a coin that is switched on but cannot be quoted right now (exchange rates or the payment service are unavailable). The coin can't be chosen until it clears."
+description: "Payment method row: the note under a coin that is switched on but cannot be quoted right now (exchange rates or the payment service are unavailable). The coin can't be chosen until it clears. In the More coins list it is the note on such a coin, which stays visible but greyed, its icon dimmed on the More coins tab."
 source: "Temporarily unavailable"
 platforms:
   - android

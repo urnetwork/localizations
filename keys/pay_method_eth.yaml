@@ -1,0 +1,9 @@
+description: "Payment method, in the More coins list: the option to pay in ETH (ether) on Ethereum mainnet. Also the coin's name in Pay with {method} and the other method lines. A ticker: never translated."
+source: "ETH"
+translatable: false
+platforms:
+  - android
+  - apple
+  - site
+localizations:
+  en: "ETH"
