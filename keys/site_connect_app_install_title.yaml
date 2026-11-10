@@ -1,0 +1,11 @@
+description: "Connect: the install alert's title in a browser that can't run the extension (a phone's, iPadOS's, desktop Safari's), which is offered the app instead"
+source: "Install the app to connect"
+platforms:
+  - site
+localizations:
+  ar: "ثبّت التطبيق للاتصال"
+  de: "Installiere die App, um dich zu verbinden"
+  en: "Install the app to connect"
+  es: "Instala la app para conectarte"
+  ru: "Установите приложение, чтобы подключиться"
+  zh: "安装应用以连接"
