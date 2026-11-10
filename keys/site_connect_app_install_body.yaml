@@ -1,0 +1,11 @@
+description: "Connect, the account panel and the onboarding's connect step: the install body in a browser that can't run the extension (a phone's, iPadOS's, desktop Safari's), which is offered the app instead"
+source: "This browser can't run the URnetwork extension. Install the app on this device and sign in to this account to connect."
+platforms:
+  - site
+localizations:
+  ar: "لا يمكن لهذا المتصفح تشغيل إضافة URnetwork. ثبّت التطبيق على هذا الجهاز وسجّل الدخول إلى هذا الحساب للاتصال."
+  de: "Dieser Browser kann die URnetwork-Erweiterung nicht ausführen. Installiere die App auf diesem Gerät und melde dich mit diesem Konto an, um dich zu verbinden."
+  en: "This browser can't run the URnetwork extension. Install the app on this device and sign in to this account to connect."
+  es: "Este navegador no puede ejecutar la extensión de URnetwork. Instala la app en este dispositivo e inicia sesión con esta cuenta para conectarte."
+  ru: "Этот браузер не поддерживает расширение URnetwork. Установите приложение на это устройство и войдите в этот аккаунт, чтобы подключиться."
+  zh: "此浏览器无法运行 URnetwork 扩展。请在此设备上安装应用，并登录此账户以连接。"
