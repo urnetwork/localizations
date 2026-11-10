@@ -8,7 +8,7 @@ platforms:
 localizations:
   ar: "خطة"
   cs: "Plán"
-  de: "Planen"
+  de: "Plan"
   el: "Πρόγραμμα"
   en: "Plan"
   es: "Plan"
@@ -31,6 +31,6 @@ localizations:
   sw: "Mpango"
   th: "แพ็กเกจ"
   uk: "План"
-  vi: "Kế hoạch"
+  vi: "Gói"
   zh: "计划"
   zh-HK: "計劃"
