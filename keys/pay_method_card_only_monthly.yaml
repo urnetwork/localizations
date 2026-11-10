@@ -1,4 +1,4 @@
-description: "Plan picker: the note on the monthly plan, which is greyed out while a coin (USDC, Zcash or Monero) is the chosen payment method. Coins sell the yearly plan and data packs only; monthly is paid by card."
+description: "Plan picker: the note on the monthly plan, which is greyed out while a coin (USDC, Zcash, Monero, or TAO, Bitcoin, ETH or SOL under More coins) is the chosen payment method. Coins sell the yearly plan and data packs only; monthly is paid by card."
 source: "Monthly is card only"
 platforms:
   - android

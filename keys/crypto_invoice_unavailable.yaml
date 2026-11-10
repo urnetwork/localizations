@@ -1,4 +1,4 @@
-description: "Crypto invoice: shown when an invoice can't be started or its quote refreshed because the coin can't be quoted right now. {method} is the coin's name: USDC, Zcash or Monero."
+description: "Crypto invoice: shown when an invoice can't be started or its quote refreshed because the coin can't be quoted right now. {method} is the coin's name: USDC, Zcash, Monero, TAO, Bitcoin, ETH or SOL (product names, never translated)."
 source: "Paying with %@ is temporarily unavailable. Try again later, or pay another way."
 platforms:
   - android

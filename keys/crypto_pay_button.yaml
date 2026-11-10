@@ -1,4 +1,4 @@
-description: "The buy button while a coin is the chosen payment method. {method} is the coin's name as the method row shows it: USDC, Zcash or Monero (product names, never translated)."
+description: "The buy button while a coin is the chosen payment method. {method} is the coin's name as the method row or the More coins list shows it: USDC, Zcash, Monero, TAO, Bitcoin, ETH or SOL (product names, never translated). A word that changes with the name's last sound (Korean 로/으로) takes the form that fits every name."
 source: "Pay with %@"
 platforms:
   - android
@@ -24,7 +24,7 @@ localizations:
   id: "Bayar dengan {method}"
   it: "Paga con {method}"
   ja: "{method} で支払う"
-  ko: "{method}로 결제"
+  ko: "{method}(으)로 결제"
   nl: "Betalen met {method}"
   pl: "Zapłać w {method}"
   pt: "Pagar com {method}"

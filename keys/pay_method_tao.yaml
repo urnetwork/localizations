@@ -1,0 +1,9 @@
+description: "Payment method, in the More coins list: the option to pay in TAO, the coin of the Bittensor network. Also the coin's name in Pay with {method} and the other method lines. A product name: never translated."
+source: "TAO"
+translatable: false
+platforms:
+  - android
+  - apple
+  - site
+localizations:
+  en: "TAO"

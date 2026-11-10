@@ -1,0 +1,38 @@
+description: "Payment method row, for screen readers: the More coins tab (pay_method_more_coins), which may show only the coins' icons. {coins} lists the coins behind it in their order (TAO, Bitcoin, ETH, SOL), joined the way the app joins a list. The coin names are never translated. Start with the tab's own words."
+source: "More coins: %@"
+platforms:
+  - android
+  - apple
+  - site
+placeholders:
+  - name: coins
+    type: string
+localizations:
+  ar: "المزيد من العملات: {coins}"
+  cs: "Další kryptoměny: {coins}"
+  de: "Weitere Coins: {coins}"
+  el: "Άλλα νομίσματα: {coins}"
+  en: "More coins: {coins}"
+  es: "Más monedas: {coins}"
+  es-419: "Más monedas: {coins}"
+  es-MX: "Más monedas: {coins}"
+  fr: "Autres cryptos : {coins}"
+  he: "מטבעות נוספים: {coins}"
+  hi: "और कॉइन: {coins}"
+  id: "Koin lainnya: {coins}"
+  it: "Altre monete: {coins}"
+  ja: "その他のコイン：{coins}"
+  ko: "기타 코인: {coins}"
+  nl: "Meer munten: {coins}"
+  pl: "Inne kryptowaluty: {coins}"
+  pt: "Mais moedas: {coins}"
+  pt-BR: "Mais moedas: {coins}"
+  pt-PT: "Mais moedas: {coins}"
+  ru: "Другие монеты: {coins}"
+  sv: "Fler mynt: {coins}"
+  sw: "Sarafu nyingine: {coins}"
+  th: "เหรียญอื่นๆ: {coins}"
+  uk: "Інші монети: {coins}"
+  vi: "Coin khác: {coins}"
+  zh: "更多币种：{coins}"
+  zh-HK: "更多幣種：{coins}"

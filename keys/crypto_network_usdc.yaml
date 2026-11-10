@@ -1,4 +1,4 @@
-description: "Crypto invoice: its first line, naming the coin and the network to send it on, so the payer picks the right chain in the wallet (USDC sent on another chain is lost)."
+description: "Crypto invoice: its first line, naming the coin and the network to send it on, so the payer picks the right chain in the wallet (USDC sent on another chain is lost). On apple it also labels the USDC tab of the payment method row (pay_method_usdc_solana, the same text), so keep it short enough for a tab."
 source: "USDC on Solana"
 platforms:
   - android
