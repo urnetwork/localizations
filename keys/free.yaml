@@ -1,4 +1,4 @@
-description: "Display name for the paid plan. The WIRE value stays \"supporter\" (subscription_type / current_subscription.plan) because already-shipped app versions parse that string; only what the user reads changes."
+description: "Name of the free plan: the plan shown when the network has no Pro subscription, on the account, settings and Connect screens of the apps and ur.io. Free as in no cost, not as in freedom."
 source: "Free"
 platforms:
   - android
@@ -32,5 +32,5 @@ localizations:
   th: "แบบฟรี"
   uk: "Безкоштовно"
   vi: "Miễn phí"
-  zh: "自由"
+  zh: "免费"
   zh-HK: "免費"
