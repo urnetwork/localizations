@@ -6,6 +6,7 @@ platforms:
   - linux
   - windows
   - site
+  - web
 localizations:
   ar: "رصيد غير كافٍ"
   cs: "Nedostatečný zůstatek"

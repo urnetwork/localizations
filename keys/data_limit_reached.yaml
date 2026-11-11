@@ -6,6 +6,7 @@ platforms:
   - linux
   - windows
   - site
+  - web
 localizations:
   ar: "تم بلوغ حد البيانات"
   cs: "Dosažen limit dat"

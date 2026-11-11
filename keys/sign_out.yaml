@@ -6,6 +6,7 @@ platforms:
   - windows
   - android
   - site
+  - web
 localizations:
   ar: "تسجيل الخروج"
   cs: "Odhlásit se"
