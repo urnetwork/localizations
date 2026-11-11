@@ -215,10 +215,34 @@ test("Chinese writes 账户 for account, never 帐户", () => {
 	assert.equal(keys.find((k) => k.id === "account").localizations.zh, "账户");
 });
 
-test("Chinese says 验证码 for auth code, the word the apps use most", () => {
-	// it was 验证码 in 12 strings, 认证码 in 6, 授权码 in 4 and 身份验证代码 in
-	// one, sometimes two of them on one screen
-	const authCode = (k) => /\bauth(?:entication)?[ -]?code/i.test(english(k));
-	assert.ok(chinese.filter(authCode).length >= 20);
-	assert.deepEqual(zhOffenders((s, k) => authCode(k) && (!/验证码/.test(s) || /认证码|授权码|身份验证代码/.test(s))), []);
+// Two codes, two words. An auth code signs a device in to an account it is
+// already signed in to elsewhere (授权码); a verification code, sent by email
+// or SMS, only verifies a new or unverified account (验证码). Chinese used
+// 验证码 for both, so "paste the 验证码" read as the emailed code, the mix-up
+// the docs had to correct (users believed the emailed code signs them in);
+// zh-HK keeps them apart (認證碼, 驗證碼). The code sign-in strings name an
+// auth code without saying so in English (their descriptions do).
+const AUTH_CODE_SIGN_IN = new Set(["sign_in_with_code", "code_sign_in_failed"]);
+const authCode = (k) => AUTH_CODE_SIGN_IN.has(k.id) || /\bauth(?:entication)?[ -]?codes?\b/i.test(english(k));
+const verificationCode = (k) => /\bverification code\b|\bthe code we sent\b/i.test(english(k));
+
+test("Chinese says 授权码 for the auth code and keeps 验证码 for the email or SMS verification code", () => {
+	assert.ok(chinese.filter(authCode).length >= 24);
+	assert.ok(chinese.filter(verificationCode).length >= 6);
+	assert.deepEqual(chinese.filter((k) => authCode(k) && verificationCode(k)).map((k) => k.id), []);
+	assert.deepEqual(zhOffenders((s, k) => authCode(k) && (!/授权码/.test(s) || /验证码|认证码|身份验证代码/.test(s))), []);
+	assert.deepEqual(zhOffenders((s, k) => verificationCode(k) && (!/验证码/.test(s) || /授权码/.test(s))), []);
+});
+
+test("the auth code and the verification code have different Chinese words, side by side", () => {
+	// the Sessions screen lists both kinds of sign-in, and the login screens
+	// label both fields
+	const zh = (id) => keys.find((k) => k.id === id).localizations.zh;
+	assert.notEqual(zh("sessions_kind_auth_code"), zh("sessions_kind_verify"));
+	assert.notEqual(zh("auth_code"), zh("verify_input_label"));
+	assert.equal(zh("auth_code"), "授权码");
+	assert.equal(zh("verify_input_label"), "验证码");
+	// zh-HK already did
+	const hk = (id) => keys.find((k) => k.id === id).localizations["zh-HK"];
+	assert.notEqual(hk("auth_code"), hk("verify_input_label"));
 });
