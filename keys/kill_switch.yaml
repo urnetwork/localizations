@@ -5,6 +5,7 @@ platforms:
   - apple
   - linux
   - windows
+  - web
 localizations:
   ar: "مفتاح القتل"
   cs: "Kill switch"

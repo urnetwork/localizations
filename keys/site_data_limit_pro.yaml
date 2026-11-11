@@ -2,6 +2,7 @@ description: "ur.io Connect screen, out-of-balance notice for a Pro account whos
 source: "Your Pro data for this month is used up. It renews on the 1st of next month (UTC), and a data pack adds more now."
 platforms:
   - site
+  - web
 localizations:
   ar: "نفدت بيانات Pro لهذا الشهر. تتجدد في اليوم الأول من الشهر القادم (UTC)، ويمكنك إضافة المزيد الآن بحزمة بيانات."
   cs: "Data Pro na tento měsíc jsou vyčerpaná. Obnoví se 1. dne příštího měsíce (UTC) a datový balíček přidá další hned teď."

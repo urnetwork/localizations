@@ -6,6 +6,7 @@ platforms:
   - windows
   - linux
   - site
+  - web
 placeholders:
   - name: time
     type: string

@@ -4,6 +4,7 @@ platforms:
   - apple
   - linux
   - windows
+  - web
 deprecated:
   - apple
 localizations:
