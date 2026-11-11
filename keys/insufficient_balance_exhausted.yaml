@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "نفدت بياناتك حتى التجديد المجاني أو الترقية."
   cs: "Došla vám data až do bezplatného obnovení nebo přechodu na vyšší tarif."

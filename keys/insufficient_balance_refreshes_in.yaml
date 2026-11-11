@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - site
 placeholders:
   - name: time
     type: string

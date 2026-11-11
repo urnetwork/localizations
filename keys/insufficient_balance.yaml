@@ -5,6 +5,7 @@ platforms:
   - apple
   - linux
   - windows
+  - site
 localizations:
   ar: "رصيد غير كافٍ"
   cs: "Nedostatečný zůstatek"
