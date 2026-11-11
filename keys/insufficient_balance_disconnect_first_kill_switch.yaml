@@ -4,7 +4,7 @@ platforms:
   - android
   - apple
 localizations:
-  ar: "للترقية، اختر «قطع الاتصال» أولًا، وأوقف «مفتاح القتل» إن كان مفعّلًا. لا يمكن إتمام الدفع قبل ذلك."
+  ar: "للترقية، اختر «قطع الاتصال» أولًا، وعطّل «مفتاح الإيقاف» إن كان مفعّلًا. لا يمكن إتمام الدفع قبل ذلك."
   cs: "Pro přechod na vyšší tarif nejprve zvolte „Odpojení“ a vypněte Kill switch, pokud je zapnutý. Do té doby platba neprojde."
   de: "Wähle zum Upgraden zuerst „Trennen“ und schalte den Kill switch aus, falls er an ist. Vorher kommt die Zahlung nicht durch."
   el: "Για να αναβαθμίσετε, επιλέξτε πρώτα «Αποσύνδεση» και απενεργοποιήστε το Kill switch, αν είναι ενεργό. Μέχρι τότε η πληρωμή δεν μπορεί να ολοκληρωθεί."

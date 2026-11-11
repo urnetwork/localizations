@@ -2,6 +2,7 @@ description: "Browser extension popup, out-of-balance alert, and the body of the
 source: "Pages won't load in this browser until data is available or you disconnect."
 platforms:
   - web
+  - site
 localizations:
   ar: "لن تُحمَّل الصفحات في هذا المتصفح حتى تتوفر بيانات أو تقطع الاتصال."
   cs: "Stránky se v tomto prohlížeči nenačtou, dokud nebudou k dispozici data nebo se neodpojíte."
