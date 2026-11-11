@@ -32,5 +32,5 @@ localizations:
   th: "คุณต้องการยกเลิกเชื่อมต่อกับ {network_name} และสลับบัญชีหรือไม่?"
   uk: "Бажаєте відключитися від {network_name} і змінити обліковий запис?"
   vi: "Bạn có muốn ngắt kết nối khỏi {network_name} và chuyển tài khoản?"
-  zh: "您要断开与 {network_name} 的连接并切换帐户吗？"
+  zh: "您要断开与 {network_name} 的连接并切换账户吗？"
   zh-HK: "您要斷開與 {network_name} 的連接並切換帳戶嗎？"
