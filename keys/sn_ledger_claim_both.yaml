@@ -1,4 +1,4 @@
-description: "Earnings, the settlement v2 tile and the claim dialog: the one button that claims the coldkey's provider pool account (sn_ctf_provider_pool) and its capture the flag account (sn_ctf_pool) together, while both are claimable. The device sends the two claims in one transaction. Claim now, URnetwork's own button, keeps its label and claims both pools too. Short: a button."
+description: "Earnings, the settlement v2 tile and the claim dialog: the one button that claims the coldkey's provider pool account (sn_ledger_provider_pool) and its capture the flag account (sn_ctf_pool) together, while both are claimable. The device sends the two claims in one transaction. Claim now, URnetwork's own button, keeps its label and claims both pools too. Short: a button."
 source: "Claim both"
 platforms:
   - android
