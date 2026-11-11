@@ -3,6 +3,8 @@ source: "Copy address"
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "نسخ العنوان"

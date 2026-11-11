@@ -3,6 +3,8 @@ source: "Send exactly this amount to this address."
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "أرسل هذا المبلغ بالضبط إلى هذا العنوان."

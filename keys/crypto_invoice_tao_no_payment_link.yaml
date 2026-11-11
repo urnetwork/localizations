@@ -3,6 +3,8 @@ source: "TAO has no payment link, so this QR code holds only the address. Enter 
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "لا يوجد رابط دفع لعملة TAO، لذا يحتوي رمز QR هذا على العنوان فقط. أدخل المبلغ بالضبط في محفظتك."

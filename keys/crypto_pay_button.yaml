@@ -1,4 +1,4 @@
-description: "The buy button while a coin is the chosen payment method. {method} is the coin's name as the method row or the More coins list shows it: USDC, Zcash, Monero, TAO, Bitcoin, ETH or SOL (product names, never translated). A word that changes with the name's last sound (Korean 로/으로) takes the form that fits every name."
+description: "The buy button while a coin is the chosen payment method. {method} is the sdk's label for the coin, as the method row or the More coins list shows it, for example USDC on Solana, Zcash, Monero, TAO, Bitcoin, ETH or SOL (product names, never translated). A word that changes with the name's last sound (Korean 로/으로) takes the form that fits every name."
 source: "Pay with %@"
 platforms:
   - android
