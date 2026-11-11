@@ -3,6 +3,8 @@ source: "Solana (native SOL)"
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "Solana (عملة SOL الأصلية)"

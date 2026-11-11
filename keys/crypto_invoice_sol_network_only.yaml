@@ -3,6 +3,8 @@ source: "Send only SOL on the Solana network to this address. Tokens, including 
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "أرسل SOL على شبكة Solana فقط إلى هذا العنوان. لن تُحتسب الرموز المميزة، ومنها USDC."

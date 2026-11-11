@@ -4,6 +4,8 @@ translatable: false
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   en: "SOL"

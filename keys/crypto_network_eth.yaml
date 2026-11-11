@@ -3,6 +3,8 @@ source: "Ethereum mainnet"
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "شبكة Ethereum الرئيسية"
