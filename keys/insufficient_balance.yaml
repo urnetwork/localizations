@@ -1,4 +1,4 @@
-description: "Call to action"
+description: "Shown on the Connect screen when the account's data balance has run out: a balance of data, not of money."
 source: "Insufficient balance"
 platforms:
   - android
@@ -27,11 +27,11 @@ localizations:
   pt: "Saldo insuficiente"
   pt-BR: "Saldo insuficiente"
   pt-PT: "Saldo insuficiente"
-  ru: "Недостаточно средств"
+  ru: "Недостаточный баланс данных"
   sv: "Otillräckligt saldo"
   sw: "Salio halitoshi"
   th: "ยอดเงินไม่เพียงพอ"
-  uk: "Недостатньо коштів"
+  uk: "Недостатній баланс даних"
   vi: "Không đủ số dư"
   zh: "余额不足"
   zh-HK: "餘額不足"

@@ -8,4 +8,4 @@ localizations:
   en: "Created auth codes expire after 5 minutes"
   es: "Los códigos de autenticación creados caducan después de 5 minutos"
   ru: "Созданные коды аутентификации истекают через 5 минут"
-  zh: "创建的授权码将在5分钟后过期"
+  zh: "创建的验证码将在5分钟后过期"

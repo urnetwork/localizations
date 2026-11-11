@@ -92,6 +92,31 @@ test("Russian says код аутентификации for auth code, as on ever
 	assert.deepEqual(offenders((s) => /код\S* авторизации/i.test(s)), []);
 });
 
+// The out-of-data notice names the data balance: средств and коштів are
+// money ("insufficient funds"), what a wallet without funds lacks
+// (insufficient_funds, which keeps them). The apps call the balance баланс
+// данных / баланс даних (daily_data_balance, the widgets).
+const insufficientDataBalance = (k) => /^Insufficient balance/.test(english(k));
+
+test("Russian says баланс данных for the data balance the out-of-data notice names, not средств", () => {
+	assert.equal(keys.filter(insufficientDataBalance).length, 2);
+	assert.deepEqual(
+		offenders((s, k) => insufficientDataBalance(k) && (/средств/i.test(s) || !/баланс данных/i.test(s))),
+		[],
+	);
+	assert.match(keys.find((k) => k.id === "daily_data_balance").localizations.ru, /баланс данных/);
+	assert.equal(keys.find((k) => k.id === "insufficient_funds").localizations.ru, "Недостаточно средств");
+});
+
+test("Ukrainian says баланс даних for the data balance, not коштів", () => {
+	const wrong = keys
+		.filter(insufficientDataBalance)
+		.filter((k) => texts(k.localizations.uk).some((s) => /коштів/i.test(s) || !/баланс даних/i.test(s)))
+		.map((k) => k.id);
+	assert.deepEqual(wrong, []);
+	assert.match(keys.find((k) => k.id === "daily_data_balance").localizations.uk, /баланс даних/);
+});
+
 test("Russian says очки for points; балл is reserved for the Top 200 score", () => {
 	assert.deepEqual(offenders((s, k) => /балл/i.test(s) && /\bpoints?\b/i.test(english(k))), []);
 });
@@ -175,4 +200,25 @@ test("a Russian count is followed by its noun only in a plural key", () => {
 		}
 	}
 	assert.deepEqual(wrong, []);
+});
+
+// ------------------------------------------------------------------ Chinese
+
+const chinese = keys.filter((k) => k.localizations.zh != null);
+const zhOffenders = (pred) =>
+	chinese.filter((k) => texts(k.localizations.zh).some((s) => pred(s, k))).map((k) => k.id);
+
+test("Chinese writes 账户 for account, never 帐户", () => {
+	// 18 strings said 帐户 beside 50 that said 账户, the Account tab itself
+	// among them
+	assert.deepEqual(zhOffenders((s) => /帐户/.test(s)), []);
+	assert.equal(keys.find((k) => k.id === "account").localizations.zh, "账户");
+});
+
+test("Chinese says 验证码 for auth code, the word the apps use most", () => {
+	// it was 验证码 in 12 strings, 认证码 in 6, 授权码 in 4 and 身份验证代码 in
+	// one, sometimes two of them on one screen
+	const authCode = (k) => /\bauth(?:entication)?[ -]?code/i.test(english(k));
+	assert.ok(chinese.filter(authCode).length >= 20);
+	assert.deepEqual(zhOffenders((s, k) => authCode(k) && (!/验证码/.test(s) || /认证码|授权码|身份验证代码/.test(s))), []);
 });

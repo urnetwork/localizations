@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { LOCALES, loadStore } from "./store.mjs";
+import { LOCALES, SITE_LOCALES, loadStore } from "./store.mjs";
 
 // The account's plan as the apps and ur.io show it: the label `plan` ("Plan")
 // over the plan's name, `free` ("Free") or `supporter` ("Pro"). Both are one
@@ -57,4 +57,21 @@ test("the plan label is the noun, the word ur.io's plan label uses, in every lan
 		.filter((l) => plan.localizations[l] !== site.localizations[l])
 		.map((l) => `${l}: ${plan.localizations[l]} vs ${site.localizations[l]}`);
 	assert.deepEqual(differ, []);
+});
+
+test("ur.io's subscription page names the free plan with the apps' word for it, in every site language", () => {
+	// site_sub_free_title and site_sub_free_body kept the English "Free" (es
+	// "Plan Free", ru «Тариф Free») where the apps, and the rest of ur.io, say
+	// the plan's name in the reader's language (free: Gratis, Бесплатно). The
+	// word's stem carries the case and grammar each sentence needs.
+	const free = keys.get("free");
+	const wrong = [];
+	for (const l of SITE_LOCALES.filter((l) => l !== "en")) {
+		const stem = free.localizations[l].slice(0, 6).toLowerCase();
+		for (const id of ["site_sub_free_title", "site_sub_free_body"]) {
+			const s = keys.get(id).localizations[l];
+			if (/\bFree\b/.test(s) || !s.toLowerCase().includes(stem)) wrong.push(`${id}[${l}]: ${s}`);
+		}
+	}
+	assert.deepEqual(wrong, []);
 });
