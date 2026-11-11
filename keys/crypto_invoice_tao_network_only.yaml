@@ -3,6 +3,8 @@ source: "Send only TAO on the Bittensor network to this address. TAO sent on any
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "أرسل TAO على شبكة Bittensor فقط إلى هذا العنوان. لن تُحتسب عملات TAO المُرسَلة عبر أي شبكة أخرى."

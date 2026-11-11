@@ -3,6 +3,8 @@ source: "Send only Bitcoin on the Bitcoin network to this address. Bitcoin sent 
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "أرسل Bitcoin على شبكة Bitcoin فقط إلى هذا العنوان. لن تُحتسب عملات Bitcoin المُرسَلة عبر أي شبكة أخرى."

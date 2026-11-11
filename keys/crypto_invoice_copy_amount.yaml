@@ -3,6 +3,8 @@ source: "Copy amount"
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "نسخ المبلغ"

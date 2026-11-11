@@ -3,6 +3,8 @@ source: "Send only ETH on Ethereum mainnet to this address. Tokens and ETH on ot
 platforms:
   - android
   - apple
+  - windows
+  - linux
   - site
 localizations:
   ar: "أرسل ETH على شبكة Ethereum الرئيسية فقط إلى هذا العنوان. لن تُحتسب الرموز المميزة ولا عملات ETH على الشبكات الأخرى مثل Base أو Arbitrum."

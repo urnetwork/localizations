@@ -116,14 +116,25 @@ test("every translation keeps the names the English prints", () => {
 	assert.deepEqual(wrong, []);
 });
 
-test("the new keys are tagged for the site, apple and android", () => {
-	// windows and linux tag a key in the change that looks it up: each desktop catalog test fails on a
-	// key tagged for its app that nothing looks up. Their catalogs carry every live key meanwhile.
+test("the new keys are tagged for the site, apple, android, windows and linux", () => {
+	// windows and linux tagged them with the change that looks them up (each desktop catalog test fails
+	// on a key tagged for its app that nothing looks up): the coin names and the tab labels by the key
+	// the sdk hands out with each tab and coin, the rest from the apps' own tables.
 	for (const id of Object.keys(CONTRACT)) {
 		const k = keys.get(id);
-		for (const p of ["site", "android"]) assert.ok(isTaggedFor(k, p), `${id} is tagged ${p}`);
+		for (const p of ["site", "android", "windows", "linux"]) assert.ok(isTaggedFor(k, p), `${id} is tagged ${p}`);
 		assert.equal(isTaggedFor(k, "apple"), !APPLE_READS[id], `${id}: apple tag`);
 	}
+});
+
+test("the desktop apps read the USDC tab as USDC on Solana, so the bare USDC label is retired there", () => {
+	// windows and linux label the tab by the sdk's key (pay_method_usdc_solana), as the site does
+	const usdc = keys.get("pay_method_usdc");
+	for (const p of ["windows", "linux"]) {
+		assert.ok(!isTaggedFor(usdc, p), `pay_method_usdc is not tagged ${p}`);
+		assert.ok(usdc.deprecated.includes(p), `pay_method_usdc is deprecated for ${p}`);
+	}
+	for (const p of ["android", "apple", "site"]) assert.ok(isTaggedFor(usdc, p), `pay_method_usdc keeps ${p}`);
 });
 
 test("apple reads the USDC tab from the invoice line, so the two read the same in every locale", () => {
@@ -165,12 +176,20 @@ test("the buy button's Korean particle fits a name ending in a consonant, such a
 	assert.equal(keys.get("crypto_pay_button").localizations.ko, "{method}(으)로 결제");
 });
 
-test("the desktop catalogs carry every new key before the apps tag it", () => {
+test("the desktop catalogs carry every new key, and each app's list names it", () => {
 	const files = build(["windows", "linux"]);
 	const resw = files["windows/app/src/App/Strings/en/Resources.resw"];
 	const pot = files["linux/app/po/urnetwork.pot"];
+	const listed = (rel) => new Set(files[rel].split("\n").filter((line) => line && !line.startsWith("#")));
+	const windowsKeys = listed("windows/app/src/App/Strings/windows-keys.txt");
+	const linuxKeys = listed("linux/app/po/linux-keys.txt");
 	for (const id of Object.keys(CONTRACT)) {
 		assert.ok(resw.includes(`<data name="${id}" xml:space="preserve">`), `${id} is in the windows catalog`);
 		assert.ok(pot.includes(`msgctxt "${id}"\n`), `${id} is in the linux catalog`);
+		assert.ok(windowsKeys.has(id), `${id} is on windows-keys.txt`);
+		assert.ok(linuxKeys.has(id), `${id} is on linux-keys.txt`);
 	}
+	// still in both catalogs (android, apple and the site use it), off both lists
+	assert.ok(resw.includes(`<data name="pay_method_usdc" xml:space="preserve">`));
+	assert.ok(!windowsKeys.has("pay_method_usdc") && !linuxKeys.has("pay_method_usdc"));
 });
