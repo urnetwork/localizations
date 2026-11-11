@@ -19,7 +19,7 @@ const SITE = [
 	"sn_claim_relay_under_threshold_no_price", "sn_claim_relay_queued", "sn_claim_relay_cap", "sn_claim_relay_refused",
 	"sn_claim_relay_not_running", "sn_claim_relay_paused", "sn_claim_relay_waits", "sn_claim_relay_claim_now",
 	"sn_claim_relay_claim_now_paid", "sn_claim_relay_claim_now_paid_each", "sn_claim_relay_under_floor",
-	"sn_claim_relay_requested", "sn_claim_relay_again_on", "sn_claim_relay_waits_for_relay", "sn_claim_relay_self_claim",
+	"sn_claim_relay_requested", "sn_claim_relay_requested_period", "sn_claim_relay_again_on", "sn_claim_relay_waits_for_relay", "sn_claim_relay_self_claim",
 	"sn_claim_relay_lands_on", "sn_claim_relay_queued_button", "sn_claim_relay_claimed", "transaction",
 	"claim_confirmed", "done", "bittensor_funds_disclaimer_funds_only",
 ];
