@@ -3,7 +3,7 @@ source: "App Store purchases need the VPN disconnected, and while it's disconnec
 platforms:
   - apple
 localizations:
-  ar: "تتطلب عمليات الشراء من App Store قطع اتصال VPN، وأثناء قطعه يحظر «مفتاح القتل» حركة الإنترنت لديك. أوقف «مفتاح القتل»، ثم حاول مرة أخرى. يمكنك تشغيله من جديد بعد ذلك."
+  ar: "تتطلب عمليات الشراء من App Store قطع اتصال VPN، وأثناء قطعه يحظر «مفتاح الإيقاف» حركة الإنترنت لديك. عطّل «مفتاح الإيقاف»، ثم حاول مرة أخرى. يمكنك تشغيله من جديد بعد ذلك."
   cs: "Nákupy v App Store vyžadují odpojenou VPN a Kill switch během odpojení blokuje váš internetový provoz. Vypněte Kill switch a zkuste to znovu. Potom ho můžete znovu zapnout."
   de: "Käufe im App Store brauchen ein getrenntes VPN, und solange es getrennt ist, blockiert der Kill switch deinen Internetverkehr. Schalte den Kill switch aus und versuche es dann erneut. Danach kannst du ihn wieder einschalten."
   el: "Οι αγορές από το App Store χρειάζονται αποσυνδεδεμένο VPN, και όσο είναι αποσυνδεδεμένο, το Kill switch μπλοκάρει την κίνηση του διαδικτύου σας. Απενεργοποιήστε το Kill switch και δοκιμάστε ξανά. Μπορείτε να το ενεργοποιήσετε ξανά μετά."

@@ -3,7 +3,7 @@ source: "The URnetwork system service could not install the kill switch, so your
 platforms:
   - linux
 localizations:
-  ar: "تعذّر على خدمة نظام URnetwork تثبيت مفتاح القتل، لذا لا تُحجب حركة البيانات."
+  ar: "تعذّر على خدمة نظام URnetwork تثبيت مفتاح الإيقاف، لذا لا تُحجب حركة البيانات."
   cs: "Systémová služba URnetwork nemohla nainstalovat kill switch, takže se provoz neblokuje."
   de: "Der URnetwork-Systemdienst konnte den Kill switch nicht installieren, der Datenverkehr wird also nicht blockiert."
   el: "Η υπηρεσία συστήματος URnetwork δεν μπόρεσε να εγκαταστήσει το Kill switch, οπότε η κίνηση δεν αποκλείεται."

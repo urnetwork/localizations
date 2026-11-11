@@ -6,7 +6,7 @@ placeholders:
   - name: command
     type: string
 localizations:
-  ar: "تشغيل مفتاح القتل ثم إيقافه مجددًا يطلب من الخدمة إزالته؛ إذا لم ينجح ذلك، أزله باستخدام: {command}"
+  ar: "تشغيل مفتاح الإيقاف ثم تعطيله مجددًا يطلب من الخدمة إزالته؛ إذا لم ينجح ذلك، أزله باستخدام: {command}"
   cs: "Zapnutím a opětovným vypnutím kill switche požádáte službu o jeho odstranění; pokud to nepomůže, odstraňte ho příkazem: {command}"
   de: "Den Kill switch ein- und wieder auszuschalten weist den Dienst an, sie zu entfernen; falls das nicht klappt, entferne sie mit: {command}"
   el: "Η ενεργοποίηση και εκ νέου απενεργοποίηση του Kill switch ζητά από την υπηρεσία να τον καθαρίσει· αν αυτό δεν λειτουργήσει, αφαιρέστε τον με: {command}"

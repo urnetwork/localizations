@@ -4,7 +4,7 @@ platforms:
   - windows
   - linux
 localizations:
-  ar: "لم يتمكن النفق من نقل حركة البيانات، لذا أوقفه URnetwork. مفتاح القتل مفعّل، لذا لا يغادر أي شيء هذا الكمبيوتر حتى تتصل مجددًا أو توقف مفتاح القتل — لا يوجد أي تسرب."
+  ar: "لم يتمكن النفق من نقل حركة البيانات، لذا أوقفه URnetwork. مفتاح الإيقاف مفعّل، لذا لا يغادر أي شيء هذا الكمبيوتر حتى تتصل مجددًا أو تعطّل مفتاح الإيقاف — لا يوجد أي تسرب."
   cs: "Tunel nedokázal přenášet provoz, a tak ho URnetwork vypnul. Kill switch je zapnutý, takže z tohoto počítače nic neodchází, dokud se znovu nepřipojíte nebo kill switch nevypnete – nic neuniká."
   de: "Der Tunnel konnte keinen Datenverkehr übertragen, deshalb hat URnetwork ihn beendet. Der Kill switch ist an, daher verlässt nichts diesen Computer, bis du dich wieder verbindest oder den Kill switch ausschaltest – es dringt nichts nach außen."
   el: "Η σήραγγα δεν μπορούσε να μεταφέρει κίνηση, οπότε το URnetwork την τερμάτισε. Το Kill switch είναι ενεργό, οπότε τίποτα δεν φεύγει από αυτόν τον υπολογιστή μέχρι να συνδεθείτε ξανά ή να απενεργοποιήσετε το Kill switch — δεν υπάρχει καμία διαρροή."

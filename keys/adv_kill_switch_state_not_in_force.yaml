@@ -3,7 +3,7 @@ source: "The kill switch is NOT in force: your traffic is not being blocked."
 platforms:
   - linux
 localizations:
-  ar: "مفتاح القتل غير ساري المفعول: حركة بياناتك لا تُحجب."
+  ar: "مفتاح الإيقاف غير ساري المفعول: حركة بياناتك لا تُحجب."
   cs: "Kill switch NENÍ v platnosti: váš provoz se neblokuje."
   de: "Der Kill switch ist NICHT in Kraft: Dein Datenverkehr wird nicht blockiert."
   el: "Το Kill switch ΔΕΝ είναι σε ισχύ: η κίνησή σας δεν αποκλείεται."
