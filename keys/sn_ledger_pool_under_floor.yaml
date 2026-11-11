@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: the status of one pool's account, in its row where Pending or Claimed would be, while its balance is under the transfer floor, the smallest amount the chain lets a claim move (sn_claim_relay_under_floor gives it in TAO). Neither URnetwork's claim nor the device's can claim it until it is worth at least that; it waits in the vault, and this credit never expires. A capture the flag account is often this small. Short: a status. Say nothing about when it becomes claimable."
+source: "Below the claim minimum"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "أقل من الحد الأدنى للمطالبة"
+  cs: "Pod minimem pro vyzvednutí"
+  de: "Unter dem Mindestbetrag zum Einlösen"
+  el: "Κάτω από το ελάχιστο για διεκδίκηση"
+  en: "Below the claim minimum"
+  es: "Por debajo del mínimo para reclamar"
+  es-419: "Por debajo del mínimo para reclamar"
+  es-MX: "Por debajo del mínimo para reclamar"
+  fr: "Sous le minimum pour réclamer"
+  he: "מתחת למינימום למימוש"
+  hi: "दावे की न्यूनतम राशि से कम"
+  id: "Di bawah minimum klaim"
+  it: "Sotto il minimo per riscattare"
+  ja: "受け取りの最低額未満"
+  ko: "받기 최소 금액 미만"
+  nl: "Onder het minimum om op te eisen"
+  pl: "Poniżej minimum do odbioru"
+  pt: "Abaixo do mínimo para reivindicar"
+  pt-BR: "Abaixo do mínimo para resgatar"
+  pt-PT: "Abaixo do mínimo para reivindicar"
+  ru: "Ниже минимума для получения"
+  sv: "Under minimibeloppet för uttag"
+  sw: "Chini ya kiwango cha chini cha kudai"
+  th: "ต่ำกว่ายอดขั้นต่ำในการรับ"
+  uk: "Нижче мінімуму для отримання"
+  vi: "Dưới mức tối thiểu để nhận"
+  zh: "低于最低领取额"
+  zh-HK: "低於最低領取額"
