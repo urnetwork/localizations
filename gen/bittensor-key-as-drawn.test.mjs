@@ -69,7 +69,7 @@ test("the claim relay's strings are the apps', in every locale, and translated",
 
 test("every sentence that names Claim now names the button as it reads", () => {
 	const button = keys.get("sn_claim_relay_claim_now").localizations;
-	for (const id of ["sn_claim_relay_claim_now_paid", "sn_claim_relay_under_floor", "sn_claim_relay_requested", "sn_claim_relay_again_on", "sn_claim_relay_waits_for_relay"]) {
+	for (const id of ["sn_claim_relay_claim_now_paid", "sn_claim_relay_under_floor", "sn_claim_relay_requested", "sn_claim_relay_requested_period", "sn_claim_relay_again_on", "sn_claim_relay_waits_for_relay"]) {
 		const k = keys.get(id);
 		assert.ok(forms(k.localizations.en).every((en) => en.includes("Claim now")), `CONTROL FAILED: ${id} doesn't name Claim now`);
 		for (const locale of LOCALES) {
@@ -84,7 +84,7 @@ test("every sentence that names Claim now names the button as it reads", () => {
 // the relay sets, not only its 30 days. Each form prints the count, but where a language spells out one or
 // two ("once a day").
 test("the Claim now period takes the count's plural form in every language", () => {
-	for (const id of ["sn_claim_relay_claim_now_paid", "sn_claim_relay_claim_now_paid_each"]) {
+	for (const id of ["sn_claim_relay_claim_now_paid", "sn_claim_relay_claim_now_paid_each", "sn_claim_relay_requested_period"]) {
 		const k = keys.get(id);
 		assert.deepEqual(k.plurals, { select: "days" }, `${id} has no plural forms`);
 		for (const locale of LOCALES) {
