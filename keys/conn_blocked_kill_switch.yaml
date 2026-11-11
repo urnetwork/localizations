@@ -3,7 +3,7 @@ source: "Blocked — kill switch on"
 platforms:
   - windows
 localizations:
-  ar: "محجوب — مفتاح القتل مفعّل"
+  ar: "محجوب — مفتاح الإيقاف مفعّل"
   cs: "Blokováno – kill switch zapnutý"
   de: "Blockiert – Kill switch an"
   el: "Αποκλεισμένο — Kill switch ενεργό"

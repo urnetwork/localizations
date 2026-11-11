@@ -5,6 +5,7 @@ platforms:
   - linux
   - windows
   - web
+  - site
 deprecated:
   - apple
 localizations:

@@ -3,7 +3,7 @@ source: "Turn off the kill switch to buy"
 platforms:
   - apple
 localizations:
-  ar: "أوقف «مفتاح القتل» لإتمام الشراء"
+  ar: "عطّل «مفتاح الإيقاف» لإتمام الشراء"
   cs: "Pro nákup vypněte Kill switch"
   de: "Schalte zum Kaufen den Kill switch aus"
   el: "Απενεργοποιήστε το Kill switch για να αγοράσετε"

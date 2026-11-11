@@ -4,7 +4,7 @@ platforms:
   - linux
   - windows
 localizations:
-  ar: "الضغط على قطع الاتصال يعيد الإنترنت فورًا دائمًا. لا ينطبق مفتاح القتل إلا على الانقطاعات التي لم تطلبها - نفق توقف عن نقل البيانات، أو تغيّر في الشبكة، أو توقف خدمة URnetwork."
+  ar: "الضغط على قطع الاتصال يعيد الإنترنت فورًا دائمًا. لا ينطبق مفتاح الإيقاف إلا على الانقطاعات التي لم تطلبها - نفق توقف عن نقل البيانات، أو تغيّر في الشبكة، أو توقف خدمة URnetwork."
   cs: "Stisknutí Odpojit vždy okamžitě obnoví internet. Kill switch se týká jen výpadků, o které jste nepožádali - tunelu, který přestal přenášet provoz, změny sítě nebo zastavení služby URnetwork."
   de: "Trennen stellt das Internet immer sofort wieder her. Der Kill switch greift nur bei Abbrüchen, die du nicht angefordert hast - ein Tunnel, der keinen Verkehr mehr trägt, ein Netzwerkwechsel oder das Anhalten des URnetwork-Dienstes."
   el: "Το πάτημα της Αποσύνδεσης επαναφέρει πάντα αμέσως το διαδίκτυο. Το Kill switch ισχύει μόνο για διακοπές που δεν ζητήσατε - μια σήραγγα που σταματά να μεταφέρει κίνηση, μια αλλαγή δικτύου ή τη διακοπή της υπηρεσίας URnetwork."
