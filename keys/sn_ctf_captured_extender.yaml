@@ -1,0 +1,40 @@
+description: "Earnings, with the capture the flag account (sn_ctf_pool): a line saying a capture the flag draw picked this device as one of a country's extenders (GET /sn/ctf/client). The placeholder is the country's name exactly as the app shows it, e.g. Kenya, with no case ending or article added, so keep it where the bare name reads correctly (several languages lead with it: \"{country}: ...\"). Capturing a flag is how capture the flag words a win. Mention no amount."
+source: "You captured the %@ extender flag"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: country
+    type: string
+localizations:
+  ar: "استوليت على علم الموسّعات في {country}"
+  cs: "{country}: dobyli jste vlajku extenderů"
+  de: "{country}: Du hast die Extender-Flagge erobert"
+  el: "{country}: καταλάβατε τη σημαία των επεκτατών"
+  en: "You captured the {country} extender flag"
+  es: "Capturaste la bandera de los extensores en {country}"
+  es-419: "Capturaste la bandera de los extensores en {country}"
+  es-MX: "Capturaste la bandera de los extensores en {country}"
+  fr: "{country} : vous avez capturé le drapeau des extendeurs"
+  he: "{country}: לכדתם את דגל המרחיבים"
+  hi: "आपने {country} के एक्सटेंडर झंडे पर कब्ज़ा किया"
+  id: "Anda merebut bendera extender di {country}"
+  it: "{country}: hai catturato la bandiera degli extender"
+  ja: "{country}のエクステンダーフラッグを獲得しました"
+  ko: "{country}의 익스텐더 깃발을 획득했습니다"
+  nl: "{country}: je hebt de extendervlag veroverd"
+  pl: "{country}: flaga extenderów zdobyta"
+  pt: "{country}: capturou a bandeira dos extensores"
+  pt-BR: "{country}: você capturou a bandeira dos extensores"
+  pt-PT: "{country}: capturou a bandeira dos extensores"
+  ru: "{country}: вы захватили флаг экстендеров"
+  sv: "Du erövrade extenderflaggan i {country}"
+  sw: "Umeteka bendera ya vipanuzi nchini {country}"
+  th: "คุณยึดธงตัวขยายของ {country} ได้แล้ว"
+  uk: "{country}: ви захопили прапор екстендерів"
+  vi: "Bạn đã cướp được cờ bộ mở rộng của {country}"
+  zh: "您夺得了{country}的扩展器旗帜"
+  zh-HK: "你奪得了{country}的擴展器旗幟"
