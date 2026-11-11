@@ -2,6 +2,7 @@ description: "Browser extension popup, out-of-balance alert for a Pro account at
 source: "To buy data, press Disconnect first. Payment can't get through until you do."
 platforms:
   - web
+  - site
 localizations:
   ar: "لشراء بيانات، اختر «قطع الاتصال» أولًا. لا يمكن إتمام الدفع قبل ذلك."
   cs: "Pro nákup dat nejprve zvolte „Odpojení“. Do té doby platba neprojde."
