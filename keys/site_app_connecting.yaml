@@ -3,6 +3,7 @@ source: "Connecting…"
 platforms:
   - site
   - apple
+  - web
 localizations:
   ar: "جارٍ الاتصال…"
   cs: "Připojování…"
