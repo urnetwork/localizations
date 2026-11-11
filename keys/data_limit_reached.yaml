@@ -5,6 +5,7 @@ platforms:
   - apple
   - linux
   - windows
+  - site
 localizations:
   ar: "تم بلوغ حد البيانات"
   cs: "Dosažen limit dat"
