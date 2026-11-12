@@ -1,0 +1,104 @@
+description: "Provider status 'Why?' list: a line under the network checks when the checks took IPv6 away (FP2-PROTOCOL.md §5.5, the sdk's ProviderStatusReasonLineIpv4). The argument is how many of the checks failed only over IPv6; the device is still offered to clients, but for IPv4 traffic only."
+source: "%lld of these checks failed only over IPv6, so this device is offered for IPv4 traffic only."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+plurals:
+  select: count
+localizations:
+  ar:
+    zero: "فشل {count} من هذه الفحوصات عبر IPv6 فقط، لذا يُعرض هذا الجهاز لحركة مرور IPv4 فقط."
+    one: "فشل فحص واحد من هذه الفحوصات عبر IPv6 فقط، لذا يُعرض هذا الجهاز لحركة مرور IPv4 فقط."
+    two: "فشل فحصان من هذه الفحوصات عبر IPv6 فقط، لذا يُعرض هذا الجهاز لحركة مرور IPv4 فقط."
+    few: "فشلت {count} من هذه الفحوصات عبر IPv6 فقط، لذا يُعرض هذا الجهاز لحركة مرور IPv4 فقط."
+    many: "فشل {count} من هذه الفحوصات عبر IPv6 فقط، لذا يُعرض هذا الجهاز لحركة مرور IPv4 فقط."
+    other: "فشل {count} من هذه الفحوصات عبر IPv6 فقط، لذا يُعرض هذا الجهاز لحركة مرور IPv4 فقط."
+  cs:
+    one: "{count} z těchto kontrol selhala jen přes IPv6, takže se toto zařízení nabízí jen pro provoz IPv4."
+    few: "{count} z těchto kontrol selhaly jen přes IPv6, takže se toto zařízení nabízí jen pro provoz IPv4."
+    many: "{count} z těchto kontrol selhalo jen přes IPv6, takže se toto zařízení nabízí jen pro provoz IPv4."
+    other: "{count} z těchto kontrol selhalo jen přes IPv6, takže se toto zařízení nabízí jen pro provoz IPv4."
+  de:
+    one: "{count} dieser Prüfungen ist nur über IPv6 fehlgeschlagen, daher wird dieses Gerät nur für IPv4-Verkehr angeboten."
+    other: "{count} dieser Prüfungen sind nur über IPv6 fehlgeschlagen, daher wird dieses Gerät nur für IPv4-Verkehr angeboten."
+  el:
+    one: "{count} από αυτούς τους ελέγχους απέτυχε μόνο μέσω IPv6, οπότε η συσκευή προτείνεται μόνο για κίνηση IPv4."
+    other: "{count} από αυτούς τους ελέγχους απέτυχαν μόνο μέσω IPv6, οπότε η συσκευή προτείνεται μόνο για κίνηση IPv4."
+  en:
+    one: "{count} of these checks failed only over IPv6, so this device is offered for IPv4 traffic only."
+    other: "{count} of these checks failed only over IPv6, so this device is offered for IPv4 traffic only."
+  es:
+    one: "{count} de estas comprobaciones falló solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
+    other: "{count} de estas comprobaciones fallaron solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
+  es-419:
+    one: "{count} de estas verificaciones falló solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
+    other: "{count} de estas verificaciones fallaron solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
+  es-MX:
+    one: "{count} de estas verificaciones falló solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
+    other: "{count} de estas verificaciones fallaron solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
+  fr:
+    one: "{count} de ces vérifications a échoué uniquement via IPv6, donc cet appareil n'est proposé que pour le trafic IPv4."
+    other: "{count} de ces vérifications ont échoué uniquement via IPv6, donc cet appareil n'est proposé que pour le trafic IPv4."
+  he:
+    one: "בדיקה אחת מהבדיקות האלה נכשלה רק דרך IPv6, ולכן המכשיר הזה מוצע רק לתעבורת IPv4."
+    two: "שתיים מהבדיקות האלה נכשלו רק דרך IPv6, ולכן המכשיר הזה מוצע רק לתעבורת IPv4."
+    many: "{count} מהבדיקות האלה נכשלו רק דרך IPv6, ולכן המכשיר הזה מוצע רק לתעבורת IPv4."
+    other: "{count} מהבדיקות האלה נכשלו רק דרך IPv6, ולכן המכשיר הזה מוצע רק לתעבורת IPv4."
+  hi:
+    one: "इनमें से {count} जाँच केवल IPv6 पर विफल हुई, इसलिए यह डिवाइस केवल IPv4 ट्रैफ़िक के लिए पेश किया जाता है।"
+    other: "इनमें से {count} जाँचें केवल IPv6 पर विफल हुईं, इसलिए यह डिवाइस केवल IPv4 ट्रैफ़िक के लिए पेश किया जाता है।"
+  id:
+    other: "{count} dari pemeriksaan ini gagal hanya melalui IPv6, jadi perangkat ini hanya ditawarkan untuk lalu lintas IPv4."
+  it:
+    one: "{count} di questi controlli non è riuscito solo tramite IPv6, quindi questo dispositivo viene offerto solo per il traffico IPv4."
+    other: "{count} di questi controlli non sono riusciti solo tramite IPv6, quindi questo dispositivo viene offerto solo per il traffico IPv4."
+  ja:
+    other: "これらのチェックのうち {count} 件は IPv6 でのみ失敗したため、このデバイスは IPv4 トラフィック専用で提示されます。"
+  ko:
+    other: "이 검사 중 {count}개가 IPv6에서만 실패하여 이 기기는 IPv4 트래픽 전용으로 제시됩니다."
+  nl:
+    one: "{count} van deze controles mislukte alleen via IPv6, dus dit apparaat wordt alleen aangeboden voor IPv4-verkeer."
+    other: "{count} van deze controles mislukten alleen via IPv6, dus dit apparaat wordt alleen aangeboden voor IPv4-verkeer."
+  pl:
+    one: "{count} z tych kontroli nie powiodła się tylko przez IPv6, więc to urządzenie jest proponowane tylko dla ruchu IPv4."
+    few: "{count} z tych kontroli nie powiodły się tylko przez IPv6, więc to urządzenie jest proponowane tylko dla ruchu IPv4."
+    many: "{count} z tych kontroli nie powiodło się tylko przez IPv6, więc to urządzenie jest proponowane tylko dla ruchu IPv4."
+    other: "{count} z tych kontroli nie powiodło się tylko przez IPv6, więc to urządzenie jest proponowane tylko dla ruchu IPv4."
+  pt:
+    one: "{count} destas verificações falhou apenas através de IPv6, por isso este dispositivo só é oferecido para tráfego IPv4."
+    other: "{count} destas verificações falharam apenas através de IPv6, por isso este dispositivo só é oferecido para tráfego IPv4."
+  pt-BR:
+    one: "{count} destas verificações falhou apenas por IPv6, então este dispositivo só é oferecido para tráfego IPv4."
+    other: "{count} destas verificações falharam apenas por IPv6, então este dispositivo só é oferecido para tráfego IPv4."
+  pt-PT:
+    one: "{count} destas verificações falhou apenas através de IPv6, por isso este dispositivo só é oferecido para tráfego IPv4."
+    other: "{count} destas verificações falharam apenas através de IPv6, por isso este dispositivo só é oferecido para tráfego IPv4."
+  ru:
+    one: "{count} из этих проверок не прошла только по IPv6, поэтому это устройство предлагается только для трафика IPv4."
+    few: "{count} из этих проверок не прошли только по IPv6, поэтому это устройство предлагается только для трафика IPv4."
+    many: "{count} из этих проверок не прошли только по IPv6, поэтому это устройство предлагается только для трафика IPv4."
+    other: "{count} из этих проверок не прошли только по IPv6, поэтому это устройство предлагается только для трафика IPv4."
+  sv:
+    one: "{count} av dessa kontroller misslyckades bara över IPv6, så den här enheten erbjuds bara för IPv4-trafik."
+    other: "{count} av dessa kontroller misslyckades bara över IPv6, så den här enheten erbjuds bara för IPv4-trafik."
+  sw:
+    one: "{count} kati ya ukaguzi huu ulishindwa kupitia IPv6 pekee, kwa hivyo kifaa hiki hupendekezwa kwa trafiki ya IPv4 pekee."
+    other: "{count} kati ya ukaguzi huu ulishindwa kupitia IPv6 pekee, kwa hivyo kifaa hiki hupendekezwa kwa trafiki ya IPv4 pekee."
+  th:
+    other: "การตรวจสอบเหล่านี้ {count} รายการล้มเหลวเฉพาะผ่าน IPv6 อุปกรณ์นี้จึงถูกเสนอสำหรับการรับส่งข้อมูล IPv4 เท่านั้น"
+  uk:
+    one: "{count} з цих перевірок не пройшла лише через IPv6, тому цей пристрій пропонується лише для трафіку IPv4."
+    few: "{count} з цих перевірок не пройшли лише через IPv6, тому цей пристрій пропонується лише для трафіку IPv4."
+    many: "{count} з цих перевірок не пройшли лише через IPv6, тому цей пристрій пропонується лише для трафіку IPv4."
+    other: "{count} з цих перевірок не пройшли лише через IPv6, тому цей пристрій пропонується лише для трафіку IPv4."
+  vi:
+    other: "{count} trong số các lần kiểm tra này chỉ thất bại qua IPv6, nên thiết bị này chỉ được đề xuất cho lưu lượng IPv4."
+  zh:
+    other: "这些检查中有 {count} 项仅通过 IPv6 时失败，因此此设备仅推荐用于 IPv4 流量。"
+  zh-HK:
+    other: "這些檢查中有 {count} 項僅經 IPv6 時失敗，因此此裝置只會推薦用於 IPv4 流量。"
