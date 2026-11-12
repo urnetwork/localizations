@@ -1,0 +1,40 @@
+description: "Status line under the Open a port on my router switch once the router forwards the extender's ports. The first argument is the ports, such as TCP 443, UDP 443, UDP 4053 (an arrow joins a router port to the device's, as TCP 40443→443); the second is how the router was asked: PCP, NAT-PMP or UPnP. Neither is translated."
+source: "Your router forwards %@ (%@)."
+platforms:
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: ports
+    type: string
+  - name: method
+    type: string
+localizations:
+  ar: "يعيد جهاز التوجيه توجيه {ports} ({method})."
+  cs: "Váš router přesměrovává {ports} ({method})."
+  de: "Dein Router leitet {ports} weiter ({method})."
+  el: "Ο δρομολογητής σας προωθεί τις {ports} ({method})."
+  en: "Your router forwards {ports} ({method})."
+  es: "Tu router reenvía {ports} ({method})."
+  es-419: "Tu router reenvía {ports} ({method})."
+  es-MX: "Tu router reenvía {ports} ({method})."
+  fr: "Votre routeur redirige {ports} ({method})."
+  he: "הנתב שלכם מעביר את {ports} ({method})."
+  hi: "आपका राउटर {ports} फ़ॉरवर्ड करता है ({method})।"
+  id: "Router Anda meneruskan {ports} ({method})."
+  it: "Il tuo router inoltra {ports} ({method})."
+  ja: "ルーターが {ports} を転送しています（{method}）。"
+  ko: "라우터가 {ports}을(를) 전달합니다({method})."
+  nl: "Je router stuurt {ports} door ({method})."
+  pl: "Router przekierowuje {ports} ({method})."
+  pt: "O seu router encaminha {ports} ({method})."
+  pt-BR: "Seu roteador encaminha {ports} ({method})."
+  pt-PT: "O seu router encaminha {ports} ({method})."
+  ru: "Роутер перенаправляет {ports} ({method})."
+  sv: "Din router vidarebefordrar {ports} ({method})."
+  sw: "Ruta yako inaelekeza {ports} ({method})."
+  th: "เราเตอร์ของคุณส่งต่อ {ports} ({method})"
+  uk: "Роутер переспрямовує {ports} ({method})."
+  vi: "Bộ định tuyến của bạn chuyển tiếp {ports} ({method})."
+  zh: "您的路由器正在转发 {ports}（{method}）。"
+  zh-HK: "你的路由器正在轉發 {ports}（{method}）。"
