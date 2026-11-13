@@ -3,27 +3,23 @@
 // shows, so a paraphrase or a stale translation sends them looking for a
 // control that is not there.
 //
-// The Solana payout wallet's no-wallet messages point at the connect sheet's
-// manual entry, which works with any wallet (a Brave Wallet user on android
-// was told only to install a wallet, although entering the address worked).
+// The Solana payout wallet's no-wallet messages, which pointed at its connect
+// sheet's manual entry, are retired with the wallet: USDC payouts ended on
+// 2026-11-12 and every app removed the USDC payout wallet.
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { isTaggedFor, loadStore } from "./store.mjs";
+import { isDead, isTaggedFor, loadStore } from "./store.mjs";
 
 const keys = new Map(loadStore().map((k) => [k.id, k]));
 
 // key -> the key of the control it names
 const NAMES_CONTROL = {
-	// the android alert and the iOS note when no wallet app on the device can connect
-	no_wallets_found_enter_address_manually: "enter_address_manually",
-	// the desktop sheet when the bridge finds no Phantom or Solflare extension
-	solana_wallet_error_extension_not_found: "enter_address_manually",
 	// the extender row when the internet can't reach the device: it can turn the role off
 	extender_activation_unreachable: "extender",
 };
 
-test("the payout wallet's no-wallet messages name Enter address manually in every locale", () => {
+test("a line that names a control names it in every locale", () => {
 	const wrong = [];
 	for (const [id, controlId] of Object.entries(NAMES_CONTROL)) {
 		const k = keys.get(id);
@@ -52,9 +48,12 @@ test("sign-in keeps its own no-wallet words, since it has no manual entry", () =
 	}
 });
 
-test("the payout wallet's no-wallet messages are tagged for the apps that show them", () => {
-	assert.deepEqual(keys.get("no_wallets_found_enter_address_manually")?.platforms, ["android", "apple"]);
-	assert.deepEqual(keys.get("solana_wallet_error_extension_not_found")?.platforms, ["apple", "windows", "linux"]);
+test("the payout wallet's no-wallet messages are retired on every app, with the wallet", () => {
+	for (const id of ["no_wallets_found_enter_address_manually", "solana_wallet_error_extension_not_found"]) {
+		const k = keys.get(id);
+		assert.ok(k, `${id} is not in the store`);
+		assert.ok(isDead(k), `${id} is still tagged for ${k.platforms.filter((p) => !k.deprecated.includes(p))}`);
+	}
 });
 
 // The out-of-balance alert on a build whose checkout goes through the tunnel: the

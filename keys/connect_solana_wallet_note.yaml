@@ -1,6 +1,11 @@
 description: "Note at the top of the Solana connect sheet/card, above the wallet-app button and the manual-entry link."
 source: "Connect a Solana wallet app, or enter a Solana USDC address manually."
 platforms:
+  - apple
+  - windows
+  - linux
+  - site
+deprecated:
   - android
   - apple
   - windows

@@ -3,5 +3,7 @@ source: "τ"
 translatable: false
 platforms:
   - apple
+deprecated:
+  - apple
 localizations:
   en: "τ"

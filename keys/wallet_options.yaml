@@ -1,6 +1,11 @@
 description: "Accessibility label of the three-dot overflow button next to “Connect Bittensor wallet” and on the connected Bittensor wallet block."
 source: "Wallet options"
 platforms:
+  - apple
+  - windows
+  - linux
+  - site
+deprecated:
   - android
   - apple
   - windows

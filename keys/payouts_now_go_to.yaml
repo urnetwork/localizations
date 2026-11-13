@@ -1,6 +1,11 @@
 description: "Status line or snackbar after removing the payout wallet made another of the account's wallets the payout wallet (the server promotes the newest other Solana or Polygon wallet). The placeholder is the new payout wallet's shortened address, its first and last four characters around an ellipsis."
 source: "Payouts now go to %@."
 platforms:
+  - apple
+  - windows
+  - linux
+  - site
+deprecated:
   - android
   - apple
   - windows
