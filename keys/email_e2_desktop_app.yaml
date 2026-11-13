@@ -1,4 +1,4 @@
-description: "Onboarding email E2, desktop variant, the Windows and Linux apps' branch: the habit. The quoted setting is the apps' own label (store key launch_urnetwork_on_system_startup) in their Settings page (store key settings); keep both identical to the apps."
+description: "Onboarding email E2, desktop variant, the Windows, Linux and Mac apps' branch: the habit. The quoted setting is the apps' own label (store key launch_urnetwork_on_system_startup) in their Settings page (store key settings); keep both identical to the apps."
 source: "The easiest way to keep it up is to let URnetwork start with your computer: in the app's Settings, turn on “Launch URnetwork on system startup”. It is then ready every time you sign in."
 platforms:
   - email
