@@ -1,11 +1,11 @@
-description: "App top200 limits: a spot pays only while the validator steers, in proportion to EMA score and not rank; the head channel is 3% of miner emission, measured at 4.43 alpha a tempo in November 2026"
-source: "A spot pays only while the SN25 validator steers its weights, and in proportion to your score, not your rank. All selected fleets share one channel: 3% of miner emission, about 4.4 α a tempo as of November 2026."
+description: "App top200 limits: a spot pays only while the validator steers, in proportion to EMA score and not rank; the head channel is 3% of miner emission before epoch 8 and 5% from epoch 8, when capture the flag splits the providers' tenth pool 4/10, CTF 1/10, head 5/10 (sn CAPTURETHEFLAG.md §2.1)"
+source: "A spot pays only while the SN25 validator steers its weights, and in proportion to your score, not your rank. All selected fleets share one channel: 3% of miner emission until epoch 8, and 5% from epoch 8."
 platforms:
   - site
 localizations:
-  ar: "لا يدرّ المقعد أرباحًا إلا ما دام مدقِّق SN25 يوجّه أوزانه، وبما يتناسب مع نتيجتك لا مع ترتيبك. تتقاسم جميع الأساطيل المختارة قناة واحدة: 3% من إصدار المعدِّنين، أي نحو 4.4 α في كل tempo حتى نوفمبر 2026."
-  de: "Ein Platz zahlt nur, solange der SN25-Validator seine Gewichte steuert, und zwar im Verhältnis zu deinem Score, nicht zu deinem Rang. Alle ausgewählten Flotten teilen sich einen Kanal: 3 % der Miner-Emission, Stand November 2026 etwa 4,4 α pro Tempo."
-  en: "A spot pays only while the SN25 validator steers its weights, and in proportion to your score, not your rank. All selected fleets share one channel: 3% of miner emission, about 4.4 α a tempo as of November 2026."
-  es: "Un puesto solo paga mientras el validador de SN25 dirige sus pesos, y lo hace en proporción a tu puntuación, no a tu posición. Todas las flotas seleccionadas comparten un canal: el 3 % de la emisión de mineros, unos 4,4 α por tempo en noviembre de 2026."
-  ru: "Место приносит выплаты, только пока валидатор SN25 управляет своими весами, и пропорционально вашему баллу, а не месту в рейтинге. Все выбранные парки делят один канал: 3 % эмиссии майнеров, около 4,4 α за tempo на ноябрь 2026 г."
-  zh: "席位只有在 SN25 验证者调整权重时才有收益，并按您的分数而非排名分配。所有入选的设备群共享一个通道：矿工释放量的 3%，截至 2026 年 11 月约为每个 tempo 4.4 α。"
+  ar: "لا يدرّ المقعد أرباحًا إلا ما دام مدقِّق SN25 يوجّه أوزانه، وبما يتناسب مع نتيجتك لا مع ترتيبك. تتقاسم جميع الأساطيل المختارة قناة واحدة: 3% من إصدار المعدِّنين قبل الحقبة 8، و5% بدءًا من الحقبة 8."
+  de: "Ein Platz zahlt nur, solange der SN25-Validator seine Gewichte steuert, und zwar im Verhältnis zu deinem Score, nicht zu deinem Rang. Alle ausgewählten Flotten teilen sich einen Kanal: 3 % der Miner-Emission vor Epoche 8 und 5 % ab Epoche 8."
+  en: "A spot pays only while the SN25 validator steers its weights, and in proportion to your score, not your rank. All selected fleets share one channel: 3% of miner emission until epoch 8, and 5% from epoch 8."
+  es: "Un puesto solo paga mientras el validador de SN25 dirige sus pesos, y lo hace en proporción a tu puntuación, no a tu posición. Todas las flotas seleccionadas comparten un canal: el 3 % de la emisión de mineros antes de la época 8, y el 5 % a partir de la época 8."
+  ru: "Место приносит выплаты, только пока валидатор SN25 управляет своими весами, и пропорционально вашему баллу, а не месту в рейтинге. Все выбранные парки делят один канал: 3 % эмиссии майнеров до эпохи 8 и 5 % начиная с эпохи 8."
+  zh: "席位只有在 SN25 验证者调整权重时才有收益，并按您的分数而非排名分配。所有入选的设备群共享一个通道：第 8 个纪元之前为矿工释放量的 3%，从第 8 个纪元起为 5%。"

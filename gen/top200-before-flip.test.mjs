@@ -33,7 +33,8 @@ test("every locale of the customer limits carries their numbers", () => {
 		site_app_top200_limit_timing: [/\b3\b/, /\b7\b/],
 		site_app_top200_limit_republish: [/\b14\b/],
 		site_app_top200_limit_commitment_age: [/\b14\b/],
-		site_app_top200_limit_pay: [/\b3\s?%/, /\b4[.,]4 α/],
+		// the head channel: 3% before epoch 8, 5% from it (sn CAPTURETHEFLAG.md §2.1)
+		site_app_top200_limit_pay: [/\b3\s?%/, /\b5\s?%/, /\b8\b/],
 	};
 	for (const [id, patterns] of Object.entries(limits)) {
 		assert.ok(all[id], `${id} is in the store`);
@@ -42,6 +43,12 @@ test("every locale of the customer limits carries their numbers", () => {
 			for (const pattern of patterns) assert.match(all[id].localizations[locale], pattern, `${id} ${locale}`);
 		}
 	}
+});
+
+test("no locale of the pay limit names an α amount, which goes stale", () => {
+	const key = all.site_app_top200_limit_pay;
+	for (const locale of SITE_LOCALES) assert.doesNotMatch(key.localizations[locale], /α/, locale);
+	assert.doesNotMatch(key.source, /α/);
 });
 
 test("every locale of the authority line names both flags verbatim", () => {
