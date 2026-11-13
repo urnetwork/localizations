@@ -1,10 +1,11 @@
 description: "Bootstrap DNS-over-HTTPS servers: note after saving where the VPN runs separately from the app (the iOS tunnel extension, the desktop service). It reads the servers at its next start."
 source: "The VPN uses the new bootstrap servers the next time it connects."
+deprecated:
+  - linux
 platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "يستخدم VPN خوادم التمهيد الجديدة عند اتصاله في المرة القادمة."
   cs: "VPN použije nové zaváděcí servery při příštím připojení."
