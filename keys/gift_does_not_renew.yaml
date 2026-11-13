@@ -1,0 +1,36 @@
+description: "The plan row's line across from the plan, for Pro that came from a gift code, where a store subscription's Manage button would be: a gift year doesn't renew and has nothing to manage. The gift's twin of crypto_does_not_renew."
+source: "A gift. It doesn't renew."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "هدية. لا تتجدد."
+  cs: "Dárek. Neobnovuje se."
+  de: "Ein Geschenk. Verlängert sich nicht."
+  el: "Δώρο. Δεν ανανεώνεται."
+  en: "A gift. It doesn't renew."
+  es: "Un regalo. No se renueva."
+  es-419: "Un regalo. No se renueva."
+  es-MX: "Un regalo. No se renueva."
+  fr: "Offert. Ne se renouvelle pas."
+  he: "מתנה. לא מתחדשת."
+  hi: "एक उपहार। नवीनीकृत नहीं होता।"
+  id: "Hadiah. Tidak diperpanjang."
+  it: "Un regalo. Non si rinnova."
+  ja: "ギフトです。自動更新はされません。"
+  ko: "선물입니다. 자동 갱신되지 않습니다."
+  nl: "Een cadeau. Wordt niet verlengd."
+  pl: "Podarunek. Nie odnawia się."
+  pt: "Uma oferta. Não renova."
+  pt-BR: "Um presente. Não renova."
+  pt-PT: "Uma oferta. Não renova."
+  ru: "Подарок. Не продлевается."
+  sv: "En present. Förnyas inte."
+  sw: "Zawadi. Haisasishwi."
+  th: "ของขวัญ ไม่ต่ออายุอัตโนมัติ"
+  uk: "Подарунок. Не продовжується."
+  vi: "Quà tặng. Không tự gia hạn."
+  zh: "获赠，不会自动续订。"
+  zh-HK: "獲贈，不會自動續訂。"
