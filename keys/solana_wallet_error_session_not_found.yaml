@@ -1,9 +1,11 @@
-description: "Solana wallet error in the desktop apps (macOS, Windows, Linux) when the ur.io wallet bridge page returns session_not_found: the browser no longer has the wallet connection made in the connect step (another browser or a private window, or its site data was cleared), so nothing was signed. Starting again reconnects the wallet (Phantom or Solflare)."
+description: "Solana sign-in failure on every app (sdk SolanaWalletFailureFor session_not_found), from the ur.io wallet bridge page's session_not_found: the browser no longer has the wallet connection made in the connect step (another browser or a private window, or its site data was cleared), so nothing was signed. Starting again reconnects the wallet (Phantom or Solflare)."
 source: "The wallet connection wasn't found in this browser. Start again to reconnect your wallet."
 platforms:
+  - android
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "لم يتم العثور على اتصال المحفظة في هذا المتصفح. ابدأ من جديد لإعادة ربط محفظتك."
   cs: "Připojení peněženky se v tomto prohlížeči nenašlo. Začněte znovu a peněženku znovu připojte."

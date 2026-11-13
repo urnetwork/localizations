@@ -1,8 +1,11 @@
-description: "Call to action"
+description: "Solana sign-in failure on every app (sdk SolanaWalletFailureFor no_wallet): no Solana wallet answered on this device or in this browser (Android's Mobile Wallet Adapter found no wallet app; ur.io found no wallet extension and no WalletConnect), so nothing was signed."
 source: "No Solana wallets were found installed on this device. Please install a wallet and try again."
 platforms:
   - android
   - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "لم يتم العثور على أي محافظ Solana مثبتة على هذا الجهاز. يرجى تثبيت محفظة والمحاولة مرة أخرى."
   cs: "V tomto zařízení nebyly nalezeny žádné peněženky Solana. Nainstalujte prosím peněženku a zkuste to znovu."
