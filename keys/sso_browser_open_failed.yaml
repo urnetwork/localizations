@@ -1,8 +1,9 @@
-description: "Error when the app could not open the browser for a sign-in page (macOS: adding a sign-in method; Windows: the browser sign-in)."
+description: "Error when the app could not open the browser for a sign-in page (macOS: adding a sign-in method; Windows: the browser sign-in; Windows and Linux: the ur.io wallet bridge page of a Solana sign-in, which the wallet never saw)."
 source: "Could not open the browser. Please try again."
 platforms:
   - apple
   - windows
+  - linux
 localizations:
   ar: "تعذّر فتح المتصفح. يُرجى المحاولة مرة أخرى."
   cs: "Prohlížeč se nepodařilo otevřít. Zkuste to prosím znovu."
