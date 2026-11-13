@@ -1,14 +1,40 @@
-description: "ur.io Bittensor wallet error (Earnings wallet card and payout consent, sign-in, add sign-in): the wallet (the Talisman extension, or a WalletConnect wallet) failed in a way the page has no specific message for, so nothing was signed. The wallet's own English text is only logged. The argument is the wallet product name (Talisman or WalletConnect)."
-source: "Your {wallet} wallet couldn't finish the request. Check the wallet, then try again."
+description: "Wallet failure with no more specific message, so nothing was signed: on ur.io's Bittensor wallet flows (Talisman, or a WalletConnect wallet), and on every app's Solana sign-in (sdk SolanaWalletFailureFor wallet_error, including a code the app does not know). The wallet's own English text is only logged. The argument is the wallet product name (Phantom, Solflare, Solana when the app does not know which wallet answered; Talisman or WalletConnect on ur.io's Bittensor page)."
+source: "Your %@ wallet couldn't finish the request. Check the wallet, then try again."
 platforms:
+  - android
+  - apple
+  - windows
+  - linux
   - site
 placeholders:
   - name: wallet
     type: string
 localizations:
   ar: "تعذّر على محفظة {wallet} إكمال الطلب. تحقّق من المحفظة، ثم حاول مرة أخرى."
+  cs: "Vaše peněženka {wallet} nemohla dokončit požadavek. Zkontrolujte peněženku a zkuste to znovu."
   de: "Deine {wallet}-Wallet konnte die Anfrage nicht abschließen. Prüfe die Wallet und versuche es dann erneut."
+  el: "Το πορτοφόλι {wallet} σας δεν μπόρεσε να ολοκληρώσει το αίτημα. Ελέγξτε το πορτοφόλι και δοκιμάστε ξανά."
   en: "Your {wallet} wallet couldn't finish the request. Check the wallet, then try again."
   es: "Tu billetera {wallet} no pudo completar la solicitud. Revisa la billetera y vuelve a intentarlo."
+  es-419: "Tu billetera {wallet} no pudo completar la solicitud. Revisa la billetera y vuelve a intentarlo."
+  es-MX: "Tu cartera {wallet} no pudo completar la solicitud. Revisa la cartera y vuelve a intentarlo."
+  fr: "Votre portefeuille {wallet} n'a pas pu terminer la demande. Vérifiez le portefeuille, puis réessayez."
+  he: "הארנק {wallet} שלכם לא הצליח להשלים את הבקשה. בדקו את הארנק ונסו שוב."
+  hi: "आपका {wallet} वॉलेट अनुरोध पूरा नहीं कर सका। वॉलेट जांचें, फिर दोबारा प्रयास करें।"
+  id: "Dompet {wallet} Anda tidak dapat menyelesaikan permintaan. Periksa dompet, lalu coba lagi."
+  it: "Il tuo portafoglio {wallet} non è riuscito a completare la richiesta. Controlla il portafoglio, poi riprova."
+  ja: "お使いの{wallet}ウォレットでリクエストを完了できませんでした。ウォレットを確認してから、もう一度お試しください。"
+  ko: "{wallet} 지갑에서 요청을 완료하지 못했습니다. 지갑을 확인한 후 다시 시도하세요."
+  nl: "Je {wallet}-wallet kon het verzoek niet afronden. Controleer de wallet en probeer het opnieuw."
+  pl: "Twój portfel {wallet} nie mógł dokończyć żądania. Sprawdź portfel, a potem spróbuj ponownie."
+  pt: "A sua carteira {wallet} não conseguiu concluir o pedido. Verifique a carteira e tente novamente."
+  pt-BR: "Sua carteira {wallet} não conseguiu concluir a solicitação. Verifique a carteira e tente novamente."
+  pt-PT: "A sua carteira {wallet} não conseguiu concluir o pedido. Verifique a carteira e tente novamente."
   ru: "Кошельку {wallet} не удалось выполнить запрос. Проверьте кошелек и повторите попытку."
+  sv: "Din {wallet}-plånbok kunde inte slutföra begäran. Kontrollera plånboken och försök sedan igen."
+  sw: "Pochi yako ya {wallet} haikuweza kukamilisha ombi. Kagua pochi, kisha ujaribu tena."
+  th: "กระเป๋าเงิน {wallet} ของคุณไม่สามารถดำเนินการคำขอให้เสร็จได้ ตรวจสอบกระเป๋าเงิน แล้วลองอีกครั้ง"
+  uk: "Вашому гаманцю {wallet} не вдалося виконати запит. Перевірте гаманець і спробуйте ще раз."
+  vi: "Ví {wallet} của bạn không thể hoàn tất yêu cầu. Hãy kiểm tra ví rồi thử lại."
   zh: "您的 {wallet} 钱包未能完成该请求。请检查钱包，然后重试。"
+  zh-HK: "你的 {wallet} 錢包未能完成該請求。請檢查錢包，然後再試一次。"

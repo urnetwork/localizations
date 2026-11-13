@@ -1,7 +1,11 @@
-description: "Snackbar shown when the external wallet app could not be opened. Used in Shared/Views/SolanaSignMessageSheet.swift and Main/Account/Wallets/ConnectWalletSheet/ConnectWalletSheetView.swift."
+description: "Solana sign-in failure on every app (sdk SolanaWalletFailureFor wallet_app_not_found): the chosen wallet app (Phantom or Solflare) is not installed, or would not open, so nothing was signed."
 source: "Couldn't open wallet. Please install it and try again."
 platforms:
+  - android
   - apple
+  - windows
+  - linux
+  - site
 localizations:
   ar: "تعذّر فتح المحفظة. يرجى تثبيتها والمحاولة مرة أخرى."
   cs: "Peněženku se nepodařilo otevřít. Nainstalujte ji prosím a zkuste to znovu."
