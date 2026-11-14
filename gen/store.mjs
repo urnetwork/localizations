@@ -33,7 +33,8 @@ export const ANDROID_LOCALE_DIR = {
 	el: "values-el", es: "values-es", "es-MX": "values-es-rMX",
 	fr: "values-fr", hi: "values-hi", ja: "values-ja", ko: "values-ko",
 	nl: "values-nl", pl: "values-pl", pt: "values-pt", "pt-BR": "values-pt-rBR",
-	ru: "values-ru", sw: "values-sw", th: "values-th", zh: "values-zh",
+	ru: "values-ru", sw: "values-sw", th: "values-th", vi: "values-vi",
+	zh: "values-zh",
 };
 
 // apple: the locale set the string catalog already carries. `sw` is absent here
