@@ -1,4 +1,4 @@
-description: "Points leaderboard: secondary stat, the best run of consecutive blocks with points."
+description: "Points leaderboard: secondary stat, the best run of consecutive weeks (blocks) with points; a week whose points couldn't be awarded doesn't break a run."
 source: "Longest streak"
 platforms:
   - android

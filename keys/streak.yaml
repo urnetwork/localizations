@@ -1,4 +1,4 @@
-description: "Points leaderboard: stat tile label and sort chip. Consecutive blocks with points."
+description: "Points leaderboard: stat tile label and sort chip. Consecutive weeks (blocks) with points; a week whose points couldn't be awarded, or are still being awarded, doesn't break it."
 source: "Streak"
 platforms:
   - android
