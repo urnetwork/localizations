@@ -1,0 +1,11 @@
+description: "App top200: status headline for a network the SN25 validator can't measure yet, in place of You qualify (owner decision 2026-11-17: qualifying follows measurability, as the claim guide says). The body (site_app_top200_not_measurable_body) and the reason (leaderboard_protocol_not_measurable_*) follow it"
+source: "Not measurable yet"
+platforms:
+  - site
+localizations:
+  ar: "غير قابل للقياس بعد"
+  de: "Noch nicht messbar"
+  en: "Not measurable yet"
+  es: "Aún no es medible"
+  ru: "Пока не измеряется"
+  zh: "尚无法测量"

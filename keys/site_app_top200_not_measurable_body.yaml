@@ -1,0 +1,11 @@
+description: "App top200: under Not measurable yet, the claim guide's rule: register a hotkey (the burn) or pay for nothing until the page and the Earnings Top 200 tile show the Claim your spot button (claim_your_spot, quoted in the reader's language)"
+source: "Don't register or pay anything until this page and your Earnings tile show Claim your spot."
+platforms:
+  - site
+localizations:
+  ar: "لا تسجّل ولا تدفع أي شيء حتى تعرض هذه الصفحة وبطاقتك في الأرباح «احجز مكانك»."
+  de: "Registriere dich nicht und bezahle nichts, bis diese Seite und deine Kachel unter Einnahmen „Sichere dir deinen Platz“ zeigen."
+  en: "Don't register or pay anything until this page and your Earnings tile show Claim your spot."
+  es: "No te registres ni pagues nada hasta que esta página y tu tarjeta de Ganancias muestren «Reclama tu puesto»."
+  ru: "Не регистрируйтесь и ничего не оплачивайте, пока эта страница и ваша плитка в разделе «Заработок» не покажут «Займите своё место»."
+  zh: "在此页面和“收益”中的卡片显示“获取您的席位”之前，请不要注册或支付任何费用。"
