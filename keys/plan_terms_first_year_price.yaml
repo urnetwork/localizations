@@ -1,6 +1,7 @@
 description: "Plan picker terms line for the yearly plan with a first-year offer and no free trial. {first_year_price} and {yearly_price} are formatted prices, for example $39.99."
 source: "%@ for your first year, then %@/year. Cancel anytime."
 platforms:
+  - android
   - apple
 placeholders:
   - name: first_year_price
