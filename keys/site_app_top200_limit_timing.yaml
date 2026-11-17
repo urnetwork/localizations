@@ -1,0 +1,11 @@
+description: "App top200 limits: register within the 3 days before the binding's first epoch, because a zero-emission UID can be replaced after 21,600 blocks of immunity and a binding can wait up to 7 days"
+source: "Register in the 3 days before the epoch your binding starts. A binding starts no earlier than the next epoch, up to 7 days away, and a UID with no emission can be replaced once its immunity ends, about 3 days after it registers."
+platforms:
+  - site
+localizations:
+  ar: "سجّل خلال الأيام الـ 3 التي تسبق الحقبة التي يبدأ فيها الربط. لا يبدأ الربط قبل الحقبة التالية، وقد تفصلك عنها 7 أيام، ويمكن استبدال UID الذي لا يحصل على إصدار بمجرد انتهاء فترة حصانته، بعد نحو 3 أيام من تسجيله."
+  de: "Registriere dich in den 3 Tagen vor der Epoche, in der deine Bindung beginnt. Eine Bindung beginnt frühestens mit der nächsten Epoche, die bis zu 7 Tage entfernt sein kann, und eine UID ohne Emission kann ersetzt werden, sobald ihre Immunität endet, etwa 3 Tage nach der Registrierung."
+  en: "Register in the 3 days before the epoch your binding starts. A binding starts no earlier than the next epoch, up to 7 days away, and a UID with no emission can be replaced once its immunity ends, about 3 days after it registers."
+  es: "Regístrate en los 3 días anteriores a la época en la que empieza tu vinculación. Una vinculación empieza como pronto en la siguiente época, que puede estar a hasta 7 días, y una UID sin emisión puede ser reemplazada cuando termina su inmunidad, unos 3 días después de registrarse."
+  ru: "Регистрируйтесь в течение 3 дней перед эпохой, с которой начинается ваша привязка. Привязка начинается не раньше следующей эпохи, до которой может быть до 7 дней, а UID без эмиссии можно заменить, как только закончится его иммунитет, примерно через 3 дня после регистрации."
+  zh: "请在绑定生效的纪元开始前 3 天内注册。绑定最早从下一个纪元开始，可能还要等最多 7 天；而没有释放的 UID 在免疫期结束后（注册后约 3 天）可能被替换。"

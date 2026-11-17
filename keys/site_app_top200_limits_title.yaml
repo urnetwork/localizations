@@ -1,0 +1,11 @@
+description: "App top200: heads the limits a customer needs before registering, shown once binding is open"
+source: "Before you register"
+platforms:
+  - site
+localizations:
+  ar: "قبل أن تسجّل"
+  de: "Bevor du dich registrierst"
+  en: "Before you register"
+  es: "Antes de registrarte"
+  ru: "Прежде чем регистрироваться"
+  zh: "注册前须知"

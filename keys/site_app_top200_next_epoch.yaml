@@ -1,0 +1,14 @@
+description: "App top200 limits: when the next settlement epoch starts. {when} is an estimated local date and time"
+source: "The next epoch starts about {when}."
+platforms:
+  - site
+placeholders:
+  - name: when
+    type: string
+localizations:
+  ar: "تبدأ الحقبة التالية في حوالي {when}."
+  de: "Die nächste Epoche beginnt etwa am {when}."
+  en: "The next epoch starts about {when}."
+  es: "La próxima época empieza aproximadamente el {when}."
+  ru: "Следующая эпоха начнётся примерно {when}."
+  zh: "下一个纪元大约在 {when} 开始。"
