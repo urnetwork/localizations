@@ -1,0 +1,36 @@
+description: "Connect drawer, DNS card: summary row while the person's own servers are selected under \"Custom\" and some lookups are sent without encryption (plain DNS is on)."
+source: "DNS: Custom (unencrypted)"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "DNS: مخصص (غير مشفر)"
+  cs: "DNS: Vlastní (nešifrované)"
+  de: "DNS: Benutzerdefiniert (unverschlüsselt)"
+  el: "DNS: Προσαρμοσμένο (μη κρυπτογραφημένο)"
+  en: "DNS: Custom (unencrypted)"
+  es: "DNS: Personalizado (sin cifrar)"
+  es-419: "DNS: Personalizado (sin cifrar)"
+  es-MX: "DNS: Personalizado (sin cifrar)"
+  fr: "DNS : Personnalisé (non chiffré)"
+  he: "DNS: מותאם אישית (לא מוצפן)"
+  hi: "DNS: कस्टम (अनएन्क्रिप्टेड)"
+  id: "DNS: Khusus (tanpa enkripsi)"
+  it: "DNS: Personalizzato (non crittografato)"
+  ja: "DNS: カスタム（暗号化なし）"
+  ko: "DNS: 사용자 지정(암호화되지 않음)"
+  nl: "DNS: Aangepast (onversleuteld)"
+  pl: "DNS: Własny (nieszyfrowany)"
+  pt: "DNS: Personalizado (não encriptado)"
+  pt-BR: "DNS: Personalizado (não criptografado)"
+  pt-PT: "DNS: Personalizado (não encriptado)"
+  ru: "DNS: Пользовательский (без шифрования)"
+  sv: "DNS: Anpassad (okrypterad)"
+  sw: "DNS: Maalum (isiyosimbwa)"
+  th: "DNS: กำหนดเอง (ไม่เข้ารหัส)"
+  uk: "DNS: Власний (без шифрування)"
+  vi: "DNS: Tùy chỉnh (không mã hóa)"
+  zh: "DNS：自定义（未加密）"
+  zh-HK: "DNS：自訂（未加密）"

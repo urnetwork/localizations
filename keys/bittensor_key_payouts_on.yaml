@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card's title once the network's earnings are being paid to its Bittensor key (from the first epoch after setup). Before that the title is Payouts start next epoch."
+source: "Payouts are on"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "المدفوعات مفعّلة"
+  cs: "Výplaty jsou zapnuté"
+  de: "Auszahlungen sind aktiv"
+  el: "Οι πληρωμές είναι ενεργές"
+  en: "Payouts are on"
+  es: "Los pagos están activos"
+  es-419: "Los pagos están activos"
+  es-MX: "Los pagos están activos"
+  fr: "Les paiements sont activés"
+  he: "התשלומים פעילים"
+  hi: "भुगतान चालू हैं"
+  id: "Pembayaran aktif"
+  it: "I pagamenti sono attivi"
+  ja: "支払いは有効です"
+  ko: "지급이 활성화되었습니다"
+  nl: "Uitbetalingen staan aan"
+  pl: "Wypłaty są włączone"
+  pt: "Os pagamentos estão ativos"
+  pt-BR: "Os pagamentos estão ativos"
+  pt-PT: "Os pagamentos estão ativos"
+  ru: "Выплаты включены"
+  sv: "Utbetalningar är på"
+  sw: "Malipo yamewashwa"
+  th: "การจ่ายเปิดใช้งานแล้ว"
+  uk: "Виплати ввімкнено"
+  vi: "Thanh toán đang bật"
+  zh: "支付已开启"
+  zh-HK: "支付已開啟"

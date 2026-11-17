@@ -1,10 +1,10 @@
 description: "Used in Main/Account/Wallets/ConnectWalletSheet/EnterWalletAddress/EnterWalletAddressView.swift."
 source: "Connect Wallet"
 deprecated:
-  - linux
-  - windows
-platforms:
   - android
+  - windows
+  - linux
+platforms:
   - apple
   - site
 localizations:

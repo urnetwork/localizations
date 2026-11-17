@@ -1,0 +1,11 @@
+description: "Proxies list: a rotate exit request failed"
+source: "Couldn't rotate the exit. Try again in a minute."
+platforms:
+  - site
+localizations:
+  ar: "تعذّر تغيير المخرج. حاول مرة أخرى بعد دقيقة."
+  de: "Der Ausgang konnte nicht gewechselt werden. Versuche es in einer Minute erneut."
+  en: "Couldn't rotate the exit. Try again in a minute."
+  es: "No se pudo cambiar la salida. Inténtalo de nuevo en un minuto."
+  ru: "Не удалось сменить выход. Попробуйте снова через минуту."
+  zh: "无法更换出口。请一分钟后再试。"

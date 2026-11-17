@@ -1,10 +1,11 @@
 description: "Bittensor wallet connect (Earnings), manual entry (TAO.com, or Talisman on a phone): the server refused the pasted signature because it does not verify for the address the user typed over the shown message (POST /sn/wallet error.code signature_mismatch). Usually the user signed with another account in the wallet. The server cannot tell which account signed. The argument is the wallet product name (TAO.com or Talisman)."
 source: "This signature isn't from the address you entered. In %@, sign the message with that address, then paste the signature again."
+deprecated:
+  - windows
+  - linux
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 placeholders:
   - name: wallet

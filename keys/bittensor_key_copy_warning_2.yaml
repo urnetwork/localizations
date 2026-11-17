@@ -1,0 +1,36 @@
+description: "Key screen, under the Copy button for the recovery phrase: a warning about the clipboard. The copy isn't shared to the user's other devices and is removed after 60 seconds; 60 s is 60 seconds, abbreviate seconds as usual."
+source: "Other apps may be able to read the clipboard. The copy stays on this device and is cleared after 60 s."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "قد تتمكن تطبيقات أخرى من قراءة الحافظة. تبقى النسخة على هذا الجهاز وتُمسح بعد 60 ث."
+  cs: "Jiné aplikace možná dokážou schránku přečíst. Kopie zůstává na tomto zařízení a po 60 s se vymaže."
+  de: "Andere Apps können die Zwischenablage möglicherweise lesen. Die Kopie bleibt auf diesem Gerät und wird nach 60 Sek. gelöscht."
+  el: "Άλλες εφαρμογές ίσως μπορούν να διαβάσουν το πρόχειρο. Το αντίγραφο μένει σε αυτή τη συσκευή και διαγράφεται μετά από 60 δευτ."
+  en: "Other apps may be able to read the clipboard. The copy stays on this device and is cleared after 60 s."
+  es: "Es posible que otras aplicaciones puedan leer el portapapeles. La copia se queda en este dispositivo y se borra después de 60 s."
+  es-419: "Es posible que otras aplicaciones puedan leer el portapapeles. La copia se queda en este dispositivo y se borra después de 60 s."
+  es-MX: "Es posible que otras aplicaciones puedan leer el portapapeles. La copia se queda en este dispositivo y se borra después de 60 s."
+  fr: "D’autres applications pourraient lire le presse-papiers. La copie reste sur cet appareil et est effacée après 60 s."
+  he: "ייתכן שאפליקציות אחרות יוכלו לקרוא את הלוח. העותק נשאר במכשיר הזה ונמחק אחרי 60 שנ׳."
+  hi: "हो सकता है कि दूसरे ऐप क्लिपबोर्ड पढ़ सकें। कॉपी इसी डिवाइस पर रहती है और 60 सेकंड बाद साफ़ कर दी जाती है।"
+  id: "Aplikasi lain mungkin dapat membaca papan klip. Salinan tetap ada di perangkat ini dan dihapus setelah 60 dtk."
+  it: "Altre app potrebbero leggere gli appunti. La copia resta su questo dispositivo e viene cancellata dopo 60 s."
+  ja: "他のアプリがクリップボードを読み取れる可能性があります。コピーはこのデバイス内にとどまり、60 秒後に消去されます。"
+  ko: "다른 앱이 클립보드를 읽을 수도 있습니다. 복사본은 이 기기에 남으며 60초 후에 지워집니다."
+  nl: "Andere apps kunnen het klembord mogelijk lezen. De kopie blijft op dit apparaat en wordt na 60 s gewist."
+  pl: "Inne aplikacje mogą odczytać schowek. Kopia pozostaje na tym urządzeniu i jest usuwana po 60 s."
+  pt: "Outras apps podem conseguir ler a área de transferência. A cópia fica neste dispositivo e é apagada após 60 s."
+  pt-BR: "Outros apps podem conseguir ler a área de transferência. A cópia fica neste dispositivo e é apagada após 60 s."
+  pt-PT: "Outras apps podem conseguir ler a área de transferência. A cópia fica neste dispositivo e é apagada após 60 s."
+  ru: "Другие приложения могут прочитать буфер обмена. Копия остаётся на этом устройстве и удаляется через 60 с."
+  sv: "Andra appar kan kanske läsa urklippet. Kopian stannar på den här enheten och rensas efter 60 s."
+  sw: "Programu nyingine zinaweza kusoma ubao wa kunakili. Nakala inabaki kwenye kifaa hiki na inafutwa baada ya sekunde 60."
+  th: "แอปอื่นอาจอ่านคลิปบอร์ดได้ สำเนาจะอยู่บนอุปกรณ์นี้และจะถูกล้างหลังจาก 60 วินาที"
+  uk: "Інші застосунки можуть прочитати буфер обміну. Копія залишається на цьому пристрої та видаляється через 60 с."
+  vi: "Các ứng dụng khác có thể đọc được bảng nhớ tạm. Bản sao vẫn ở trên thiết bị này và sẽ được xóa sau 60 giây."
+  zh: "其他应用可能会读取剪贴板。副本会保留在这台设备上，并在 60 秒后清除。"
+  zh-HK: "其他應用程式可能會讀取剪貼簿。副本會保留在這部裝置上，並在 60 秒後清除。"

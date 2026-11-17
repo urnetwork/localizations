@@ -1,0 +1,37 @@
+description: "The last sentence of the owner's disclaimer (bittensor_funds_disclaimer) alone, for the screens of the one-tap Bittensor key flows where the key is not stored in this app: a network paid to an outside wallet or a key on another device, a key this app has deleted, and a recovery phrase being saved before anything is stored. Must read exactly as the last sentence of bittensor_funds_disclaimer."
+source: "URnetwork does not touch and is not responsible for any user funds."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "لا يلمس URnetwork أي أموال للمستخدمين ولا يتحمّل أي مسؤولية عنها."
+  cs: "URnetwork se nedotýká žádných prostředků uživatelů a nenese za ně odpovědnost."
+  de: "URnetwork rührt keine Gelder von Nutzern an und ist für keine davon verantwortlich."
+  el: "Το URnetwork δεν αγγίζει κεφάλαια χρηστών και δεν φέρει καμία ευθύνη για αυτά."
+  en: "URnetwork does not touch and is not responsible for any user funds."
+  es: "URnetwork no toca los fondos de los usuarios ni se hace responsable de ninguno de ellos."
+  es-419: "URnetwork no toca los fondos de los usuarios ni se hace responsable de ninguno de ellos."
+  es-MX: "URnetwork no toca los fondos de los usuarios ni se hace responsable de ninguno de ellos."
+  fr: "URnetwork ne touche à aucun fonds des utilisateurs et n’en est pas responsable."
+  he: "URnetwork לא נוגע בכספי משתמשים ואינו אחראי לאף אחד מהם."
+  hi: "URnetwork उपयोगकर्ताओं के किसी भी फ़ंड को नहीं छूता और उनके लिए ज़िम्मेदार नहीं है।"
+  id: "URnetwork tidak menyentuh dan tidak bertanggung jawab atas dana pengguna mana pun."
+  it: "URnetwork non tocca alcun fondo degli utenti e non ne è responsabile."
+  ja: "URnetwork はユーザーの資金に一切触れず、その責任も負いません。"
+  ko: "URnetwork는 사용자 자금에 일절 손대지 않으며 이에 대한 책임도 지지 않습니다."
+  nl: "URnetwork raakt geen geld van gebruikers aan en is er niet verantwoordelijk voor."
+  pl: "URnetwork nie dotyka żadnych środków użytkowników i nie ponosi za nie odpowiedzialności."
+  pt: "O URnetwork não toca em quaisquer fundos dos utilizadores nem é responsável por eles."
+  pt-BR: "O URnetwork não toca em nenhum fundo dos usuários e não é responsável por eles."
+  pt-PT: "O URnetwork não toca em quaisquer fundos dos utilizadores nem é responsável por eles."
+  ru: "URnetwork не прикасается ни к каким средствам пользователей и не несёт за них ответственности."
+  sv: "URnetwork rör inga användarmedel och ansvarar inte för dem."
+  sw: "URnetwork haigusi fedha zozote za watumiaji na haiwajibiki kwazo."
+  th: "URnetwork ไม่แตะต้องและไม่รับผิดชอบต่อเงินใด ๆ ของผู้ใช้"
+  uk: "URnetwork не торкається жодних коштів користувачів і не несе за них відповідальності."
+  vi: "URnetwork không động đến và không chịu trách nhiệm về bất kỳ khoản tiền nào của người dùng."
+  zh: "URnetwork 不会触碰任何用户资金，也不对其承担任何责任。"
+  zh-HK: "URnetwork 不會觸碰任何用戶資金，亦不對其承擔任何責任。"

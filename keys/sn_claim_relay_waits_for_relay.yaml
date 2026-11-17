@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet, when URnetwork isn't claiming: the link below claims with the user's own gas key. Ends with a colon before that link."
+source: "Claim now waits until claims are running again. To claim right away, pay the gas yourself:"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "تنتظر «المطالبة الآن» حتى تعود المطالبات إلى العمل. للمطالبة فورًا، ادفع رسوم الغاز بنفسك:"
+  cs: "„Vyzvednout hned“ počká, dokud vyzvedávání znovu nepoběží. Pokud chcete vyzvednout ihned, zaplaťte gas sami:"
+  de: "„Jetzt einlösen“ wartet, bis Einlösungen wieder laufen. Um sofort einzulösen, bezahle das Gas selbst:"
+  el: "Το «Διεκδίκηση τώρα» περιμένει μέχρι να λειτουργήσουν ξανά οι διεκδικήσεις. Για να διεκδικήσετε αμέσως, πληρώστε μόνοι σας το gas:"
+  en: "Claim now waits until claims are running again. To claim right away, pay the gas yourself:"
+  es: "«Reclamar ahora» espera hasta que las reclamaciones vuelvan a funcionar. Para reclamar de inmediato, paga tú el gas:"
+  es-419: "“Reclamar ahora” espera hasta que las reclamaciones vuelvan a funcionar. Para reclamar de inmediato, paga tú el gas:"
+  es-MX: "“Reclamar ahora” espera hasta que las reclamaciones vuelvan a funcionar. Para reclamar de inmediato, paga tú el gas:"
+  fr: "« Réclamer maintenant » attend que les réclamations reprennent. Pour réclamer tout de suite, payez vous-même le gas :"
+  he: "«מימוש עכשיו» ימתין עד שהמימושים יפעלו שוב. כדי לממש מיד, שלמו את הגז בעצמכם:"
+  hi: "“अभी दावा करें” तब तक प्रतीक्षा करेगा जब तक दावे फिर से नहीं चलने लगते। तुरंत दावा करने के लिए, गैस का भुगतान खुद करें:"
+  id: "“Klaim sekarang” menunggu sampai klaim berjalan lagi. Untuk mengklaim segera, bayar gas sendiri:"
+  it: "«Riscatta ora» attende finché i riscatti non riprendono. Per riscattare subito, paga tu il gas:"
+  ja: "「今すぐ受け取る」は、受け取りが再開されるまで待機します。すぐに受け取るには、ご自身でガス代を支払ってください："
+  ko: "“지금 받기”는 받기가 다시 실행될 때까지 대기합니다. 바로 받으려면 가스를 직접 지불하세요:"
+  nl: "‘Nu opeisen’ wacht tot claims weer draaien. Om meteen op te eisen, betaal je het gas zelf:"
+  pl: "„Odbierz teraz” czeka, aż odbiory znów zaczną działać. Aby odebrać od razu, zapłać za gas samodzielnie:"
+  pt: "«Reivindicar agora» aguarda até as reivindicações voltarem a funcionar. Para reivindicar de imediato, pague o gás por conta própria:"
+  pt-BR: "“Resgatar agora” aguarda até os resgates voltarem a funcionar. Para resgatar agora mesmo, pague o gás você mesmo:"
+  pt-PT: "«Reivindicar agora» aguarda até as reivindicações voltarem a funcionar. Para reivindicar de imediato, pague o gás por conta própria:"
+  ru: "«Получить сейчас» подождёт, пока получение снова не заработает. Чтобы получить сразу, оплатите газ сами:"
+  sv: "”Hämta ut nu” väntar tills uttagen är igång igen. För att hämta ut direkt betalar du gasen själv:"
+  sw: "“Dai sasa” linasubiri hadi madai yaanze kufanya kazi tena. Ili kudai mara moja, lipa gas mwenyewe:"
+  th: "“รับตอนนี้” จะรอจนกว่าการรับจะกลับมาทำงานอีกครั้ง หากต้องการรับทันที ให้ชำระค่า gas เอง:"
+  uk: "«Отримати зараз» зачекає, доки отримання знову не запрацює. Щоб отримати одразу, оплатіть газ самостійно:"
+  vi: "“Nhận ngay” sẽ chờ đến khi việc nhận hoạt động trở lại. Để nhận ngay lập tức, hãy tự trả gas:"
+  zh: "“立即领取”将等到领取恢复运行。如需马上领取，请自行支付 Gas 费："
+  zh-HK: "「立即領取」將等到領取恢復運行。如需馬上領取，請自行支付 Gas 費："

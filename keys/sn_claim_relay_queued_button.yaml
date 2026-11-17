@@ -1,0 +1,37 @@
+description: "Earnings claim sheet: the Claim now button, disabled, after the claim was asked for. Short: a button."
+source: "Queued"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "في قائمة الانتظار"
+  cs: "Ve frontě"
+  de: "In Warteschlange"
+  el: "Στην ουρά"
+  en: "Queued"
+  es: "En cola"
+  es-419: "En cola"
+  es-MX: "En cola"
+  fr: "En file d’attente"
+  he: "בתור"
+  hi: "कतार में"
+  id: "Dalam antrean"
+  it: "In coda"
+  ja: "順番待ち"
+  ko: "대기열에 추가됨"
+  nl: "In wachtrij"
+  pl: "W kolejce"
+  pt: "Na fila"
+  pt-BR: "Na fila"
+  pt-PT: "Na fila"
+  ru: "В очереди"
+  sv: "I kö"
+  sw: "Kwenye foleni"
+  th: "อยู่ในคิว"
+  uk: "У черзі"
+  vi: "Trong hàng chờ"
+  zh: "已排队"
+  zh-HK: "已排隊"

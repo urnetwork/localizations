@@ -1,0 +1,14 @@
+description: "Create proxy: the most unique exit IP proxies created at once (the Pro per-minute create limit)"
+source: "Up to {max} at a time."
+platforms:
+  - site
+placeholders:
+  - name: max
+    type: int
+localizations:
+  ar: "حتى {max} في المرة الواحدة."
+  de: "Bis zu {max} auf einmal."
+  en: "Up to {max} at a time."
+  es: "Hasta {max} a la vez."
+  ru: "До {max} за раз."
+  zh: "每次最多 {max} 个。"

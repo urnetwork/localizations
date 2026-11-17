@@ -1,0 +1,11 @@
+description: "Proxies list: a manual-mode unique exit proxy lost its exit and waits for the customer to rotate it (state_reason manual)"
+source: "Exit lost. Rotate exit to choose a new one."
+platforms:
+  - site
+localizations:
+  ar: "فُقد المخرج. اختر «تغيير المخرج» لاختيار مخرج جديد."
+  de: "Ausgang verloren. Wähle „Ausgang wechseln“, um einen neuen zu bekommen."
+  en: "Exit lost. Rotate exit to choose a new one."
+  es: "Se perdió la salida. Usa «Cambiar salida» para elegir una nueva."
+  ru: "Выход потерян. Нажмите «Сменить выход», чтобы выбрать новый."
+  zh: "出口已失效。点击「更换出口」选择一个新的出口。"

@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card: under the Set up payouts button while it works, which takes a few seconds. The app writes the new key to the device's secure storage, reads it back to check it, and then signs the payout consent with it."
+source: "Saving the key on this device and reading it back, then signing."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "جارٍ حفظ المفتاح على هذا الجهاز وإعادة قراءته، ثم التوقيع."
+  cs: "Ukládání klíče na tomto zařízení a jeho zpětné načtení, potom podepsání."
+  de: "Der Schlüssel wird auf diesem Gerät gespeichert und zurückgelesen, dann wird signiert."
+  el: "Αποθήκευση του κλειδιού σε αυτή τη συσκευή και επανανάγνωσή του, και μετά υπογραφή."
+  en: "Saving the key on this device and reading it back, then signing."
+  es: "Guardando la clave en este dispositivo y leyéndola de nuevo; después, firmando."
+  es-419: "Guardando la clave en este dispositivo y leyéndola de nuevo; después, firmando."
+  es-MX: "Guardando la clave en este dispositivo y leyéndola de nuevo; después, firmando."
+  fr: "Enregistrement de la clé sur cet appareil et relecture, puis signature."
+  he: "שומר את המפתח במכשיר הזה וקורא אותו בחזרה, ואז חותם."
+  hi: "इस डिवाइस पर कुंजी सहेजी जा रही है और दोबारा पढ़ी जा रही है, फिर साइन किया जाएगा।"
+  id: "Menyimpan kunci di perangkat ini dan membacanya kembali, lalu menandatangani."
+  it: "Salvataggio della chiave su questo dispositivo e rilettura, poi firma."
+  ja: "このデバイスにキーを保存して読み戻し、その後署名します。"
+  ko: "이 기기에 키를 저장하고 다시 읽은 다음 서명하는 중입니다."
+  nl: "De sleutel wordt op dit apparaat opgeslagen en teruggelezen, daarna wordt er ondertekend."
+  pl: "Zapisywanie klucza na tym urządzeniu i ponowne odczytywanie, potem podpisywanie."
+  pt: "A guardar a chave neste dispositivo e a lê-la de novo; depois, a assinar."
+  pt-BR: "Salvando a chave neste dispositivo e lendo-a de novo; depois, assinando."
+  pt-PT: "A guardar a chave neste dispositivo e a lê-la de novo; depois, a assinar."
+  ru: "Сохранение ключа на этом устройстве и повторное чтение, затем подписание."
+  sv: "Sparar nyckeln på den här enheten och läser tillbaka den, och signerar sedan."
+  sw: "Inahifadhi ufunguo kwenye kifaa hiki na kuusoma tena, kisha inatia sahihi."
+  th: "กำลังบันทึกคีย์บนอุปกรณ์นี้และอ่านกลับมา จากนั้นจึงลงนาม"
+  uk: "Збереження ключа на цьому пристрої та повторне зчитування, потім підписання."
+  vi: "Đang lưu khóa trên thiết bị này và đọc lại, sau đó ký."
+  zh: "正在将密钥保存到这台设备上并读回，然后签名。"
+  zh-HK: "正在將金鑰儲存到這部裝置上並讀回，然後簽署。"

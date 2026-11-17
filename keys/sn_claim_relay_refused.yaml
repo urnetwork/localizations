@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: the last claim transaction failed, and URnetwork will try again by itself."
+source: "The last claim didn't go through. URnetwork tries again later."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "لم تنجح المطالبة الأخيرة. سيحاول URnetwork مرة أخرى لاحقًا."
+  cs: "Poslední nárok neprošel. URnetwork to zkusí znovu později."
+  de: "Die letzte Einlösung ist nicht durchgegangen. URnetwork versucht es später erneut."
+  el: "Η τελευταία διεκδίκηση δεν ολοκληρώθηκε. Το URnetwork θα δοκιμάσει ξανά αργότερα."
+  en: "The last claim didn't go through. URnetwork tries again later."
+  es: "La última reclamación no se completó. URnetwork volverá a intentarlo más tarde."
+  es-419: "La última reclamación no se completó. URnetwork volverá a intentarlo más tarde."
+  es-MX: "La última reclamación no se completó. URnetwork volverá a intentarlo más tarde."
+  fr: "La dernière réclamation n’a pas abouti. URnetwork réessaiera plus tard."
+  he: "המימוש האחרון לא הצליח. URnetwork ינסה שוב מאוחר יותר."
+  hi: "पिछला दावा पूरा नहीं हुआ। URnetwork बाद में दोबारा कोशिश करेगा।"
+  id: "Klaim terakhir tidak berhasil. URnetwork akan mencoba lagi nanti."
+  it: "L’ultimo riscatto non è andato a buon fine. URnetwork riproverà più tardi."
+  ja: "前回の受け取りは完了しませんでした。URnetwork が後ほど再試行します。"
+  ko: "최근 받기가 처리되지 않았습니다. URnetwork가 나중에 다시 시도합니다."
+  nl: "De laatste claim is niet gelukt. URnetwork probeert het later opnieuw."
+  pl: "Ostatni odbiór się nie powiódł. URnetwork spróbuje ponownie później."
+  pt: "A última reivindicação não foi concluída. O URnetwork volta a tentar mais tarde."
+  pt-BR: "O último resgate não foi concluído. O URnetwork vai tentar de novo mais tarde."
+  pt-PT: "A última reivindicação não foi concluída. O URnetwork volta a tentar mais tarde."
+  ru: "Последний запрос на получение не прошёл. URnetwork повторит попытку позже."
+  sv: "Det senaste uttaget gick inte igenom. URnetwork försöker igen senare."
+  sw: "Dai la mwisho halikufanikiwa. URnetwork itajaribu tena baadaye."
+  th: "คำขอรับครั้งล่าสุดไม่สำเร็จ URnetwork จะลองอีกครั้งในภายหลัง"
+  uk: "Останній запит на отримання не пройшов. URnetwork спробує ще раз пізніше."
+  vi: "Yêu cầu nhận gần nhất không thành công. URnetwork sẽ thử lại sau."
+  zh: "上一次领取未成功。URnetwork 稍后会重试。"
+  zh-HK: "上一次領取未成功。URnetwork 稍後會重試。"

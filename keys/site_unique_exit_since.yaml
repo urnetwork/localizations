@@ -1,0 +1,14 @@
+description: "Proxies list: when a unique exit IP proxy got its current exit; time is a formatted date and time"
+source: "since {time}"
+platforms:
+  - site
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "منذ {time}"
+  de: "seit {time}"
+  en: "since {time}"
+  es: "desde {time}"
+  ru: "с {time}"
+  zh: "自 {time} 起"

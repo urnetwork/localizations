@@ -5,6 +5,7 @@ platforms:
   - android
   - linux
   - windows
+  - web
 localizations:
   ar: "متصل"
   cs: "Připojeno"

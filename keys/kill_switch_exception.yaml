@@ -7,7 +7,7 @@ platforms:
   - apple
   - windows
 localizations:
-  ar: "استثناء مفتاح القتل"
+  ar: "استثناء مفتاح الإيقاف"
   cs: "Výjimka z kill switche"
   de: "Ausnahme vom Kill switch"
   el: "Εξαίρεση από το Kill switch"

@@ -1,0 +1,39 @@
+description: "Key screen, the confirmation when the user saved the recovery phrase first: one point of a short list. The placeholder is the key's Bittensor address, shortened (5F3s…kQ9v); keep it as it is. An epoch is the subnet's payout period."
+source: "Payouts go to this address, %@, from the next epoch."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "تذهب المدفوعات إلى هذا العنوان، {address}، بدءًا من الفترة التالية."
+  cs: "Od příští epochy budou výplaty chodit na tuto adresu, {address}."
+  de: "Auszahlungen gehen ab der nächsten Epoche an diese Adresse, {address}."
+  el: "Οι πληρωμές πηγαίνουν σε αυτή τη διεύθυνση, {address}, από την επόμενη εποχή."
+  en: "Payouts go to this address, {address}, from the next epoch."
+  es: "Los pagos llegan a esta dirección, {address}, a partir de la próxima época."
+  es-419: "Los pagos llegan a esta dirección, {address}, a partir de la próxima época."
+  es-MX: "Los pagos llegan a esta dirección, {address}, a partir de la próxima época."
+  fr: "Les paiements sont versés à cette adresse, {address}, à partir de la prochaine époque."
+  he: "התשלומים יגיעו לכתובת הזו, {address}, החל מהתקופה הבאה."
+  hi: "अगले एपोक से भुगतान इस पते {address} पर भेजे जाएंगे।"
+  id: "Pembayaran dikirim ke alamat ini, {address}, mulai epoch berikutnya."
+  it: "I pagamenti arrivano a questo indirizzo, {address}, dalla prossima epoca."
+  ja: "支払いは次のエポックから、このアドレス {address} に送られます。"
+  ko: "다음 에포크부터 이 주소 {address}(으)로 지급됩니다."
+  nl: "Uitbetalingen gaan vanaf de volgende epoch naar dit adres, {address}."
+  pl: "Od następnej epoki wypłaty będą trafiać na ten adres, {address}."
+  pt: "Os pagamentos vão para este endereço, {address}, a partir da próxima época."
+  pt-BR: "Os pagamentos vão para este endereço, {address}, a partir da próxima época."
+  pt-PT: "Os pagamentos vão para este endereço, {address}, a partir da próxima época."
+  ru: "Со следующей эпохи выплаты будут поступать на этот адрес, {address}."
+  sv: "Utbetalningar går till den här adressen, {address}, från nästa epok."
+  sw: "Malipo yanaenda kwenye anwani hii, {address}, kuanzia kipindi kijacho."
+  th: "การจ่ายจะเข้าที่อยู่นี้ {address} ตั้งแต่อีพอคถัดไป"
+  uk: "З наступної епохи виплати надходитимуть на цю адресу, {address}."
+  vi: "Thanh toán được chuyển đến địa chỉ này, {address}, từ epoch tiếp theo."
+  zh: "从下一个周期开始，支付将发送到此地址 {address}。"
+  zh-HK: "由下一個週期開始，支付會發送到此地址 {address}。"

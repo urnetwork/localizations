@@ -1,7 +1,11 @@
 description: "dns settings"
 source: "Use recommended settings"
-platforms:
+deprecated:
   - android
+  - apple
+  - linux
+  - windows
+platforms:
   - apple
   - linux
   - windows

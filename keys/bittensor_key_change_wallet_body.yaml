@@ -1,0 +1,36 @@
+description: "The payout consent sheet when the network already pays a wallet (Change wallet): what changing does. An epoch is the subnet's payout period."
+source: "Choose where this network's earnings are paid from the next epoch. Earlier earnings stay where they were paid."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "اختر أين تُدفع أرباح هذه الشبكة بدءًا من الفترة التالية. تبقى الأرباح السابقة حيث دُفعت."
+  cs: "Vyberte, kam se budou od příští epochy vyplácet výdělky této sítě. Dřívější výdělky zůstanou tam, kam byly vyplaceny."
+  de: "Wähle, wohin die Einnahmen dieses Netzwerks ab der nächsten Epoche ausgezahlt werden. Frühere Einnahmen bleiben dort, wohin sie ausgezahlt wurden."
+  el: "Επιλέξτε πού θα πληρώνονται τα κέρδη αυτού του δικτύου από την επόμενη εποχή. Τα προηγούμενα κέρδη παραμένουν εκεί όπου πληρώθηκαν."
+  en: "Choose where this network's earnings are paid from the next epoch. Earlier earnings stay where they were paid."
+  es: "Elige dónde se pagan las ganancias de esta red a partir de la próxima época. Las ganancias anteriores se quedan donde se pagaron."
+  es-419: "Elige dónde se pagan las ganancias de esta red a partir de la próxima época. Las ganancias anteriores se quedan donde se pagaron."
+  es-MX: "Elige dónde se pagan las ganancias de esta red a partir de la próxima época. Las ganancias anteriores se quedan donde se pagaron."
+  fr: "Choisissez où les gains de ce réseau sont versés à partir de la prochaine époque. Les gains précédents restent là où ils ont été versés."
+  he: "בחרו לאן ישולמו הרווחים של הרשת הזו החל מהתקופה הבאה. רווחים קודמים נשארים במקום שאליו שולמו."
+  hi: "चुनें कि अगले एपोक से इस नेटवर्क की कमाई का भुगतान कहाँ हो। पिछली कमाई वहीं रहेगी जहाँ उसका भुगतान हुआ था।"
+  id: "Pilih ke mana penghasilan jaringan ini dibayarkan mulai epoch berikutnya. Penghasilan sebelumnya tetap di tempat penghasilan itu dibayarkan."
+  it: "Scegli dove vengono pagati i guadagni di questa rete dalla prossima epoca. I guadagni precedenti restano dove sono stati pagati."
+  ja: "次のエポックからこのネットワークの収益を支払う先を選択してください。これまでの収益は、支払われた先に残ります。"
+  ko: "다음 에포크부터 이 네트워크의 수익이 지급될 곳을 선택하세요. 이전 수익은 지급된 곳에 그대로 남습니다."
+  nl: "Kies waar de verdiensten van dit netwerk vanaf de volgende epoch worden uitbetaald. Eerdere verdiensten blijven waar ze zijn uitbetaald."
+  pl: "Wybierz, dokąd od następnej epoki będą wypłacane zarobki tej sieci. Wcześniejsze zarobki pozostaną tam, gdzie zostały wypłacone."
+  pt: "Escolha para onde são pagos os ganhos desta rede a partir da próxima época. Os ganhos anteriores ficam onde foram pagos."
+  pt-BR: "Escolha para onde os ganhos desta rede são pagos a partir da próxima época. Os ganhos anteriores ficam onde foram pagos."
+  pt-PT: "Escolha para onde são pagos os ganhos desta rede a partir da próxima época. Os ganhos anteriores ficam onde foram pagos."
+  ru: "Выберите, куда со следующей эпохи будет выплачиваться заработок этой сети. Прежний заработок останется там, куда он был выплачен."
+  sv: "Välj vart det här nätverkets intäkter betalas ut från nästa epok. Tidigare intäkter stannar där de betalades ut."
+  sw: "Chagua mahali ambapo mapato ya mtandao huu yatalipwa kuanzia kipindi kijacho. Mapato ya awali yanabaki pale yalipolipwa."
+  th: "เลือกว่าจะให้จ่ายรายได้ของเครือข่ายนี้ไปที่ใดตั้งแต่อีพอคถัดไป รายได้ก่อนหน้านี้จะยังอยู่ในที่ที่จ่ายไปแล้ว"
+  uk: "Виберіть, куди з наступної епохи виплачуватиметься заробіток цієї мережі. Попередній заробіток залишиться там, куди його було виплачено."
+  vi: "Chọn nơi trả thu nhập của mạng này từ epoch tiếp theo. Thu nhập trước đó vẫn ở nơi đã được trả."
+  zh: "选择此网络的收益从下一个周期开始支付到哪里。之前的收益仍保留在原来支付到的地方。"
+  zh-HK: "選擇此網絡的收益由下一個週期開始支付到哪裡。之前的收益會保留在原本支付到的地方。"

@@ -3,7 +3,7 @@ source: "The tunnel could not carry traffic, so URnetwork shut it down. The kill
 platforms:
   - windows
 localizations:
-  ar: "لم يتمكن النفق من نقل حركة البيانات، لذا أوقفه URnetwork. مفتاح القتل مفعّل، لذا يبقى هذا الكمبيوتر محجوبًا ولا يوجد أي تسرب. أعد الاتصال، أو أوقف مفتاح القتل من هذه القائمة."
+  ar: "لم يتمكن النفق من نقل حركة البيانات، لذا أوقفه URnetwork. مفتاح الإيقاف مفعّل، لذا يبقى هذا الكمبيوتر محجوبًا ولا يوجد أي تسرب. أعد الاتصال، أو عطّل مفتاح الإيقاف من هذه القائمة."
   cs: "Tunel nedokázal přenášet provoz, a tak ho URnetwork vypnul. Kill switch je zapnutý, takže tento počítač zůstává zablokovaný a nic neuniká. Připojte se znovu nebo vypněte kill switch v této nabídce."
   de: "Der Tunnel konnte keinen Datenverkehr übertragen, deshalb hat URnetwork ihn beendet. Der Kill switch ist an, daher bleibt dieser Computer blockiert und es dringt nichts nach außen. Verbinde dich erneut oder schalte den Kill switch über dieses Menü aus."
   el: "Η σήραγγα δεν μπορούσε να μεταφέρει κίνηση, οπότε το URnetwork την τερμάτισε. Το Kill switch είναι ενεργό, οπότε αυτός ο υπολογιστής παραμένει αποκλεισμένος και δεν υπάρχει καμία διαρροή. Συνδεθείτε ξανά ή απενεργοποιήστε το Kill switch από αυτό το μενού."

@@ -1,0 +1,36 @@
+description: "Earnings screen, the title of a warning before a new key on this device replaces the network's payout wallet."
+source: "Replace your payout wallet?"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هل تريد استبدال محفظة الدفع الخاصة بك؟"
+  cs: "Nahradit výplatní peněženku?"
+  de: "Deine Auszahlungs-Wallet ersetzen?"
+  el: "Αντικατάσταση του πορτοφολιού πληρωμής σας;"
+  en: "Replace your payout wallet?"
+  es: "¿Reemplazar tu billetera de pago?"
+  es-419: "¿Reemplazar tu billetera de pago?"
+  es-MX: "¿Reemplazar tu cartera de pago?"
+  fr: "Remplacer votre portefeuille de paiement ?"
+  he: "להחליף את ארנק התשלום שלכם?"
+  hi: "अपना पेआउट वॉलेट बदलें?"
+  id: "Ganti dompet pembayaran Anda?"
+  it: "Sostituire il tuo portafoglio di pagamento?"
+  ja: "支払いウォレットを置き換えますか？"
+  ko: "지급 지갑을 교체할까요?"
+  nl: "Je uitbetalingswallet vervangen?"
+  pl: "Zastąpić portfel wypłat?"
+  pt: "Substituir a sua carteira de pagamento?"
+  pt-BR: "Substituir sua carteira de pagamento?"
+  pt-PT: "Substituir a sua carteira de pagamento?"
+  ru: "Заменить кошелек для выплат?"
+  sv: "Ersätta din utbetalningsplånbok?"
+  sw: "Ungependa kubadilisha pochi yako ya malipo?"
+  th: "แทนที่กระเป๋ารับยอดจ่ายของคุณใช่ไหม"
+  uk: "Замінити гаманець для виплат?"
+  vi: "Thay thế ví thanh toán của bạn?"
+  zh: "替换您的支付钱包？"
+  zh-HK: "要取代你的支付錢包嗎？"

@@ -4,7 +4,7 @@ platforms:
   - windows
   - linux
 localizations:
-  ar: "معطّلة، مفتاح القتل مسلّح"
+  ar: "معطّلة، مفتاح الإيقاف مسلّح"
   cs: "vypnuto, kill switch aktivní"
   de: "aus, Kill switch aktiv"
   el: "ανενεργές, Kill switch οπλισμένο"

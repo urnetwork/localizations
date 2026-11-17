@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: why the balance is still pending. URnetwork claims automatically once a balance is worth a set amount."
+source: "Below the automatic threshold."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "أقل من حد المطالبة التلقائية."
+  cs: "Pod prahem pro automatické vyzvednutí."
+  de: "Unter der Schwelle für die automatische Einlösung."
+  el: "Κάτω από το όριο αυτόματης διεκδίκησης."
+  en: "Below the automatic threshold."
+  es: "Por debajo del umbral de reclamación automática."
+  es-419: "Por debajo del umbral de reclamación automática."
+  es-MX: "Por debajo del umbral de reclamación automática."
+  fr: "Sous le seuil de réclamation automatique."
+  he: "מתחת לסף המימוש האוטומטי."
+  hi: "स्वचालित दावे की सीमा से कम।"
+  id: "Di bawah ambang klaim otomatis."
+  it: "Sotto la soglia di riscatto automatico."
+  ja: "自動受け取りのしきい値未満です。"
+  ko: "자동 받기 기준 금액 미만입니다."
+  nl: "Onder de drempel voor automatisch opeisen."
+  pl: "Poniżej progu automatycznego odbioru."
+  pt: "Abaixo do limite de reivindicação automática."
+  pt-BR: "Abaixo do limite de resgate automático."
+  pt-PT: "Abaixo do limite de reivindicação automática."
+  ru: "Ниже порога автоматического получения."
+  sv: "Under gränsen för automatiska uttag."
+  sw: "Chini ya kiwango cha kudai kiotomatiki."
+  th: "ต่ำกว่าเกณฑ์การรับอัตโนมัติ"
+  uk: "Нижче порогу автоматичного отримання."
+  vi: "Dưới ngưỡng nhận tự động."
+  zh: "低于自动领取门槛。"
+  zh-HK: "低於自動領取門檻。"

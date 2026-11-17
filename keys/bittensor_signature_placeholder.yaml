@@ -1,10 +1,11 @@
 description: "Placeholder of the Bittensor signature field (a 0x-prefixed hex signature)."
 source: "Paste the 0x… signature"
+deprecated:
+  - windows
+  - linux
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "الصق التوقيع ‎0x…"

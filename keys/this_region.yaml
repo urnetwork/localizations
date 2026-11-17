@@ -1,5 +1,8 @@
 description: "dns settings"
 source: "this region"
+deprecated:
+  - apple
+  - linux
 platforms:
   - android
   - apple

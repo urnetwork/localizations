@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. A general error under the Set up payouts button."
+source: "Couldn't set up payouts. Try again."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "تعذّر إعداد المدفوعات. حاول مرة أخرى."
+  cs: "Výplaty se nepodařilo nastavit. Zkuste to znovu."
+  de: "Auszahlungen konnten nicht eingerichtet werden. Versuche es erneut."
+  el: "Δεν ήταν δυνατή η ρύθμιση των πληρωμών. Δοκιμάστε ξανά."
+  en: "Couldn't set up payouts. Try again."
+  es: "No se pudieron configurar los pagos. Vuelve a intentarlo."
+  es-419: "No se pudieron configurar los pagos. Vuelve a intentarlo."
+  es-MX: "No se pudieron configurar los pagos. Vuelve a intentarlo."
+  fr: "Impossible de configurer les paiements. Réessayez."
+  he: "לא ניתן היה להגדיר תשלומים. נסו שוב."
+  hi: "भुगतान सेट नहीं हो सका। दोबारा कोशिश करें।"
+  id: "Tidak dapat menyiapkan pembayaran. Coba lagi."
+  it: "Impossibile configurare i pagamenti. Riprova."
+  ja: "支払いを設定できませんでした。もう一度お試しください。"
+  ko: "지급을 설정하지 못했습니다. 다시 시도하세요."
+  nl: "Uitbetalingen konden niet worden ingesteld. Probeer het opnieuw."
+  pl: "Nie udało się skonfigurować wypłat. Spróbuj ponownie."
+  pt: "Não foi possível configurar os pagamentos. Tente novamente."
+  pt-BR: "Não foi possível configurar os pagamentos. Tente novamente."
+  pt-PT: "Não foi possível configurar os pagamentos. Tente novamente."
+  ru: "Не удалось настроить выплаты. Повторите попытку."
+  sv: "Det gick inte att konfigurera utbetalningar. Försök igen."
+  sw: "Imeshindwa kusanidi malipo. Jaribu tena."
+  th: "ไม่สามารถตั้งค่าการจ่ายได้ ลองอีกครั้ง"
+  uk: "Не вдалося налаштувати виплати. Спробуйте ще раз."
+  vi: "Không thể thiết lập thanh toán. Hãy thử lại."
+  zh: "无法设置支付。请重试。"
+  zh-HK: "無法設定支付。請再試一次。"

@@ -6,7 +6,7 @@ platforms:
   - windows
   - linux
 localizations:
-  ar: "أثناء اتصال VPN، يُوجَّه IPv6 عبر URnetwork مثل IPv4. يتجاوز SMTP الصادر عبر منفذ TCP رقم 25 شبكة VPN، حتى عند تشغيل مفتاح القتل، وقد يكشف ذلك عنوان IP العام المحلي لديك لخوادم البريد تلك. يبقى SMTP على المنفذين 465 و587 داخل VPN ويجب أن يُنشئ اتصال TLS."
+  ar: "أثناء اتصال VPN، يُوجَّه IPv6 عبر URnetwork مثل IPv4. يتجاوز SMTP الصادر عبر منفذ TCP رقم 25 شبكة VPN، حتى عند تشغيل مفتاح الإيقاف، وقد يكشف ذلك عنوان IP العام المحلي لديك لخوادم البريد تلك. يبقى SMTP على المنفذين 465 و587 داخل VPN ويجب أن يُنشئ اتصال TLS."
   cs: "Když je VPN připojená, IPv6 se směruje přes URnetwork stejně jako IPv4. Odchozí SMTP na portu TCP 25 obchází VPN, i když je kill switch zapnutý, což může odhalit vaši místní veřejnou IP těmto poštovním serverům. SMTP na portech 465 a 587 zůstává ve VPN a musí navázat TLS."
   de: "Während das VPN verbunden ist, wird IPv6 wie IPv4 über URnetwork geleitet. Ausgehendes SMTP über TCP-Port 25 umgeht das VPN, selbst wenn der Kill switch aktiviert ist. Dadurch kann deine lokale öffentliche IP für diese Mailserver sichtbar werden. SMTP über die Ports 465 und 587 bleibt im VPN und muss TLS aufbauen."
   el: "Όσο το VPN είναι συνδεδεμένο, το IPv6 δρομολογείται μέσω του URnetwork όπως και το IPv4. Το εξερχόμενο SMTP στη θύρα TCP 25 παρακάμπτει το VPN, ακόμη και όταν το Kill switch είναι ενεργό, κάτι που μπορεί να εκθέσει την τοπική δημόσια IP σας σε αυτούς τους διακομιστές αλληλογραφίας. Το SMTP στις θύρες 465 και 587 μένει μέσα στο VPN και πρέπει να δημιουργήσει TLS."

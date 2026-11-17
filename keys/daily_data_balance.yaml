@@ -3,6 +3,7 @@ source: "Daily Data Balance"
 platforms:
   - linux
   - windows
+  - site
 localizations:
   ar: "رصيد البيانات اليومي"
   cs: "Denní datový zůstatek"

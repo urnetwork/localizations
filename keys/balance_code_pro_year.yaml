@@ -1,0 +1,37 @@
+description: "The redeemed balance codes list's amount for a Pro gift code, in place of a data amount such as \"+10 GiB\". Short, like a data amount."
+source: "A year of Pro"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "عام من Pro"
+  cs: "Rok Pro"
+  de: "Ein Jahr Pro"
+  el: "Ένα έτος Pro"
+  en: "A year of Pro"
+  es: "Un año de Pro"
+  es-419: "Un año de Pro"
+  es-MX: "Un año de Pro"
+  fr: "Un an de Pro"
+  he: "שנה של Pro"
+  hi: "Pro का एक साल"
+  id: "Satu tahun Pro"
+  it: "Un anno di Pro"
+  ja: "Pro 1 年分"
+  ko: "Pro 1년"
+  nl: "Een jaar Pro"
+  pl: "Rok Pro"
+  pt: "Um ano de Pro"
+  pt-BR: "Um ano de Pro"
+  pt-PT: "Um ano de Pro"
+  ru: "Год Pro"
+  sv: "Ett år med Pro"
+  sw: "Mwaka mmoja wa Pro"
+  th: "Pro หนึ่งปี"
+  uk: "Рік Pro"
+  vi: "Một năm Pro"
+  zh: "一年 Pro"
+  zh-HK: "一年 Pro"

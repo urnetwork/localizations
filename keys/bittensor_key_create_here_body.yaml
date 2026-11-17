@@ -1,0 +1,36 @@
+description: "The payout consent sheet (Change wallet), under the button Create a key on this device: what it does."
+source: "URnetwork is not a wallet. One tap creates a Bittensor key on this device; back up its recovery phrase afterwards."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "URnetwork ليس محفظة. تنشئ نقرة واحدة مفتاح Bittensor على هذا الجهاز؛ احفظ عبارة النسخ الاحتياطي الخاصة به بعد ذلك."
+  cs: "URnetwork není peněženka. Jedním klepnutím se na tomto zařízení vytvoří klíč Bittensor; potom zálohujte jeho obnovovací frázi."
+  de: "URnetwork ist keine Wallet. Ein Tippen erstellt einen Bittensor-Schlüssel auf diesem Gerät; sichere danach seine Wiederherstellungsphrase."
+  el: "Το URnetwork δεν είναι πορτοφόλι. Ένα πάτημα δημιουργεί ένα κλειδί Bittensor σε αυτή τη συσκευή. Στη συνέχεια, δημιουργήστε αντίγραφο ασφαλείας της φράσης επαναφοράς του."
+  en: "URnetwork is not a wallet. One tap creates a Bittensor key on this device; back up its recovery phrase afterwards."
+  es: "URnetwork no es una billetera. Con un toque se crea una clave de Bittensor en este dispositivo; después, haz una copia de seguridad de su frase de recuperación."
+  es-419: "URnetwork no es una billetera. Con un toque se crea una clave de Bittensor en este dispositivo; después, haz una copia de seguridad de su frase de recuperación."
+  es-MX: "URnetwork no es una cartera. Con un toque se crea una clave de Bittensor en este dispositivo; después, haz una copia de seguridad de su frase de recuperación."
+  fr: "URnetwork n’est pas un portefeuille. Une simple touche crée une clé Bittensor sur cet appareil ; enregistrez ensuite sa phrase de sauvegarde."
+  he: "URnetwork אינו ארנק. הקשה אחת יוצרת מפתח Bittensor במכשיר הזה; אחר כך גבו את ביטוי השחזור שלו."
+  hi: "URnetwork वॉलेट नहीं है। एक टैप से इस डिवाइस पर एक Bittensor कुंजी बन जाती है। उसके बाद उसके रिकवरी फ़्रेज़ का बैकअप लें।"
+  id: "URnetwork bukan dompet. Satu ketukan membuat kunci Bittensor di perangkat ini; setelah itu, simpan frasa cadangannya."
+  it: "URnetwork non è un portafoglio. Un tocco crea una chiave Bittensor su questo dispositivo; dopo, fai il backup della sua frase di recupero."
+  ja: "URnetwork はウォレットではありません。ワンタップでこのデバイスに Bittensor キーが作成されます。作成後は、その復元フレーズをバックアップしてください。"
+  ko: "URnetwork는 지갑이 아닙니다. 한 번의 탭으로 이 기기에 Bittensor 키가 만들어집니다. 그 후 키의 복구 문구를 백업하세요."
+  nl: "URnetwork is geen wallet. Eén tik maakt een Bittensor-sleutel op dit apparaat; maak daarna een back-up van de bijbehorende herstelzin."
+  pl: "URnetwork nie jest portfelem. Jedno dotknięcie tworzy klucz Bittensor na tym urządzeniu; potem utwórz kopię zapasową jego frazy odzyskiwania."
+  pt: "O URnetwork não é uma carteira. Um toque cria uma chave Bittensor neste dispositivo; depois, faça uma cópia de segurança da frase de recuperação da chave."
+  pt-BR: "O URnetwork não é uma carteira. Um toque cria uma chave Bittensor neste dispositivo; depois, faça backup da frase de recuperação dela."
+  pt-PT: "O URnetwork não é uma carteira. Um toque cria uma chave Bittensor neste dispositivo; depois, faça uma cópia de segurança da frase de recuperação da chave."
+  ru: "URnetwork не является кошельком. Одно нажатие создаёт ключ Bittensor на этом устройстве; после этого создайте резервную копию его фразы восстановления."
+  sv: "URnetwork är inte en plånbok. Ett tryck skapar en Bittensor-nyckel på den här enheten; säkerhetskopiera dess återställningsfras efteråt."
+  sw: "URnetwork si pochi. Mguso mmoja unaunda ufunguo wa Bittensor kwenye kifaa hiki; baadaye hifadhi nakala ya kifungu chake cha urejeshaji."
+  th: "URnetwork ไม่ใช่กระเป๋าเงิน การแตะครั้งเดียวจะสร้างคีย์ Bittensor บนอุปกรณ์นี้ จากนั้นให้บันทึกวลีสำรองของคีย์ไว้"
+  uk: "URnetwork не є гаманцем. Один дотик створює ключ Bittensor на цьому пристрої; після цього створіть резервну копію його фрази відновлення."
+  vi: "URnetwork không phải là ví. Một lần chạm sẽ tạo khóa Bittensor trên thiết bị này; sau đó, hãy lưu lại cụm từ sao lưu của khóa."
+  zh: "URnetwork 不是钱包。一键即可在这台设备上创建 Bittensor 密钥。之后请备份其恢复短语。"
+  zh-HK: "URnetwork 不是錢包。一鍵即可在這部裝置上建立 Bittensor 金鑰。之後請備份其復原短語。"

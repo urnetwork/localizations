@@ -92,6 +92,31 @@ test("Russian says код аутентификации for auth code, as on ever
 	assert.deepEqual(offenders((s) => /код\S* авторизации/i.test(s)), []);
 });
 
+// The out-of-data notice names the data balance: средств and коштів are
+// money ("insufficient funds"), what a wallet without funds lacks
+// (insufficient_funds, which keeps them). The apps call the balance баланс
+// данных / баланс даних (daily_data_balance, the widgets).
+const insufficientDataBalance = (k) => /^Insufficient balance/.test(english(k));
+
+test("Russian says баланс данных for the data balance the out-of-data notice names, not средств", () => {
+	assert.equal(keys.filter(insufficientDataBalance).length, 2);
+	assert.deepEqual(
+		offenders((s, k) => insufficientDataBalance(k) && (/средств/i.test(s) || !/баланс данных/i.test(s))),
+		[],
+	);
+	assert.match(keys.find((k) => k.id === "daily_data_balance").localizations.ru, /баланс данных/);
+	assert.equal(keys.find((k) => k.id === "insufficient_funds").localizations.ru, "Недостаточно средств");
+});
+
+test("Ukrainian says баланс даних for the data balance, not коштів", () => {
+	const wrong = keys
+		.filter(insufficientDataBalance)
+		.filter((k) => texts(k.localizations.uk).some((s) => /коштів/i.test(s) || !/баланс даних/i.test(s)))
+		.map((k) => k.id);
+	assert.deepEqual(wrong, []);
+	assert.match(keys.find((k) => k.id === "daily_data_balance").localizations.uk, /баланс даних/);
+});
+
 test("Russian says очки for points; балл is reserved for the Top 200 score", () => {
 	assert.deepEqual(offenders((s, k) => /балл/i.test(s) && /\bpoints?\b/i.test(english(k))), []);
 });
@@ -175,4 +200,49 @@ test("a Russian count is followed by its noun only in a plural key", () => {
 		}
 	}
 	assert.deepEqual(wrong, []);
+});
+
+// ------------------------------------------------------------------ Chinese
+
+const chinese = keys.filter((k) => k.localizations.zh != null);
+const zhOffenders = (pred) =>
+	chinese.filter((k) => texts(k.localizations.zh).some((s) => pred(s, k))).map((k) => k.id);
+
+test("Chinese writes 账户 for account, never 帐户", () => {
+	// 18 strings said 帐户 beside 50 that said 账户, the Account tab itself
+	// among them
+	assert.deepEqual(zhOffenders((s) => /帐户/.test(s)), []);
+	assert.equal(keys.find((k) => k.id === "account").localizations.zh, "账户");
+});
+
+// Two codes, two words. An auth code signs a device in to an account it is
+// already signed in to elsewhere (授权码); a verification code, sent by email
+// or SMS, only verifies a new or unverified account (验证码). Chinese used
+// 验证码 for both, so "paste the 验证码" read as the emailed code, the mix-up
+// the docs had to correct (users believed the emailed code signs them in);
+// zh-HK keeps them apart (認證碼, 驗證碼). The code sign-in strings name an
+// auth code without saying so in English (their descriptions do).
+const AUTH_CODE_SIGN_IN = new Set(["sign_in_with_code", "code_sign_in_failed"]);
+const authCode = (k) => AUTH_CODE_SIGN_IN.has(k.id) || /\bauth(?:entication)?[ -]?codes?\b/i.test(english(k));
+const verificationCode = (k) => /\bverification code\b|\bthe code we sent\b/i.test(english(k));
+
+test("Chinese says 授权码 for the auth code and keeps 验证码 for the email or SMS verification code", () => {
+	assert.ok(chinese.filter(authCode).length >= 24);
+	assert.ok(chinese.filter(verificationCode).length >= 6);
+	assert.deepEqual(chinese.filter((k) => authCode(k) && verificationCode(k)).map((k) => k.id), []);
+	assert.deepEqual(zhOffenders((s, k) => authCode(k) && (!/授权码/.test(s) || /验证码|认证码|身份验证代码/.test(s))), []);
+	assert.deepEqual(zhOffenders((s, k) => verificationCode(k) && (!/验证码/.test(s) || /授权码/.test(s))), []);
+});
+
+test("the auth code and the verification code have different Chinese words, side by side", () => {
+	// the Sessions screen lists both kinds of sign-in, and the login screens
+	// label both fields
+	const zh = (id) => keys.find((k) => k.id === id).localizations.zh;
+	assert.notEqual(zh("sessions_kind_auth_code"), zh("sessions_kind_verify"));
+	assert.notEqual(zh("auth_code"), zh("verify_input_label"));
+	assert.equal(zh("auth_code"), "授权码");
+	assert.equal(zh("verify_input_label"), "验证码");
+	// zh-HK already did
+	const hk = (id) => keys.find((k) => k.id === id).localizations["zh-HK"];
+	assert.notEqual(hk("auth_code"), hk("verify_input_label"));
 });

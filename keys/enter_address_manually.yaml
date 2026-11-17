@@ -6,6 +6,8 @@ platforms:
   - windows
   - linux
   - site
+deprecated:
+  - apple
 localizations:
   ar: "إدخال العنوان يدويًا"
   cs: "Zadat adresu ručně"

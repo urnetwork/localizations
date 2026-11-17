@@ -1,0 +1,11 @@
+description: "Proxies list: a rotate exit request found no other unused exit IP in the location; the proxy keeps its current exit"
+source: "No other unique exit IP is available in this location right now. The proxy keeps its current exit."
+platforms:
+  - site
+localizations:
+  ar: "لا يتوفر حاليًا عنوان IP خروج فريد آخر في هذا الموقع. يحتفظ الوكيل بمخرجه الحالي."
+  de: "An diesem Standort ist gerade keine weitere eindeutige Ausgangs-IP verfügbar. Der Proxy behält seinen aktuellen Ausgang."
+  en: "No other unique exit IP is available in this location right now. The proxy keeps its current exit."
+  es: "Ahora no hay otra IP de salida única disponible en esta ubicación. El proxy conserva su salida actual."
+  ru: "Сейчас в этом месте нет другого свободного уникального IP выхода. Прокси сохраняет текущий выход."
+  zh: "此位置目前没有其他可用的独立出口 IP。代理会保留当前的出口。"

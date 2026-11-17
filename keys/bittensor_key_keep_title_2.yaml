@@ -1,0 +1,36 @@
+description: "Key screen, the title of the sheet for keeping the Bittensor key on this device after the user saved its recovery phrase."
+source: "Keep the key on this device?"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هل تريد إبقاء المفتاح على هذا الجهاز؟"
+  cs: "Ponechat klíč na tomto zařízení?"
+  de: "Den Schlüssel auf diesem Gerät behalten?"
+  el: "Διατήρηση του κλειδιού σε αυτή τη συσκευή;"
+  en: "Keep the key on this device?"
+  es: "¿Conservar la clave en este dispositivo?"
+  es-419: "¿Conservar la clave en este dispositivo?"
+  es-MX: "¿Conservar la clave en este dispositivo?"
+  fr: "Garder la clé sur cet appareil ?"
+  he: "להשאיר את המפתח במכשיר הזה?"
+  hi: "कुंजी इस डिवाइस पर रखें?"
+  id: "Tetap simpan kunci di perangkat ini?"
+  it: "Tenere la chiave su questo dispositivo?"
+  ja: "キーをこのデバイスに残しますか？"
+  ko: "키를 이 기기에 보관할까요?"
+  nl: "De sleutel op dit apparaat bewaren?"
+  pl: "Zachować klucz na tym urządzeniu?"
+  pt: "Manter a chave neste dispositivo?"
+  pt-BR: "Manter a chave neste dispositivo?"
+  pt-PT: "Manter a chave neste dispositivo?"
+  ru: "Оставить ключ на этом устройстве?"
+  sv: "Behålla nyckeln på den här enheten?"
+  sw: "Ungependa kubaki na ufunguo kwenye kifaa hiki?"
+  th: "เก็บคีย์ไว้บนอุปกรณ์นี้ใช่ไหม"
+  uk: "Залишити ключ на цьому пристрої?"
+  vi: "Giữ khóa trên thiết bị này?"
+  zh: "将密钥保留在这台设备上？"
+  zh-HK: "要將金鑰保留在這部裝置上嗎？"

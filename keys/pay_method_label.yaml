@@ -1,4 +1,4 @@
-description: "Payment method row, directly above the buy button (plan picker, upgrade sheet, onboarding, Buy data): the label of the row of methods (Card, USDC, Zcash, Monero). Screen readers read it before the selected method, and a platform may also show it as the row's visible label."
+description: "Payment method row, directly above the buy button (plan picker, upgrade sheet, onboarding, Buy data): the label of the row of methods (Card, USDC on Solana, Zcash, Monero, More coins). Screen readers read it before the selected method, and a platform may also show it as the row's visible label."
 source: "Pay with"
 platforms:
   - android

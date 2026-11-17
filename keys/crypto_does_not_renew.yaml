@@ -1,4 +1,4 @@
-description: "Wherever subscriptions are listed (account, subscription details): the note under a plan paid once in crypto (USDC, Zcash or Monero). It never auto-renews and there is nothing to cancel; the payer buys another term when this one ends. The method-neutral counterpart of site_sub_solana_no_renew, worded the same way."
+description: "Wherever subscriptions are listed (account, subscription details): the note under a plan paid once in crypto (in any coin). It never auto-renews and there is nothing to cancel; the payer buys another term when this one ends. The method-neutral counterpart of site_sub_solana_no_renew, worded the same way."
 source: "Does not renew. Pay again when it ends."
 platforms:
   - android

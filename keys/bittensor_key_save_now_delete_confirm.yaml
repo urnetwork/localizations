@@ -1,0 +1,36 @@
+description: "Key screen, the button that sets up payouts with the key and then drops it, after the user entered two words of the recovery phrase. Short: a button."
+source: "Set up payouts and delete key"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "إعداد المدفوعات وحذف المفتاح"
+  cs: "Nastavit výplaty a odstranit klíč"
+  de: "Auszahlungen einrichten und Schlüssel löschen"
+  el: "Ρύθμιση πληρωμών και διαγραφή κλειδιού"
+  en: "Set up payouts and delete key"
+  es: "Configurar pagos y eliminar clave"
+  es-419: "Configurar pagos y eliminar clave"
+  es-MX: "Configurar pagos y eliminar clave"
+  fr: "Configurer les paiements et supprimer la clé"
+  he: "הגדרת תשלומים ומחיקת המפתח"
+  hi: "भुगतान सेट करें और कुंजी डिलीट करें"
+  id: "Siapkan pembayaran dan hapus kunci"
+  it: "Configura i pagamenti ed elimina la chiave"
+  ja: "支払いを設定してキーを削除"
+  ko: "지급 설정 및 키 삭제"
+  nl: "Uitbetalingen instellen en sleutel verwijderen"
+  pl: "Skonfiguruj wypłaty i usuń klucz"
+  pt: "Configurar pagamentos e eliminar chave"
+  pt-BR: "Configurar pagamentos e excluir chave"
+  pt-PT: "Configurar pagamentos e eliminar chave"
+  ru: "Настроить выплаты и удалить ключ"
+  sv: "Konfigurera utbetalningar och radera nyckel"
+  sw: "Sanidi malipo na ufute ufunguo"
+  th: "ตั้งค่าการจ่ายและลบคีย์"
+  uk: "Налаштувати виплати й видалити ключ"
+  vi: "Thiết lập thanh toán và xóa khóa"
+  zh: "设置支付并删除密钥"
+  zh-HK: "設定支付並刪除金鑰"

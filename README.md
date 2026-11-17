@@ -191,7 +191,7 @@ the published web package already use). `zh-HK` is Traditional.
 Each platform emits the locales it actually supports; the maps live in
 `gen/store.mjs`:
 
-* **android** — the 19 `res/values*` dirs (`es-MX`→`values-es-rMX`,
+* **android** — the 20 `res/values*` dirs (`es-MX`→`values-es-rMX`,
   `pt-BR`→`values-pt-rBR`, `zh`→`values-zh`, …).
 * **apple** — the 27 in the catalog (`zh`→`zh-Hans`). `sw` is absent from the
   xcode project's `knownRegions`, so it is not emitted; adding it means adding it

@@ -1,0 +1,42 @@
+description: "Earnings, the claim sheet and the settlement v2 tile, once URnetwork has claimed the balance and paid the gas (the claimed state, beside a link to the transaction). The first placeholder is the amount claimed, as 0.8420; the second is the user's Bittensor address, shortened (5F3s…kQ9v); keep both as they are."
+source: "Claimed by URnetwork. %@ SN25α is on your key, %@."
+platforms:
+  - apple
+  - android
+  - linux
+  - windows
+  - site
+placeholders:
+  - name: amount
+    type: string
+  - name: address
+    type: string
+localizations:
+  ar: "تمت المطالبة بواسطة URnetwork. أصبح {amount} SN25α على مفتاحك، {address}."
+  cs: "Vyzvednuto přes URnetwork. {amount} SN25α je na vašem klíči {address}."
+  de: "Von URnetwork eingelöst. {amount} SN25α sind auf deinem Schlüssel {address}."
+  el: "Διεκδικήθηκε από το URnetwork. {amount} SN25α βρίσκονται στο κλειδί σας, {address}."
+  en: "Claimed by URnetwork. {amount} SN25α is on your key, {address}."
+  es: "Reclamado por URnetwork. {amount} SN25α ya están en tu clave, {address}."
+  es-419: "Reclamado por URnetwork. {amount} SN25α ya están en tu clave, {address}."
+  es-MX: "Reclamado por URnetwork. {amount} SN25α ya están en tu clave, {address}."
+  fr: "Réclamé par URnetwork. {amount} SN25α sont sur votre clé, {address}."
+  he: "מומש על ידי URnetwork. {amount} SN25α נמצאים במפתח שלכם, {address}."
+  hi: "URnetwork ने दावा किया। {amount} SN25α आपकी कुंजी {address} पर है।"
+  id: "Diklaim oleh URnetwork. {amount} SN25α sudah ada di kunci Anda, {address}."
+  it: "Riscattato da URnetwork. {amount} SN25α sono sulla tua chiave, {address}."
+  ja: "URnetwork が受け取りました。{amount} SN25α があなたのキー {address} にあります。"
+  ko: "URnetwork가 받았습니다. {amount} SN25α가 내 키 {address}에 있습니다."
+  nl: "Opgeëist door URnetwork. {amount} SN25α staat op je sleutel, {address}."
+  pl: "Odebrano przez URnetwork. {amount} SN25α jest na twoim kluczu {address}."
+  pt: "Reivindicado pelo URnetwork. {amount} SN25α estão na sua chave, {address}."
+  pt-BR: "Resgatado pelo URnetwork. {amount} SN25α estão na sua chave, {address}."
+  pt-PT: "Reivindicado pelo URnetwork. {amount} SN25α estão na sua chave, {address}."
+  ru: "Получено через URnetwork. {amount} SN25α на вашем ключе {address}."
+  sv: "Uthämtat av URnetwork. {amount} SN25α finns på din nyckel, {address}."
+  sw: "Imedaiwa na URnetwork. {amount} SN25α ziko kwenye ufunguo wako, {address}."
+  th: "URnetwork รับให้แล้ว {amount} SN25α อยู่ในคีย์ของคุณ {address}"
+  uk: "Отримано через URnetwork. {amount} SN25α на вашому ключі {address}."
+  vi: "URnetwork đã nhận. {amount} SN25α đã ở trên khóa của bạn, {address}."
+  zh: "已由 URnetwork 领取。{amount} SN25α 已在您的密钥 {address} 上。"
+  zh-HK: "已由 URnetwork 領取。{amount} SN25α 已在你的金鑰 {address} 上。"

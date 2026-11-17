@@ -1,6 +1,11 @@
 description: "General UI string."
 source: "Enter a Solana USDC wallet address"
 platforms:
+  - apple
+  - windows
+  - linux
+  - site
+deprecated:
   - android
   - apple
   - windows

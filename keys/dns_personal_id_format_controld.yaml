@@ -1,0 +1,41 @@
+description: "DNS settings, Use my account: shown under the profile ID field when the Control D resolver ID has the wrong format. {provider} is Control D and {example} an example ID such as abcd1234, both inserted as is."
+source: "%@ resolver IDs use only letters and digits, like %@."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+  - name: example
+    type: string
+localizations:
+  ar: "تتكون معرّفات المحلّل في {provider} من أحرف وأرقام فقط، مثل {example}."
+  cs: "ID resolveru služby {provider} obsahují jen písmena a číslice, například {example}."
+  de: "Resolver-IDs von {provider} bestehen nur aus Buchstaben und Ziffern, zum Beispiel {example}."
+  el: "Τα αναγνωριστικά επιλυτή του {provider} περιέχουν μόνο γράμματα και ψηφία, όπως {example}."
+  en: "{provider} resolver IDs use only letters and digits, like {example}."
+  es: "Los ID de resolver de {provider} solo tienen letras y dígitos, como {example}."
+  es-419: "Los ID de resolver de {provider} solo tienen letras y dígitos, como {example}."
+  es-MX: "Los ID de resolver de {provider} solo tienen letras y dígitos, como {example}."
+  fr: "Les ID de résolveur {provider} ne contiennent que des lettres et des chiffres, par exemple {example}."
+  he: "מזהי Resolver של {provider} כוללים רק אותיות וספרות, למשל {example}."
+  hi: "{provider} रिज़ॉल्वर ID में सिर्फ़ अक्षर और अंक होते हैं, जैसे {example}।"
+  id: "ID resolver {provider} hanya berisi huruf dan angka, misalnya {example}."
+  it: "Gli ID resolver di {provider} contengono solo lettere e cifre, ad esempio {example}."
+  ja: "{provider}のリゾルバーIDは英字と数字のみで構成されます（例: {example}）。"
+  ko: "{provider} 리졸버 ID는 문자와 숫자로만 이루어집니다(예: {example})."
+  nl: "Resolver-ID's van {provider} bevatten alleen letters en cijfers, zoals {example}."
+  pl: "Identyfikatory resolvera {provider} zawierają tylko litery i cyfry, np. {example}."
+  pt: "Os ID de resolver de {provider} têm apenas letras e algarismos, por exemplo {example}."
+  pt-BR: "Os IDs de resolver de {provider} têm apenas letras e dígitos, como {example}."
+  pt-PT: "Os ID de resolver de {provider} têm apenas letras e algarismos, por exemplo {example}."
+  ru: "ID резолвера {provider} состоят только из букв и цифр, например {example}."
+  sv: "Resolver-ID:n för {provider} innehåller bara bokstäver och siffror, till exempel {example}."
+  sw: "Vitambulisho vya resolver vya {provider} vina herufi na tarakimu pekee, kwa mfano {example}."
+  th: "รหัสรีโซลเวอร์ของ {provider} มีเฉพาะตัวอักษรและตัวเลข เช่น {example}"
+  uk: "ID резолвера {provider} містять лише літери та цифри, наприклад {example}."
+  vi: "ID trình phân giải của {provider} chỉ gồm chữ cái và chữ số, ví dụ {example}."
+  zh: "{provider} 解析器 ID 只包含字母和数字，例如 {example}。"
+  zh-HK: "{provider} 解析器 ID 只包含字母和數字，例如 {example}。"

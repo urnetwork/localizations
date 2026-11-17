@@ -1,0 +1,36 @@
+description: "Key screen, a small heading above the two choices for after the user has written the recovery phrase down: keep the key on this device, or delete it."
+source: "Saved the recovery phrase?"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هل حفظت عبارة النسخ الاحتياطي؟"
+  cs: "Uložili jste obnovovací frázi?"
+  de: "Wiederherstellungsphrase gespeichert?"
+  el: "Αποθηκεύσατε τη φράση επαναφοράς;"
+  en: "Saved the recovery phrase?"
+  es: "¿Has guardado la frase de recuperación?"
+  es-419: "¿Guardaste la frase de recuperación?"
+  es-MX: "¿Guardaste la frase de recuperación?"
+  fr: "Phrase de sauvegarde enregistrée ?"
+  he: "שמרתם את ביטוי השחזור?"
+  hi: "रिकवरी फ़्रेज़ सहेज लिया?"
+  id: "Sudah menyimpan frasa cadangan?"
+  it: "Hai salvato la frase di recupero?"
+  ja: "復元フレーズを保存しましたか？"
+  ko: "복구 문구를 저장했나요?"
+  nl: "Herstelzin opgeslagen?"
+  pl: "Masz zapisaną frazę odzyskiwania?"
+  pt: "Guardou a frase de recuperação?"
+  pt-BR: "Salvou a frase de recuperação?"
+  pt-PT: "Guardou a frase de recuperação?"
+  ru: "Сохранили фразу восстановления?"
+  sv: "Har du sparat återställningsfrasen?"
+  sw: "Umehifadhi kifungu cha urejeshaji?"
+  th: "บันทึกวลีสำรองแล้วหรือยัง"
+  uk: "Зберегли фразу відновлення?"
+  vi: "Đã lưu cụm từ sao lưu chưa?"
+  zh: "已保存恢复短语？"
+  zh-HK: "已儲存復原短語嗎？"

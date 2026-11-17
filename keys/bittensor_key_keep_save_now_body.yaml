@@ -1,0 +1,36 @@
+description: "Key screen, the keep sheet when the user saved the recovery phrase first: the key gets stored on this device, and then the app sets up payouts with it. Convert is the SN25α to TAO action; keep Top 200 as the app writes it."
+source: "You've saved the recovery phrase. The key is stored on this device for convert and one-tap Top 200, and then payouts are set up."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لقد حفظت عبارة النسخ الاحتياطي. يُخزَّن المفتاح على هذا الجهاز من أجل التحويل إلى TAO وحجز مكان في أفضل 200 بنقرة واحدة، ثم يتم إعداد المدفوعات."
+  cs: "Obnovovací frázi jste si uložili. Klíč se uloží na tomto zařízení pro převod na TAO a pro zajištění místa v Top 200 jedním klepnutím a potom se nastaví výplaty."
+  de: "Du hast die Wiederherstellungsphrase gespeichert. Der Schlüssel wird auf diesem Gerät gespeichert, damit du in TAO umwandeln und dir mit einem Tippen einen Platz in den Top 200 sichern kannst, und danach werden Auszahlungen eingerichtet."
+  el: "Αποθηκεύσατε τη φράση επαναφοράς. Το κλειδί αποθηκεύεται σε αυτή τη συσκευή για τη μετατροπή σε TAO και για το κλείσιμο θέσης στο Top 200 με ένα πάτημα, και έπειτα ρυθμίζονται οι πληρωμές."
+  en: "You've saved the recovery phrase. The key is stored on this device for convert and one-tap Top 200, and then payouts are set up."
+  es: "Has guardado la frase de recuperación. La clave se guarda en este dispositivo para la conversión a TAO y para reclamar un puesto en el Top 200 con un toque, y después se configuran los pagos."
+  es-419: "Guardaste la frase de recuperación. La clave se guarda en este dispositivo para la conversión a TAO y para reclamar un lugar en el Top 200 con un toque, y después se configuran los pagos."
+  es-MX: "Guardaste la frase de recuperación. La clave se guarda en este dispositivo para la conversión a TAO y para reclamar un lugar en el Top 200 con un toque, y después se configuran los pagos."
+  fr: "Vous avez enregistré la phrase de sauvegarde. La clé est stockée sur cet appareil pour la conversion en TAO et pour réserver une place dans le Top 200 d’une simple touche, puis les paiements sont configurés."
+  he: "שמרתם את ביטוי השחזור. המפתח יאוחסן במכשיר הזה לצורך ההמרה ל-TAO ותפיסת מקום ב-Top 200 בהקשה אחת, ולאחר מכן יוגדרו התשלומים."
+  hi: "आपने रिकवरी फ़्रेज़ सहेज लिया है। TAO में बदलने और एक टैप में टॉप 200 की जगह पक्की करने के लिए कुंजी इस डिवाइस पर सहेजी जाएगी, और फिर भुगतान सेट किया जाएगा।"
+  id: "Anda sudah menyimpan frasa cadangan. Kunci disimpan di perangkat ini untuk konversi ke TAO dan mengamankan tempat Top 200 dengan satu ketukan, lalu pembayaran disiapkan."
+  it: "Hai salvato la frase di recupero. La chiave viene salvata su questo dispositivo per la conversione in TAO e per prendere un posto nella Top 200 con un tocco, poi vengono configurati i pagamenti."
+  ja: "復元フレーズを保存しました。キーは、TAO への変換と、ワンタップでトップ 200 の枠を確保するために、このデバイスに保存され、その後、支払いが設定されます。"
+  ko: "복구 문구를 저장했습니다. TAO로 전환하고 한 번의 탭으로 Top 200 자리를 확보할 수 있도록 키가 이 기기에 저장되며, 그다음 지급이 설정됩니다."
+  nl: "Je hebt de herstelzin opgeslagen. De sleutel wordt op dit apparaat opgeslagen voor het omzetten naar TAO en om met één tik een plek in de Top 200 te claimen, en daarna worden uitbetalingen ingesteld."
+  pl: "Masz zapisaną frazę odzyskiwania. Klucz zostanie zapisany na tym urządzeniu do zamiany na TAO i zajęcia miejsca w Top 200 jednym dotknięciem, a potem zostaną skonfigurowane wypłaty."
+  pt: "Guardou a frase de recuperação. A chave é guardada neste dispositivo para a conversão em TAO e para garantir um lugar no Top 200 com um toque e, depois, os pagamentos são configurados."
+  pt-BR: "Você salvou a frase de recuperação. A chave é guardada neste dispositivo para a conversão em TAO e para garantir uma vaga no Top 200 com um toque e, depois, os pagamentos são configurados."
+  pt-PT: "Guardou a frase de recuperação. A chave é guardada neste dispositivo para a conversão em TAO e para garantir um lugar no Top 200 com um toque e, depois, os pagamentos são configurados."
+  ru: "Вы сохранили фразу восстановления. Ключ будет сохранён на этом устройстве для конвертации в TAO и для того, чтобы занять место в Топ-200 одним нажатием, а затем будут настроены выплаты."
+  sv: "Du har sparat återställningsfrasen. Nyckeln lagras på den här enheten för konvertering till TAO och för att ta en plats i Topp 200 med ett tryck, och sedan konfigureras utbetalningar."
+  sw: "Umehifadhi kifungu cha urejeshaji. Ufunguo unahifadhiwa kwenye kifaa hiki kwa ajili ya kubadilisha kuwa TAO na kupata nafasi ya Top 200 kwa mguso mmoja, kisha malipo yanasanidiwa."
+  th: "คุณบันทึกวลีสำรองแล้ว คีย์จะถูกจัดเก็บไว้บนอุปกรณ์นี้สำหรับการแปลงเป็น TAO และการจองที่ใน Top 200 ด้วยการแตะครั้งเดียว จากนั้นจะตั้งค่าการจ่าย"
+  uk: "Ви зберегли фразу відновлення. Ключ буде збережено на цьому пристрої для конвертації в TAO і для того, щоб зайняти місце в Топ-200 одним дотиком, а потім буде налаштовано виплати."
+  vi: "Bạn đã lưu cụm từ sao lưu. Khóa được lưu trữ trên thiết bị này để chuyển đổi sang TAO và giành chỗ trong Top 200 chỉ với một lần chạm, sau đó thanh toán sẽ được thiết lập."
+  zh: "您已保存恢复短语。密钥将存储在这台设备上，用于转换为 TAO 和一键获取前 200 名席位，然后将设置支付。"
+  zh-HK: "你已儲存復原短語。金鑰會儲存在這部裝置上，用於轉換為 TAO 及一鍵取得前 200 名席位，然後會設定支付。"

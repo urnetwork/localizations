@@ -1,0 +1,11 @@
+description: "Create proxy: what the unique exit IP option does"
+source: "Each proxy gets its own exit IP that your other proxies don't use."
+platforms:
+  - site
+localizations:
+  ar: "يحصل كل وكيل على عنوان IP خروج خاص به لا تستخدمه وكلاؤك الآخرون."
+  de: "Jeder Proxy erhält eine eigene Ausgangs-IP, die deine anderen Proxys nicht nutzen."
+  en: "Each proxy gets its own exit IP that your other proxies don't use."
+  es: "Cada proxy recibe su propia IP de salida, que tus otros proxies no usan."
+  ru: "Каждый прокси получает свой IP выхода, который не используют другие ваши прокси."
+  zh: "每个代理都有自己的出口 IP，你的其他代理不会使用它。"

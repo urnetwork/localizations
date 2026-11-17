@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: a button that asks URnetwork to claim the balance now, without waiting for the automatic threshold. Short: a button."
+source: "Claim now"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "المطالبة الآن"
+  cs: "Vyzvednout hned"
+  de: "Jetzt einlösen"
+  el: "Διεκδίκηση τώρα"
+  en: "Claim now"
+  es: "Reclamar ahora"
+  es-419: "Reclamar ahora"
+  es-MX: "Reclamar ahora"
+  fr: "Réclamer maintenant"
+  he: "מימוש עכשיו"
+  hi: "अभी दावा करें"
+  id: "Klaim sekarang"
+  it: "Riscatta ora"
+  ja: "今すぐ受け取る"
+  ko: "지금 받기"
+  nl: "Nu opeisen"
+  pl: "Odbierz teraz"
+  pt: "Reivindicar agora"
+  pt-BR: "Resgatar agora"
+  pt-PT: "Reivindicar agora"
+  ru: "Получить сейчас"
+  sv: "Hämta ut nu"
+  sw: "Dai sasa"
+  th: "รับตอนนี้"
+  uk: "Отримати зараз"
+  vi: "Nhận ngay"
+  zh: "立即领取"
+  zh-HK: "立即領取"

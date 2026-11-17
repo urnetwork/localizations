@@ -1,0 +1,37 @@
+description: "Body under pro_features_in_use, before the free plan loses SOCKS and WireGuard: the account's hosted proxies use SOCKS or WireGuard, which are part of the Pro plan, and upgrading keeps them working. Get Pro is the button beside it. Keep SOCKS, WireGuard and Pro as they are."
+source: "SOCKS and WireGuard proxies are part of Pro. Upgrade to keep using them."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "وكلاء SOCKS وWireGuard جزء من Pro. قم بالترقية لمواصلة استخدامها."
+  cs: "Proxy SOCKS a WireGuard jsou součástí Pro. Přejděte na Pro, abyste je mohli dál používat."
+  de: "SOCKS- und WireGuard-Proxys sind Teil von Pro. Führe ein Upgrade durch, um sie weiter zu nutzen."
+  el: "Οι διακομιστές μεσολάβησης SOCKS και WireGuard είναι μέρος του Pro. Αναβαθμίστε για να συνεχίσετε να τους χρησιμοποιείτε."
+  en: "SOCKS and WireGuard proxies are part of Pro. Upgrade to keep using them."
+  es: "Los proxies SOCKS y WireGuard son parte de Pro. Pásate a Pro para seguir usándolos."
+  es-419: "Los proxies SOCKS y WireGuard son parte de Pro. Mejora a Pro para seguir usándolos."
+  es-MX: "Los proxies SOCKS y WireGuard son parte de Pro. Mejora a Pro para seguir usándolos."
+  fr: "Les proxys SOCKS et WireGuard font partie de Pro. Passez à Pro pour continuer à les utiliser."
+  he: "פרוקסי SOCKS ו-WireGuard הם חלק מ-Pro. שדרג כדי להמשיך להשתמש בהם."
+  hi: "SOCKS और WireGuard प्रॉक्सी Pro का हिस्सा हैं। इन्हें इस्तेमाल करते रहने के लिए अपग्रेड करें।"
+  id: "Proxy SOCKS dan WireGuard adalah bagian dari Pro. Tingkatkan untuk terus menggunakannya."
+  it: "I proxy SOCKS e WireGuard fanno parte di Pro. Passa a Pro per continuare a usarli."
+  ja: "SOCKS と WireGuard のプロキシは Pro の機能です。引き続き使うにはアップグレードしてください。"
+  ko: "SOCKS 및 WireGuard 프록시는 Pro에 포함된 기능입니다. 계속 사용하려면 업그레이드하세요."
+  nl: "SOCKS- en WireGuard-proxy's horen bij Pro. Upgrade om ze te blijven gebruiken."
+  pl: "Serwery proxy SOCKS i WireGuard są częścią Pro. Przejdź na Pro, aby nadal z nich korzystać."
+  pt: "Os proxies SOCKS e WireGuard fazem parte do Pro. Faça upgrade para continuar usando-os."
+  pt-BR: "Os proxies SOCKS e WireGuard fazem parte do Pro. Faça upgrade para continuar usando-os."
+  pt-PT: "Os proxies SOCKS e WireGuard fazem parte do Pro. Faça upgrade para continuar a utilizá-los."
+  ru: "Прокси SOCKS и WireGuard входят в Pro. Перейдите на Pro, чтобы продолжить ими пользоваться."
+  sv: "SOCKS- och WireGuard-proxyer ingår i Pro. Uppgradera för att fortsätta använda dem."
+  sw: "Proksi za SOCKS na WireGuard ni sehemu ya Pro. Pandisha daraja ili uendelee kuzitumia."
+  th: "พร็อกซี SOCKS และ WireGuard เป็นส่วนหนึ่งของ Pro อัปเกรดเพื่อใช้งานต่อ"
+  uk: "Проксі SOCKS і WireGuard входять до Pro. Перейдіть на Pro, щоб і далі ними користуватися."
+  vi: "Proxy SOCKS và WireGuard thuộc gói Pro. Hãy nâng cấp để tiếp tục sử dụng."
+  zh: "SOCKS 和 WireGuard 代理属于 Pro 功能。升级即可继续使用。"
+  zh-HK: "SOCKS 和 WireGuard 代理屬於 Pro 功能。升級即可繼續使用。"

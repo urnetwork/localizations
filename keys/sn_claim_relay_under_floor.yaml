@@ -1,0 +1,40 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: why Claim now can't be used yet. The placeholder is the smallest amount, in TAO (0.0001)."
+source: "Claim now needs a balance worth at least %@ TAO."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+placeholders:
+  - name: tao
+    type: string
+localizations:
+  ar: "تتطلب «المطالبة الآن» رصيدًا لا تقل قيمته عن {tao} TAO."
+  cs: "„Vyzvednout hned“ vyžaduje zůstatek v hodnotě alespoň {tao} TAO."
+  de: "„Jetzt einlösen“ braucht ein Guthaben im Wert von mindestens {tao} TAO."
+  el: "Το «Διεκδίκηση τώρα» απαιτεί υπόλοιπο αξίας τουλάχιστον {tao} TAO."
+  en: "Claim now needs a balance worth at least {tao} TAO."
+  es: "«Reclamar ahora» necesita un saldo que valga al menos {tao} TAO."
+  es-419: "“Reclamar ahora” necesita un saldo que valga al menos {tao} TAO."
+  es-MX: "“Reclamar ahora” necesita un saldo que valga al menos {tao} TAO."
+  fr: "« Réclamer maintenant » nécessite un solde d’une valeur d’au moins {tao} TAO."
+  he: "«מימוש עכשיו» דורש יתרה בשווי של לפחות {tao} TAO."
+  hi: "“अभी दावा करें” के लिए कम से कम {tao} TAO मूल्य का बैलेंस चाहिए।"
+  id: "“Klaim sekarang” memerlukan saldo senilai setidaknya {tao} TAO."
+  it: "«Riscatta ora» richiede un saldo che valga almeno {tao} TAO."
+  ja: "「今すぐ受け取る」には、{tao} TAO 以上相当の残高が必要です。"
+  ko: "“지금 받기”를 사용하려면 {tao} TAO 이상의 가치가 있는 잔액이 필요합니다."
+  nl: "‘Nu opeisen’ vereist een saldo ter waarde van minstens {tao} TAO."
+  pl: "„Odbierz teraz” wymaga salda o wartości co najmniej {tao} TAO."
+  pt: "«Reivindicar agora» requer um saldo com um valor de, pelo menos, {tao} TAO."
+  pt-BR: "“Resgatar agora” requer um saldo no valor de pelo menos {tao} TAO."
+  pt-PT: "«Reivindicar agora» requer um saldo com um valor de, pelo menos, {tao} TAO."
+  ru: "Для «Получить сейчас» нужен баланс стоимостью не менее {tao} TAO."
+  sv: "”Hämta ut nu” kräver ett saldo värt minst {tao} TAO."
+  sw: "“Dai sasa” linahitaji salio lenye thamani ya angalau {tao} TAO."
+  th: "“รับตอนนี้” ต้องมียอดคงเหลือมูลค่าอย่างน้อย {tao} TAO"
+  uk: "Для «Отримати зараз» потрібен баланс вартістю щонайменше {tao} TAO."
+  vi: "“Nhận ngay” cần số dư có giá trị ít nhất {tao} TAO."
+  zh: "“立即领取”需要价值至少 {tao} TAO 的余额。"
+  zh-HK: "「立即領取」需要價值至少 {tao} TAO 的餘額。"

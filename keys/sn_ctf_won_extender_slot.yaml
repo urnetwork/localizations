@@ -1,0 +1,40 @@
+description: "Earnings, with the capture the flag account (sn_ctf_pool): a line saying a capture the flag draw gave this device one of a country's five extender slots (GET /sn/ctf/client). Up to five devices win a role's slots, and a flag counts as held only once all ten of a country's slots are won, so say the device won a slot, never that it captured or holds the flag. The placeholder is the country's name exactly as the app shows it, e.g. Kenya, with no case ending or article added, so keep it where the bare name reads correctly (several languages lead with it: \"{country}: ...\"). Mention no amount."
+source: "You won one of the %@ extender slots"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: country
+    type: string
+localizations:
+  ar: "فزت بأحد مقاعد الموسّعات في {country}"
+  cs: "{country}: získali jste jedno z míst pro extendery"
+  de: "{country}: Du hast einen der Extender-Plätze gewonnen"
+  el: "{country}: κερδίσατε μία από τις θέσεις επεκτατών"
+  en: "You won one of the {country} extender slots"
+  es: "{country}: has ganado una de las plazas de extensor"
+  es-419: "{country}: ganaste uno de los cupos de extensor"
+  es-MX: "{country}: ganaste uno de los cupos de extensor"
+  fr: "{country} : vous avez gagné l’une des places d’extendeur"
+  he: "{country}: זכיתם באחד ממקומות המרחיבים"
+  hi: "आपने {country} में एक्सटेंडरों की एक जगह जीती"
+  id: "Anda memenangkan salah satu tempat extender di {country}"
+  it: "{country}: hai vinto uno dei posti per gli extender"
+  ja: "{country}のエクステンダー枠を1つ獲得しました"
+  ko: "{country}의 익스텐더 자리 중 하나를 획득했습니다"
+  nl: "{country}: je hebt een van de extenderplekken gewonnen"
+  pl: "{country}: jedno z miejsc dla extenderów jest twoje"
+  pt: "{country}: ganhou um dos lugares de extensor"
+  pt-BR: "{country}: você ganhou uma das vagas de extensor"
+  pt-PT: "{country}: ganhou um dos lugares de extensor"
+  ru: "{country}: вы выиграли одно из мест экстендеров"
+  sv: "Du vann en av extenderplatserna i {country}"
+  sw: "Umeshinda mojawapo ya nafasi za vipanuzi nchini {country}"
+  th: "คุณได้รับหนึ่งในตำแหน่งตัวขยายของ {country}"
+  uk: "{country}: ви виграли одне з місць екстендерів"
+  vi: "Bạn đã giành được một suất bộ mở rộng tại {country}"
+  zh: "您赢得了{country}的一个扩展器名额"
+  zh-HK: "你贏得了{country}的一個擴展器名額"

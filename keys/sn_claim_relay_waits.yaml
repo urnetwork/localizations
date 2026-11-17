@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet, under Automatic claims aren't running right now: nothing is lost. The vault is the settlement contract holding the user's balance."
+source: "Your SN25α waits in the vault, and this credit never expires."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "ينتظر SN25α الخاص بك في الخزنة، وهذا الرصيد لا تنتهي صلاحيته أبدًا."
+  cs: "Vaše SN25α čeká v trezoru a tento kredit nikdy nevyprší."
+  de: "Dein SN25α wartet im Vault, und dieses Guthaben verfällt nie."
+  el: "Τα SN25α σας περιμένουν στο θησαυροφυλάκιο και αυτή η πίστωση δεν λήγει ποτέ."
+  en: "Your SN25α waits in the vault, and this credit never expires."
+  es: "Tu SN25α espera en la bóveda y este saldo nunca caduca."
+  es-419: "Tu SN25α espera en la bóveda y este saldo nunca vence."
+  es-MX: "Tu SN25α espera en la bóveda y este saldo nunca vence."
+  fr: "Vos SN25α attendent dans le coffre, et ce crédit n’expire jamais."
+  he: "ה-SN25α שלכם ממתין בכספת, ותוקף הזיכוי הזה לעולם לא פג."
+  hi: "आपका SN25α वॉल्ट में प्रतीक्षा कर रहा है, और यह क्रेडिट कभी समाप्त नहीं होता।"
+  id: "SN25α Anda menunggu di vault, dan saldo ini tidak pernah kedaluwarsa."
+  it: "I tuoi SN25α attendono nel vault e questo credito non scade mai."
+  ja: "SN25α はボールトで待機しており、この残高に有効期限はありません。"
+  ko: "SN25α는 볼트에서 대기하며, 이 잔액은 절대 만료되지 않습니다."
+  nl: "Je SN25α wacht in de vault, en dit tegoed verloopt nooit."
+  pl: "Twoje SN25α czekają w skarbcu, a te środki nigdy nie wygasają."
+  pt: "O seu SN25α aguarda no cofre e este saldo nunca expira."
+  pt-BR: "Seu SN25α aguarda no cofre e este saldo nunca expira."
+  pt-PT: "O seu SN25α aguarda no cofre e este saldo nunca expira."
+  ru: "Ваши SN25α ждут в хранилище, а у этого начисления нет срока действия."
+  sv: "Dina SN25α väntar i valvet, och det här tillgodohavandet löper aldrig ut."
+  sw: "SN25α yako inasubiri kwenye hazina, na salio hili halitaisha muda kamwe."
+  th: "SN25α ของคุณรออยู่ในห้องนิรภัย และยอดนี้ไม่มีวันหมดอายุ"
+  uk: "Ваші SN25α чекають у сховищі, а це нарахування не має строку дії."
+  vi: "SN25α của bạn đang chờ trong kho, và khoản này không bao giờ hết hạn."
+  zh: "您的 SN25α 在金库中等候，这笔余额永不过期。"
+  zh-HK: "你的 SN25α 在金庫中等候，這筆餘額永不過期。"

@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. The main button: one tap makes the key, stores it on the device and links it to payouts."
+source: "Set up payouts"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "إعداد المدفوعات"
+  cs: "Nastavit výplaty"
+  de: "Auszahlungen einrichten"
+  el: "Ρύθμιση πληρωμών"
+  en: "Set up payouts"
+  es: "Configurar pagos"
+  es-419: "Configurar pagos"
+  es-MX: "Configurar pagos"
+  fr: "Configurer les paiements"
+  he: "הגדרת תשלומים"
+  hi: "भुगतान सेट करें"
+  id: "Siapkan pembayaran"
+  it: "Configura i pagamenti"
+  ja: "支払いを設定"
+  ko: "지급 설정"
+  nl: "Uitbetalingen instellen"
+  pl: "Skonfiguruj wypłaty"
+  pt: "Configurar pagamentos"
+  pt-BR: "Configurar pagamentos"
+  pt-PT: "Configurar pagamentos"
+  ru: "Настроить выплаты"
+  sv: "Konfigurera utbetalningar"
+  sw: "Sanidi malipo"
+  th: "ตั้งค่าการจ่าย"
+  uk: "Налаштувати виплати"
+  vi: "Thiết lập thanh toán"
+  zh: "设置支付"
+  zh-HK: "設定支付"

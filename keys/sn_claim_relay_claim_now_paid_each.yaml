@@ -1,0 +1,105 @@
+description: "Earnings claim sheet, under the Claim now button: URnetwork pays the gas, once in this many days (30 today; the count selects the plural form) for each Bittensor address (coldkey). Keep coldkey as the app writes it elsewhere."
+source: "Paid by URnetwork, once every %lld days for each coldkey."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+placeholders:
+  - name: days
+    type: int
+plurals:
+  select: days
+localizations:
+  ar:
+    zero: "على حساب URnetwork، مرة كل {days} يوم لكل coldkey."
+    one: "على حساب URnetwork، مرة كل يوم لكل coldkey."
+    two: "على حساب URnetwork، مرة كل يومين لكل coldkey."
+    few: "على حساب URnetwork، مرة كل {days} أيام لكل coldkey."
+    many: "على حساب URnetwork، مرة كل {days} يومًا لكل coldkey."
+    other: "على حساب URnetwork، مرة كل {days} يوم لكل coldkey."
+  cs:
+    one: "Hradí URnetwork, jednou denně pro každý coldkey."
+    few: "Hradí URnetwork, jednou za {days} dny pro každý coldkey."
+    many: "Hradí URnetwork, jednou za {days} dne pro každý coldkey."
+    other: "Hradí URnetwork, jednou za {days} dní pro každý coldkey."
+  de:
+    one: "Bezahlt von URnetwork, einmal täglich für jeden Coldkey."
+    other: "Bezahlt von URnetwork, einmal alle {days} Tage für jeden Coldkey."
+  el:
+    one: "Πληρώνεται από το URnetwork, μία φορά την ημέρα για κάθε coldkey."
+    other: "Πληρώνεται από το URnetwork, μία φορά κάθε {days} ημέρες για κάθε coldkey."
+  en:
+    one: "Paid by URnetwork, once a day for each coldkey."
+    other: "Paid by URnetwork, once every {days} days for each coldkey."
+  es:
+    one: "Lo paga URnetwork, una vez al día por cada coldkey."
+    other: "Lo paga URnetwork, una vez cada {days} días por cada coldkey."
+  es-419:
+    one: "Lo paga URnetwork, una vez al día por cada coldkey."
+    other: "Lo paga URnetwork, una vez cada {days} días por cada coldkey."
+  es-MX:
+    one: "Lo paga URnetwork, una vez al día por cada coldkey."
+    other: "Lo paga URnetwork, una vez cada {days} días por cada coldkey."
+  fr:
+    one: "Payé par URnetwork, une fois par jour pour chaque coldkey."
+    other: "Payé par URnetwork, une fois tous les {days} jours pour chaque coldkey."
+  he:
+    one: "משולם על ידי URnetwork, פעם ביום לכל coldkey."
+    two: "משולם על ידי URnetwork, פעם ביומיים לכל coldkey."
+    many: "משולם על ידי URnetwork, פעם ב-{days} ימים לכל coldkey."
+    other: "משולם על ידי URnetwork, פעם ב-{days} ימים לכל coldkey."
+  hi:
+    one: "भुगतान URnetwork करता है, हर coldkey के लिए दिन में एक बार।"
+    other: "भुगतान URnetwork करता है, हर coldkey के लिए हर {days} दिन में एक बार।"
+  id:
+    other: "Dibayar oleh URnetwork, sekali setiap {days} hari untuk setiap coldkey."
+  it:
+    one: "Pagato da URnetwork, una volta al giorno per ogni coldkey."
+    other: "Pagato da URnetwork, una volta ogni {days} giorni per ogni coldkey."
+  ja:
+    other: "URnetwork の負担で、coldkey ごとに {days} 日に 1 回利用できます。"
+  ko:
+    other: "URnetwork가 비용을 부담하며, coldkey마다 {days}일에 한 번 사용할 수 있습니다."
+  nl:
+    one: "Betaald door URnetwork, één keer per dag per coldkey."
+    other: "Betaald door URnetwork, één keer per {days} dagen per coldkey."
+  pl:
+    one: "Płaci URnetwork, raz dziennie dla każdego coldkeya."
+    few: "Płaci URnetwork, raz na {days} dni dla każdego coldkeya."
+    many: "Płaci URnetwork, raz na {days} dni dla każdego coldkeya."
+    other: "Płaci URnetwork, raz na {days} dnia dla każdego coldkeya."
+  pt:
+    one: "Pago pelo URnetwork, uma vez por dia por cada coldkey."
+    other: "Pago pelo URnetwork, uma vez a cada {days} dias por cada coldkey."
+  pt-BR:
+    one: "Pago pelo URnetwork, uma vez por dia para cada coldkey."
+    other: "Pago pelo URnetwork, uma vez a cada {days} dias para cada coldkey."
+  pt-PT:
+    one: "Pago pelo URnetwork, uma vez por dia por cada coldkey."
+    other: "Pago pelo URnetwork, uma vez a cada {days} dias por cada coldkey."
+  ru:
+    one: "Оплачивается URnetwork, раз в {days} день для каждого coldkey."
+    few: "Оплачивается URnetwork, раз в {days} дня для каждого coldkey."
+    many: "Оплачивается URnetwork, раз в {days} дней для каждого coldkey."
+    other: "Оплачивается URnetwork, раз в {days} дня для каждого coldkey."
+  sv:
+    one: "Betalas av URnetwork, en gång per dag för varje coldkey."
+    other: "Betalas av URnetwork, en gång per {days} dagar för varje coldkey."
+  sw:
+    one: "Linalipiwa na URnetwork, mara moja kila siku kwa kila coldkey."
+    other: "Linalipiwa na URnetwork, mara moja kila siku {days} kwa kila coldkey."
+  th:
+    other: "ออกค่าใช้จ่ายโดย URnetwork ใช้ได้ {days} วันต่อครั้งสำหรับแต่ละ coldkey"
+  uk:
+    one: "Оплачується URnetwork, раз на {days} день для кожного coldkey."
+    few: "Оплачується URnetwork, раз на {days} дні для кожного coldkey."
+    many: "Оплачується URnetwork, раз на {days} днів для кожного coldkey."
+    other: "Оплачується URnetwork, раз на {days} дня для кожного coldkey."
+  vi:
+    other: "Do URnetwork chi trả, {days} ngày một lần cho mỗi coldkey."
+  zh:
+    other: "由 URnetwork 支付费用，每个 coldkey 每 {days} 天一次。"
+  zh-HK:
+    other: "由 URnetwork 支付費用，每個 coldkey 每 {days} 日一次。"

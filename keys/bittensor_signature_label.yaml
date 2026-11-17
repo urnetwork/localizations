@@ -1,10 +1,11 @@
 description: "Label of the field where the user pastes the Bittensor wallet signature."
 source: "Signature"
+deprecated:
+  - windows
+  - linux
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "التوقيع"

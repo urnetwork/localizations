@@ -1,0 +1,36 @@
+description: "The one local notification, sent when the network's first earnings on the Bittensor key can be claimed while its recovery phrase still isn't saved: the title."
+source: "Your first SN25α is claimable"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "أول SN25α لك قابل للمطالبة"
+  cs: "Vaše první SN25α je k vyzvednutí"
+  de: "Dein erstes SN25α ist einlösbar"
+  el: "Τα πρώτα σας SN25α μπορούν να διεκδικηθούν"
+  en: "Your first SN25α is claimable"
+  es: "Tu primer SN25α se puede reclamar"
+  es-419: "Tu primer SN25α se puede reclamar"
+  es-MX: "Tu primer SN25α se puede reclamar"
+  fr: "Vos premiers SN25α peuvent être réclamés"
+  he: "ה-SN25α הראשון שלכם זמין למימוש"
+  hi: "आपके पहले SN25α पर दावा किया जा सकता है"
+  id: "SN25α pertama Anda dapat diklaim"
+  it: "I tuoi primi SN25α si possono riscattare"
+  ja: "最初の SN25α が受け取り可能です"
+  ko: "첫 SN25α를 받을 수 있습니다"
+  nl: "Je eerste SN25α is op te eisen"
+  pl: "Twoje pierwsze SN25α są do odebrania"
+  pt: "O seu primeiro SN25α pode ser reivindicado"
+  pt-BR: "Seu primeiro SN25α pode ser resgatado"
+  pt-PT: "O seu primeiro SN25α pode ser reivindicado"
+  ru: "Ваши первые SN25α можно получить"
+  sv: "Dina första SN25α kan hämtas ut"
+  sw: "SN25α yako ya kwanza inaweza kudaiwa"
+  th: "SN25α แรกของคุณรับได้แล้ว"
+  uk: "Ваші перші SN25α можна отримати"
+  vi: "Bạn có thể nhận SN25α đầu tiên của mình"
+  zh: "您的第一笔 SN25α 可以领取了"
+  zh-HK: "你的第一筆 SN25α 可以領取了"

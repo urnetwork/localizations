@@ -1,0 +1,37 @@
+description: "Title of a notice on the app's main screen and above the list of proxies (the device list, ur.io's Proxies page), shown once the free plan no longer includes SOCKS and WireGuard: the account is not on Pro, and its hosted proxies stopped accepting SOCKS and WireGuard connections. pro_features_stopped_message is the body. Keep SOCKS and WireGuard as they are."
+source: "SOCKS and WireGuard stopped working"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "توقف SOCKS وWireGuard عن العمل"
+  cs: "SOCKS a WireGuard přestaly fungovat"
+  de: "SOCKS und WireGuard funktionieren nicht mehr"
+  el: "Τα SOCKS και WireGuard σταμάτησαν να λειτουργούν"
+  en: "SOCKS and WireGuard stopped working"
+  es: "SOCKS y WireGuard dejaron de funcionar"
+  es-419: "SOCKS y WireGuard dejaron de funcionar"
+  es-MX: "SOCKS y WireGuard dejaron de funcionar"
+  fr: "SOCKS et WireGuard ne fonctionnent plus"
+  he: "SOCKS ו-WireGuard הפסיקו לעבוד"
+  hi: "SOCKS और WireGuard ने काम करना बंद कर दिया"
+  id: "SOCKS dan WireGuard berhenti berfungsi"
+  it: "SOCKS e WireGuard non funzionano più"
+  ja: "SOCKS と WireGuard が使えなくなりました"
+  ko: "SOCKS와 WireGuard가 더 이상 작동하지 않습니다"
+  nl: "SOCKS en WireGuard werken niet meer"
+  pl: "SOCKS i WireGuard przestały działać"
+  pt: "SOCKS e WireGuard pararam de funcionar"
+  pt-BR: "SOCKS e WireGuard pararam de funcionar"
+  pt-PT: "O SOCKS e o WireGuard deixaram de funcionar"
+  ru: "SOCKS и WireGuard перестали работать"
+  sv: "SOCKS och WireGuard slutade fungera"
+  sw: "SOCKS na WireGuard zimeacha kufanya kazi"
+  th: "SOCKS และ WireGuard หยุดทำงานแล้ว"
+  uk: "SOCKS і WireGuard перестали працювати"
+  vi: "SOCKS và WireGuard đã ngừng hoạt động"
+  zh: "SOCKS 和 WireGuard 已停止工作"
+  zh-HK: "SOCKS 和 WireGuard 已停止運作"

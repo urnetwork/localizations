@@ -1,0 +1,36 @@
+description: "Connect drawer, DNS card: summary row while the regional pick is selected: plain DNS servers recommended for the exit's country, which send lookups without encryption."
+source: "DNS: Regional (unencrypted)"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "DNS: إقليمي (غير مشفر)"
+  cs: "DNS: Regionální (nešifrované)"
+  de: "DNS: Regional (unverschlüsselt)"
+  el: "DNS: Περιφερειακό (μη κρυπτογραφημένο)"
+  en: "DNS: Regional (unencrypted)"
+  es: "DNS: Regional (sin cifrar)"
+  es-419: "DNS: Regional (sin cifrar)"
+  es-MX: "DNS: Regional (sin cifrar)"
+  fr: "DNS : Régional (non chiffré)"
+  he: "DNS: אזורי (לא מוצפן)"
+  hi: "DNS: क्षेत्रीय (अनएन्क्रिप्टेड)"
+  id: "DNS: Regional (tanpa enkripsi)"
+  it: "DNS: Regionale (non crittografato)"
+  ja: "DNS: 地域（暗号化なし）"
+  ko: "DNS: 지역(암호화되지 않음)"
+  nl: "DNS: Regionaal (onversleuteld)"
+  pl: "DNS: Regionalny (nieszyfrowany)"
+  pt: "DNS: Regional (não encriptado)"
+  pt-BR: "DNS: Regional (não criptografado)"
+  pt-PT: "DNS: Regional (não encriptado)"
+  ru: "DNS: Региональный (без шифрования)"
+  sv: "DNS: Regional (okrypterad)"
+  sw: "DNS: Kikanda (isiyosimbwa)"
+  th: "DNS: ระดับภูมิภาค (ไม่เข้ารหัส)"
+  uk: "DNS: Регіональний (без шифрування)"
+  vi: "DNS: Theo khu vực (không mã hóa)"
+  zh: "DNS：地区（未加密）"
+  zh-HK: "DNS：地區（未加密）"

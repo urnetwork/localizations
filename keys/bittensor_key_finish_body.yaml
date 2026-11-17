@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card when a key was stored but setup stopped before the payout consent was signed, for example after a crash. Finish setup is the button's label below; keep it recognizable as that label."
+source: "Setup stopped before signing, so nothing was paid to this key. Finish setup signs the consent with it."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "توقّف الإعداد قبل التوقيع، لذا لم يُدفع أي شيء إلى هذا المفتاح. يوقّع «إنهاء الإعداد» الموافقة باستخدام هذا المفتاح."
+  cs: "Nastavení se zastavilo před podepsáním, takže na tento klíč nebylo nic vyplaceno. „Dokončit nastavení“ jím podepíše souhlas."
+  de: "Die Einrichtung wurde vor dem Signieren unterbrochen, daher wurde nichts an diesen Schlüssel ausgezahlt. „Einrichtung abschließen“ signiert damit die Zustimmung."
+  el: "Η ρύθμιση σταμάτησε πριν από την υπογραφή, οπότε δεν πληρώθηκε τίποτα σε αυτό το κλειδί. Η «Ολοκλήρωση ρύθμισης» υπογράφει τη συγκατάθεση με αυτό."
+  en: "Setup stopped before signing, so nothing was paid to this key. Finish setup signs the consent with it."
+  es: "La configuración se detuvo antes de firmar, así que no se pagó nada a esta clave. «Finalizar configuración» firma el consentimiento con ella."
+  es-419: "La configuración se detuvo antes de firmar, así que no se pagó nada a esta clave. \"Finalizar configuración\" firma el consentimiento con ella."
+  es-MX: "La configuración se detuvo antes de firmar, así que no se pagó nada a esta clave. \"Finalizar configuración\" firma el consentimiento con ella."
+  fr: "La configuration s’est arrêtée avant la signature, donc rien n’a été versé sur cette clé. « Terminer la configuration » signe le consentement avec cette clé."
+  he: "ההגדרה נעצרה לפני החתימה, ולכן שום דבר לא שולם למפתח הזה. \"סיום ההגדרה\" חותם איתו על ההסכמה."
+  hi: "साइन करने से पहले सेटअप रुक गया, इसलिए इस कुंजी पर कुछ भी भुगतान नहीं हुआ। “सेटअप पूरा करें” इसी कुंजी से सहमति पर साइन करता है।"
+  id: "Penyiapan berhenti sebelum penandatanganan, jadi tidak ada yang dibayarkan ke kunci ini. “Selesaikan penyiapan” menandatangani persetujuan dengan kunci ini."
+  it: "La configurazione si è interrotta prima della firma, quindi non è stato pagato nulla su questa chiave. «Completa la configurazione» firma il consenso con questa chiave."
+  ja: "署名の前に設定が中断されたため、このキーには何も支払われていません。「設定を完了」で、このキーを使って同意に署名します。"
+  ko: "서명 전에 설정이 중단되어 이 키로 지급된 것은 없습니다. '설정 완료'는 이 키로 동의에 서명합니다."
+  nl: "Het instellen is vóór het ondertekenen gestopt, dus er is niets aan deze sleutel uitbetaald. ‘Instellen voltooien’ ondertekent de toestemming met deze sleutel."
+  pl: "Konfiguracja zatrzymała się przed podpisaniem, więc nic nie zostało wypłacone na ten klucz. „Dokończ konfigurację” podpisuje nim zgodę."
+  pt: "A configuração parou antes da assinatura, por isso nada foi pago a esta chave. \"Concluir configuração\" assina o consentimento com ela."
+  pt-BR: "A configuração parou antes da assinatura, então nada foi pago a esta chave. \"Concluir configuração\" assina o consentimento com ela."
+  pt-PT: "A configuração parou antes da assinatura, por isso nada foi pago a esta chave. \"Concluir configuração\" assina o consentimento com ela."
+  ru: "Настройка остановилась до подписания, поэтому на этот ключ ничего не выплачено. «Завершить настройку» подпишет им согласие."
+  sv: "Konfigurationen avbröts före signeringen, så inget har betalats ut till den här nyckeln. ”Slutför konfigurationen” signerar samtycket med den."
+  sw: "Usanidi ulisimama kabla ya kutia sahihi, kwa hivyo hakuna kilicholipwa kwenye ufunguo huu. “Kamilisha usanidi” inatia sahihi idhini kwa kutumia ufunguo huo."
+  th: "การตั้งค่าหยุดลงก่อนลงนาม จึงไม่มีการจ่ายใดๆ เข้าคีย์นี้ “ตั้งค่าให้เสร็จสิ้น” จะใช้คีย์นี้ลงนามในความยินยอม"
+  uk: "Налаштування зупинилося до підписання, тому на цей ключ нічого не виплачено. «Завершити налаштування» підпише ним згоду."
+  vi: "Quá trình thiết lập đã dừng trước khi ký, nên chưa có khoản nào được trả vào khóa này. “Hoàn tất thiết lập” sẽ dùng khóa này để ký xác nhận đồng ý."
+  zh: "设置在签名前中断，因此没有向此密钥支付任何款项。“完成设置”会使用此密钥签署授权。"
+  zh-HK: "設定在簽署前中斷，因此沒有向此金鑰支付任何款項。「完成設定」會使用此金鑰簽署授權。"

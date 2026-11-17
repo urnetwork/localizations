@@ -3,7 +3,7 @@ source: "The kill switch is off, but the URnetwork system service still has a bl
 platforms:
   - linux
 localizations:
-  ar: "مفتاح القتل متوقف، لكن خدمة نظام URnetwork لا يزال لديها حجب مثبّت، لذا تُحجب حركة هذا الجهاز."
+  ar: "مفتاح الإيقاف معطّل، لكن خدمة نظام URnetwork لا يزال لديها حجب مثبّت، لذا تُحجب حركة هذا الجهاز."
   cs: "Kill switch je vypnutý, ale systémová služba URnetwork má stále nainstalované blokování, takže se provoz tohoto zařízení blokuje."
   de: "Der Kill switch ist aus, aber der URnetwork-Systemdienst hat noch eine Sperre installiert, sodass der Datenverkehr dieses Geräts blockiert wird."
   el: "Το Kill switch είναι απενεργοποιημένο, αλλά η υπηρεσία συστήματος URnetwork έχει ακόμη έναν εγκατεστημένο αποκλεισμό, οπότε η κίνηση αυτής της συσκευής αποκλείεται."

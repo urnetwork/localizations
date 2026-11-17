@@ -1,8 +1,11 @@
 description: "Call to action"
 source: "Transaction"
 platforms:
+  - linux
   - android
   - apple
+  - windows
+  - site
 localizations:
   ar: "المعاملة"
   cs: "Transakce"

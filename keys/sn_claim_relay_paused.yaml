@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: URnetwork paused claims for everyone for a while."
+source: "URnetwork has paused claims for now."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "أوقف URnetwork المطالبات مؤقتًا في الوقت الحالي."
+  cs: "URnetwork prozatím pozastavil vyzvedávání."
+  de: "URnetwork hat Einlösungen vorerst pausiert."
+  el: "Το URnetwork έχει θέσει τις διεκδικήσεις σε παύση προς το παρόν."
+  en: "URnetwork has paused claims for now."
+  es: "URnetwork ha pausado las reclamaciones por ahora."
+  es-419: "URnetwork pausó las reclamaciones por ahora."
+  es-MX: "URnetwork pausó las reclamaciones por ahora."
+  fr: "URnetwork a suspendu les réclamations pour le moment."
+  he: "URnetwork השהה את המימושים לעת עתה."
+  hi: "URnetwork ने अभी के लिए दावे रोक दिए हैं।"
+  id: "URnetwork menjeda klaim untuk sementara."
+  it: "URnetwork ha sospeso i riscatti per ora."
+  ja: "URnetwork は当面の間、受け取りを一時停止しています。"
+  ko: "URnetwork가 당분간 받기를 일시 중지했습니다."
+  nl: "URnetwork heeft claims voorlopig gepauzeerd."
+  pl: "URnetwork na razie wstrzymał odbiory."
+  pt: "O URnetwork suspendeu as reivindicações por agora."
+  pt-BR: "O URnetwork pausou os resgates por enquanto."
+  pt-PT: "O URnetwork suspendeu as reivindicações por agora."
+  ru: "URnetwork пока приостановил получение."
+  sv: "URnetwork har pausat uttag tills vidare."
+  sw: "URnetwork imesitisha madai kwa sasa."
+  th: "URnetwork หยุดการรับไว้ชั่วคราว"
+  uk: "URnetwork поки що призупинив отримання."
+  vi: "URnetwork hiện đã tạm dừng việc nhận."
+  zh: "URnetwork 目前已暂停领取。"
+  zh-HK: "URnetwork 目前已暫停領取。"

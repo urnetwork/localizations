@@ -1,0 +1,36 @@
+description: "Earnings screen: the warning banner under Back up your key, which stays until the phrase is saved."
+source: "If you lose this device before saving your recovery phrase, your SN25α can't be reached."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "إذا فقدت هذا الجهاز قبل حفظ عبارة النسخ الاحتياطي الخاصة بك، فلن يمكن الوصول إلى SN25α الخاص بك."
+  cs: "Pokud toto zařízení ztratíte dřív, než si uložíte obnovovací frázi, k vašemu SN25α se nebude možné dostat."
+  de: "Wenn du dieses Gerät verlierst, bevor du deine Wiederherstellungsphrase gespeichert hast, ist dein SN25α nicht mehr erreichbar."
+  el: "Αν χάσετε αυτή τη συσκευή πριν αποθηκεύσετε τη φράση επαναφοράς σας, δεν θα είναι δυνατή η πρόσβαση στα SN25α σας."
+  en: "If you lose this device before saving your recovery phrase, your SN25α can't be reached."
+  es: "Si pierdes este dispositivo antes de guardar tu frase de recuperación, no se podrá acceder a tu SN25α."
+  es-419: "Si pierdes este dispositivo antes de guardar tu frase de recuperación, no se podrá acceder a tu SN25α."
+  es-MX: "Si pierdes este dispositivo antes de guardar tu frase de recuperación, no se podrá acceder a tu SN25α."
+  fr: "Si vous perdez cet appareil avant d’avoir enregistré votre phrase de sauvegarde, vos SN25α seront inaccessibles."
+  he: "אם תאבדו את המכשיר הזה לפני שתשמרו את ביטוי השחזור שלכם, לא תהיה גישה ל-SN25α שלכם."
+  hi: "अगर आप अपना रिकवरी फ़्रेज़ सहेजने से पहले यह डिवाइस खो देते हैं, तो आपके SN25α तक पहुँचा नहीं जा सकेगा।"
+  id: "Jika Anda kehilangan perangkat ini sebelum menyimpan frasa cadangan Anda, SN25α Anda tidak dapat diakses."
+  it: "Se perdi questo dispositivo prima di aver salvato la tua frase di recupero, i tuoi SN25α non saranno più accessibili."
+  ja: "復元フレーズを保存する前にこのデバイスをなくすと、SN25α にアクセスできなくなります。"
+  ko: "복구 문구를 저장하기 전에 이 기기를 잃어버리면 SN25α에 접근할 수 없습니다."
+  nl: "Als je dit apparaat kwijtraakt voordat je je herstelzin hebt opgeslagen, is je SN25α niet meer bereikbaar."
+  pl: "Jeśli stracisz to urządzenie, zanim zapiszesz frazę odzyskiwania, do twoich SN25α nie będzie można się dostać."
+  pt: "Se perder este dispositivo antes de guardar a sua frase de recuperação, não será possível aceder ao seu SN25α."
+  pt-BR: "Se você perder este dispositivo antes de salvar sua frase de recuperação, não será possível acessar seu SN25α."
+  pt-PT: "Se perder este dispositivo antes de guardar a sua frase de recuperação, não será possível aceder ao seu SN25α."
+  ru: "Если вы потеряете это устройство, не сохранив фразу восстановления, получить доступ к вашим SN25α будет невозможно."
+  sv: "Om du förlorar den här enheten innan du har sparat din återställningsfras går det inte att komma åt dina SN25α."
+  sw: "Ukipoteza kifaa hiki kabla ya kuhifadhi kifungu chako cha urejeshaji, SN25α yako haitaweza kufikiwa."
+  th: "หากคุณทำอุปกรณ์นี้หายก่อนบันทึกวลีสำรองของคุณ จะไม่สามารถเข้าถึง SN25α ของคุณได้"
+  uk: "Якщо ви втратите цей пристрій, не зберігши фразу відновлення, отримати доступ до ваших SN25α буде неможливо."
+  vi: "Nếu bạn mất thiết bị này trước khi lưu cụm từ sao lưu, sẽ không thể truy cập SN25α của bạn."
+  zh: "如果您在保存恢复短语之前丢失这台设备，您的 SN25α 将无法访问。"
+  zh-HK: "如果你在儲存復原短語之前遺失這部裝置，你的 SN25α 將無法存取。"

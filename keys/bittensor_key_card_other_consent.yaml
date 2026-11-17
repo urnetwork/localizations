@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. Payouts go to another wallet, and a key made earlier is still on this device."
+source: "The key on this device isn't receiving payouts."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "المفتاح الموجود على هذا الجهاز لا يتلقى المدفوعات."
+  cs: "Klíč na tomto zařízení nedostává výplaty."
+  de: "Der Schlüssel auf diesem Gerät erhält keine Auszahlungen."
+  el: "Το κλειδί σε αυτή τη συσκευή δεν λαμβάνει πληρωμές."
+  en: "The key on this device isn't receiving payouts."
+  es: "La clave de este dispositivo no está recibiendo pagos."
+  es-419: "La clave de este dispositivo no está recibiendo pagos."
+  es-MX: "La clave de este dispositivo no está recibiendo pagos."
+  fr: "La clé de cet appareil ne reçoit pas les paiements."
+  he: "המפתח במכשיר הזה לא מקבל תשלומים."
+  hi: "इस डिवाइस की कुंजी पर भुगतान नहीं आ रहा है।"
+  id: "Kunci di perangkat ini tidak menerima pembayaran."
+  it: "La chiave su questo dispositivo non riceve i pagamenti."
+  ja: "このデバイスのキーは支払いを受け取っていません。"
+  ko: "이 기기의 키는 지급을 받고 있지 않습니다."
+  nl: "De sleutel op dit apparaat ontvangt geen uitbetalingen."
+  pl: "Klucz na tym urządzeniu nie otrzymuje wypłat."
+  pt: "A chave neste dispositivo não está a receber pagamentos."
+  pt-BR: "A chave neste dispositivo não está recebendo pagamentos."
+  pt-PT: "A chave neste dispositivo não está a receber pagamentos."
+  ru: "Ключ на этом устройстве не получает выплаты."
+  sv: "Nyckeln på den här enheten tar inte emot utbetalningar."
+  sw: "Ufunguo kwenye kifaa hiki haupokei malipo."
+  th: "คีย์บนอุปกรณ์นี้ไม่ได้รับการจ่าย"
+  uk: "Ключ на цьому пристрої не отримує виплат."
+  vi: "Khóa trên thiết bị này không nhận thanh toán."
+  zh: "这台设备上的密钥目前未接收支付。"
+  zh-HK: "這部裝置上的金鑰目前未接收支付。"

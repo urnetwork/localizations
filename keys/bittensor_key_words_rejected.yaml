@@ -1,0 +1,36 @@
+description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. An error under the two fields."
+source: "Those words don't match. Check your saved recovery phrase."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هاتان الكلمتان غير متطابقتين. تحقق من عبارة النسخ الاحتياطي التي حفظتها."
+  cs: "Tato slova nesouhlasí. Zkontrolujte svou uloženou obnovovací frázi."
+  de: "Diese Wörter stimmen nicht überein. Prüfe deine gespeicherte Wiederherstellungsphrase."
+  el: "Αυτές οι λέξεις δεν ταιριάζουν. Ελέγξτε την αποθηκευμένη φράση επαναφοράς σας."
+  en: "Those words don't match. Check your saved recovery phrase."
+  es: "Esas palabras no coinciden. Revisa tu frase de recuperación guardada."
+  es-419: "Esas palabras no coinciden. Revisa tu frase de recuperación guardada."
+  es-MX: "Esas palabras no coinciden. Revisa tu frase de recuperación guardada."
+  fr: "Ces mots ne correspondent pas. Vérifiez votre phrase de sauvegarde enregistrée."
+  he: "המילים האלה לא תואמות. בדקו את ביטוי השחזור ששמרתם."
+  hi: "ये शब्द मेल नहीं खाते। अपना सहेजा हुआ रिकवरी फ़्रेज़ जाँचें।"
+  id: "Kata-kata itu tidak cocok. Periksa frasa cadangan yang Anda simpan."
+  it: "Queste parole non corrispondono. Controlla la frase di recupero che hai salvato."
+  ja: "単語が一致しません。保存した復元フレーズを確認してください。"
+  ko: "단어가 일치하지 않습니다. 저장한 복구 문구를 확인하세요."
+  nl: "Die woorden kloppen niet. Controleer je opgeslagen herstelzin."
+  pl: "Te słowa się nie zgadzają. Sprawdź zapisaną frazę odzyskiwania."
+  pt: "Essas palavras não coincidem. Verifique a sua frase de recuperação guardada."
+  pt-BR: "Essas palavras não coincidem. Verifique sua frase de recuperação salva."
+  pt-PT: "Essas palavras não coincidem. Verifique a sua frase de recuperação guardada."
+  ru: "Эти слова не совпадают. Проверьте сохранённую фразу восстановления."
+  sv: "Orden stämmer inte. Kontrollera din sparade återställningsfras."
+  sw: "Maneno hayo hayalingani. Angalia kifungu chako cha urejeshaji ulichohifadhi."
+  th: "คำเหล่านั้นไม่ตรงกัน ตรวจสอบวลีสำรองที่คุณบันทึกไว้"
+  uk: "Ці слова не збігаються. Перевірте збережену фразу відновлення."
+  vi: "Các từ đó không khớp. Hãy kiểm tra cụm từ sao lưu bạn đã lưu."
+  zh: "这些词不匹配。请检查您保存的恢复短语。"
+  zh-HK: "這些詞不相符。請檢查你儲存的復原短語。"

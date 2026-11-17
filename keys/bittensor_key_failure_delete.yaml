@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. An error after the user asked to delete the key."
+source: "Couldn't delete the key from this device. It's still here."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "تعذّر حذف المفتاح من هذا الجهاز. لا يزال موجودًا هنا."
+  cs: "Klíč se z tohoto zařízení nepodařilo odstranit. Stále je tady."
+  de: "Der Schlüssel konnte nicht von diesem Gerät gelöscht werden. Er ist noch hier."
+  el: "Δεν ήταν δυνατή η διαγραφή του κλειδιού από αυτή τη συσκευή. Βρίσκεται ακόμη εδώ."
+  en: "Couldn't delete the key from this device. It's still here."
+  es: "No se pudo eliminar la clave de este dispositivo. Sigue aquí."
+  es-419: "No se pudo eliminar la clave de este dispositivo. Sigue aquí."
+  es-MX: "No se pudo eliminar la clave de este dispositivo. Sigue aquí."
+  fr: "Impossible de supprimer la clé de cet appareil. Elle est toujours là."
+  he: "לא ניתן היה למחוק את המפתח מהמכשיר הזה. הוא עדיין כאן."
+  hi: "इस डिवाइस से कुंजी डिलीट नहीं हो सकी। वह अभी भी यहीं है।"
+  id: "Tidak dapat menghapus kunci dari perangkat ini. Kunci masih ada di sini."
+  it: "Impossibile eliminare la chiave da questo dispositivo. È ancora qui."
+  ja: "このデバイスからキーを削除できませんでした。キーはまだここにあります。"
+  ko: "이 기기에서 키를 삭제하지 못했습니다. 키는 아직 여기에 있습니다."
+  nl: "De sleutel kon niet van dit apparaat worden verwijderd. Hij staat er nog."
+  pl: "Nie udało się usunąć klucza z tego urządzenia. Nadal tu jest."
+  pt: "Não foi possível eliminar a chave deste dispositivo. Continua aqui."
+  pt-BR: "Não foi possível excluir a chave deste dispositivo. Ela continua aqui."
+  pt-PT: "Não foi possível eliminar a chave deste dispositivo. Continua aqui."
+  ru: "Не удалось удалить ключ с этого устройства. Он всё ещё здесь."
+  sv: "Det gick inte att radera nyckeln från den här enheten. Den finns kvar här."
+  sw: "Imeshindwa kufuta ufunguo kwenye kifaa hiki. Bado upo hapa."
+  th: "ไม่สามารถลบคีย์ออกจากอุปกรณ์นี้ได้ คีย์ยังอยู่ที่นี่"
+  uk: "Не вдалося видалити ключ із цього пристрою. Він досі тут."
+  vi: "Không thể xóa khóa khỏi thiết bị này. Khóa vẫn còn ở đây."
+  zh: "无法从这台设备删除密钥。密钥仍在这里。"
+  zh-HK: "無法從這部裝置刪除金鑰。金鑰仍在這裡。"

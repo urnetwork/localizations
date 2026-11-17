@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: free-plan note under the profile ID field for AdGuard DNS. What happens at the limit is not documented, so the note states only the limit. {provider} is AdGuard DNS, inserted as is. The sdk names this key for the preset."
+source: "%@'s free plan is limited to 300,000 requests a month."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "خطة {provider} المجانية محدودة بـ 300,000 طلب شهريًا."
+  cs: "Bezplatný tarif {provider} je omezen na 300 000 požadavků měsíčně."
+  de: "Der kostenlose Tarif von {provider} ist auf 300.000 Anfragen im Monat begrenzt."
+  el: "Το δωρεάν πρόγραμμα του {provider} περιορίζεται σε 300.000 αιτήματα τον μήνα."
+  en: "{provider}'s free plan is limited to 300,000 requests a month."
+  es: "El plan gratuito de {provider} está limitado a 300.000 solicitudes al mes."
+  es-419: "El plan gratuito de {provider} está limitado a 300,000 solicitudes al mes."
+  es-MX: "El plan gratuito de {provider} está limitado a 300,000 solicitudes al mes."
+  fr: "L'offre gratuite de {provider} est limitée à 300 000 requêtes par mois."
+  he: "התוכנית החינמית של {provider} מוגבלת ל-300,000 בקשות בחודש."
+  hi: "{provider} का मुफ़्त प्लान हर महीने 3,00,000 अनुरोधों तक सीमित है।"
+  id: "Paket gratis {provider} dibatasi 300.000 permintaan per bulan."
+  it: "Il piano gratuito di {provider} è limitato a 300.000 richieste al mese."
+  ja: "{provider}の無料プランは月30万リクエストまでです。"
+  ko: "{provider} 무료 요금제는 월 30만 요청으로 제한됩니다."
+  nl: "Het gratis abonnement van {provider} is beperkt tot 300.000 verzoeken per maand."
+  pl: "Darmowy plan {provider} jest ograniczony do 300 000 zapytań miesięcznie."
+  pt: "O plano gratuito de {provider} está limitado a 300 000 pedidos por mês."
+  pt-BR: "O plano gratuito de {provider} é limitado a 300.000 solicitações por mês."
+  pt-PT: "O plano gratuito de {provider} está limitado a 300 000 pedidos por mês."
+  ru: "Бесплатный тариф {provider} ограничен 300 000 запросов в месяц."
+  sv: "Gratisplanen hos {provider} är begränsad till 300 000 förfrågningar i månaden."
+  sw: "Mpango wa bure wa {provider} una kikomo cha maombi 300,000 kwa mwezi."
+  th: "แพ็กเกจฟรีของ {provider} จำกัดไว้ที่ 300,000 คำขอต่อเดือน"
+  uk: "Безкоштовний тариф {provider} обмежено 300 000 запитів на місяць."
+  vi: "Gói miễn phí của {provider} giới hạn 300.000 yêu cầu mỗi tháng."
+  zh: "{provider} 免费套餐每月限 30 万次请求。"
+  zh-HK: "{provider} 免費計劃每月上限為 30 萬次請求。"

@@ -1,0 +1,11 @@
+description: "Create proxy: how many unique exit IP proxies to create at once"
+source: "Number of proxies"
+platforms:
+  - site
+localizations:
+  ar: "عدد الوكلاء"
+  de: "Anzahl der Proxys"
+  en: "Number of proxies"
+  es: "Número de proxies"
+  ru: "Количество прокси"
+  zh: "代理数量"

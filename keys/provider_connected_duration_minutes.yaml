@@ -5,6 +5,8 @@ platforms:
   - apple
   - linux
   - windows
+  - site
+  - web
 placeholders:
   - name: minutes
     type: int

@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: a link to claim the balance from this device, paying the gas with the user's gas key (a small TAO account on this device). Keep gas key as the app writes it elsewhere."
+source: "Claim it yourself with your gas key"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "طالِب به بنفسك باستخدام مفتاح الغاز الخاص بك"
+  cs: "Vyzvedněte si to sami pomocí svého klíče pro gas"
+  de: "Löse es selbst mit deinem Gas-Schlüssel ein"
+  el: "Διεκδικήστε το μόνοι σας με το κλειδί gas σας"
+  en: "Claim it yourself with your gas key"
+  es: "Reclámalo tú con tu clave de gas"
+  es-419: "Reclámalo tú con tu clave de gas"
+  es-MX: "Reclámalo tú con tu clave de gas"
+  fr: "Réclamez-le vous-même avec votre clé de gas"
+  he: "ממשו את זה בעצמכם עם מפתח הגז שלכם"
+  hi: "अपनी गैस कुंजी से खुद दावा करें"
+  id: "Klaim sendiri dengan kunci gas Anda"
+  it: "Riscattalo tu con la tua chiave gas"
+  ja: "ガスキーを使って自分で受け取る"
+  ko: "가스 키로 직접 받기"
+  nl: "Eis het zelf op met je gas key"
+  pl: "Odbierz samodzielnie za pomocą swojego klucza gas"
+  pt: "Reivindique-o por conta própria com a sua chave de gás"
+  pt-BR: "Resgate você mesmo com sua chave de gás"
+  pt-PT: "Reivindique-o por conta própria com a sua chave de gás"
+  ru: "Получите сами с помощью своего ключа для оплаты газа"
+  sv: "Hämta ut det själv med din gasnyckel"
+  sw: "Lidai mwenyewe kwa ufunguo wako wa gas"
+  th: "รับเองด้วยคีย์ gas ของคุณ"
+  uk: "Отримайте самостійно за допомогою свого ключа для газу"
+  vi: "Tự nhận bằng khóa gas của bạn"
+  zh: "使用您的 Gas 密钥自行领取"
+  zh-HK: "使用你的 Gas 密鑰自行領取"

@@ -1,0 +1,36 @@
+description: "Connect drawer, DNS card: summary row while URnetwork's own DNS, the default, is selected. URnetwork is the product name."
+source: "DNS: URnetwork"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "DNS: URnetwork"
+  cs: "DNS: URnetwork"
+  de: "DNS: URnetwork"
+  el: "DNS: URnetwork"
+  en: "DNS: URnetwork"
+  es: "DNS: URnetwork"
+  es-419: "DNS: URnetwork"
+  es-MX: "DNS: URnetwork"
+  fr: "DNS : URnetwork"
+  he: "DNS: URnetwork"
+  hi: "DNS: URnetwork"
+  id: "DNS: URnetwork"
+  it: "DNS: URnetwork"
+  ja: "DNS: URnetwork"
+  ko: "DNS: URnetwork"
+  nl: "DNS: URnetwork"
+  pl: "DNS: URnetwork"
+  pt: "DNS: URnetwork"
+  pt-BR: "DNS: URnetwork"
+  pt-PT: "DNS: URnetwork"
+  ru: "DNS: URnetwork"
+  sv: "DNS: URnetwork"
+  sw: "DNS: URnetwork"
+  th: "DNS: URnetwork"
+  uk: "DNS: URnetwork"
+  vi: "DNS: URnetwork"
+  zh: "DNS：URnetwork"
+  zh-HK: "DNS：URnetwork"

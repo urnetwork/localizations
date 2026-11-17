@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: help under the profile ID field for NextDNS. {provider} is NextDNS, inserted as is. \"Setup\" is the name of the page in the NextDNS dashboard, so it stays in English."
+source: "Find it on the Setup page of your %@ account."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "ستجده في صفحة Setup في حسابك على {provider}."
+  cs: "Najdete ho na stránce Setup ve svém účtu {provider}."
+  de: "Du findest sie auf der Seite „Setup“ deines Kontos bei {provider}."
+  el: "Θα το βρείτε στη σελίδα Setup του λογαριασμού σας {provider}."
+  en: "Find it on the Setup page of your {provider} account."
+  es: "Lo encontrarás en la página Setup de tu cuenta de {provider}."
+  es-419: "Lo encontrarás en la página Setup de tu cuenta de {provider}."
+  es-MX: "Lo encontrarás en la página Setup de tu cuenta de {provider}."
+  fr: "Vous le trouverez sur la page Setup de votre compte {provider}."
+  he: "תמצאו אותו בדף Setup בחשבון {provider} שלכם."
+  hi: "यह आपके {provider} खाते के Setup पेज पर मिलेगा।"
+  id: "Temukan di halaman Setup akun {provider} Anda."
+  it: "Lo trovi nella pagina Setup del tuo account {provider}."
+  ja: "{provider}アカウントの「Setup」ページに表示されています。"
+  ko: "{provider} 계정의 Setup 페이지에서 찾을 수 있습니다."
+  nl: "Je vindt het op de pagina Setup van je account bij {provider}."
+  pl: "Znajdziesz go na stronie Setup na swoim koncie {provider}."
+  pt: "Encontra-o na página Setup da sua conta {provider}."
+  pt-BR: "Você encontra na página Setup da sua conta {provider}."
+  pt-PT: "Encontra-o na página Setup da sua conta {provider}."
+  ru: "Его можно найти на странице Setup в вашем аккаунте {provider}."
+  sv: "Du hittar det på sidan Setup i ditt konto hos {provider}."
+  sw: "Utakipata kwenye ukurasa wa Setup wa akaunti yako ya {provider}."
+  th: "ดูได้ที่หน้า Setup ในบัญชี {provider} ของคุณ"
+  uk: "Його можна знайти на сторінці Setup у вашому обліковому записі {provider}."
+  vi: "Bạn có thể tìm thấy ID ở trang Setup trong tài khoản {provider} của bạn."
+  zh: "可在您 {provider} 账户的 Setup 页面中找到。"
+  zh-HK: "可在你 {provider} 帳戶的 Setup 頁面中找到。"

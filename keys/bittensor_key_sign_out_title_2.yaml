@@ -1,0 +1,36 @@
+description: "Sign out, the confirmation while this device holds the network's Bittensor key and its recovery phrase isn't saved: the title."
+source: "Your Bittensor key isn't backed up"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لم يتم نسخ مفتاح Bittensor الخاص بك احتياطيًا"
+  cs: "Váš klíč Bittensor není zálohovaný"
+  de: "Dein Bittensor-Schlüssel ist nicht gesichert"
+  el: "Το κλειδί Bittensor σας δεν έχει αντίγραφο ασφαλείας"
+  en: "Your Bittensor key isn't backed up"
+  es: "Tu clave de Bittensor no tiene copia de seguridad"
+  es-419: "Tu clave de Bittensor no tiene copia de seguridad"
+  es-MX: "Tu clave de Bittensor no tiene copia de seguridad"
+  fr: "Votre clé Bittensor n’est pas sauvegardée"
+  he: "מפתח ה-Bittensor שלכם לא מגובה"
+  hi: "आपकी Bittensor कुंजी का बैकअप नहीं लिया गया है"
+  id: "Kunci Bittensor Anda belum dicadangkan"
+  it: "La tua chiave Bittensor non ha un backup"
+  ja: "Bittensor キーがバックアップされていません"
+  ko: "Bittensor 키가 백업되지 않았습니다"
+  nl: "Je Bittensor-sleutel heeft geen back-up"
+  pl: "Twój klucz Bittensor nie ma kopii zapasowej"
+  pt: "A sua chave Bittensor não tem cópia de segurança"
+  pt-BR: "Sua chave Bittensor não tem backup"
+  pt-PT: "A sua chave Bittensor não tem cópia de segurança"
+  ru: "У вашего ключа Bittensor нет резервной копии"
+  sv: "Din Bittensor-nyckel är inte säkerhetskopierad"
+  sw: "Ufunguo wako wa Bittensor haujahifadhiwa nakala"
+  th: "คีย์ Bittensor ของคุณยังไม่ได้สำรอง"
+  uk: "У вашого ключа Bittensor немає резервної копії"
+  vi: "Khóa Bittensor của bạn chưa được sao lưu"
+  zh: "您的 Bittensor 密钥未备份"
+  zh-HK: "你的 Bittensor 金鑰未備份"

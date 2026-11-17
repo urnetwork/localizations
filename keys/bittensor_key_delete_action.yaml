@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. The one destructive button: the user says the phrase is saved, and the app may forget it."
+source: "I have saved the key, it's OK to delete it now."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لقد حفظت المفتاح، ويمكن حذفه الآن."
+  cs: "Klíč mám uložený, teď ho lze odstranit."
+  de: "Ich habe den Schlüssel gespeichert, er kann jetzt gelöscht werden."
+  el: "Αποθήκευσα το κλειδί, μπορεί να διαγραφεί τώρα."
+  en: "I have saved the key, it's OK to delete it now."
+  es: "He guardado la clave, ya se puede eliminar."
+  es-419: "Guardé la clave, ya se puede eliminar."
+  es-MX: "Guardé la clave, ya se puede eliminar."
+  fr: "J’ai enregistré la clé, elle peut être supprimée maintenant."
+  he: "שמרתי את המפתח, אפשר למחוק אותו עכשיו."
+  hi: "मैंने कुंजी सहेज ली है, अब इसे डिलीट किया जा सकता है।"
+  id: "Saya sudah menyimpan kunci, kunci boleh dihapus sekarang."
+  it: "Ho salvato la chiave, ora si può eliminare."
+  ja: "キーを保存しました。今すぐ削除して構いません。"
+  ko: "키를 저장했습니다. 이제 삭제해도 됩니다."
+  nl: "Ik heb de sleutel opgeslagen, hij mag nu worden verwijderd."
+  pl: "Mam zapisany klucz, można go teraz usunąć."
+  pt: "Guardei a chave, já pode ser eliminada."
+  pt-BR: "Salvei a chave, ela já pode ser excluída."
+  pt-PT: "Guardei a chave, já pode ser eliminada."
+  ru: "Ключ сохранён, теперь его можно удалить."
+  sv: "Jag har sparat nyckeln, den kan raderas nu."
+  sw: "Nimehifadhi ufunguo, unaweza kufutwa sasa."
+  th: "ฉันบันทึกคีย์แล้ว ตอนนี้ลบได้เลย"
+  uk: "Ключ збережено, тепер його можна видалити."
+  vi: "Tôi đã lưu khóa, giờ có thể xóa."
+  zh: "我已保存密钥，现在可以删除。"
+  zh-HK: "我已儲存金鑰，現在可以刪除。"

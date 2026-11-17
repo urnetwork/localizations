@@ -1,0 +1,14 @@
+description: "Create proxy: a batch of unique exit IP proxies was created; count is how many"
+source: "Proxies with unique exit IPs ready: {count}"
+platforms:
+  - site
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "الوكلاء ذوو عناوين IP الخروج الفريدة الجاهزون: {count}"
+  de: "Bereite Proxys mit eindeutigen Ausgangs-IPs: {count}"
+  en: "Proxies with unique exit IPs ready: {count}"
+  es: "Proxies con IP de salida única listos: {count}"
+  ru: "Готово прокси с уникальными IP выхода: {count}"
+  zh: "已就绪的独立出口 IP 代理：{count}"

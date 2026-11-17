@@ -1,0 +1,41 @@
+description: "DNS settings, Use my account: shown under the profile ID field when the AdGuard DNS device ID has the wrong format. {provider} is AdGuard DNS and {example} an example ID such as 1a2b3c4d, both inserted as is."
+source: "%@ device IDs are 8 characters: digits and the letters a to f, like %@."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+  - name: example
+    type: string
+localizations:
+  ar: "تتكون معرّفات الأجهزة في {provider} من 8 أحرف: أرقام والأحرف من a إلى f، مثل {example}."
+  cs: "ID zařízení služby {provider} mají 8 znaků: číslice a písmena a až f, například {example}."
+  de: "Geräte-IDs von {provider} haben 8 Zeichen: Ziffern und die Buchstaben a bis f, zum Beispiel {example}."
+  el: "Τα αναγνωριστικά συσκευής του {provider} έχουν 8 χαρακτήρες: ψηφία και τα γράμματα a έως f, όπως {example}."
+  en: "{provider} device IDs are 8 characters: digits and the letters a to f, like {example}."
+  es: "Los ID de dispositivo de {provider} tienen 8 caracteres: dígitos y las letras de la a a la f, como {example}."
+  es-419: "Los ID de dispositivo de {provider} tienen 8 caracteres: dígitos y las letras de la a a la f, como {example}."
+  es-MX: "Los ID de dispositivo de {provider} tienen 8 caracteres: dígitos y las letras de la a a la f, como {example}."
+  fr: "Les ID d'appareil {provider} comptent 8 caractères : des chiffres et les lettres a à f, par exemple {example}."
+  he: "מזהי המכשירים של {provider} הם בני 8 תווים: ספרות והאותיות a עד f, למשל {example}."
+  hi: "{provider} डिवाइस ID में 8 अक्षर होते हैं: अंक और a से f तक के अक्षर, जैसे {example}।"
+  id: "ID perangkat {provider} terdiri dari 8 karakter: angka dan huruf a sampai f, misalnya {example}."
+  it: "Gli ID dispositivo di {provider} hanno 8 caratteri: cifre e lettere dalla a alla f, ad esempio {example}."
+  ja: "{provider}のデバイスIDは8文字で、数字とaからfの英字で構成されます（例: {example}）。"
+  ko: "{provider} 기기 ID는 숫자와 a~f 문자로 된 8자입니다(예: {example})."
+  nl: "Apparaat-ID's van {provider} hebben 8 tekens: cijfers en de letters a tot en met f, zoals {example}."
+  pl: "Identyfikatory urządzeń {provider} mają 8 znaków: cyfry i litery od a do f, np. {example}."
+  pt: "Os ID de dispositivo de {provider} têm 8 caracteres: algarismos e as letras de a a f, por exemplo {example}."
+  pt-BR: "Os IDs de dispositivo de {provider} têm 8 caracteres: dígitos e as letras de a a f, como {example}."
+  pt-PT: "Os ID de dispositivo de {provider} têm 8 caracteres: algarismos e as letras de a a f, por exemplo {example}."
+  ru: "ID устройств {provider} состоят из 8 символов: цифр и букв от a до f, например {example}."
+  sv: "Enhets-ID:n för {provider} har 8 tecken: siffror och bokstäverna a till f, till exempel {example}."
+  sw: "Vitambulisho vya vifaa vya {provider} vina herufi 8: tarakimu na herufi a hadi f, kwa mfano {example}."
+  th: "รหัสอุปกรณ์ของ {provider} มี 8 อักขระ ประกอบด้วยตัวเลขและตัวอักษร a ถึง f เช่น {example}"
+  uk: "ID пристроїв {provider} мають 8 символів: цифри та літери від a до f, наприклад {example}."
+  vi: "ID thiết bị của {provider} gồm 8 ký tự: chữ số và các chữ cái từ a đến f, ví dụ {example}."
+  zh: "{provider} 设备 ID 为 8 个字符，由数字和字母 a 到 f 组成，例如 {example}。"
+  zh-HK: "{provider} 裝置 ID 為 8 個字元，由數字和字母 a 至 f 組成，例如 {example}。"

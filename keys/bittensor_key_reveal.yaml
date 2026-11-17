@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. The words are covered, and this is on the cover."
+source: "Tap to reveal"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "انقر للإظهار"
+  cs: "Klepnutím zobrazíte"
+  de: "Tippen zum Anzeigen"
+  el: "Πατήστε για εμφάνιση"
+  en: "Tap to reveal"
+  es: "Toca para mostrar"
+  es-419: "Toca para mostrar"
+  es-MX: "Toca para mostrar"
+  fr: "Touchez pour afficher"
+  he: "הקישו להצגה"
+  hi: "दिखाने के लिए टैप करें"
+  id: "Ketuk untuk menampilkan"
+  it: "Tocca per mostrare"
+  ja: "タップして表示"
+  ko: "탭하여 보기"
+  nl: "Tik om te tonen"
+  pl: "Dotknij, aby pokazać"
+  pt: "Toque para revelar"
+  pt-BR: "Toque para revelar"
+  pt-PT: "Toque para revelar"
+  ru: "Нажмите, чтобы показать"
+  sv: "Tryck för att visa"
+  sw: "Gusa ili kuonyesha"
+  th: "แตะเพื่อแสดง"
+  uk: "Торкніться, щоб показати"
+  vi: "Chạm để hiện"
+  zh: "点击显示"
+  zh-HK: "點按以顯示"

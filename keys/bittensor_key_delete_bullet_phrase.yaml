@@ -1,0 +1,36 @@
+description: "Key screen, the delete confirmation: one point of a short list, after Earnings keep going to this address. Them is the earnings."
+source: "Only the recovery phrase can move them."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لا يمكن نقلها إلا بعبارة النسخ الاحتياطي."
+  cs: "Přesunout je může jen obnovovací fráze."
+  de: "Nur die Wiederherstellungsphrase kann sie bewegen."
+  el: "Μόνο η φράση επαναφοράς μπορεί να τα μετακινήσει."
+  en: "Only the recovery phrase can move them."
+  es: "Solo la frase de recuperación puede moverlas."
+  es-419: "Solo la frase de recuperación puede moverlas."
+  es-MX: "Solo la frase de recuperación puede moverlas."
+  fr: "Seule la phrase de sauvegarde permet de les déplacer."
+  he: "רק ביטוי השחזור יכול להעביר אותם."
+  hi: "इसे केवल रिकवरी फ़्रेज़ से ही कहीं और ले जाया जा सकता है।"
+  id: "Hanya frasa cadangan yang dapat memindahkannya."
+  it: "Solo la frase di recupero può spostarli."
+  ja: "収益を移動できるのは復元フレーズだけです。"
+  ko: "수익은 복구 문구로만 옮길 수 있습니다."
+  nl: "Alleen de herstelzin kan ze verplaatsen."
+  pl: "Tylko fraza odzyskiwania może je przenieść."
+  pt: "Só a frase de recuperação os pode mover."
+  pt-BR: "Só a frase de recuperação pode movê-los."
+  pt-PT: "Só a frase de recuperação os pode mover."
+  ru: "Переместить его можно только с помощью фразы восстановления."
+  sv: "Bara återställningsfrasen kan flytta dem."
+  sw: "Kifungu cha urejeshaji pekee ndicho kinachoweza kuyahamisha."
+  th: "มีเพียงวลีสำรองเท่านั้นที่ย้ายรายได้เหล่านั้นได้"
+  uk: "Перемістити його можна лише за допомогою фрази відновлення."
+  vi: "Chỉ cụm từ sao lưu mới có thể chuyển số thu nhập đó đi."
+  zh: "只有恢复短语才能转移这些收益。"
+  zh-HK: "只有復原短語才能轉移這些收益。"

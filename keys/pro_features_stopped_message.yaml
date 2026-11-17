@@ -1,0 +1,37 @@
+description: "Body under pro_features_stopped: SOCKS and WireGuard are Pro features, so the hosted proxies of an account on the free plan no longer accept SOCKS or WireGuard connections, while their HTTP and HTTPS proxies keep working. Upgrading to Pro turns them back on: SOCKS at once, WireGuard within 30 minutes. Get Pro is the button beside it. Keep SOCKS, WireGuard, HTTP, HTTPS and Pro as they are."
+source: "SOCKS and WireGuard are part of Pro, so they no longer work on your proxies. HTTP and HTTPS still work. Upgrade to turn them back on. WireGuard can take up to 30 minutes to reconnect."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "SOCKS وWireGuard جزء من Pro، لذا لم يعودا يعملان على وكلائك. لا يزال HTTP وHTTPS يعملان. قم بالترقية لتشغيلهما من جديد. قد يستغرق WireGuard ما يصل إلى 30 دقيقة لإعادة الاتصال."
+  cs: "SOCKS a WireGuard jsou součástí Pro, takže na vašich proxy už nefungují. HTTP a HTTPS fungují dál. Přejděte na Pro a znovu je zapněte. Opětovné připojení WireGuard může trvat až 30 minut."
+  de: "SOCKS und WireGuard sind Teil von Pro und funktionieren daher auf deinen Proxys nicht mehr. HTTP und HTTPS funktionieren weiterhin. Führe ein Upgrade durch, um sie wieder einzuschalten. WireGuard kann bis zu 30 Minuten brauchen, um sich wieder zu verbinden."
+  el: "Τα SOCKS και WireGuard είναι μέρος του Pro, οπότε δεν λειτουργούν πια στους διακομιστές μεσολάβησής σας. Τα HTTP και HTTPS εξακολουθούν να λειτουργούν. Αναβαθμίστε για να τα ενεργοποιήσετε ξανά. Η επανασύνδεση του WireGuard μπορεί να διαρκέσει έως 30 λεπτά."
+  en: "SOCKS and WireGuard are part of Pro, so they no longer work on your proxies. HTTP and HTTPS still work. Upgrade to turn them back on. WireGuard can take up to 30 minutes to reconnect."
+  es: "SOCKS y WireGuard son parte de Pro, así que ya no funcionan en tus proxies. HTTP y HTTPS siguen funcionando. Pásate a Pro para volver a activarlos. WireGuard puede tardar hasta 30 minutos en reconectarse."
+  es-419: "SOCKS y WireGuard son parte de Pro, así que ya no funcionan en tus proxies. HTTP y HTTPS siguen funcionando. Mejora a Pro para volver a activarlos. WireGuard puede tardar hasta 30 minutos en volver a conectarse."
+  es-MX: "SOCKS y WireGuard son parte de Pro, así que ya no funcionan en tus proxies. HTTP y HTTPS siguen funcionando. Mejora a Pro para volver a activarlos. WireGuard puede tardar hasta 30 minutos en volver a conectarse."
+  fr: "SOCKS et WireGuard font partie de Pro : ils ne fonctionnent donc plus sur vos proxys. HTTP et HTTPS fonctionnent toujours. Passez à Pro pour les réactiver. La reconnexion de WireGuard peut prendre jusqu’à 30 minutes."
+  he: "SOCKS ו-WireGuard הם חלק מ-Pro, ולכן הם כבר לא פועלים בפרוקסי שלך. HTTP ו-HTTPS עדיין פועלים. שדרג כדי להפעיל אותם מחדש. החיבור מחדש של WireGuard עשוי להימשך עד 30 דקות."
+  hi: "SOCKS और WireGuard Pro का हिस्सा हैं, इसलिए ये अब आपकी प्रॉक्सी पर काम नहीं करते। HTTP और HTTPS अब भी काम करते हैं। इन्हें फिर से चालू करने के लिए अपग्रेड करें। WireGuard को फिर से कनेक्ट होने में 30 मिनट तक लग सकते हैं।"
+  id: "SOCKS dan WireGuard adalah bagian dari Pro, jadi keduanya tidak lagi berfungsi di proxy Anda. HTTP dan HTTPS tetap berfungsi. Tingkatkan untuk mengaktifkannya kembali. WireGuard bisa memerlukan hingga 30 menit untuk terhubung kembali."
+  it: "SOCKS e WireGuard fanno parte di Pro, quindi non funzionano più sui tuoi proxy. HTTP e HTTPS funzionano ancora. Passa a Pro per riattivarli. La riconnessione di WireGuard può richiedere fino a 30 minuti."
+  ja: "SOCKS と WireGuard は Pro の機能のため、お使いのプロキシでは使えなくなりました。HTTP と HTTPS は引き続き使えます。再び使うにはアップグレードしてください。WireGuard の再接続には最大 30 分かかることがあります。"
+  ko: "SOCKS와 WireGuard는 Pro에 포함된 기능이므로 이제 프록시에서 작동하지 않습니다. HTTP와 HTTPS는 계속 작동합니다. 다시 사용하려면 업그레이드하세요. WireGuard가 다시 연결되기까지 최대 30분이 걸릴 수 있습니다."
+  nl: "SOCKS en WireGuard horen bij Pro en werken daarom niet meer op je proxy's. HTTP en HTTPS werken nog wel. Upgrade om ze weer in te schakelen. Het kan tot 30 minuten duren voordat WireGuard opnieuw verbinding maakt."
+  pl: "SOCKS i WireGuard są częścią Pro, więc nie działają już na Twoich serwerach proxy. HTTP i HTTPS nadal działają. Przejdź na Pro, aby ponownie je włączyć. Ponowne połączenie WireGuard może potrwać do 30 minut."
+  pt: "SOCKS e WireGuard fazem parte do Pro, então não funcionam mais nos seus proxies. HTTP e HTTPS continuam funcionando. Faça upgrade para reativá-los. O WireGuard pode levar até 30 minutos para se reconectar."
+  pt-BR: "SOCKS e WireGuard fazem parte do Pro, então não funcionam mais nos seus proxies. HTTP e HTTPS continuam funcionando. Faça upgrade para reativá-los. O WireGuard pode levar até 30 minutos para se reconectar."
+  pt-PT: "O SOCKS e o WireGuard fazem parte do Pro, por isso já não funcionam nos seus proxies. O HTTP e o HTTPS continuam a funcionar. Faça upgrade para os voltar a ativar. O WireGuard pode demorar até 30 minutos a voltar a ligar-se."
+  ru: "SOCKS и WireGuard входят в Pro, поэтому на ваших прокси они больше не работают. HTTP и HTTPS по-прежнему работают. Перейдите на Pro, чтобы снова их включить. Повторное подключение WireGuard может занять до 30 минут."
+  sv: "SOCKS och WireGuard ingår i Pro, så de fungerar inte längre på dina proxyer. HTTP och HTTPS fungerar fortfarande. Uppgradera för att slå på dem igen. Det kan ta upp till 30 minuter innan WireGuard ansluter igen."
+  sw: "SOCKS na WireGuard ni sehemu ya Pro, kwa hiyo hazifanyi kazi tena kwenye proksi zako. HTTP na HTTPS bado zinafanya kazi. Pandisha daraja ili kuziwasha tena. WireGuard inaweza kuchukua hadi dakika 30 kuunganika tena."
+  th: "SOCKS และ WireGuard เป็นส่วนหนึ่งของ Pro จึงใช้กับพร็อกซีของคุณไม่ได้อีกต่อไป HTTP และ HTTPS ยังใช้งานได้ อัปเกรดเพื่อเปิดใช้งานอีกครั้ง WireGuard อาจใช้เวลาถึง 30 นาทีในการเชื่อมต่อใหม่"
+  uk: "SOCKS і WireGuard входять до Pro, тому на ваших проксі вони більше не працюють. HTTP і HTTPS і далі працюють. Перейдіть на Pro, щоб знову їх увімкнути. Повторне підключення WireGuard може тривати до 30 хвилин."
+  vi: "SOCKS và WireGuard thuộc gói Pro nên không còn hoạt động trên proxy của bạn. HTTP và HTTPS vẫn hoạt động. Hãy nâng cấp để bật lại. WireGuard có thể mất tới 30 phút để kết nối lại."
+  zh: "SOCKS 和 WireGuard 属于 Pro 功能，因此已无法在您的代理上使用。HTTP 和 HTTPS 仍可正常使用。升级即可重新启用。WireGuard 最多可能需要 30 分钟才能重新连接。"
+  zh-HK: "SOCKS 和 WireGuard 屬於 Pro 功能，因此已無法在你的代理上使用。HTTP 和 HTTPS 仍可正常使用。升級即可重新啟用。WireGuard 最多可能需要 30 分鐘才能重新連接。"

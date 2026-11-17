@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. Payouts go to an address whose key is not in this app. The phrase cannot be shown here."
+source: "This key is on another device or in your wallet."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هذا المفتاح موجود على جهاز آخر أو في محفظتك."
+  cs: "Tento klíč je na jiném zařízení nebo ve vaší peněžence."
+  de: "Dieser Schlüssel ist auf einem anderen Gerät oder in deiner Wallet."
+  el: "Αυτό το κλειδί βρίσκεται σε άλλη συσκευή ή στο πορτοφόλι σας."
+  en: "This key is on another device or in your wallet."
+  es: "Esta clave está en otro dispositivo o en tu billetera."
+  es-419: "Esta clave está en otro dispositivo o en tu billetera."
+  es-MX: "Esta clave está en otro dispositivo o en tu cartera."
+  fr: "Cette clé se trouve sur un autre appareil ou dans votre portefeuille."
+  he: "המפתח הזה נמצא במכשיר אחר או בארנק שלכם."
+  hi: "यह कुंजी किसी दूसरे डिवाइस पर या आपके वॉलेट में है।"
+  id: "Kunci ini ada di perangkat lain atau di dompet Anda."
+  it: "Questa chiave è su un altro dispositivo o nel tuo portafoglio."
+  ja: "このキーは別のデバイスまたはお使いのウォレットにあります。"
+  ko: "이 키는 다른 기기 또는 내 지갑에 있습니다."
+  nl: "Deze sleutel staat op een ander apparaat of in je wallet."
+  pl: "Ten klucz jest na innym urządzeniu lub w twoim portfelu."
+  pt: "Esta chave está noutro dispositivo ou na sua carteira."
+  pt-BR: "Esta chave está em outro dispositivo ou na sua carteira."
+  pt-PT: "Esta chave está noutro dispositivo ou na sua carteira."
+  ru: "Этот ключ находится на другом устройстве или в вашем кошельке."
+  sv: "Den här nyckeln finns på en annan enhet eller i din plånbok."
+  sw: "Ufunguo huu upo kwenye kifaa kingine au kwenye pochi yako."
+  th: "คีย์นี้อยู่บนอุปกรณ์อื่นหรือในกระเป๋าเงินของคุณ"
+  uk: "Цей ключ на іншому пристрої або у вашому гаманці."
+  vi: "Khóa này nằm trên thiết bị khác hoặc trong ví của bạn."
+  zh: "此密钥在另一台设备上或您的钱包中。"
+  zh-HK: "此金鑰在另一部裝置上或你的錢包中。"

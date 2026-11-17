@@ -1,0 +1,36 @@
+description: "Key screen, the confirmation when the user saved the recovery phrase first: one point of a short list."
+source: "Only the recovery phrase can move your SN25α."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لا يمكن نقل SN25α الخاص بك إلا بعبارة النسخ الاحتياطي."
+  cs: "Přesunout vaše SN25α může jen obnovovací fráze."
+  de: "Nur die Wiederherstellungsphrase kann dein SN25α bewegen."
+  el: "Μόνο η φράση επαναφοράς μπορεί να μετακινήσει τα SN25α σας."
+  en: "Only the recovery phrase can move your SN25α."
+  es: "Solo la frase de recuperación puede mover tu SN25α."
+  es-419: "Solo la frase de recuperación puede mover tu SN25α."
+  es-MX: "Solo la frase de recuperación puede mover tu SN25α."
+  fr: "Seule la phrase de sauvegarde permet de déplacer vos SN25α."
+  he: "רק ביטוי השחזור יכול להעביר את ה-SN25α שלכם."
+  hi: "केवल रिकवरी फ़्रेज़ से ही आपके SN25α को कहीं और ले जाया जा सकता है।"
+  id: "Hanya frasa cadangan yang dapat memindahkan SN25α Anda."
+  it: "Solo la frase di recupero può spostare i tuoi SN25α."
+  ja: "SN25α を移動できるのは復元フレーズだけです。"
+  ko: "SN25α는 복구 문구로만 옮길 수 있습니다."
+  nl: "Alleen de herstelzin kan je SN25α verplaatsen."
+  pl: "Tylko fraza odzyskiwania może przenieść twoje SN25α."
+  pt: "Só a frase de recuperação pode mover o seu SN25α."
+  pt-BR: "Só a frase de recuperação pode mover seu SN25α."
+  pt-PT: "Só a frase de recuperação pode mover o seu SN25α."
+  ru: "Переместить ваши SN25α можно только с помощью фразы восстановления."
+  sv: "Bara återställningsfrasen kan flytta dina SN25α."
+  sw: "Kifungu cha urejeshaji pekee ndicho kinachoweza kuhamisha SN25α yako."
+  th: "มีเพียงวลีสำรองเท่านั้นที่ย้าย SN25α ของคุณได้"
+  uk: "Перемістити ваші SN25α можна лише за допомогою фрази відновлення."
+  vi: "Chỉ cụm từ sao lưu mới có thể chuyển SN25α của bạn đi."
+  zh: "只有恢复短语才能转移您的 SN25α。"
+  zh-HK: "只有復原短語才能轉移你的 SN25α。"

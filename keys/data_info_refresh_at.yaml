@@ -1,4 +1,4 @@
-description: "\"About your data\" sheet: when the free daily data is granted again. {time} is the time left until the next 00:00 UTC as a compact duration (e.g. 5h 12m). Keep 00:00 UTC as is. Shown only to accounts without Pro (Pro does not get the free grant)."
+description: "\"About your data\" sheet: when the free daily data is granted again. {time} is the time left until the next 00:00 UTC as a compact duration (e.g. 5h 12m). Keep 00:00 UTC as is. Every account gets the free daily data, Pro accounts included. Which accounts see this line is up to each app (today: only accounts without Pro)."
 source: "Free data refreshes daily at 00:00 UTC (in %@)."
 platforms:
   - android

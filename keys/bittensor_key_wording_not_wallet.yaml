@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. Always visible on the screen."
+source: "URnetwork is not a wallet. It created this key so you can receive SN25α. To transfer or use your SN25α, enter this recovery phrase into a Bittensor wallet such as Talisman or Nova, or into btcli."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "URnetwork ليس محفظة. لقد أنشأ هذا المفتاح لتتمكن من استلام SN25α. لتحويل SN25α الخاص بك أو استخدامه، أدخل عبارة النسخ الاحتياطي هذه في محفظة Bittensor مثل Talisman أو Nova، أو في btcli."
+  cs: "URnetwork není peněženka. Tento klíč vytvořil, abyste mohli přijímat SN25α. Chcete-li své SN25α převést nebo použít, zadejte tuto obnovovací frázi do peněženky Bittensor, například Talisman nebo Nova, nebo do btcli."
+  de: "URnetwork ist keine Wallet. Es hat diesen Schlüssel erstellt, damit du SN25α empfangen kannst. Um dein SN25α zu übertragen oder zu verwenden, gib diese Wiederherstellungsphrase in eine Bittensor-Wallet wie Talisman oder Nova oder in btcli ein."
+  el: "Το URnetwork δεν είναι πορτοφόλι. Δημιούργησε αυτό το κλειδί για να μπορείτε να λαμβάνετε SN25α. Για να μεταφέρετε ή να χρησιμοποιήσετε τα SN25α σας, εισαγάγετε αυτή τη φράση επαναφοράς σε ένα πορτοφόλι Bittensor, όπως το Talisman ή το Nova, ή στο btcli."
+  en: "URnetwork is not a wallet. It created this key so you can receive SN25α. To transfer or use your SN25α, enter this recovery phrase into a Bittensor wallet such as Talisman or Nova, or into btcli."
+  es: "URnetwork no es una billetera. Creó esta clave para que puedas recibir SN25α. Para transferir o usar tu SN25α, introduce esta frase de recuperación en una billetera de Bittensor, como Talisman o Nova, o en btcli."
+  es-419: "URnetwork no es una billetera. Creó esta clave para que puedas recibir SN25α. Para transferir o usar tu SN25α, ingresa esta frase de recuperación en una billetera de Bittensor, como Talisman o Nova, o en btcli."
+  es-MX: "URnetwork no es una cartera. Creó esta clave para que puedas recibir SN25α. Para transferir o usar tu SN25α, ingresa esta frase de recuperación en una cartera de Bittensor, como Talisman o Nova, o en btcli."
+  fr: "URnetwork n’est pas un portefeuille. Il a créé cette clé pour que vous puissiez recevoir des SN25α. Pour transférer ou utiliser vos SN25α, saisissez cette phrase de sauvegarde dans un portefeuille Bittensor comme Talisman ou Nova, ou dans btcli."
+  he: "URnetwork אינו ארנק. הוא יצר את המפתח הזה כדי שתוכלו לקבל SN25α. כדי להעביר את ה-SN25α שלכם או להשתמש בו, הזינו את ביטוי השחזור הזה בארנק Bittensor כמו Talisman או Nova, או ב-btcli."
+  hi: "URnetwork वॉलेट नहीं है। इसने यह कुंजी इसलिए बनाई है ताकि आप SN25α प्राप्त कर सकें। अपने SN25α को ट्रांसफ़र करने या इस्तेमाल करने के लिए, यह रिकवरी फ़्रेज़ Talisman या Nova जैसे किसी Bittensor वॉलेट में, या btcli में डालें।"
+  id: "URnetwork bukan dompet. URnetwork membuat kunci ini agar Anda dapat menerima SN25α. Untuk mentransfer atau menggunakan SN25α Anda, masukkan frasa cadangan ini ke dompet Bittensor seperti Talisman atau Nova, atau ke btcli."
+  it: "URnetwork non è un portafoglio. Ha creato questa chiave per permetterti di ricevere SN25α. Per trasferire o usare i tuoi SN25α, inserisci questa frase di recupero in un portafoglio Bittensor come Talisman o Nova, oppure in btcli."
+  ja: "URnetwork はウォレットではありません。このキーは、SN25α を受け取れるように URnetwork が作成したものです。SN25α を送金または使用するには、この復元フレーズを Talisman や Nova などの Bittensor ウォレット、または btcli に入力してください。"
+  ko: "URnetwork는 지갑이 아닙니다. 이 키는 SN25α를 받을 수 있도록 URnetwork가 만든 것입니다. SN25α를 전송하거나 사용하려면 이 복구 문구를 Talisman이나 Nova 같은 Bittensor 지갑 또는 btcli에 입력하세요."
+  nl: "URnetwork is geen wallet. Het heeft deze sleutel gemaakt zodat je SN25α kunt ontvangen. Om je SN25α over te maken of te gebruiken, voer je deze herstelzin in een Bittensor-wallet zoals Talisman of Nova in, of in btcli."
+  pl: "URnetwork nie jest portfelem. Utworzył ten klucz, aby umożliwić ci otrzymywanie SN25α. Aby przenieść swoje SN25α lub ich użyć, wpisz tę frazę odzyskiwania do portfela Bittensor, takiego jak Talisman lub Nova, albo do btcli."
+  pt: "O URnetwork não é uma carteira. Criou esta chave para que possa receber SN25α. Para transferir ou utilizar o seu SN25α, introduza esta frase de recuperação numa carteira Bittensor, como a Talisman ou a Nova, ou no btcli."
+  pt-BR: "O URnetwork não é uma carteira. Ele criou esta chave para que você possa receber SN25α. Para transferir ou usar seu SN25α, insira esta frase de recuperação em uma carteira Bittensor, como Talisman ou Nova, ou no btcli."
+  pt-PT: "O URnetwork não é uma carteira. Criou esta chave para que possa receber SN25α. Para transferir ou utilizar o seu SN25α, introduza esta frase de recuperação numa carteira Bittensor, como a Talisman ou a Nova, ou no btcli."
+  ru: "URnetwork не является кошельком. Он создал этот ключ, чтобы вы могли получать SN25α. Чтобы перевести или использовать свои SN25α, введите эту фразу восстановления в кошелек Bittensor, например Talisman или Nova, или в btcli."
+  sv: "URnetwork är inte en plånbok. URnetwork skapade den här nyckeln så att du kan ta emot SN25α. För att överföra eller använda dina SN25α anger du den här återställningsfrasen i en Bittensor-plånbok som Talisman eller Nova, eller i btcli."
+  sw: "URnetwork si pochi. Iliunda ufunguo huu ili uweze kupokea SN25α. Ili kuhamisha au kutumia SN25α yako, weka kifungu hiki cha urejeshaji kwenye pochi ya Bittensor kama Talisman au Nova, au kwenye btcli."
+  th: "URnetwork ไม่ใช่กระเป๋าเงิน แต่สร้างคีย์นี้เพื่อให้คุณรับ SN25α ได้ หากต้องการโอนหรือใช้ SN25α ของคุณ ให้ป้อนวลีสำรองนี้ลงในกระเป๋าเงิน Bittensor เช่น Talisman หรือ Nova หรือลงใน btcli"
+  uk: "URnetwork не є гаманцем. Він створив цей ключ, щоб ви могли отримувати SN25α. Щоб переказати або використати свої SN25α, введіть цю фразу відновлення в гаманець Bittensor, наприклад Talisman або Nova, чи в btcli."
+  vi: "URnetwork không phải là ví. URnetwork tạo khóa này để bạn có thể nhận SN25α. Để chuyển hoặc sử dụng SN25α của bạn, hãy nhập cụm từ sao lưu này vào ví Bittensor như Talisman hoặc Nova, hoặc vào btcli."
+  zh: "URnetwork 不是钱包。它创建此密钥是为了让您能够接收 SN25α。要转移或使用您的 SN25α，请将此恢复短语输入 Talisman 或 Nova 等 Bittensor 钱包，或输入 btcli。"
+  zh-HK: "URnetwork 不是錢包。它建立此金鑰是為了讓你能夠接收 SN25α。要轉移或使用你的 SN25α，請將此復原短語輸入 Talisman 或 Nova 等 Bittensor 錢包，或輸入 btcli。"

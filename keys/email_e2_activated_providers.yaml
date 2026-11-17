@@ -1,4 +1,4 @@
-description: "Onboarding email E2, activated variant: social proof line. {providers_online} and {countries_online} are counts formatted by the server with grouping, e.g. \"4,812\" and \"96\"."
+description: "Onboarding email E2, activated and desktop variants: social proof line. {providers_online} and {countries_online} are counts formatted by the server with grouping, e.g. \"4,812\" and \"96\"."
 source: "{providers_online} providers are online right now across {countries_online} countries, so there is always one near you."
 platforms:
   - email

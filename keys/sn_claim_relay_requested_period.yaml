@@ -1,0 +1,105 @@
+description: "Earnings, the settlement v2 tile and the claim sheet, under the queued Claim now: the Claim now limit (once in this many days, 30 today; the count selects the plural form) starts when URnetwork's claim of this balance is paid, not at the tap, so the next Claim now opens this many days after this claim goes through. Claim now is the button's label; keep it recognizable as that label."
+source: "Your next Claim now opens %lld days after this claim goes through."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+placeholders:
+  - name: days
+    type: int
+plurals:
+  select: days
+localizations:
+  ar:
+    zero: "يمكنك استخدام «المطالبة الآن» مرة أخرى بعد {days} يوم من إتمام هذه المطالبة."
+    one: "يمكنك استخدام «المطالبة الآن» مرة أخرى بعد يوم واحد من إتمام هذه المطالبة."
+    two: "يمكنك استخدام «المطالبة الآن» مرة أخرى بعد يومين من إتمام هذه المطالبة."
+    few: "يمكنك استخدام «المطالبة الآن» مرة أخرى بعد {days} أيام من إتمام هذه المطالبة."
+    many: "يمكنك استخدام «المطالبة الآن» مرة أخرى بعد {days} يومًا من إتمام هذه المطالبة."
+    other: "يمكنك استخدام «المطالبة الآن» مرة أخرى بعد {days} يوم من إتمام هذه المطالبة."
+  cs:
+    one: "Další „Vyzvednout hned“ bude k dispozici den poté, co tento nárok projde."
+    few: "Další „Vyzvednout hned“ bude k dispozici {days} dny poté, co tento nárok projde."
+    many: "Další „Vyzvednout hned“ bude k dispozici {days} dne poté, co tento nárok projde."
+    other: "Další „Vyzvednout hned“ bude k dispozici {days} dní poté, co tento nárok projde."
+  de:
+    one: "Dein nächstes „Jetzt einlösen“ ist einen Tag nach Abschluss dieser Einlösung möglich."
+    other: "Dein nächstes „Jetzt einlösen“ ist {days} Tage nach Abschluss dieser Einlösung möglich."
+  el:
+    one: "Το επόμενο «Διεκδίκηση τώρα» θα είναι διαθέσιμο μία ημέρα αφού ολοκληρωθεί αυτή η διεκδίκηση."
+    other: "Το επόμενο «Διεκδίκηση τώρα» θα είναι διαθέσιμο {days} ημέρες αφού ολοκληρωθεί αυτή η διεκδίκηση."
+  en:
+    one: "Your next Claim now opens a day after this claim goes through."
+    other: "Your next Claim now opens {days} days after this claim goes through."
+  es:
+    one: "Tu próximo «Reclamar ahora» estará disponible un día después de que se complete esta reclamación."
+    other: "Tu próximo «Reclamar ahora» estará disponible {days} días después de que se complete esta reclamación."
+  es-419:
+    one: "Tu próximo “Reclamar ahora” estará disponible un día después de que se complete esta reclamación."
+    other: "Tu próximo “Reclamar ahora” estará disponible {days} días después de que se complete esta reclamación."
+  es-MX:
+    one: "Tu próximo “Reclamar ahora” estará disponible un día después de que se complete esta reclamación."
+    other: "Tu próximo “Reclamar ahora” estará disponible {days} días después de que se complete esta reclamación."
+  fr:
+    one: "Votre prochain « Réclamer maintenant » sera disponible un jour après l’aboutissement de cette réclamation."
+    other: "Votre prochain « Réclamer maintenant » sera disponible {days} jours après l’aboutissement de cette réclamation."
+  he:
+    one: "«מימוש עכשיו» הבא יהיה זמין יום אחד אחרי שהמימוש הזה יושלם."
+    two: "«מימוש עכשיו» הבא יהיה זמין יומיים אחרי שהמימוש הזה יושלם."
+    many: "«מימוש עכשיו» הבא יהיה זמין {days} ימים אחרי שהמימוש הזה יושלם."
+    other: "«מימוש עכשיו» הבא יהיה זמין {days} ימים אחרי שהמימוש הזה יושלם."
+  hi:
+    one: "अगला “अभी दावा करें” इस दावे के पूरा होने के एक दिन बाद उपलब्ध होगा।"
+    other: "अगला “अभी दावा करें” इस दावे के पूरा होने के {days} दिन बाद उपलब्ध होगा।"
+  id:
+    other: "“Klaim sekarang” berikutnya tersedia {days} hari setelah klaim ini berhasil."
+  it:
+    one: "Il prossimo «Riscatta ora» sarà disponibile un giorno dopo che questo riscatto sarà andato a buon fine."
+    other: "Il prossimo «Riscatta ora» sarà disponibile {days} giorni dopo che questo riscatto sarà andato a buon fine."
+  ja:
+    other: "次の「今すぐ受け取る」は、この受け取りが完了してから {days} 日後に利用できます。"
+  ko:
+    other: "다음 “지금 받기”는 이번 받기가 완료된 뒤 {days}일 후에 사용할 수 있습니다."
+  nl:
+    one: "Je kunt ‘Nu opeisen’ weer gebruiken een dag nadat deze claim is gelukt."
+    other: "Je kunt ‘Nu opeisen’ weer gebruiken {days} dagen nadat deze claim is gelukt."
+  pl:
+    one: "Następne „Odbierz teraz” będzie dostępne dzień po tym, jak ten odbiór się powiedzie."
+    few: "Następne „Odbierz teraz” będzie dostępne {days} dni po tym, jak ten odbiór się powiedzie."
+    many: "Następne „Odbierz teraz” będzie dostępne {days} dni po tym, jak ten odbiór się powiedzie."
+    other: "Następne „Odbierz teraz” będzie dostępne {days} dnia po tym, jak ten odbiór się powiedzie."
+  pt:
+    one: "O próximo «Reivindicar agora» fica disponível um dia depois de esta reivindicação ser concluída."
+    other: "O próximo «Reivindicar agora» fica disponível {days} dias depois de esta reivindicação ser concluída."
+  pt-BR:
+    one: "O próximo “Resgatar agora” fica disponível um dia depois que este resgate for concluído."
+    other: "O próximo “Resgatar agora” fica disponível {days} dias depois que este resgate for concluído."
+  pt-PT:
+    one: "O próximo «Reivindicar agora» fica disponível um dia depois de esta reivindicação ser concluída."
+    other: "O próximo «Reivindicar agora» fica disponível {days} dias depois de esta reivindicação ser concluída."
+  ru:
+    one: "Следующее «Получить сейчас» будет доступно через {days} день после того, как этот запрос пройдёт."
+    few: "Следующее «Получить сейчас» будет доступно через {days} дня после того, как этот запрос пройдёт."
+    many: "Следующее «Получить сейчас» будет доступно через {days} дней после того, как этот запрос пройдёт."
+    other: "Следующее «Получить сейчас» будет доступно через {days} дня после того, как этот запрос пройдёт."
+  sv:
+    one: "Ditt nästa ”Hämta ut nu” går att använda en dag efter att det här uttaget har gått igenom."
+    other: "Ditt nästa ”Hämta ut nu” går att använda {days} dagar efter att det här uttaget har gått igenom."
+  sw:
+    one: "“Dai sasa” linalofuata litapatikana siku moja baada ya dai hili kufanikiwa."
+    other: "“Dai sasa” linalofuata litapatikana siku {days} baada ya dai hili kufanikiwa."
+  th:
+    other: "“รับตอนนี้” ครั้งถัดไปจะใช้ได้ {days} วันหลังจากการรับครั้งนี้สำเร็จ"
+  uk:
+    one: "Наступне «Отримати зараз» буде доступне через {days} день після того, як цей запит пройде."
+    few: "Наступне «Отримати зараз» буде доступне через {days} дні після того, як цей запит пройде."
+    many: "Наступне «Отримати зараз» буде доступне через {days} днів після того, як цей запит пройде."
+    other: "Наступне «Отримати зараз» буде доступне через {days} дня після того, як цей запит пройде."
+  vi:
+    other: "Lần “Nhận ngay” tiếp theo sẽ khả dụng {days} ngày sau khi yêu cầu nhận này thành công."
+  zh:
+    other: "下一次“立即领取”将在本次领取完成 {days} 天后可用。"
+  zh-HK:
+    other: "下一次「立即領取」將在今次領取完成 {days} 日後可用。"

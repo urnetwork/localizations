@@ -1,0 +1,37 @@
+description: "Title of a notice on the app's main screen and above the list of proxies (the device list, ur.io's Proxies page), shown before the free plan loses SOCKS and WireGuard: the account is not on Pro, and its hosted proxies hold SOCKS or WireGuard, which are Pro features. pro_features_upgrade_message is the body, and Get Pro the button. Keep Pro as it is."
+source: "Pro features in use"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "ميزات Pro قيد الاستخدام"
+  cs: "Používáte funkce Pro"
+  de: "Pro-Funktionen werden genutzt"
+  el: "Χρησιμοποιούνται λειτουργίες Pro"
+  en: "Pro features in use"
+  es: "Funciones Pro en uso"
+  es-419: "Funciones Pro en uso"
+  es-MX: "Funciones Pro en uso"
+  fr: "Fonctions Pro utilisées"
+  he: "תכונות Pro בשימוש"
+  hi: "Pro सुविधाएँ इस्तेमाल में हैं"
+  id: "Fitur Pro sedang digunakan"
+  it: "Funzioni Pro in uso"
+  ja: "Pro の機能を使用中"
+  ko: "Pro 기능 사용 중"
+  nl: "Pro-functies in gebruik"
+  pl: "Używasz funkcji Pro"
+  pt: "Recursos Pro em uso"
+  pt-BR: "Recursos Pro em uso"
+  pt-PT: "Funcionalidades Pro em utilização"
+  ru: "Используются функции Pro"
+  sv: "Pro-funktioner används"
+  sw: "Vipengele vya Pro vinatumika"
+  th: "กำลังใช้ฟีเจอร์ Pro"
+  uk: "Використовуються функції Pro"
+  vi: "Đang dùng tính năng Pro"
+  zh: "正在使用 Pro 功能"
+  zh-HK: "正在使用 Pro 功能"

@@ -1,0 +1,37 @@
+description: "Earnings screen, the settlement v2 tile and the claim sheet: a line beside a relay icon. URnetwork sends the claim transaction and pays its gas; the SN25α goes to the user's own address."
+source: "URnetwork claims this for you"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "يطالب URnetwork بهذا نيابةً عنك"
+  cs: "URnetwork za vás odešle nárok"
+  de: "URnetwork löst das für dich ein"
+  el: "Το URnetwork το διεκδικεί για εσάς"
+  en: "URnetwork claims this for you"
+  es: "URnetwork lo reclama por ti"
+  es-419: "URnetwork lo reclama por ti"
+  es-MX: "URnetwork lo reclama por ti"
+  fr: "URnetwork le réclame pour vous"
+  he: "URnetwork מממש את זה עבורכם"
+  hi: "URnetwork आपकी ओर से इसका दावा करता है"
+  id: "URnetwork mengklaim ini untuk Anda"
+  it: "URnetwork lo riscatta per te"
+  ja: "URnetwork が受け取りの手続きを代行します"
+  ko: "URnetwork가 받기를 대신 처리합니다"
+  nl: "URnetwork eist dit voor je op"
+  pl: "URnetwork przeprowadza odbiór w twoim imieniu"
+  pt: "O URnetwork reivindica-o em seu nome"
+  pt-BR: "O URnetwork resgata isso para você"
+  pt-PT: "O URnetwork reivindica-o em seu nome"
+  ru: "URnetwork отправляет запрос на получение за вас"
+  sv: "URnetwork gör uttaget åt dig"
+  sw: "URnetwork inadai hili kwa niaba yako"
+  th: "URnetwork ดำเนินการรับให้คุณ"
+  uk: "URnetwork надсилає запит на отримання за вас"
+  vi: "URnetwork gửi yêu cầu nhận thay cho bạn"
+  zh: "URnetwork 代您发起领取"
+  zh-HK: "URnetwork 代你發起領取"

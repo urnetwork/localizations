@@ -1,4 +1,4 @@
-description: "Onboarding email E2, activated variant: opening line with the user's connect days. {connect_days} and {days_active} are counts formatted by the server; days_active is at least 2 on any real send."
+description: "Onboarding email E2, activated and desktop variants: opening line with the user's connect days. {connect_days} and {days_active} are counts formatted by the server; days_active is at least 2 on any real send."
 source: "You've connected on {connect_days} of your first {days_active} days. Nice."
 platforms:
   - email

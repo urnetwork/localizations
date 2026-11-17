@@ -1,0 +1,36 @@
+description: "Key screen, the title of the sheet where the user types two words of the recovery phrase, to show it was saved."
+source: "Enter two of the words"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "أدخل اثنتين من الكلمات"
+  cs: "Zadejte dvě slova z fráze"
+  de: "Gib zwei der Wörter ein"
+  el: "Εισαγάγετε δύο από τις λέξεις"
+  en: "Enter two of the words"
+  es: "Introduce dos de las palabras"
+  es-419: "Ingresa dos de las palabras"
+  es-MX: "Ingresa dos de las palabras"
+  fr: "Saisissez deux des mots"
+  he: "הזינו שתיים מהמילים"
+  hi: "दो शब्द डालें"
+  id: "Masukkan dua kata"
+  it: "Inserisci due delle parole"
+  ja: "単語を 2 つ入力"
+  ko: "단어 두 개 입력"
+  nl: "Voer twee van de woorden in"
+  pl: "Wpisz dwa słowa z frazy"
+  pt: "Introduza duas das palavras"
+  pt-BR: "Insira duas das palavras"
+  pt-PT: "Introduza duas das palavras"
+  ru: "Введите два слова из фразы"
+  sv: "Ange två av orden"
+  sw: "Weka maneno mawili"
+  th: "ป้อนคำสองคำ"
+  uk: "Введіть два слова з фрази"
+  vi: "Nhập hai trong số các từ"
+  zh: "输入其中两个词"
+  zh-HK: "輸入其中兩個詞"

@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim dialog: the one button that claims the coldkey's provider pool account (sn_ledger_provider_pool) and its capture the flag account (sn_ctf_pool) together, while both are claimable. The device sends the two claims in one transaction. Claim now, URnetwork's own button, keeps its label and claims both pools too. Short: a button."
+source: "Claim both"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "المطالبة بكليهما"
+  cs: "Vyzvednout obojí"
+  de: "Beide einlösen"
+  el: "Διεκδίκηση και των δύο"
+  en: "Claim both"
+  es: "Reclamar ambos"
+  es-419: "Reclamar ambos"
+  es-MX: "Reclamar ambos"
+  fr: "Réclamer les deux"
+  he: "מימוש שניהם"
+  hi: "दोनों का दावा करें"
+  id: "Klaim keduanya"
+  it: "Riscatta entrambi"
+  ja: "両方を受け取る"
+  ko: "둘 다 받기"
+  nl: "Beide opeisen"
+  pl: "Odbierz obie"
+  pt: "Reivindicar ambos"
+  pt-BR: "Resgatar ambos"
+  pt-PT: "Reivindicar ambos"
+  ru: "Получить оба"
+  sv: "Hämta ut båda"
+  sw: "Dai yote mawili"
+  th: "รับทั้งสองรายการ"
+  uk: "Отримати обидва"
+  vi: "Nhận cả hai"
+  zh: "一并领取"
+  zh-HK: "一併領取"

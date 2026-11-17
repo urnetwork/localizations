@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. The first line while the network has no payout wallet. Set up payouts is the main button below it."
+source: "No payout wallet yet. Earnings aren't paid until you set one up."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لا توجد محفظة دفع بعد. لا تُدفع الأرباح إلا بعد أن تُعدّ محفظة."
+  cs: "Zatím žádná výplatní peněženka. Výdělky se nevyplácejí, dokud ji nenastavíte."
+  de: "Noch keine Auszahlungs-Wallet. Einnahmen werden erst ausgezahlt, wenn du eine einrichtest."
+  el: "Δεν υπάρχει ακόμη πορτοφόλι πληρωμής. Τα κέρδη δεν πληρώνονται μέχρι να ρυθμίσετε ένα."
+  en: "No payout wallet yet. Earnings aren't paid until you set one up."
+  es: "Aún no hay billetera de pago. Las ganancias no se pagan hasta que configures una."
+  es-419: "Todavía no hay billetera de pago. Las ganancias no se pagan hasta que configures una."
+  es-MX: "Todavía no hay cartera de pago. Las ganancias no se pagan hasta que configures una."
+  fr: "Aucun portefeuille de paiement pour l’instant. Les gains ne sont versés qu’une fois que vous en avez configuré un."
+  he: "עדיין אין ארנק תשלום. הרווחים לא ישולמו עד שתגדירו ארנק."
+  hi: "अभी कोई पेआउट वॉलेट नहीं है। जब तक आप इसे सेट नहीं करते, कमाई का भुगतान नहीं होता।"
+  id: "Belum ada dompet pembayaran. Penghasilan tidak dibayarkan sampai Anda menyiapkannya."
+  it: "Ancora nessun portafoglio di pagamento. I guadagni non vengono pagati finché non ne configuri uno."
+  ja: "支払いウォレットがまだありません。設定するまで収益は支払われません。"
+  ko: "아직 지급 지갑이 없습니다. 설정하기 전까지는 수익이 지급되지 않습니다."
+  nl: "Nog geen uitbetalingswallet. Verdiensten worden pas uitbetaald als je er een instelt."
+  pl: "Nie masz jeszcze portfela wypłat. Zarobki nie są wypłacane, dopóki go nie skonfigurujesz."
+  pt: "Ainda não há carteira de pagamento. Os ganhos só são pagos depois de configurar uma."
+  pt-BR: "Ainda não há carteira de pagamento. Os ganhos só são pagos depois que você configurar uma."
+  pt-PT: "Ainda não há carteira de pagamento. Os ganhos só são pagos depois de configurar uma."
+  ru: "Кошелька для выплат пока нет. Заработок не выплачивается, пока вы не настроите кошелек."
+  sv: "Ingen utbetalningsplånbok än. Intäkter betalas inte ut förrän du konfigurerar en."
+  sw: "Bado hakuna pochi ya malipo. Mapato hayalipwi hadi usanidi pochi."
+  th: "ยังไม่มีกระเป๋ารับยอดจ่าย รายได้จะไม่ถูกจ่ายจนกว่าคุณจะตั้งค่า"
+  uk: "Гаманця для виплат ще немає. Заробіток не виплачується, доки ви не налаштуєте гаманець."
+  vi: "Chưa có ví thanh toán. Thu nhập sẽ không được trả cho đến khi bạn thiết lập ví."
+  zh: "暂无支付钱包。您设置后才会支付收益。"
+  zh-HK: "暫時沒有支付錢包。你設定後才會支付收益。"

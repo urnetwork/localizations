@@ -1,0 +1,36 @@
+description: "Key screen, the title of the confirmation before this app deletes its copy of the Bittensor key. The user has said they saved the recovery phrase."
+source: "Delete the key from this device?"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هل تريد حذف المفتاح من هذا الجهاز؟"
+  cs: "Odstranit klíč z tohoto zařízení?"
+  de: "Schlüssel von diesem Gerät löschen?"
+  el: "Διαγραφή του κλειδιού από αυτή τη συσκευή;"
+  en: "Delete the key from this device?"
+  es: "¿Eliminar la clave de este dispositivo?"
+  es-419: "¿Eliminar la clave de este dispositivo?"
+  es-MX: "¿Eliminar la clave de este dispositivo?"
+  fr: "Supprimer la clé de cet appareil ?"
+  he: "למחוק את המפתח מהמכשיר הזה?"
+  hi: "कुंजी इस डिवाइस से डिलीट करें?"
+  id: "Hapus kunci dari perangkat ini?"
+  it: "Eliminare la chiave da questo dispositivo?"
+  ja: "このデバイスからキーを削除しますか？"
+  ko: "이 기기에서 키를 삭제할까요?"
+  nl: "Sleutel van dit apparaat verwijderen?"
+  pl: "Usunąć klucz z tego urządzenia?"
+  pt: "Eliminar a chave deste dispositivo?"
+  pt-BR: "Excluir a chave deste dispositivo?"
+  pt-PT: "Eliminar a chave deste dispositivo?"
+  ru: "Удалить ключ с этого устройства?"
+  sv: "Radera nyckeln från den här enheten?"
+  sw: "Ungependa kufuta ufunguo kwenye kifaa hiki?"
+  th: "ลบคีย์ออกจากอุปกรณ์นี้ใช่ไหม"
+  uk: "Видалити ключ із цього пристрою?"
+  vi: "Xóa khóa khỏi thiết bị này?"
+  zh: "从这台设备删除密钥？"
+  zh-HK: "要從這部裝置刪除金鑰嗎？"

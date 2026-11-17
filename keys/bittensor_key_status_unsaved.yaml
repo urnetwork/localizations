@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card: a status line beside an amber dot. The Bittensor key is stored on this device and the user hasn't confirmed saving its recovery phrase."
+source: "Key on this device, not backed up yet"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "المفتاح على هذا الجهاز، ولم يُنسخ احتياطيًا بعد"
+  cs: "Klíč je na tomto zařízení, zatím nezálohovaný"
+  de: "Schlüssel auf diesem Gerät, noch nicht gesichert"
+  el: "Κλειδί σε αυτή τη συσκευή, χωρίς αντίγραφο ασφαλείας ακόμη"
+  en: "Key on this device, not backed up yet"
+  es: "Clave en este dispositivo, aún sin copia de seguridad"
+  es-419: "Clave en este dispositivo, todavía sin copia de seguridad"
+  es-MX: "Clave en este dispositivo, todavía sin copia de seguridad"
+  fr: "Clé sur cet appareil, pas encore sauvegardée"
+  he: "המפתח במכשיר הזה, עדיין לא גובה"
+  hi: "कुंजी इस डिवाइस पर है, अभी बैकअप नहीं लिया गया"
+  id: "Kunci di perangkat ini, belum dicadangkan"
+  it: "Chiave su questo dispositivo, backup non ancora eseguito"
+  ja: "キーはこのデバイスにあり、まだバックアップされていません"
+  ko: "키가 이 기기에 있음, 아직 백업 안 됨"
+  nl: "Sleutel op dit apparaat, nog geen back-up gemaakt"
+  pl: "Klucz na tym urządzeniu, jeszcze bez kopii zapasowej"
+  pt: "Chave neste dispositivo, ainda sem cópia de segurança"
+  pt-BR: "Chave neste dispositivo, ainda sem backup"
+  pt-PT: "Chave neste dispositivo, ainda sem cópia de segurança"
+  ru: "Ключ на этом устройстве, резервной копии ещё нет"
+  sv: "Nyckeln finns på den här enheten, inte säkerhetskopierad än"
+  sw: "Ufunguo upo kwenye kifaa hiki, bado haujahifadhiwa nakala"
+  th: "คีย์อยู่บนอุปกรณ์นี้ ยังไม่ได้สำรอง"
+  uk: "Ключ на цьому пристрої, резервної копії ще немає"
+  vi: "Khóa ở trên thiết bị này, chưa được sao lưu"
+  zh: "密钥在这台设备上，尚未备份"
+  zh-HK: "金鑰在這部裝置上，尚未備份"

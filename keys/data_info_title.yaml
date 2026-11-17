@@ -5,6 +5,7 @@ platforms:
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "حول بياناتك"
   cs: "O vašich datech"

@@ -1,6 +1,11 @@
 description: "Snackbar shown when connecting a wallet fails, with the underlying error message. Used in Main/Account/Wallets/WalletsView.swift."
 source: "There was an error connecting your wallet: %@"
 platforms:
+  - apple
+  - windows
+  - linux
+  - site
+deprecated:
   - android
   - apple
   - windows

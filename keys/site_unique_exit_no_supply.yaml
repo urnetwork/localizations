@@ -1,0 +1,11 @@
+description: "Create proxy: the server found no unused exit IP for this network in the chosen location"
+source: "No unique exit IP is available in this location right now. Try another location."
+platforms:
+  - site
+localizations:
+  ar: "لا يتوفر عنوان IP خروج فريد في هذا الموقع حاليًا. جرّب موقعًا آخر."
+  de: "An diesem Standort ist gerade keine eindeutige Ausgangs-IP verfügbar. Versuche einen anderen Standort."
+  en: "No unique exit IP is available in this location right now. Try another location."
+  es: "Ahora no hay una IP de salida única disponible en esta ubicación. Prueba otra ubicación."
+  ru: "Сейчас в этом месте нет свободного уникального IP выхода. Попробуйте другое место."
+  zh: "此位置目前没有可用的独立出口 IP。请尝试其他位置。"

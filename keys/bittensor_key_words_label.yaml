@@ -1,0 +1,39 @@
+description: "Key screen, a small label above the recovery phrase's words: that it has 12 words, and the key's Bittensor address, shortened to its first and last characters around an ellipsis (5F3s…kQ9v); keep the address as it is."
+source: "12 words · address %@"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "12 كلمة · العنوان {address}"
+  cs: "12 slov · adresa {address}"
+  de: "12 Wörter · Adresse {address}"
+  el: "12 λέξεις · διεύθυνση {address}"
+  en: "12 words · address {address}"
+  es: "12 palabras · dirección {address}"
+  es-419: "12 palabras · dirección {address}"
+  es-MX: "12 palabras · dirección {address}"
+  fr: "12 mots · adresse {address}"
+  he: "12 מילים · כתובת {address}"
+  hi: "12 शब्द · पता {address}"
+  id: "12 kata · alamat {address}"
+  it: "12 parole · indirizzo {address}"
+  ja: "12 語 · アドレス {address}"
+  ko: "12단어 · 주소 {address}"
+  nl: "12 woorden · adres {address}"
+  pl: "12 słów · adres {address}"
+  pt: "12 palavras · endereço {address}"
+  pt-BR: "12 palavras · endereço {address}"
+  pt-PT: "12 palavras · endereço {address}"
+  ru: "12 слов · адрес {address}"
+  sv: "12 ord · adress {address}"
+  sw: "Maneno 12 · anwani {address}"
+  th: "12 คำ · ที่อยู่ {address}"
+  uk: "12 слів · адреса {address}"
+  vi: "12 từ · địa chỉ {address}"
+  zh: "12 个词 · 地址 {address}"
+  zh-HK: "12 個詞 · 地址 {address}"

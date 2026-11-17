@@ -1,0 +1,39 @@
+description: "The warning before a new key on this device replaces the network's payout wallet. The placeholder is the old wallet's Bittensor address, shortened (5F3s…kQ9v); keep it as it is."
+source: "From the next epoch, your network's earnings go to a new key on this device. Earlier earnings stay on %@. The network admin gets an email about this change."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "بدءًا من الفترة التالية، تذهب أرباح شبكتك إلى مفتاح جديد على هذا الجهاز. تبقى الأرباح السابقة على {address}. يتلقى مسؤول الشبكة رسالة بريد إلكتروني بشأن هذا التغيير."
+  cs: "Od příští epochy budou výdělky vaší sítě chodit na nový klíč na tomto zařízení. Dřívější výdělky zůstanou na {address}. Správce sítě o této změně dostane e-mail."
+  de: "Ab der nächsten Epoche gehen die Einnahmen deines Netzwerks an einen neuen Schlüssel auf diesem Gerät. Frühere Einnahmen bleiben auf {address}. Der Admin des Netzwerks erhält eine E-Mail über diese Änderung."
+  el: "Από την επόμενη εποχή, τα κέρδη του δικτύου σας πηγαίνουν σε ένα νέο κλειδί σε αυτή τη συσκευή. Τα προηγούμενα κέρδη παραμένουν στο {address}. Ο διαχειριστής του δικτύου λαμβάνει email για αυτή την αλλαγή."
+  en: "From the next epoch, your network's earnings go to a new key on this device. Earlier earnings stay on {address}. The network admin gets an email about this change."
+  es: "A partir de la próxima época, las ganancias de tu red llegan a una nueva clave en este dispositivo. Las ganancias anteriores se quedan en {address}. El administrador de la red recibe un correo electrónico sobre este cambio."
+  es-419: "A partir de la próxima época, las ganancias de tu red llegan a una nueva clave en este dispositivo. Las ganancias anteriores se quedan en {address}. El administrador de la red recibe un correo electrónico sobre este cambio."
+  es-MX: "A partir de la próxima época, las ganancias de tu red llegan a una nueva clave en este dispositivo. Las ganancias anteriores se quedan en {address}. El administrador de la red recibe un correo electrónico sobre este cambio."
+  fr: "À partir de la prochaine époque, les gains de votre réseau vont à une nouvelle clé sur cet appareil. Les gains précédents restent sur {address}. L’administrateur du réseau reçoit un e-mail concernant ce changement."
+  he: "החל מהתקופה הבאה, הרווחים של הרשת שלכם יגיעו למפתח חדש במכשיר הזה. רווחים קודמים נשארים ב-{address}. מנהל הרשת יקבל אימייל על השינוי הזה."
+  hi: "अगले एपोक से आपके नेटवर्क की कमाई इस डिवाइस की एक नई कुंजी पर जाएगी। पिछली कमाई {address} पर ही रहेगी। नेटवर्क एडमिन को इस बदलाव के बारे में एक ईमेल मिलेगा।"
+  id: "Mulai epoch berikutnya, penghasilan jaringan Anda masuk ke kunci baru di perangkat ini. Penghasilan sebelumnya tetap ada di {address}. Admin jaringan menerima email tentang perubahan ini."
+  it: "Dalla prossima epoca, i guadagni della tua rete arrivano a una nuova chiave su questo dispositivo. I guadagni precedenti restano su {address}. L’amministratore della rete riceve un’email su questa modifica."
+  ja: "次のエポックから、ネットワークの収益はこのデバイス上の新しいキーに支払われます。これまでの収益は {address} に残ります。この変更について、ネットワークの管理者にメールが届きます。"
+  ko: "다음 에포크부터 네트워크의 수익은 이 기기의 새 키로 지급됩니다. 이전 수익은 {address}에 남습니다. 네트워크 관리자에게 이 변경에 관한 이메일이 전송됩니다."
+  nl: "Vanaf de volgende epoch gaan de verdiensten van je netwerk naar een nieuwe sleutel op dit apparaat. Eerdere verdiensten blijven op {address} staan. De beheerder van het netwerk krijgt een e-mail over deze wijziging."
+  pl: "Od następnej epoki zarobki twojej sieci będą trafiać na nowy klucz na tym urządzeniu. Wcześniejsze zarobki pozostaną na {address}. Administrator sieci otrzyma e-mail o tej zmianie."
+  pt: "A partir da próxima época, os ganhos da sua rede vão para uma nova chave neste dispositivo. Os ganhos anteriores ficam em {address}. O administrador da rede recebe um e-mail sobre esta alteração."
+  pt-BR: "A partir da próxima época, os ganhos da sua rede vão para uma nova chave neste dispositivo. Os ganhos anteriores ficam em {address}. O administrador da rede recebe um e-mail sobre esta mudança."
+  pt-PT: "A partir da próxima época, os ganhos da sua rede vão para uma nova chave neste dispositivo. Os ganhos anteriores ficam em {address}. O administrador da rede recebe um e-mail sobre esta alteração."
+  ru: "Со следующей эпохи заработок вашей сети будет поступать на новый ключ на этом устройстве. Прежний заработок останется на {address}. Администратор сети получит письмо об этом изменении."
+  sv: "Från nästa epok går ditt nätverks intäkter till en ny nyckel på den här enheten. Tidigare intäkter stannar på {address}. Nätverkets administratör får ett e-postmeddelande om den här ändringen."
+  sw: "Kuanzia kipindi kijacho, mapato ya mtandao wako yanaenda kwenye ufunguo mpya kwenye kifaa hiki. Mapato ya awali yanabaki kwenye {address}. Msimamizi wa mtandao atapokea barua pepe kuhusu mabadiliko haya."
+  th: "ตั้งแต่อีพอคถัดไป รายได้ของเครือข่ายของคุณจะเข้าคีย์ใหม่บนอุปกรณ์นี้ รายได้ก่อนหน้านี้จะยังอยู่ที่ {address} ผู้ดูแลเครือข่ายจะได้รับอีเมลเกี่ยวกับการเปลี่ยนแปลงนี้"
+  uk: "З наступної епохи заробіток вашої мережі надходитиме на новий ключ на цьому пристрої. Попередній заробіток залишиться на {address}. Адміністратор мережі отримає лист про цю зміну."
+  vi: "Từ epoch tiếp theo, thu nhập của mạng của bạn sẽ được chuyển đến một khóa mới trên thiết bị này. Thu nhập trước đó vẫn ở {address}. Quản trị viên mạng sẽ nhận được email về thay đổi này."
+  zh: "从下一个周期开始，您网络的收益将支付到这台设备上的新密钥。之前的收益仍保留在 {address}。网络管理员会收到一封关于此更改的电子邮件。"
+  zh-HK: "由下一個週期開始，你網絡的收益會支付到這部裝置上的新金鑰。之前的收益會保留在 {address}。網絡管理員會收到一封關於此變更的電郵。"

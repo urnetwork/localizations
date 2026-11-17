@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. Button that retries the link between the key on this device and the network's payouts."
+source: "Finish setup"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "إنهاء الإعداد"
+  cs: "Dokončit nastavení"
+  de: "Einrichtung abschließen"
+  el: "Ολοκλήρωση ρύθμισης"
+  en: "Finish setup"
+  es: "Finalizar configuración"
+  es-419: "Finalizar configuración"
+  es-MX: "Finalizar configuración"
+  fr: "Terminer la configuration"
+  he: "סיום ההגדרה"
+  hi: "सेटअप पूरा करें"
+  id: "Selesaikan penyiapan"
+  it: "Completa la configurazione"
+  ja: "設定を完了"
+  ko: "설정 완료"
+  nl: "Instellen voltooien"
+  pl: "Dokończ konfigurację"
+  pt: "Concluir configuração"
+  pt-BR: "Concluir configuração"
+  pt-PT: "Concluir configuração"
+  ru: "Завершить настройку"
+  sv: "Slutför konfigurationen"
+  sw: "Kamilisha usanidi"
+  th: "ตั้งค่าให้เสร็จสิ้น"
+  uk: "Завершити налаштування"
+  vi: "Hoàn tất thiết lập"
+  zh: "完成设置"
+  zh-HK: "完成設定"

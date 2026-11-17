@@ -1,0 +1,11 @@
+description: "Connect: after the extension's store opened in another tab, the button that reloads this tab (an open tab sees a newly installed extension only after a reload)"
+source: "Installed it? Reload this page"
+platforms:
+  - site
+localizations:
+  ar: "هل ثبّتها؟ أعد تحميل هذه الصفحة"
+  de: "Installiert? Seite neu laden"
+  en: "Installed it? Reload this page"
+  es: "¿Ya la instalaste? Recarga esta página"
+  ru: "Установили? Обновите страницу"
+  zh: "已安装？刷新此页面"

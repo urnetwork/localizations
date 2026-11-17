@@ -1,0 +1,36 @@
+description: "Key screen, a banner with a spinner while the app signs the network's payout consent with the new key, after the user confirmed two words of the recovery phrase."
+source: "Setting up payouts: signing your network's payout consent with this key."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "جارٍ إعداد المدفوعات: توقيع موافقة الدفع الخاصة بشبكتك باستخدام هذا المفتاح."
+  cs: "Nastavování výplat: podepisování souhlasu s výplatami vaší sítě tímto klíčem."
+  de: "Auszahlungen werden eingerichtet: Die Zustimmung zur Auszahlung deines Netzwerks wird mit diesem Schlüssel signiert."
+  el: "Ρύθμιση πληρωμών: υπογραφή της συγκατάθεσης πληρωμών του δικτύου σας με αυτό το κλειδί."
+  en: "Setting up payouts: signing your network's payout consent with this key."
+  es: "Configurando pagos: firmando el consentimiento de pago de tu red con esta clave."
+  es-419: "Configurando pagos: firmando el consentimiento de pago de tu red con esta clave."
+  es-MX: "Configurando pagos: firmando el consentimiento de pago de tu red con esta clave."
+  fr: "Configuration des paiements : signature du consentement aux paiements de votre réseau avec cette clé."
+  he: "מגדיר תשלומים: חותם על ההסכמה לתשלומים של הרשת שלכם עם המפתח הזה."
+  hi: "भुगतान सेट किए जा रहे हैं: इस कुंजी से आपके नेटवर्क की पेआउट सहमति पर साइन किया जा रहा है।"
+  id: "Menyiapkan pembayaran: menandatangani persetujuan pembayaran jaringan Anda dengan kunci ini."
+  it: "Configurazione dei pagamenti: firma del consenso ai pagamenti della tua rete con questa chiave."
+  ja: "支払いを設定しています：このキーでネットワークの支払いの同意に署名しています。"
+  ko: "지급 설정 중: 이 키로 네트워크의 지급 동의에 서명하는 중입니다."
+  nl: "Uitbetalingen worden ingesteld: de toestemming voor uitbetaling van je netwerk wordt met deze sleutel ondertekend."
+  pl: "Konfigurowanie wypłat: podpisywanie zgody na wypłaty twojej sieci tym kluczem."
+  pt: "A configurar pagamentos: a assinar o consentimento de pagamento da sua rede com esta chave."
+  pt-BR: "Configurando pagamentos: assinando o consentimento de pagamento da sua rede com esta chave."
+  pt-PT: "A configurar pagamentos: a assinar o consentimento de pagamento da sua rede com esta chave."
+  ru: "Настройка выплат: подписание согласия на выплаты вашей сети этим ключом."
+  sv: "Konfigurerar utbetalningar: signerar ditt nätverks samtycke till utbetalning med den här nyckeln."
+  sw: "Inasanidi malipo: inatia sahihi idhini ya malipo ya mtandao wako kwa ufunguo huu."
+  th: "กำลังตั้งค่าการจ่าย: กำลังลงนามความยินยอมรับยอดจ่ายของเครือข่ายคุณด้วยคีย์นี้"
+  uk: "Налаштування виплат: підписання згоди на виплати вашої мережі цим ключем."
+  vi: "Đang thiết lập thanh toán: đang ký xác nhận đồng ý nhận thanh toán của mạng bạn bằng khóa này."
+  zh: "正在设置支付：正在使用此密钥签署您网络的收益支付授权。"
+  zh-HK: "正在設定支付：正在使用此金鑰簽署你網絡的收益支付授權。"

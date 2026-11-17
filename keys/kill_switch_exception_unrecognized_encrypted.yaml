@@ -6,7 +6,7 @@ platforms:
   - windows
   - linux
 localizations:
-  ar: "عند إيقاف مفتاح القتل، تتجاوز حركة المرور التي تُبقيها قواعد أمان URnetwork خارج الشبكة، مثل البروتوكولات المشفرة غير المعروفة، شبكة VPN وتستخدم عنوان IP العام المحلي لديك. عند تشغيل مفتاح القتل، تُحظر حركة المرور هذه."
+  ar: "عند تعطيل مفتاح الإيقاف، تتجاوز حركة المرور التي تُبقيها قواعد أمان URnetwork خارج الشبكة، مثل البروتوكولات المشفرة غير المعروفة، شبكة VPN وتستخدم عنوان IP العام المحلي لديك. عند تشغيل مفتاح الإيقاف، تُحظر حركة المرور هذه."
   cs: "Když je kill switch vypnutý, provoz, který bezpečnostní pravidla URnetwork drží mimo síť, například nerozpoznané šifrované protokoly, obchází VPN a používá vaši místní veřejnou IP. Se zapnutým kill switchem je tento provoz blokován."
   de: "Wenn der Kill switch deaktiviert ist, umgeht Datenverkehr, den die Sicherheitsregeln von URnetwork aus dem Netzwerk heraushalten, etwa nicht erkannte verschlüsselte Protokolle, das VPN und nutzt deine lokale öffentliche IP. Bei aktiviertem Kill switch wird dieser Datenverkehr blockiert."
   el: "Όταν το Kill switch είναι ανενεργό, η κίνηση που οι κανόνες ασφαλείας του URnetwork κρατούν εκτός δικτύου, όπως μη αναγνωρισμένα κρυπτογραφημένα πρωτόκολλα, παρακάμπτει το VPN και χρησιμοποιεί την τοπική δημόσια IP σας. Με το Kill switch ενεργό, αυτή η κίνηση αποκλείεται."

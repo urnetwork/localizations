@@ -1,0 +1,11 @@
+description: "Proxies list: the proxy's exit failed and a new unique exit is being assigned"
+source: "Replacing exit…"
+platforms:
+  - site
+localizations:
+  ar: "جارٍ استبدال المخرج…"
+  de: "Ausgang wird ersetzt…"
+  en: "Replacing exit…"
+  es: "Reemplazando la salida…"
+  ru: "Замена выхода…"
+  zh: "正在更换出口…"

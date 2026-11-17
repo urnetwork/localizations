@@ -1,0 +1,40 @@
+description: "Earnings claim sheet: who claims and where the tokens go. The placeholder is the user's Bittensor address, shortened (5F3s…kQ9v); keep it as it is."
+source: "URnetwork claims this for you. It pays the gas, and your SN25α lands on %@."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "يطالب URnetwork بهذا نيابةً عنك. يدفع رسوم الغاز، ويصل SN25α الخاص بك إلى {address}."
+  cs: "URnetwork za vás odešle nárok. Zaplatí gas a vaše SN25α přijde na {address}."
+  de: "URnetwork löst das für dich ein. URnetwork zahlt das Gas, und dein SN25α landet auf {address}."
+  el: "Το URnetwork το διεκδικεί για εσάς. Πληρώνει το gas και τα SN25α σας καταλήγουν στη διεύθυνση {address}."
+  en: "URnetwork claims this for you. It pays the gas, and your SN25α lands on {address}."
+  es: "URnetwork lo reclama por ti. Paga el gas y tu SN25α llega a {address}."
+  es-419: "URnetwork lo reclama por ti. Paga el gas y tu SN25α llega a {address}."
+  es-MX: "URnetwork lo reclama por ti. Paga el gas y tu SN25α llega a {address}."
+  fr: "URnetwork le réclame pour vous. Il paie le gas, et vos SN25α arrivent sur {address}."
+  he: "URnetwork מממש את זה עבורכם. הוא משלם את הגז, וה-SN25α שלכם מגיע ל-{address}."
+  hi: "URnetwork आपकी ओर से इसका दावा करता है। वह गैस का भुगतान करता है, और आपका SN25α {address} पर पहुँचता है।"
+  id: "URnetwork mengklaim ini untuk Anda. URnetwork membayar gas, dan SN25α Anda masuk ke {address}."
+  it: "URnetwork lo riscatta per te. Paga il gas e i tuoi SN25α arrivano su {address}."
+  ja: "URnetwork が受け取りの手続きを代行します。ガス代は URnetwork が支払い、SN25α は {address} に届きます。"
+  ko: "URnetwork가 받기를 대신 처리합니다. 가스는 URnetwork가 지불하며, SN25α는 {address} 주소로 들어옵니다."
+  nl: "URnetwork eist dit voor je op. URnetwork betaalt het gas, en je SN25α komt op {address} terecht."
+  pl: "URnetwork przeprowadza odbiór w twoim imieniu. Płaci za gas, a twoje SN25α trafiają na {address}."
+  pt: "O URnetwork reivindica-o em seu nome. Paga o gás e o seu SN25α chega a {address}."
+  pt-BR: "O URnetwork resgata isso para você. Ele paga o gás, e seu SN25α chega a {address}."
+  pt-PT: "O URnetwork reivindica-o em seu nome. Paga o gás e o seu SN25α chega a {address}."
+  ru: "URnetwork отправляет запрос на получение за вас. Он оплачивает газ, а ваши SN25α поступают на {address}."
+  sv: "URnetwork gör uttaget åt dig. URnetwork betalar gasen, och dina SN25α hamnar på {address}."
+  sw: "URnetwork inadai hili kwa niaba yako. Inalipa gas, na SN25α yako inaingia kwenye {address}."
+  th: "URnetwork ดำเนินการรับให้คุณ โดยเป็นผู้จ่ายค่า gas และ SN25α ของคุณจะเข้าสู่ {address}"
+  uk: "URnetwork надсилає запит на отримання за вас. Він оплачує газ, а ваші SN25α надходять на {address}."
+  vi: "URnetwork gửi yêu cầu nhận thay cho bạn. URnetwork trả gas, và SN25α của bạn sẽ về {address}."
+  zh: "URnetwork 代您发起领取。Gas 费由 URnetwork 支付，您的 SN25α 将存入 {address}。"
+  zh-HK: "URnetwork 代你發起領取。Gas 費由 URnetwork 支付，你的 SN25α 會存入 {address}。"

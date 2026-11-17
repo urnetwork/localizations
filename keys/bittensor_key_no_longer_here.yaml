@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. A status line after the user saved the phrase and the app deleted its copy of the key."
+source: "This app no longer has the key"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لم يعد المفتاح موجودًا في هذا التطبيق"
+  cs: "Tato aplikace už klíč nemá"
+  de: "Diese App hat den Schlüssel nicht mehr"
+  el: "Αυτή η εφαρμογή δεν έχει πλέον το κλειδί"
+  en: "This app no longer has the key"
+  es: "Esta aplicación ya no tiene la clave"
+  es-419: "Esta aplicación ya no tiene la clave"
+  es-MX: "Esta aplicación ya no tiene la clave"
+  fr: "Cette application n’a plus la clé"
+  he: "לאפליקציה הזו כבר אין את המפתח"
+  hi: "इस ऐप के पास अब यह कुंजी नहीं है"
+  id: "Aplikasi ini tidak lagi memiliki kunci"
+  it: "Questa app non ha più la chiave"
+  ja: "このアプリにはキーがなくなりました"
+  ko: "이 앱에는 더 이상 키가 없습니다"
+  nl: "Deze app heeft de sleutel niet meer"
+  pl: "Ta aplikacja nie ma już klucza"
+  pt: "Esta app já não tem a chave"
+  pt-BR: "Este app não tem mais a chave"
+  pt-PT: "Esta app já não tem a chave"
+  ru: "У этого приложения больше нет ключа"
+  sv: "Den här appen har inte längre nyckeln"
+  sw: "Programu hii haina tena ufunguo"
+  th: "แอปนี้ไม่มีคีย์แล้ว"
+  uk: "У цього застосунку більше немає ключа"
+  vi: "Ứng dụng này không còn giữ khóa"
+  zh: "此应用已不再保存该密钥"
+  zh-HK: "此應用程式已不再保存該金鑰"

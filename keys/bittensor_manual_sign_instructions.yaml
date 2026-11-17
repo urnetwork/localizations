@@ -1,10 +1,11 @@
 description: "Manual Bittensor wallet proof: how to sign the shown challenge message. The argument is the wallet product name (Talisman or TAO.com)."
 source: "Sign this message with the %@ wallet that holds your coldkey, then paste the address and the signature below."
+deprecated:
+  - windows
+  - linux
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 placeholders:
   - name: wallet

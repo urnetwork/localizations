@@ -1,0 +1,36 @@
+description: "Earnings screen: the title of a warning banner, and a button on the payout card. Both open the Key screen, where the user saves the recovery phrase."
+source: "Back up your key"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "انسخ مفتاحك احتياطيًا"
+  cs: "Zálohujte svůj klíč"
+  de: "Sichere deinen Schlüssel"
+  el: "Δημιουργήστε αντίγραφο ασφαλείας του κλειδιού σας"
+  en: "Back up your key"
+  es: "Haz una copia de seguridad de tu clave"
+  es-419: "Haz una copia de seguridad de tu clave"
+  es-MX: "Haz una copia de seguridad de tu clave"
+  fr: "Sauvegardez votre clé"
+  he: "גבו את המפתח שלכם"
+  hi: "अपनी कुंजी का बैकअप लें"
+  id: "Cadangkan kunci Anda"
+  it: "Fai il backup della tua chiave"
+  ja: "キーをバックアップ"
+  ko: "키 백업하기"
+  nl: "Maak een back-up van je sleutel"
+  pl: "Utwórz kopię zapasową klucza"
+  pt: "Faça uma cópia de segurança da sua chave"
+  pt-BR: "Faça backup da sua chave"
+  pt-PT: "Faça uma cópia de segurança da sua chave"
+  ru: "Создайте резервную копию ключа"
+  sv: "Säkerhetskopiera din nyckel"
+  sw: "Hifadhi nakala ya ufunguo wako"
+  th: "สำรองคีย์ของคุณ"
+  uk: "Створіть резервну копію ключа"
+  vi: "Sao lưu khóa của bạn"
+  zh: "备份您的密钥"
+  zh-HK: "備份你的金鑰"

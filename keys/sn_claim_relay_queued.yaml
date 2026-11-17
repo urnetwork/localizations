@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: why the balance is still pending, it is in line to be claimed."
+source: "URnetwork claims this soon."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "سيطالب URnetwork بهذا قريبًا."
+  cs: "URnetwork brzy odešle nárok."
+  de: "URnetwork löst das bald ein."
+  el: "Το URnetwork θα το διεκδικήσει σύντομα."
+  en: "URnetwork claims this soon."
+  es: "URnetwork lo reclamará pronto."
+  es-419: "URnetwork lo reclamará pronto."
+  es-MX: "URnetwork lo reclamará pronto."
+  fr: "URnetwork le réclamera bientôt."
+  he: "URnetwork יממש את זה בקרוב."
+  hi: "URnetwork जल्द ही इसका दावा करेगा।"
+  id: "URnetwork akan segera mengklaim ini."
+  it: "URnetwork lo riscatterà a breve."
+  ja: "まもなく URnetwork が受け取りの手続きを行います。"
+  ko: "곧 URnetwork가 받기를 처리합니다."
+  nl: "URnetwork eist dit binnenkort op."
+  pl: "URnetwork wkrótce przeprowadzi odbiór."
+  pt: "O URnetwork vai reivindicá-lo em breve."
+  pt-BR: "O URnetwork vai resgatar isso em breve."
+  pt-PT: "O URnetwork vai reivindicá-lo em breve."
+  ru: "URnetwork скоро отправит запрос на получение."
+  sv: "URnetwork gör uttaget snart."
+  sw: "URnetwork itadai hili hivi karibuni."
+  th: "URnetwork จะดำเนินการรับในไม่ช้า"
+  uk: "URnetwork незабаром надішле запит на отримання."
+  vi: "URnetwork sẽ sớm gửi yêu cầu nhận."
+  zh: "URnetwork 即将发起领取。"
+  zh-HK: "URnetwork 即將發起領取。"

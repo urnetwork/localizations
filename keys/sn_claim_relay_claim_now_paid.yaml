@@ -1,0 +1,105 @@
+description: "Earnings, the settlement v2 tile, under the Claim now button: URnetwork pays the gas, and the button can be used once in this many days (30 today; the count selects the plural form). Claim now is the button's label; keep it recognizable as that label."
+source: "Claim now is paid by URnetwork, once every %lld days."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+placeholders:
+  - name: days
+    type: int
+plurals:
+  select: days
+localizations:
+  ar:
+    zero: "«المطالبة الآن» على حساب URnetwork، مرة كل {days} يوم."
+    one: "«المطالبة الآن» على حساب URnetwork، مرة كل يوم."
+    two: "«المطالبة الآن» على حساب URnetwork، مرة كل يومين."
+    few: "«المطالبة الآن» على حساب URnetwork، مرة كل {days} أيام."
+    many: "«المطالبة الآن» على حساب URnetwork، مرة كل {days} يومًا."
+    other: "«المطالبة الآن» على حساب URnetwork، مرة كل {days} يوم."
+  cs:
+    one: "„Vyzvednout hned“ hradí URnetwork, jednou denně."
+    few: "„Vyzvednout hned“ hradí URnetwork, jednou za {days} dny."
+    many: "„Vyzvednout hned“ hradí URnetwork, jednou za {days} dne."
+    other: "„Vyzvednout hned“ hradí URnetwork, jednou za {days} dní."
+  de:
+    one: "„Jetzt einlösen“ wird von URnetwork bezahlt, einmal täglich."
+    other: "„Jetzt einlösen“ wird von URnetwork bezahlt, einmal alle {days} Tage."
+  el:
+    one: "Το «Διεκδίκηση τώρα» πληρώνεται από το URnetwork, μία φορά την ημέρα."
+    other: "Το «Διεκδίκηση τώρα» πληρώνεται από το URnetwork, μία φορά κάθε {days} ημέρες."
+  en:
+    one: "Claim now is paid by URnetwork, once a day."
+    other: "Claim now is paid by URnetwork, once every {days} days."
+  es:
+    one: "«Reclamar ahora» lo paga URnetwork, una vez al día."
+    other: "«Reclamar ahora» lo paga URnetwork, una vez cada {days} días."
+  es-419:
+    one: "“Reclamar ahora” lo paga URnetwork, una vez al día."
+    other: "“Reclamar ahora” lo paga URnetwork, una vez cada {days} días."
+  es-MX:
+    one: "“Reclamar ahora” lo paga URnetwork, una vez al día."
+    other: "“Reclamar ahora” lo paga URnetwork, una vez cada {days} días."
+  fr:
+    one: "« Réclamer maintenant » est payé par URnetwork, une fois par jour."
+    other: "« Réclamer maintenant » est payé par URnetwork, une fois tous les {days} jours."
+  he:
+    one: "«מימוש עכשיו» משולם על ידי URnetwork, פעם ביום."
+    two: "«מימוש עכשיו» משולם על ידי URnetwork, פעם ביומיים."
+    many: "«מימוש עכשיו» משולם על ידי URnetwork, פעם ב-{days} ימים."
+    other: "«מימוש עכשיו» משולם על ידי URnetwork, פעם ב-{days} ימים."
+  hi:
+    one: "“अभी दावा करें” का भुगतान URnetwork करता है, दिन में एक बार।"
+    other: "“अभी दावा करें” का भुगतान URnetwork करता है, हर {days} दिन में एक बार।"
+  id:
+    other: "“Klaim sekarang” dibayar oleh URnetwork, sekali setiap {days} hari."
+  it:
+    one: "«Riscatta ora» è pagato da URnetwork, una volta al giorno."
+    other: "«Riscatta ora» è pagato da URnetwork, una volta ogni {days} giorni."
+  ja:
+    other: "「今すぐ受け取る」は URnetwork の負担で、{days} 日に 1 回利用できます。"
+  ko:
+    other: "“지금 받기”는 URnetwork가 비용을 부담하며, {days}일에 한 번 사용할 수 있습니다."
+  nl:
+    one: "‘Nu opeisen’ wordt betaald door URnetwork, één keer per dag."
+    other: "‘Nu opeisen’ wordt betaald door URnetwork, één keer per {days} dagen."
+  pl:
+    one: "Za „Odbierz teraz” płaci URnetwork, raz dziennie."
+    few: "Za „Odbierz teraz” płaci URnetwork, raz na {days} dni."
+    many: "Za „Odbierz teraz” płaci URnetwork, raz na {days} dni."
+    other: "Za „Odbierz teraz” płaci URnetwork, raz na {days} dnia."
+  pt:
+    one: "«Reivindicar agora» é pago pelo URnetwork, uma vez por dia."
+    other: "«Reivindicar agora» é pago pelo URnetwork, uma vez a cada {days} dias."
+  pt-BR:
+    one: "“Resgatar agora” é pago pelo URnetwork, uma vez por dia."
+    other: "“Resgatar agora” é pago pelo URnetwork, uma vez a cada {days} dias."
+  pt-PT:
+    one: "«Reivindicar agora» é pago pelo URnetwork, uma vez por dia."
+    other: "«Reivindicar agora» é pago pelo URnetwork, uma vez a cada {days} dias."
+  ru:
+    one: "«Получить сейчас» оплачивается URnetwork, раз в {days} день."
+    few: "«Получить сейчас» оплачивается URnetwork, раз в {days} дня."
+    many: "«Получить сейчас» оплачивается URnetwork, раз в {days} дней."
+    other: "«Получить сейчас» оплачивается URnetwork, раз в {days} дня."
+  sv:
+    one: "”Hämta ut nu” betalas av URnetwork, en gång per dag."
+    other: "”Hämta ut nu” betalas av URnetwork, en gång per {days} dagar."
+  sw:
+    one: "“Dai sasa” linalipiwa na URnetwork, mara moja kila siku."
+    other: "“Dai sasa” linalipiwa na URnetwork, mara moja kila siku {days}."
+  th:
+    other: "“รับตอนนี้” ออกค่าใช้จ่ายโดย URnetwork ใช้ได้ {days} วันต่อครั้ง"
+  uk:
+    one: "«Отримати зараз» оплачується URnetwork, раз на {days} день."
+    few: "«Отримати зараз» оплачується URnetwork, раз на {days} дні."
+    many: "«Отримати зараз» оплачується URnetwork, раз на {days} днів."
+    other: "«Отримати зараз» оплачується URnetwork, раз на {days} дня."
+  vi:
+    other: "“Nhận ngay” do URnetwork chi trả, {days} ngày một lần."
+  zh:
+    other: "“立即领取”由 URnetwork 支付费用，每 {days} 天一次。"
+  zh-HK:
+    other: "「立即領取」由 URnetwork 支付費用，每 {days} 日一次。"

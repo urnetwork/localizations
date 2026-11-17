@@ -1,0 +1,36 @@
+description: "Key screen, the keep sheet: what keeping does. Convert is the app's SN25α to TAO action; one-tap Top 200 is claiming a spot on the subnet's Top 200 leaderboard with one tap. Keep Top 200 as the app writes it."
+source: "You've saved the recovery phrase, so the backup reminder ends. The key stays on this device for convert and one-tap Top 200."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لقد حفظت عبارة النسخ الاحتياطي، لذا ينتهي تذكير النسخ الاحتياطي. يبقى المفتاح على هذا الجهاز من أجل التحويل إلى TAO وحجز مكان في أفضل 200 بنقرة واحدة."
+  cs: "Obnovovací frázi jste si uložili, takže připomínka zálohování končí. Klíč zůstává na tomto zařízení pro převod na TAO a pro zajištění místa v Top 200 jedním klepnutím."
+  de: "Du hast die Wiederherstellungsphrase gespeichert, daher endet die Erinnerung zum Sichern. Der Schlüssel bleibt auf diesem Gerät, damit du in TAO umwandeln und dir mit einem Tippen einen Platz in den Top 200 sichern kannst."
+  el: "Αποθηκεύσατε τη φράση επαναφοράς, οπότε η υπενθύμιση δημιουργίας αντιγράφου ασφαλείας σταματά. Το κλειδί παραμένει σε αυτή τη συσκευή για τη μετατροπή σε TAO και για το κλείσιμο θέσης στο Top 200 με ένα πάτημα."
+  en: "You've saved the recovery phrase, so the backup reminder ends. The key stays on this device for convert and one-tap Top 200."
+  es: "Has guardado la frase de recuperación, así que el recordatorio de copia de seguridad termina. La clave se queda en este dispositivo para la conversión a TAO y para reclamar un puesto en el Top 200 con un toque."
+  es-419: "Guardaste la frase de recuperación, así que el recordatorio de copia de seguridad termina. La clave se queda en este dispositivo para la conversión a TAO y para reclamar un lugar en el Top 200 con un toque."
+  es-MX: "Guardaste la frase de recuperación, así que el recordatorio de copia de seguridad termina. La clave se queda en este dispositivo para la conversión a TAO y para reclamar un lugar en el Top 200 con un toque."
+  fr: "Vous avez enregistré la phrase de sauvegarde, le rappel de sauvegarde s’arrête donc. La clé reste sur cet appareil pour la conversion en TAO et pour réserver une place dans le Top 200 d’une simple touche."
+  he: "שמרתם את ביטוי השחזור, ולכן תזכורת הגיבוי מסתיימת. המפתח נשאר במכשיר הזה לצורך ההמרה ל-TAO ותפיסת מקום ב-Top 200 בהקשה אחת."
+  hi: "आपने रिकवरी फ़्रेज़ सहेज लिया है, इसलिए बैकअप रिमाइंडर बंद हो जाता है। TAO में बदलने और एक टैप में टॉप 200 की जगह पक्की करने के लिए कुंजी इस डिवाइस पर रहती है।"
+  id: "Anda sudah menyimpan frasa cadangan, jadi pengingat pencadangan berakhir. Kunci tetap ada di perangkat ini untuk konversi ke TAO dan mengamankan tempat Top 200 dengan satu ketukan."
+  it: "Hai salvato la frase di recupero, quindi il promemoria di backup termina. La chiave resta su questo dispositivo per la conversione in TAO e per prendere un posto nella Top 200 con un tocco."
+  ja: "復元フレーズを保存したため、バックアップのリマインダーは終了します。キーは、TAO への変換と、ワンタップでトップ 200 の枠を確保するために、このデバイスに残ります。"
+  ko: "복구 문구를 저장했으므로 백업 알림이 종료됩니다. TAO로 전환하고 한 번의 탭으로 Top 200 자리를 확보할 수 있도록 키가 이 기기에 유지됩니다."
+  nl: "Je hebt de herstelzin opgeslagen, dus de back-upherinnering stopt. De sleutel blijft op dit apparaat staan voor het omzetten naar TAO en om met één tik een plek in de Top 200 te claimen."
+  pl: "Masz zapisaną frazę odzyskiwania, więc przypomnienie o kopii zapasowej się kończy. Klucz pozostaje na tym urządzeniu do zamiany na TAO i zajęcia miejsca w Top 200 jednym dotknięciem."
+  pt: "Guardou a frase de recuperação, por isso o lembrete de cópia de segurança termina. A chave fica neste dispositivo para a conversão em TAO e para garantir um lugar no Top 200 com um toque."
+  pt-BR: "Você salvou a frase de recuperação, então o lembrete de backup termina. A chave fica neste dispositivo para a conversão em TAO e para garantir uma vaga no Top 200 com um toque."
+  pt-PT: "Guardou a frase de recuperação, por isso o lembrete de cópia de segurança termina. A chave fica neste dispositivo para a conversão em TAO e para garantir um lugar no Top 200 com um toque."
+  ru: "Вы сохранили фразу восстановления, поэтому напоминание о резервной копии прекращается. Ключ остаётся на этом устройстве для конвертации в TAO и для того, чтобы занять место в Топ-200 одним нажатием."
+  sv: "Du har sparat återställningsfrasen, så påminnelsen om säkerhetskopiering upphör. Nyckeln stannar på den här enheten för konvertering till TAO och för att ta en plats i Topp 200 med ett tryck."
+  sw: "Umehifadhi kifungu cha urejeshaji, kwa hivyo kikumbusho cha kuhifadhi nakala kinaisha. Ufunguo unabaki kwenye kifaa hiki kwa ajili ya kubadilisha kuwa TAO na kupata nafasi ya Top 200 kwa mguso mmoja."
+  th: "คุณบันทึกวลีสำรองแล้ว การแจ้งเตือนให้สำรองคีย์จึงสิ้นสุดลง คีย์จะยังอยู่บนอุปกรณ์นี้สำหรับการแปลงเป็น TAO และการจองที่ใน Top 200 ด้วยการแตะครั้งเดียว"
+  uk: "Ви зберегли фразу відновлення, тому нагадування про резервну копію припиняється. Ключ залишається на цьому пристрої для конвертації в TAO і для того, щоб зайняти місце в Топ-200 одним дотиком."
+  vi: "Bạn đã lưu cụm từ sao lưu, nên lời nhắc sao lưu sẽ kết thúc. Khóa vẫn ở trên thiết bị này để chuyển đổi sang TAO và giành chỗ trong Top 200 chỉ với một lần chạm."
+  zh: "您已保存恢复短语，因此备份提醒将结束。密钥会保留在这台设备上，用于转换为 TAO 和一键获取前 200 名席位。"
+  zh-HK: "你已儲存復原短語，因此備份提醒會結束。金鑰會保留在這部裝置上，用於轉換為 TAO 及一鍵取得前 200 名席位。"

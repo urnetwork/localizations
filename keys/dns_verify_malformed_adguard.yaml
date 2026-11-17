@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: AdGuard DNS fails every lookup for a device ID it can't read. {provider} is AdGuard DNS, inserted as is. \"Device ID\" is AdGuard DNS's name for the ID."
+source: "%@ rejected this device ID"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "رفض {provider} معرّف الجهاز هذا"
+  cs: "{provider}: toto ID zařízení bylo odmítnuto"
+  de: "{provider} hat diese Geräte-ID abgelehnt"
+  el: "{provider} απέρριψε αυτό το αναγνωριστικό συσκευής"
+  en: "{provider} rejected this device ID"
+  es: "{provider} ha rechazado este ID de dispositivo"
+  es-419: "{provider} rechazó este ID de dispositivo"
+  es-MX: "{provider} rechazó este ID de dispositivo"
+  fr: "{provider} a refusé cet ID d'appareil"
+  he: "{provider} דחה את מזהה המכשיר הזה"
+  hi: "{provider} ने यह डिवाइस ID अस्वीकार कर दी"
+  id: "{provider} menolak ID perangkat ini"
+  it: "{provider} ha rifiutato questo ID dispositivo"
+  ja: "{provider}がこのデバイスIDを拒否しました"
+  ko: "{provider}에서 이 기기 ID를 거부했습니다"
+  nl: "{provider} heeft deze apparaat-ID geweigerd"
+  pl: "Ten identyfikator urządzenia został odrzucony przez {provider}"
+  pt: "{provider} rejeitou este ID de dispositivo"
+  pt-BR: "{provider} rejeitou este ID de dispositivo"
+  pt-PT: "{provider} rejeitou este ID de dispositivo"
+  ru: "{provider}: этот ID устройства отклонён"
+  sv: "{provider} avvisade det här enhets-ID:t"
+  sw: "{provider} imekataa kitambulisho hiki cha kifaa"
+  th: "{provider} ปฏิเสธรหัสอุปกรณ์นี้"
+  uk: "{provider}: цей ID пристрою відхилено"
+  vi: "{provider} đã từ chối ID thiết bị này"
+  zh: "{provider} 拒绝了此设备 ID"
+  zh-HK: "{provider} 拒絕了此裝置 ID"

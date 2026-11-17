@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card: a status line beside a green dot. The Bittensor key is stored on this device and the user confirmed saving its recovery phrase."
+source: "Key on this device, recovery phrase saved"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "المفتاح على هذا الجهاز، وتم حفظ عبارة النسخ الاحتياطي"
+  cs: "Klíč je na tomto zařízení, obnovovací fráze je uložená"
+  de: "Schlüssel auf diesem Gerät, Wiederherstellungsphrase gespeichert"
+  el: "Κλειδί σε αυτή τη συσκευή, η φράση επαναφοράς αποθηκεύτηκε"
+  en: "Key on this device, recovery phrase saved"
+  es: "Clave en este dispositivo, frase de recuperación guardada"
+  es-419: "Clave en este dispositivo, frase de recuperación guardada"
+  es-MX: "Clave en este dispositivo, frase de recuperación guardada"
+  fr: "Clé sur cet appareil, phrase de sauvegarde enregistrée"
+  he: "המפתח במכשיר הזה, ביטוי השחזור נשמר"
+  hi: "कुंजी इस डिवाइस पर है, रिकवरी फ़्रेज़ सहेज लिया गया"
+  id: "Kunci di perangkat ini, frasa cadangan sudah disimpan"
+  it: "Chiave su questo dispositivo, frase di recupero salvata"
+  ja: "キーはこのデバイスにあり、復元フレーズは保存済みです"
+  ko: "키가 이 기기에 있음, 복구 문구 저장됨"
+  nl: "Sleutel op dit apparaat, herstelzin opgeslagen"
+  pl: "Klucz na tym urządzeniu, fraza odzyskiwania zapisana"
+  pt: "Chave neste dispositivo, frase de recuperação guardada"
+  pt-BR: "Chave neste dispositivo, frase de recuperação salva"
+  pt-PT: "Chave neste dispositivo, frase de recuperação guardada"
+  ru: "Ключ на этом устройстве, фраза восстановления сохранена"
+  sv: "Nyckeln finns på den här enheten, återställningsfrasen är sparad"
+  sw: "Ufunguo upo kwenye kifaa hiki, kifungu cha urejeshaji kimehifadhiwa"
+  th: "คีย์อยู่บนอุปกรณ์นี้ บันทึกวลีสำรองแล้ว"
+  uk: "Ключ на цьому пристрої, фразу відновлення збережено"
+  vi: "Khóa ở trên thiết bị này, đã lưu cụm từ sao lưu"
+  zh: "密钥在这台设备上，恢复短语已保存"
+  zh-HK: "金鑰在這部裝置上，復原短語已儲存"

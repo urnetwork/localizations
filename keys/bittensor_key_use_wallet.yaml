@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. A smaller link under Set up payouts: for someone who already has a Bittensor wallet."
+source: "Use a wallet I already have"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "استخدام محفظة لديّ بالفعل"
+  cs: "Použít peněženku, kterou už mám"
+  de: "Eine Wallet verwenden, die ich schon habe"
+  el: "Χρήση πορτοφολιού που έχω ήδη"
+  en: "Use a wallet I already have"
+  es: "Usar una billetera que ya tengo"
+  es-419: "Usar una billetera que ya tengo"
+  es-MX: "Usar una cartera que ya tengo"
+  fr: "Utiliser un portefeuille que j’ai déjà"
+  he: "שימוש בארנק שכבר יש לי"
+  hi: "मेरे पास पहले से मौजूद वॉलेट इस्तेमाल करें"
+  id: "Gunakan dompet yang sudah saya miliki"
+  it: "Usa un portafoglio che ho già"
+  ja: "手持ちのウォレットを使う"
+  ko: "이미 있는 지갑 사용"
+  nl: "Een wallet gebruiken die ik al heb"
+  pl: "Użyj portfela, który już mam"
+  pt: "Utilizar uma carteira que já tenho"
+  pt-BR: "Usar uma carteira que já tenho"
+  pt-PT: "Utilizar uma carteira que já tenho"
+  ru: "Использовать уже имеющийся кошелек"
+  sv: "Använd en plånbok jag redan har"
+  sw: "Tumia pochi ambayo tayari ninayo"
+  th: "ใช้กระเป๋าเงินที่ฉันมีอยู่แล้ว"
+  uk: "Використати гаманець, який у мене вже є"
+  vi: "Dùng ví tôi đã có"
+  zh: "使用我已有的钱包"
+  zh-HK: "使用我已有的錢包"

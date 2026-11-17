@@ -1,0 +1,36 @@
+description: "Earnings screen, a warning before a new key on this device replaces the network's payout wallet."
+source: "This key replaces your payout wallet from the next epoch. Earlier earnings stay on the old wallet."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "يحلّ هذا المفتاح محل محفظة الدفع الخاصة بك بدءًا من الفترة التالية. تبقى الأرباح السابقة في المحفظة القديمة."
+  cs: "Tento klíč od příští epochy nahradí vaši výplatní peněženku. Dřívější výdělky zůstanou na staré peněžence."
+  de: "Dieser Schlüssel ersetzt ab der nächsten Epoche deine Auszahlungs-Wallet. Frühere Einnahmen bleiben auf der alten Wallet."
+  el: "Αυτό το κλειδί αντικαθιστά το πορτοφόλι πληρωμής σας από την επόμενη εποχή. Τα προηγούμενα κέρδη παραμένουν στο παλιό πορτοφόλι."
+  en: "This key replaces your payout wallet from the next epoch. Earlier earnings stay on the old wallet."
+  es: "Esta clave reemplaza tu billetera de pago a partir de la próxima época. Las ganancias anteriores se quedan en la billetera antigua."
+  es-419: "Esta clave reemplaza tu billetera de pago a partir de la próxima época. Las ganancias anteriores se quedan en la billetera antigua."
+  es-MX: "Esta clave reemplaza tu cartera de pago a partir de la próxima época. Las ganancias anteriores se quedan en la cartera antigua."
+  fr: "Cette clé remplace votre portefeuille de paiement à partir de la prochaine époque. Les gains précédents restent sur l’ancien portefeuille."
+  he: "המפתח הזה מחליף את ארנק התשלום שלכם החל מהתקופה הבאה. רווחים קודמים נשארים בארנק הישן."
+  hi: "यह कुंजी अगले एपोक से आपके पेआउट वॉलेट की जगह ले लेगी। पिछली कमाई पुराने वॉलेट में ही रहेगी।"
+  id: "Kunci ini menggantikan dompet pembayaran Anda mulai epoch berikutnya. Penghasilan sebelumnya tetap ada di dompet lama."
+  it: "Questa chiave sostituisce il tuo portafoglio di pagamento dalla prossima epoca. I guadagni precedenti restano sul vecchio portafoglio."
+  ja: "次のエポックから、支払いウォレットがこのキーに置き換わります。これまでの収益は以前のウォレットに残ります。"
+  ko: "이 키는 다음 에포크부터 지급 지갑을 대체합니다. 이전 수익은 기존 지갑에 남습니다."
+  nl: "Deze sleutel vervangt vanaf de volgende epoch je uitbetalingswallet. Eerdere verdiensten blijven op de oude wallet staan."
+  pl: "Ten klucz od następnej epoki zastąpi twój portfel wypłat. Wcześniejsze zarobki pozostaną w starym portfelu."
+  pt: "Esta chave substitui a sua carteira de pagamento a partir da próxima época. Os ganhos anteriores ficam na carteira antiga."
+  pt-BR: "Esta chave substitui sua carteira de pagamento a partir da próxima época. Os ganhos anteriores ficam na carteira antiga."
+  pt-PT: "Esta chave substitui a sua carteira de pagamento a partir da próxima época. Os ganhos anteriores ficam na carteira antiga."
+  ru: "Этот ключ заменит ваш кошелек для выплат со следующей эпохи. Прежний заработок останется на старом кошельке."
+  sv: "Den här nyckeln ersätter din utbetalningsplånbok från nästa epok. Tidigare intäkter stannar i den gamla plånboken."
+  sw: "Ufunguo huu unachukua nafasi ya pochi yako ya malipo kuanzia kipindi kijacho. Mapato ya awali yanabaki kwenye pochi ya zamani."
+  th: "คีย์นี้จะแทนที่กระเป๋ารับยอดจ่ายของคุณตั้งแต่อีพอคถัดไป รายได้ก่อนหน้านี้จะยังอยู่ในกระเป๋าเงินเดิม"
+  uk: "Цей ключ замінить ваш гаманець для виплат із наступної епохи. Попередній заробіток залишиться на старому гаманці."
+  vi: "Khóa này thay thế ví thanh toán của bạn từ epoch tiếp theo. Thu nhập trước đó vẫn ở ví cũ."
+  zh: "此密钥将从下一个周期开始替换您的支付钱包。之前的收益仍保留在旧钱包中。"
+  zh-HK: "此金鑰將由下一個週期開始取代你的支付錢包。之前的收益會保留在舊錢包。"

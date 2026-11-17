@@ -3,7 +3,7 @@ source: "Each app you turn on gets a second launcher in your app menu, with (out
 platforms:
   - linux
 localizations:
-  ar: "يحصل كل تطبيق تفعّله على مشغّل ثانٍ في قائمة التطبيقات، يتبع اسمه (خارج VPN). التطبيق الذي يُفتح من هذا المشغّل يتجاوز VPN ومفتاح القتل. التطبيق الذي يعمل بالفعل يبقى داخل VPN حتى تغلقه، ولا تُدرج تطبيقات Flatpak وSnap."
+  ar: "يحصل كل تطبيق تفعّله على مشغّل ثانٍ في قائمة التطبيقات، يتبع اسمه (خارج VPN). التطبيق الذي يُفتح من هذا المشغّل يتجاوز VPN ومفتاح الإيقاف. التطبيق الذي يعمل بالفعل يبقى داخل VPN حتى تغلقه، ولا تُدرج تطبيقات Flatpak وSnap."
   cs: "Každá aplikace, kterou zapnete, dostane v nabídce aplikací druhý spouštěč s (mimo VPN) za názvem. Aplikace otevřená z tohoto spouštěče obchází VPN i kill switch. Aplikace, která už běží, zůstane ve VPN, dokud ji neukončíte, a aplikace Flatpak a Snap se nezobrazují."
   de: "Jede App, die du einschaltest, erhält im App-Menü einen zweiten Starter mit (außerhalb des VPN) hinter ihrem Namen. Eine über diesen Starter geöffnete App umgeht das VPN und den Kill switch. Eine bereits laufende App bleibt im VPN, bis du sie beendest, und Flatpak- und Snap-Apps werden nicht aufgeführt."
   el: "Κάθε εφαρμογή που ενεργοποιείτε αποκτά μια δεύτερη εκκίνηση στο μενού εφαρμογών, με (εκτός VPN) μετά το όνομά της. Μια εφαρμογή που ανοίγει από αυτή την εκκίνηση παρακάμπτει το VPN και το kill switch. Μια εφαρμογή που ήδη εκτελείται παραμένει στο VPN μέχρι να την κλείσετε, και οι εφαρμογές Flatpak και Snap δεν εμφανίζονται."

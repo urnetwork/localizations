@@ -8,4 +8,4 @@ localizations:
   en: "Paste an auth code generated from another device or the command line tools."
   es: "Pega un código de autenticación generado desde otro dispositivo o con las herramientas de línea de comandos."
   ru: "Вставьте код аутентификации, созданный на другом устройстве или с помощью инструментов командной строки."
-  zh: "粘贴在其他设备上或通过命令行工具生成的验证码。"
+  zh: "粘贴在其他设备上或通过命令行工具生成的授权码。"

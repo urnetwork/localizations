@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card, under This key is on another device or in your wallet: this app doesn't hold the key, so it can't show the key's recovery phrase."
+source: "Its recovery phrase can't be shown here."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لا يمكن عرض عبارة النسخ الاحتياطي الخاصة به هنا."
+  cs: "Jeho obnovovací frázi zde nelze zobrazit."
+  de: "Seine Wiederherstellungsphrase kann hier nicht angezeigt werden."
+  el: "Η φράση επαναφοράς του δεν μπορεί να εμφανιστεί εδώ."
+  en: "Its recovery phrase can't be shown here."
+  es: "Su frase de recuperación no se puede mostrar aquí."
+  es-419: "Su frase de recuperación no se puede mostrar aquí."
+  es-MX: "Su frase de recuperación no se puede mostrar aquí."
+  fr: "Sa phrase de sauvegarde ne peut pas être affichée ici."
+  he: "אי אפשר להציג כאן את ביטוי השחזור שלו."
+  hi: "इसका रिकवरी फ़्रेज़ यहाँ नहीं दिखाया जा सकता।"
+  id: "Frasa cadangannya tidak dapat ditampilkan di sini."
+  it: "La sua frase di recupero non può essere mostrata qui."
+  ja: "このキーの復元フレーズはここでは表示できません。"
+  ko: "이 키의 복구 문구는 여기에 표시할 수 없습니다."
+  nl: "De herstelzin van deze sleutel kan hier niet worden getoond."
+  pl: "Jego frazy odzyskiwania nie można tu wyświetlić."
+  pt: "A frase de recuperação desta chave não pode ser mostrada aqui."
+  pt-BR: "A frase de recuperação desta chave não pode ser mostrada aqui."
+  pt-PT: "A frase de recuperação desta chave não pode ser mostrada aqui."
+  ru: "Его фразу восстановления здесь показать нельзя."
+  sv: "Dess återställningsfras kan inte visas här."
+  sw: "Kifungu chake cha urejeshaji hakiwezi kuonyeshwa hapa."
+  th: "ไม่สามารถแสดงวลีสำรองของคีย์นี้ที่นี่ได้"
+  uk: "Його фразу відновлення тут не можна показати."
+  vi: "Không thể hiển thị cụm từ sao lưu của khóa này ở đây."
+  zh: "无法在此显示该密钥的恢复短语。"
+  zh-HK: "無法在此顯示此金鑰的復原短語。"

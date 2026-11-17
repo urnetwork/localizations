@@ -1,0 +1,11 @@
+description: "Proxies list: give this unique exit IP proxy a new unique exit"
+source: "Rotate exit"
+platforms:
+  - site
+localizations:
+  ar: "تغيير المخرج"
+  de: "Ausgang wechseln"
+  en: "Rotate exit"
+  es: "Cambiar salida"
+  ru: "Сменить выход"
+  zh: "更换出口"

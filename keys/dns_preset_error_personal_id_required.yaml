@@ -1,0 +1,36 @@
+description: "DNS settings, Use my account: error id the sdk returns when the profile ID field is empty."
+source: "Enter your profile ID."
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "أدخل معرّف ملفك الشخصي."
+  cs: "Zadejte ID svého profilu."
+  de: "Gib deine Profil-ID ein."
+  el: "Εισαγάγετε το αναγνωριστικό του προφίλ σας."
+  en: "Enter your profile ID."
+  es: "Introduce tu ID de perfil."
+  es-419: "Ingresa tu ID de perfil."
+  es-MX: "Ingresa tu ID de perfil."
+  fr: "Saisissez votre ID de profil."
+  he: "הזינו את מזהה הפרופיל שלכם."
+  hi: "अपनी प्रोफ़ाइल ID दर्ज करें।"
+  id: "Masukkan ID profil Anda."
+  it: "Inserisci l'ID del tuo profilo."
+  ja: "プロファイルIDを入力してください。"
+  ko: "프로필 ID를 입력하세요."
+  nl: "Voer je profiel-ID in."
+  pl: "Wpisz identyfikator profilu."
+  pt: "Introduza o ID do seu perfil."
+  pt-BR: "Digite o ID do seu perfil."
+  pt-PT: "Introduza o ID do seu perfil."
+  ru: "Введите ID профиля."
+  sv: "Ange ditt profil-ID."
+  sw: "Weka kitambulisho cha wasifu wako."
+  th: "ป้อนรหัสโปรไฟล์ของคุณ"
+  uk: "Введіть ID профілю."
+  vi: "Nhập ID hồ sơ của bạn."
+  zh: "请输入您的配置文件 ID。"
+  zh-HK: "請輸入你的設定檔 ID。"

@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: shown in one pool's row in place of its balances, never a zero, when the server lists that pool in unavailable_pools (its ledger could not be read just now). The other pools' rows show as usual. The tile's Unavailable (sn_ledger_unavailable) stays for when no balance can be read at all."
+source: "Unavailable right now"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "غير متاح حاليًا"
+  cs: "Momentálně nedostupné"
+  de: "Derzeit nicht verfügbar"
+  el: "Μη διαθέσιμο αυτή τη στιγμή"
+  en: "Unavailable right now"
+  es: "No disponible por ahora"
+  es-419: "No disponible por ahora"
+  es-MX: "No disponible por ahora"
+  fr: "Indisponible pour le moment"
+  he: "לא זמין כרגע"
+  hi: "अभी उपलब्ध नहीं"
+  id: "Tidak tersedia saat ini"
+  it: "Non disponibile al momento"
+  ja: "現在利用できません"
+  ko: "지금은 사용할 수 없음"
+  nl: "Momenteel niet beschikbaar"
+  pl: "Chwilowo niedostępne"
+  pt: "Indisponível de momento"
+  pt-BR: "Indisponível no momento"
+  pt-PT: "Indisponível de momento"
+  ru: "Сейчас недоступно"
+  sv: "Inte tillgänglig just nu"
+  sw: "Haipatikani kwa sasa"
+  th: "ไม่พร้อมใช้งานในขณะนี้"
+  uk: "Зараз недоступно"
+  vi: "Hiện không khả dụng"
+  zh: "暂时不可用"
+  zh-HK: "暫時不可用"

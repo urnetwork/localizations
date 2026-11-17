@@ -1,0 +1,39 @@
+description: "Key screen, the two-word sheet: an error under a field whose word is wrong. The placeholder is the word's position in the phrase, counting from 1."
+source: "That isn't word %lld of this recovery phrase."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+placeholders:
+  - name: position
+    type: int
+localizations:
+  ar: "هذه ليست الكلمة {position} من عبارة النسخ الاحتياطي هذه."
+  cs: "To není slovo {position} této obnovovací fráze."
+  de: "Das ist nicht Wort {position} dieser Wiederherstellungsphrase."
+  el: "Αυτή δεν είναι η λέξη {position} αυτής της φράσης επαναφοράς."
+  en: "That isn't word {position} of this recovery phrase."
+  es: "Esa no es la palabra {position} de esta frase de recuperación."
+  es-419: "Esa no es la palabra {position} de esta frase de recuperación."
+  es-MX: "Esa no es la palabra {position} de esta frase de recuperación."
+  fr: "Ce n’est pas le mot {position} de cette phrase de sauvegarde."
+  he: "זו לא מילה {position} של ביטוי השחזור הזה."
+  hi: "यह इस रिकवरी फ़्रेज़ का शब्द {position} नहीं है।"
+  id: "Itu bukan kata {position} dari frasa cadangan ini."
+  it: "Non è la parola {position} di questa frase di recupero."
+  ja: "この復元フレーズの {position} 番目の単語ではありません。"
+  ko: "이 복구 문구의 {position}번째 단어가 아닙니다."
+  nl: "Dat is niet woord {position} van deze herstelzin."
+  pl: "To nie jest słowo {position} tej frazy odzyskiwania."
+  pt: "Essa não é a palavra {position} desta frase de recuperação."
+  pt-BR: "Essa não é a palavra {position} desta frase de recuperação."
+  pt-PT: "Essa não é a palavra {position} desta frase de recuperação."
+  ru: "Это не слово {position} этой фразы восстановления."
+  sv: "Det är inte ord {position} i den här återställningsfrasen."
+  sw: "Hilo si neno {position} la kifungu hiki cha urejeshaji."
+  th: "นั่นไม่ใช่คำที่ {position} ของวลีสำรองนี้"
+  uk: "Це не слово {position} цієї фрази відновлення."
+  vi: "Đó không phải là từ thứ {position} của cụm từ sao lưu này."
+  zh: "这不是此恢复短语的第 {position} 个词。"
+  zh-HK: "這不是此復原短語的第 {position} 個詞。"

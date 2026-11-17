@@ -1,0 +1,39 @@
+description: "DNS settings: the name of an adblock provider's preset in \"Family\", which blocks adult sites and, for some adblock providers, ads. Shown alone as the preset's label on the DNS screen, and inserted as is wherever the selected preset is named, as in \"DNS: AdGuard Family\" and \"AdGuard Family isn't answering\", so it reads as a short name that works on its own and inside a sentence. {provider} is the adblock provider's short name, inserted as is (for example AdGuard); keep it first, so the presets of a group stay in alphabetical order."
+source: "%@ Family"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} للعائلة"
+  cs: "{provider} Rodina"
+  de: "{provider} Familie"
+  el: "{provider} Οικογένεια"
+  en: "{provider} Family"
+  es: "{provider} Familia"
+  es-419: "{provider} Familia"
+  es-MX: "{provider} Familia"
+  fr: "{provider} Famille"
+  he: "{provider} משפחה"
+  hi: "{provider} फ़ैमिली"
+  id: "{provider} Keluarga"
+  it: "{provider} Famiglia"
+  ja: "{provider} ファミリー"
+  ko: "{provider} 가족"
+  nl: "{provider} Gezin"
+  pl: "{provider} Rodzina"
+  pt: "{provider} Família"
+  pt-BR: "{provider} Família"
+  pt-PT: "{provider} Família"
+  ru: "{provider} Семейный"
+  sv: "{provider} Familj"
+  sw: "{provider} Familia"
+  th: "{provider} ครอบครัว"
+  uk: "{provider} Сімейний"
+  vi: "{provider} Gia đình"
+  zh: "{provider} 家庭"
+  zh-HK: "{provider} 家庭"

@@ -1,0 +1,36 @@
+description: "Key screen, the delete confirmation: one point of a short list. Convert to TAO is the app's action that swaps SN25α for TAO with this key."
+source: "Convert to TAO stops working in this app."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "يتوقف التحويل إلى TAO عن العمل في هذا التطبيق."
+  cs: "Převod na TAO v této aplikaci přestane fungovat."
+  de: "Das Umwandeln in TAO funktioniert in dieser App nicht mehr."
+  el: "Η μετατροπή σε TAO σταματά να λειτουργεί σε αυτή την εφαρμογή."
+  en: "Convert to TAO stops working in this app."
+  es: "La conversión a TAO deja de funcionar en esta aplicación."
+  es-419: "La conversión a TAO deja de funcionar en esta aplicación."
+  es-MX: "La conversión a TAO deja de funcionar en esta aplicación."
+  fr: "La conversion en TAO ne fonctionne plus dans cette application."
+  he: "ההמרה ל-TAO מפסיקה לעבוד באפליקציה הזו."
+  hi: "इस ऐप में TAO में बदलने की सुविधा काम करना बंद कर देगी।"
+  id: "Konversi ke TAO tidak lagi berfungsi di aplikasi ini."
+  it: "La conversione in TAO non funziona più in questa app."
+  ja: "このアプリでは TAO への変換が機能しなくなります。"
+  ko: "이 앱에서 TAO로 전환 기능이 더 이상 작동하지 않습니다."
+  nl: "Omzetten naar TAO werkt niet meer in deze app."
+  pl: "Zamiana na TAO przestaje działać w tej aplikacji."
+  pt: "A conversão em TAO deixa de funcionar nesta app."
+  pt-BR: "A conversão em TAO deixa de funcionar neste app."
+  pt-PT: "A conversão em TAO deixa de funcionar nesta app."
+  ru: "Конвертация в TAO перестанет работать в этом приложении."
+  sv: "Konvertering till TAO slutar fungera i den här appen."
+  sw: "Kubadilisha kuwa TAO kunaacha kufanya kazi kwenye programu hii."
+  th: "การแปลงเป็น TAO จะใช้ไม่ได้ในแอปนี้อีกต่อไป"
+  uk: "Конвертація в TAO перестане працювати в цьому застосунку."
+  vi: "Chuyển đổi sang TAO sẽ ngừng hoạt động trong ứng dụng này."
+  zh: "转换为 TAO 功能在此应用中将无法再使用。"
+  zh-HK: "轉換為 TAO 功能在此應用程式中將無法再使用。"

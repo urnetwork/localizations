@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card, under the Bittensor address the network's earnings go to. Every device (miner) the user runs on this network earns to it."
+source: "Every device on your network is paid to this address."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "تُدفع أرباح كل جهاز في شبكتك إلى هذا العنوان."
+  cs: "Na tuto adresu se vyplácí každé zařízení ve vaší síti."
+  de: "Jedes Gerät in deinem Netzwerk wird an diese Adresse ausgezahlt."
+  el: "Τα κέρδη κάθε συσκευής του δικτύου σας πληρώνονται σε αυτή τη διεύθυνση."
+  en: "Every device on your network is paid to this address."
+  es: "A cada dispositivo de tu red se le paga en esta dirección."
+  es-419: "A cada dispositivo de tu red se le paga en esta dirección."
+  es-MX: "A cada dispositivo de tu red se le paga en esta dirección."
+  fr: "Les gains de chaque appareil de votre réseau sont versés à cette adresse."
+  he: "כל מכשיר ברשת שלכם מקבל תשלום לכתובת הזו."
+  hi: "आपके नेटवर्क के हर डिवाइस का भुगतान इसी पते पर होता है।"
+  id: "Setiap perangkat di jaringan Anda dibayar ke alamat ini."
+  it: "Ogni dispositivo della tua rete viene pagato su questo indirizzo."
+  ja: "ネットワーク内のすべてのデバイスの収益が、このアドレスに支払われます。"
+  ko: "네트워크의 모든 기기 수익이 이 주소로 지급됩니다."
+  nl: "Elk apparaat in je netwerk wordt uitbetaald aan dit adres."
+  pl: "Zarobki każdego urządzenia w twojej sieci są wypłacane na ten adres."
+  pt: "Todos os dispositivos da sua rede são pagos neste endereço."
+  pt-BR: "Todos os dispositivos da sua rede são pagos neste endereço."
+  pt-PT: "Todos os dispositivos da sua rede são pagos neste endereço."
+  ru: "Заработок каждого устройства в вашей сети выплачивается на этот адрес."
+  sv: "Intäkterna från varje enhet i ditt nätverk betalas ut till den här adressen."
+  sw: "Kila kifaa kwenye mtandao wako kinalipwa kwenye anwani hii."
+  th: "รายได้ของทุกอุปกรณ์ในเครือข่ายของคุณจะจ่ายเข้าที่อยู่นี้"
+  uk: "Заробіток кожного пристрою у вашій мережі виплачується на цю адресу."
+  vi: "Thu nhập của mọi thiết bị trong mạng của bạn được trả vào địa chỉ này."
+  zh: "您网络中每台设备的收益都会支付到此地址。"
+  zh-HK: "你網絡中每部裝置的收益都會支付到此地址。"

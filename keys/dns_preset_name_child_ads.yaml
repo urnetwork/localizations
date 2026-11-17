@@ -1,0 +1,39 @@
+description: "DNS settings: the name of DNS4EU's child protection preset that also blocks ads and trackers, in \"Family\". \"no ads\" means the person sees no ads, because they are blocked. Next to it is the same protection without ad blocking (dns_preset_name_child). Shown alone as the preset's label on the DNS screen, and inserted as is wherever the selected preset is named, as in \"DNS: DNS4EU Child, no ads\" and \"DNS4EU Child, no ads isn't answering\", so it reads as a short name that works on its own and inside a sentence. {provider} is the adblock provider's short name, inserted as is (for example DNS4EU); keep it first, so the presets of a group stay in alphabetical order."
+source: "%@ Child, no ads"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} للأطفال، بلا إعلانات"
+  cs: "{provider} Děti, bez reklam"
+  de: "{provider} Kinderschutz, ohne Werbung"
+  el: "{provider} Παιδιά, χωρίς διαφημίσεις"
+  en: "{provider} Child, no ads"
+  es: "{provider} Infantil, sin anuncios"
+  es-419: "{provider} Infantil, sin anuncios"
+  es-MX: "{provider} Infantil, sin anuncios"
+  fr: "{provider} Enfants, sans publicité"
+  he: "{provider} ילדים, ללא פרסומות"
+  hi: "{provider} बच्चों के लिए, बिना विज्ञापन"
+  id: "{provider} Anak, tanpa iklan"
+  it: "{provider} Bambini, senza pubblicità"
+  ja: "{provider} 子ども向け・広告なし"
+  ko: "{provider} 어린이, 광고 없음"
+  nl: "{provider} Kinderen, zonder advertenties"
+  pl: "{provider} Dzieci, bez reklam"
+  pt: "{provider} Infantil, sem anúncios"
+  pt-BR: "{provider} Infantil, sem anúncios"
+  pt-PT: "{provider} Infantil, sem anúncios"
+  ru: "{provider} Детский, без рекламы"
+  sv: "{provider} Barn, utan annonser"
+  sw: "{provider} Watoto, bila matangazo"
+  th: "{provider} สำหรับเด็ก ไม่มีโฆษณา"
+  uk: "{provider} Дитячий, без реклами"
+  vi: "{provider} Trẻ em, không quảng cáo"
+  zh: "{provider} 儿童，无广告"
+  zh-HK: "{provider} 兒童，無廣告"

@@ -1,0 +1,36 @@
+description: "Key screen, the two-word sheet before deleting the key: what to do. The fields below say which word, as Word 4."
+source: "To confirm you've saved the recovery phrase, enter these two words from it."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لتأكيد أنك حفظت عبارة النسخ الاحتياطي، أدخل هاتين الكلمتين منها."
+  cs: "Abyste potvrdili, že jste si obnovovací frázi uložili, zadejte z ní tato dvě slova."
+  de: "Gib diese zwei Wörter aus der Wiederherstellungsphrase ein, um zu bestätigen, dass du sie gespeichert hast."
+  el: "Για να επιβεβαιώσετε ότι αποθηκεύσατε τη φράση επαναφοράς, εισαγάγετε αυτές τις δύο λέξεις από αυτήν."
+  en: "To confirm you've saved the recovery phrase, enter these two words from it."
+  es: "Para confirmar que has guardado la frase de recuperación, introduce estas dos palabras de la frase."
+  es-419: "Para confirmar que guardaste la frase de recuperación, ingresa estas dos palabras de la frase."
+  es-MX: "Para confirmar que guardaste la frase de recuperación, ingresa estas dos palabras de la frase."
+  fr: "Pour confirmer que vous avez enregistré la phrase de sauvegarde, saisissez ces deux mots de la phrase."
+  he: "כדי לאשר ששמרתם את ביטוי השחזור, הזינו את שתי המילים האלה ממנו."
+  hi: "यह पुष्टि करने के लिए कि आपने रिकवरी फ़्रेज़ सहेज लिया है, उसके ये दो शब्द डालें।"
+  id: "Untuk mengonfirmasi bahwa Anda sudah menyimpan frasa cadangan, masukkan dua kata ini dari frasa tersebut."
+  it: "Per confermare di aver salvato la frase di recupero, inserisci queste due parole della frase."
+  ja: "復元フレーズを保存したことを確認するため、フレーズの次の 2 語を入力してください。"
+  ko: "복구 문구를 저장했는지 확인하기 위해 문구에서 다음 두 단어를 입력하세요."
+  nl: "Voer deze twee woorden uit de herstelzin in om te bevestigen dat je hem hebt opgeslagen."
+  pl: "Aby potwierdzić, że masz zapisaną frazę odzyskiwania, wpisz te dwa słowa z tej frazy."
+  pt: "Para confirmar que guardou a frase de recuperação, introduza estas duas palavras da frase."
+  pt-BR: "Para confirmar que você salvou a frase de recuperação, insira estas duas palavras da frase."
+  pt-PT: "Para confirmar que guardou a frase de recuperação, introduza estas duas palavras da frase."
+  ru: "Чтобы подтвердить, что вы сохранили фразу восстановления, введите эти два слова из неё."
+  sv: "Ange de här två orden från återställningsfrasen för att bekräfta att du har sparat den."
+  sw: "Ili kuthibitisha kwamba umehifadhi kifungu cha urejeshaji, weka maneno haya mawili kutoka kwenye kifungu hicho."
+  th: "เพื่อยืนยันว่าคุณบันทึกวลีสำรองไว้แล้ว ให้ป้อนคำสองคำนี้จากวลีนั้น"
+  uk: "Щоб підтвердити, що ви зберегли фразу відновлення, введіть ці два слова з неї."
+  vi: "Để xác nhận bạn đã lưu cụm từ sao lưu, hãy nhập hai từ này trong cụm từ đó."
+  zh: "为确认您已保存恢复短语，请输入其中的这两个词。"
+  zh-HK: "為確認你已儲存復原短語，請輸入其中的這兩個詞。"

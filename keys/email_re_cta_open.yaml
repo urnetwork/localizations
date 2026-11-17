@@ -1,4 +1,4 @@
-description: "Re-engagement email button: opens the app (through the ur.io landing page)."
+description: "Email button: opens the app (through the ur.io landing page). Re-engagement R1, and the browser branch of onboarding E2's desktop email, where it opens ur.io/app."
 source: "Open URnetwork"
 platforms:
   - email

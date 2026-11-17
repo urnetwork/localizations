@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. The screen's title."
+source: "Bittensor recovery phrase"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "عبارة النسخ الاحتياطي لـ Bittensor"
+  cs: "Obnovovací fráze Bittensor"
+  de: "Bittensor-Wiederherstellungsphrase"
+  el: "Φράση επαναφοράς Bittensor"
+  en: "Bittensor recovery phrase"
+  es: "Frase de recuperación de Bittensor"
+  es-419: "Frase de recuperación de Bittensor"
+  es-MX: "Frase de recuperación de Bittensor"
+  fr: "Phrase de sauvegarde Bittensor"
+  he: "ביטוי השחזור של Bittensor"
+  hi: "Bittensor रिकवरी फ़्रेज़"
+  id: "Frasa cadangan Bittensor"
+  it: "Frase di recupero Bittensor"
+  ja: "Bittensor の復元フレーズ"
+  ko: "Bittensor 복구 문구"
+  nl: "Bittensor-herstelzin"
+  pl: "Fraza odzyskiwania Bittensor"
+  pt: "Frase de recuperação Bittensor"
+  pt-BR: "Frase de recuperação Bittensor"
+  pt-PT: "Frase de recuperação Bittensor"
+  ru: "Фраза восстановления Bittensor"
+  sv: "Bittensor-återställningsfras"
+  sw: "Kifungu cha urejeshaji cha Bittensor"
+  th: "วลีสำรอง Bittensor"
+  uk: "Фраза відновлення Bittensor"
+  vi: "Cụm từ sao lưu Bittensor"
+  zh: "Bittensor 恢复短语"
+  zh-HK: "Bittensor 復原短語"

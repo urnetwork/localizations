@@ -1,0 +1,36 @@
+description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. The destructive button."
+source: "Delete key"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "حذف المفتاح"
+  cs: "Odstranit klíč"
+  de: "Schlüssel löschen"
+  el: "Διαγραφή κλειδιού"
+  en: "Delete key"
+  es: "Eliminar clave"
+  es-419: "Eliminar clave"
+  es-MX: "Eliminar clave"
+  fr: "Supprimer la clé"
+  he: "מחיקת המפתח"
+  hi: "कुंजी डिलीट करें"
+  id: "Hapus kunci"
+  it: "Elimina chiave"
+  ja: "キーを削除"
+  ko: "키 삭제"
+  nl: "Sleutel verwijderen"
+  pl: "Usuń klucz"
+  pt: "Eliminar chave"
+  pt-BR: "Excluir chave"
+  pt-PT: "Eliminar chave"
+  ru: "Удалить ключ"
+  sv: "Radera nyckel"
+  sw: "Futa ufunguo"
+  th: "ลบคีย์"
+  uk: "Видалити ключ"
+  vi: "Xóa khóa"
+  zh: "删除密钥"
+  zh-HK: "刪除金鑰"

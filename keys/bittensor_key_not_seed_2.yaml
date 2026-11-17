@@ -1,0 +1,36 @@
+description: "Key screen: tells apart the two phrases a user may have. The account seedphrase from sign-up (24 words) signs in to URnetwork; this Bittensor recovery phrase (12 words) controls the user's SN25α tokens. Use the app's usual words for each."
+source: "Not the seedphrase from sign-up: that one is 24 words and signs you in to URnetwork. This Bittensor recovery phrase is 12 words and holds your SN25α."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هذه ليست عبارة الاسترداد من التسجيل: تلك مكوّنة من 24 كلمة وتُسجّل دخولك إلى URnetwork. أما عبارة النسخ الاحتياطي هذه لـ Bittensor فمكوّنة من 12 كلمة وتحتفظ بـ SN25α الخاص بك."
+  cs: "Nejde o seed frázi z registrace: ta má 24 slov a přihlašuje vás do URnetwork. Tato obnovovací fráze Bittensor má 12 slov a drží vaše SN25α."
+  de: "Nicht die Seedphrase aus der Registrierung: Die hat 24 Wörter und meldet dich bei URnetwork an. Diese Bittensor-Wiederherstellungsphrase hat 12 Wörter und verwahrt dein SN25α."
+  el: "Δεν είναι η φράση ανάκτησης από την εγγραφή: εκείνη έχει 24 λέξεις και σας συνδέει στο URnetwork. Αυτή η φράση επαναφοράς Bittensor έχει 12 λέξεις και κρατά τα SN25α σας."
+  en: "Not the seedphrase from sign-up: that one is 24 words and signs you in to URnetwork. This Bittensor recovery phrase is 12 words and holds your SN25α."
+  es: "No es la frase semilla del registro: esa tiene 24 palabras y con ella inicias sesión en URnetwork. Esta frase de recuperación de Bittensor tiene 12 palabras y guarda tu SN25α."
+  es-419: "No es la frase semilla del registro: esa tiene 24 palabras y con ella inicias sesión en URnetwork. Esta frase de recuperación de Bittensor tiene 12 palabras y guarda tu SN25α."
+  es-MX: "No es la frase semilla del registro: esa tiene 24 palabras y con ella inicias sesión en URnetwork. Esta frase de recuperación de Bittensor tiene 12 palabras y guarda tu SN25α."
+  fr: "Ce n’est pas la phrase de récupération de l’inscription : celle-ci compte 24 mots et vous connecte à URnetwork. Cette phrase de sauvegarde Bittensor compte 12 mots et détient vos SN25α."
+  he: "זה לא ביטוי הסיד מההרשמה: הוא בן 24 מילים ומחבר אתכם ל-URnetwork. ביטוי השחזור הזה של Bittensor הוא בן 12 מילים ומחזיק את ה-SN25α שלכם."
+  hi: "यह साइन-अप वाला सीड फ़्रेज़ नहीं है: वह 24 शब्दों का होता है और उससे आप URnetwork में साइन इन करते हैं। यह Bittensor रिकवरी फ़्रेज़ 12 शब्दों का है और आपके SN25α इसी में रहते हैं।"
+  id: "Bukan frasa pemulihan dari saat mendaftar: frasa itu terdiri dari 24 kata dan dipakai untuk masuk ke URnetwork. Frasa cadangan Bittensor ini terdiri dari 12 kata dan menyimpan SN25α Anda."
+  it: "Non è la frase seed della registrazione: quella ha 24 parole e ti fa accedere a URnetwork. Questa frase di recupero Bittensor ha 12 parole e custodisce i tuoi SN25α."
+  ja: "登録時のシードフレーズではありません。シードフレーズは 24 語で、URnetwork へのサインインに使います。この Bittensor の復元フレーズは 12 語で、あなたの SN25α を保持します。"
+  ko: "가입할 때 받은 시드 문구가 아닙니다. 시드 문구는 24단어이며 URnetwork에 로그인하는 데 사용됩니다. 이 Bittensor 복구 문구는 12단어이며 내 SN25α를 보관합니다."
+  nl: "Niet de seedphrase die je bij het aanmaken van je account kreeg: die heeft 24 woorden en logt je in bij URnetwork. Deze Bittensor-herstelzin heeft 12 woorden en bewaart je SN25α."
+  pl: "To nie fraza seed z rejestracji: tamta ma 24 słowa i loguje cię do URnetwork. Ta fraza odzyskiwania Bittensor ma 12 słów i przechowuje twoje SN25α."
+  pt: "Não é a frase-semente do registo: essa tem 24 palavras e serve para iniciar sessão no URnetwork. Esta frase de recuperação Bittensor tem 12 palavras e guarda o seu SN25α."
+  pt-BR: "Não é a frase-semente do cadastro: essa tem 24 palavras e serve para entrar no URnetwork. Esta frase de recuperação Bittensor tem 12 palavras e guarda seu SN25α."
+  pt-PT: "Não é a frase-semente do registo: essa tem 24 palavras e serve para iniciar sessão no URnetwork. Esta frase de recuperação Bittensor tem 12 palavras e guarda o seu SN25α."
+  ru: "Это не сид-фраза из регистрации: в ней 24 слова, и она нужна для входа в URnetwork. В этой фразе восстановления Bittensor 12 слов, и она хранит ваши SN25α."
+  sv: "Inte seedfrasen från registreringen: den har 24 ord och loggar in dig på URnetwork. Den här Bittensor-återställningsfrasen har 12 ord och förvarar dina SN25α."
+  sw: "Si kifungu cha seed cha wakati wa kujisajili: hicho kina maneno 24 na kinakuingiza kwenye URnetwork. Kifungu hiki cha urejeshaji cha Bittensor kina maneno 12 na kinashikilia SN25α yako."
+  th: "ไม่ใช่วลีกู้คืนจากตอนสมัคร วลีนั้นมี 24 คำและใช้ลงชื่อเข้าใช้ URnetwork ส่วนวลีสำรอง Bittensor นี้มี 12 คำและเก็บ SN25α ของคุณไว้"
+  uk: "Це не сід-фраза з реєстрації: у ній 24 слова, і вона потрібна для входу в URnetwork. У цій фразі відновлення Bittensor 12 слів, і вона зберігає ваші SN25α."
+  vi: "Không phải cụm từ khôi phục lúc đăng ký: cụm từ đó gồm 24 từ và dùng để đăng nhập vào URnetwork. Cụm từ sao lưu Bittensor này gồm 12 từ và nắm giữ SN25α của bạn."
+  zh: "这不是注册时的助记词：助记词有 24 个词，用于登录 URnetwork。此 Bittensor 恢复短语有 12 个词，保管着您的 SN25α。"
+  zh-HK: "這不是註冊時的助記詞：助記詞有 24 個詞，用於登入 URnetwork。此 Bittensor 復原短語有 12 個詞，保管著你的 SN25α。"

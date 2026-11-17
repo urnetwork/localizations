@@ -3,7 +3,7 @@ source: "Turn the kill switch off to restore normal access without connecting."
 platforms:
   - linux
 localizations:
-  ar: "أوقف مفتاح القتل لاستعادة الوصول الطبيعي دون الاتصال."
+  ar: "عطّل مفتاح الإيقاف لاستعادة الوصول الطبيعي دون الاتصال."
   cs: "Vypnutím kill switche obnovíte normální přístup bez připojení."
   de: "Schalte den Kill switch aus, um den normalen Zugriff ohne Verbindung wiederherzustellen."
   el: "Απενεργοποιήστε το Kill switch για να επαναφέρετε την κανονική πρόσβαση χωρίς σύνδεση."

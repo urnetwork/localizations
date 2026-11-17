@@ -1,0 +1,36 @@
+description: "Key screen, the keep sheet's button, enabled once the two words are right. Short: a button. It is the key that stays."
+source: "Keep it on this device"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "إبقاؤه على هذا الجهاز"
+  cs: "Ponechat ho na tomto zařízení"
+  de: "Auf diesem Gerät behalten"
+  el: "Διατήρηση σε αυτή τη συσκευή"
+  en: "Keep it on this device"
+  es: "Conservarla en este dispositivo"
+  es-419: "Conservarla en este dispositivo"
+  es-MX: "Conservarla en este dispositivo"
+  fr: "La garder sur cet appareil"
+  he: "השארה במכשיר הזה"
+  hi: "इसे इस डिवाइस पर रखें"
+  id: "Tetap simpan di perangkat ini"
+  it: "Tienila su questo dispositivo"
+  ja: "このデバイスに残す"
+  ko: "이 기기에 보관"
+  nl: "Op dit apparaat bewaren"
+  pl: "Zachowaj go na tym urządzeniu"
+  pt: "Manter neste dispositivo"
+  pt-BR: "Manter neste dispositivo"
+  pt-PT: "Manter neste dispositivo"
+  ru: "Оставить его на этом устройстве"
+  sv: "Behåll den på den här enheten"
+  sw: "Ubaki kwenye kifaa hiki"
+  th: "เก็บไว้บนอุปกรณ์นี้"
+  uk: "Залишити його на цьому пристрої"
+  vi: "Giữ khóa trên thiết bị này"
+  zh: "保留在这台设备上"
+  zh-HK: "保留在這部裝置上"

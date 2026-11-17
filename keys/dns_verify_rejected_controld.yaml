@@ -1,0 +1,39 @@
+description: "DNS settings, Use my account: Control D refuses every lookup for a resolver ID it doesn't know. {provider} is Control D, inserted as is. \"Resolver ID\" is Control D's name for the ID."
+source: "%@ doesn't recognize this resolver ID"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} لا يتعرّف على معرّف المحلّل هذا"
+  cs: "{provider} toto ID resolveru nezná"
+  de: "{provider} erkennt diese Resolver-ID nicht"
+  el: "{provider} δεν αναγνωρίζει αυτό το αναγνωριστικό επιλυτή"
+  en: "{provider} doesn't recognize this resolver ID"
+  es: "{provider} no reconoce este ID de resolver"
+  es-419: "{provider} no reconoce este ID de resolver"
+  es-MX: "{provider} no reconoce este ID de resolver"
+  fr: "{provider} ne reconnaît pas cet ID de résolveur"
+  he: "{provider} לא מזהה את מזהה ה-Resolver הזה"
+  hi: "{provider} इस रिज़ॉल्वर ID को नहीं पहचानता"
+  id: "{provider} tidak mengenali ID resolver ini"
+  it: "{provider} non riconosce questo ID resolver"
+  ja: "{provider}はこのリゾルバーIDを認識しません"
+  ko: "{provider}에서 이 리졸버 ID를 인식하지 못합니다"
+  nl: "{provider} herkent deze resolver-ID niet"
+  pl: "{provider} nie rozpoznaje tego identyfikatora resolvera"
+  pt: "{provider} não reconhece este ID de resolver"
+  pt-BR: "{provider} não reconhece este ID de resolver"
+  pt-PT: "{provider} não reconhece este ID de resolver"
+  ru: "{provider} не распознаёт этот ID резолвера"
+  sv: "{provider} känner inte igen det här resolver-ID:t"
+  sw: "{provider} haitambui kitambulisho hiki cha resolver"
+  th: "{provider} ไม่รู้จักรหัสรีโซลเวอร์นี้"
+  uk: "{provider} не розпізнає цей ID резолвера"
+  vi: "{provider} không nhận ra ID trình phân giải này"
+  zh: "{provider} 无法识别此解析器 ID"
+  zh-HK: "{provider} 無法識別此解析器 ID"

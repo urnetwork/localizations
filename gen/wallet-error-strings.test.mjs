@@ -13,9 +13,23 @@ import { LOCALES, SITE_LOCALES, isTaggedFor, loadStore } from "./store.mjs";
 
 const keys = new Map(loadStore().map((k) => [k.id, k]));
 
-// the string only ur.io shows: id -> English
-const SITE_ONLY = {
+// the generic wallet failure, ur.io's and every app's Solana sign-in's (sdk
+// SolanaWalletFailureFor wallet_error): id -> English
+const WALLET_FAILED = {
 	bittensor_error_wallet_failed: "Your {wallet} wallet couldn't finish the request. Check the wallet, then try again.",
+};
+
+// every message the sdk's SolanaWalletFailureFor answers (SolanaWalletFailureMessage*):
+// every app displays each, so each is tagged for every app and translated in
+// every locale. A message that takes the wallet's name names it once.
+const SOLANA_WALLET_FAILURE_MESSAGES = {
+	bittensor_error_user_rejected: false,
+	no_wallets_found_alert_content: false,
+	couldnt_open_wallet: false,
+	bittensor_error_extension_not_found: true,
+	bittensor_error_no_account: true,
+	solana_wallet_error_session_not_found: false,
+	bittensor_error_wallet_failed: true,
 };
 
 // the words for an extension that hasn't allowed the site, on the site and, since
@@ -25,19 +39,33 @@ const NOT_AUTHORIZED = "{wallet} hasn't allowed ur.io to use your Bittensor acco
 // the apps' bridge-code strings the site now shows for the same codes
 const REUSED = ["bittensor_error_user_rejected", "bittensor_error_no_account", "bittensor_error_walletconnect_expired"];
 
-test("the site-only wallet errors carry their English, the wallet's name once, and the site's locales", () => {
-	for (const [id, en] of Object.entries(SITE_ONLY)) {
+test("the generic wallet failure carries its English, the wallet's name once, on the site and every app, in every locale", () => {
+	for (const [id, en] of Object.entries(WALLET_FAILED)) {
 		const k = keys.get(id);
 		assert.ok(k, `${id} is in the store`);
 		assert.equal(k.localizations.en, en, id);
-		assert.equal(k.source, en, `${id}: source is the English`);
-		assert.deepEqual(k.platforms, ["site"], id);
+		// apple's source is the Swift literal
+		assert.equal(k.source, en.replace("{wallet}", "%@"), `${id}: source is the Swift literal`);
+		for (const p of ["site", "android", "apple", "windows", "linux"]) assert.ok(isTaggedFor(k, p), `${id} is tagged ${p}`);
 		assert.deepEqual(k.placeholders, [{ name: "wallet", type: "string" }], id);
-		assert.deepEqual(Object.keys(k.localizations).sort(), [...SITE_LOCALES].sort(), id);
-		// one {wallet}: the desktop catalogs, which carry every live key, lower a
-		// lone placeholder to a single "{}"
+		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), id);
+		// one {wallet}: the desktop catalogs lower a lone placeholder to a single "{}"
 		for (const [l, v] of Object.entries(k.localizations))
 			assert.equal(v.split("{wallet}").length - 1, 1, `${id}[${l}] names the wallet once: ${v}`);
+	}
+});
+
+test("every Solana sign-in failure message is tagged for every app and translated in every locale", () => {
+	for (const [id, takesName] of Object.entries(SOLANA_WALLET_FAILURE_MESSAGES)) {
+		const k = keys.get(id);
+		assert.ok(k, `${id} is in the store`);
+		for (const p of ["site", "android", "apple", "windows", "linux"]) assert.ok(isTaggedFor(k, p), `${id} is tagged ${p}`);
+		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), id);
+		assert.deepEqual(k.placeholders ?? [], takesName ? [{ name: "wallet", type: "string" }] : [], id);
+		for (const [l, v] of Object.entries(k.localizations)) {
+			assert.equal(v.split("{wallet}").length - 1, takesName ? 1 : 0, `${id}[${l}]: ${v}`);
+			if (l !== "en") assert.notEqual(v, k.localizations.en, `${id}[${l}] is translated`);
+		}
 	}
 });
 
@@ -54,9 +82,9 @@ const TALISMAN_CONNECTED_SITES = {
 };
 
 test("the not-authorised error names ur.io and the wallet in every language, in the site and the apps", () => {
-	for (const id of Object.keys(SITE_ONLY)) {
+	for (const id of Object.keys(WALLET_FAILED)) {
 		const k = keys.get(id);
-		for (const l of SITE_LOCALES.filter((l) => l !== "en"))
+		for (const l of LOCALES.filter((l) => l !== "en"))
 			assert.notEqual(k.localizations[l], k.localizations.en, `${id}[${l}] is translated`);
 	}
 	const k = keys.get("bittensor_error_extension_not_authorized");

@@ -1,0 +1,39 @@
+description: "DNS settings and connect drawer: status line while the selected preset answers normally, and the summary row of a selected preset. {provider} is the preset's name (dns_preset_name_*, for example AdGuard Family), inserted as is; the name already says what the preset does."
+source: "DNS: %@"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "DNS: {provider}"
+  cs: "DNS: {provider}"
+  de: "DNS: {provider}"
+  el: "DNS: {provider}"
+  en: "DNS: {provider}"
+  es: "DNS: {provider}"
+  es-419: "DNS: {provider}"
+  es-MX: "DNS: {provider}"
+  fr: "DNS : {provider}"
+  he: "DNS: {provider}"
+  hi: "DNS: {provider}"
+  id: "DNS: {provider}"
+  it: "DNS: {provider}"
+  ja: "DNS: {provider}"
+  ko: "DNS: {provider}"
+  nl: "DNS: {provider}"
+  pl: "DNS: {provider}"
+  pt: "DNS: {provider}"
+  pt-BR: "DNS: {provider}"
+  pt-PT: "DNS: {provider}"
+  ru: "DNS: {provider}"
+  sv: "DNS: {provider}"
+  sw: "DNS: {provider}"
+  th: "DNS: {provider}"
+  uk: "DNS: {provider}"
+  vi: "DNS: {provider}"
+  zh: "DNS：{provider}"
+  zh-HK: "DNS：{provider}"

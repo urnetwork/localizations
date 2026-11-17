@@ -1,0 +1,36 @@
+description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. Top 200 is a ranking the network's miners can claim a place on."
+source: "Deleting this key also gives up claiming a Top 200 spot with one tap. You could still claim from a Bittensor wallet holding this recovery phrase."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "يعني حذف هذا المفتاح أيضًا التخلي عن حجز مكان في أفضل 200 بنقرة واحدة. سيظل بإمكانك الحجز من محفظة Bittensor تحتوي على عبارة النسخ الاحتياطي هذه."
+  cs: "Odstraněním tohoto klíče se také vzdáte možnosti zajistit si místo v Top 200 jedním klepnutím. Místo si můžete i nadále zajistit z peněženky Bittensor s touto obnovovací frází."
+  de: "Wenn du diesen Schlüssel löschst, gibst du auch die Möglichkeit auf, dir mit einem Tippen einen Platz in den Top 200 zu sichern. Du könntest ihn dir weiterhin über eine Bittensor-Wallet sichern, die diese Wiederherstellungsphrase enthält."
+  el: "Η διαγραφή αυτού του κλειδιού σημαίνει επίσης ότι παραιτείστε από το κλείσιμο θέσης στο Top 200 με ένα πάτημα. Θα μπορείτε ακόμη να κλείσετε θέση από ένα πορτοφόλι Bittensor που περιέχει αυτή τη φράση επαναφοράς."
+  en: "Deleting this key also gives up claiming a Top 200 spot with one tap. You could still claim from a Bittensor wallet holding this recovery phrase."
+  es: "Eliminar esta clave también implica renunciar a reclamar un puesto en el Top 200 con un toque. Aún podrías reclamarlo desde una billetera de Bittensor que tenga esta frase de recuperación."
+  es-419: "Eliminar esta clave también implica renunciar a reclamar un lugar en el Top 200 con un toque. Todavía podrías reclamarlo desde una billetera de Bittensor que tenga esta frase de recuperación."
+  es-MX: "Eliminar esta clave también implica renunciar a reclamar un lugar en el Top 200 con un toque. Todavía podrías reclamarlo desde una cartera de Bittensor que tenga esta frase de recuperación."
+  fr: "Supprimer cette clé signifie aussi renoncer à réserver une place dans le Top 200 d’une simple touche. Vous pourriez toujours en réserver une depuis un portefeuille Bittensor contenant cette phrase de sauvegarde."
+  he: "מחיקת המפתח הזה פירושה גם ויתור על תפיסת מקום ב-Top 200 בהקשה אחת. עדיין תוכלו לתפוס מקום מארנק Bittensor שמכיל את ביטוי השחזור הזה."
+  hi: "इस कुंजी को डिलीट करने से एक टैप में टॉप 200 की जगह पक्की करने का विकल्प भी चला जाता है। आप फिर भी इस रिकवरी फ़्रेज़ वाले किसी Bittensor वॉलेट से जगह पक्की कर सकते हैं।"
+  id: "Menghapus kunci ini juga berarti melepaskan kesempatan mengamankan tempat Top 200 dengan satu ketukan. Anda masih dapat mengamankannya dari dompet Bittensor yang memuat frasa cadangan ini."
+  it: "Eliminare questa chiave significa anche rinunciare a prendere un posto nella Top 200 con un tocco. Potresti comunque prenderlo da un portafoglio Bittensor che contiene questa frase di recupero."
+  ja: "このキーを削除すると、ワンタップでトップ 200 の枠を確保することもできなくなります。この復元フレーズを入れた Bittensor ウォレットからなら、引き続き確保できます。"
+  ko: "이 키를 삭제하면 한 번의 탭으로 Top 200 자리를 확보하는 기능도 포기하게 됩니다. 이 복구 문구가 들어 있는 Bittensor 지갑에서는 여전히 자리를 확보할 수 있습니다."
+  nl: "Als je deze sleutel verwijdert, geef je ook op dat je met één tik een plek in de Top 200 kunt claimen. Je kunt nog steeds claimen vanuit een Bittensor-wallet met deze herstelzin."
+  pl: "Usunięcie tego klucza oznacza też rezygnację z zajęcia miejsca w Top 200 jednym dotknięciem. Nadal możesz je zająć z portfela Bittensor zawierającego tę frazę odzyskiwania."
+  pt: "Eliminar esta chave também significa abdicar de garantir um lugar no Top 200 com um toque. Ainda poderá garanti-lo a partir de uma carteira Bittensor que contenha esta frase de recuperação."
+  pt-BR: "Excluir esta chave também significa abrir mão de garantir uma vaga no Top 200 com um toque. Você ainda poderia garanti-la a partir de uma carteira Bittensor que tenha esta frase de recuperação."
+  pt-PT: "Eliminar esta chave também significa abdicar de garantir um lugar no Top 200 com um toque. Ainda poderá garanti-lo a partir de uma carteira Bittensor que contenha esta frase de recuperação."
+  ru: "Удаляя этот ключ, вы также отказываетесь от возможности занять место в Топ-200 одним нажатием. Вы по-прежнему сможете занять его из кошелька Bittensor с этой фразой восстановления."
+  sv: "Om du raderar den här nyckeln avstår du också från att ta en plats i Topp 200 med ett tryck. Du kan fortfarande ta en plats från en Bittensor-plånbok som innehåller den här återställningsfrasen."
+  sw: "Kufuta ufunguo huu pia kunamaanisha kuacha kupata nafasi ya Top 200 kwa mguso mmoja. Bado unaweza kuipata kutoka kwenye pochi ya Bittensor iliyo na kifungu hiki cha urejeshaji."
+  th: "การลบคีย์นี้ยังหมายถึงการสละการจองที่ใน Top 200 ด้วยการแตะครั้งเดียว คุณยังจองที่ได้จากกระเป๋าเงิน Bittensor ที่มีวลีสำรองนี้"
+  uk: "Видаляючи цей ключ, ви також відмовляєтеся від можливості зайняти місце в Топ-200 одним дотиком. Ви й надалі зможете зайняти його з гаманця Bittensor із цією фразою відновлення."
+  vi: "Xóa khóa này cũng đồng nghĩa với việc từ bỏ giành chỗ trong Top 200 chỉ với một lần chạm. Bạn vẫn có thể giành chỗ từ ví Bittensor chứa cụm từ sao lưu này."
+  zh: "删除此密钥也意味着放弃一键获取前 200 名席位。您仍可以从持有此恢复短语的 Bittensor 钱包获取席位。"
+  zh-HK: "刪除此金鑰亦代表放棄一鍵取得前 200 名席位。你仍可從持有此復原短語的 Bittensor 錢包取得席位。"

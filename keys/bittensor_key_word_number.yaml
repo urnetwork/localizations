@@ -1,0 +1,39 @@
+description: "Key screen, the confirmation before the key leaves the app, where the user enters two of its words. A field label: which word of the phrase to enter, counting from 1, for example Word 3."
+source: "Word %lld"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+placeholders:
+  - name: position
+    type: int
+localizations:
+  ar: "الكلمة {position}"
+  cs: "Slovo {position}"
+  de: "Wort {position}"
+  el: "Λέξη {position}"
+  en: "Word {position}"
+  es: "Palabra {position}"
+  es-419: "Palabra {position}"
+  es-MX: "Palabra {position}"
+  fr: "Mot {position}"
+  he: "מילה {position}"
+  hi: "शब्द {position}"
+  id: "Kata {position}"
+  it: "Parola {position}"
+  ja: "{position} 番目の単語"
+  ko: "{position}번째 단어"
+  nl: "Woord {position}"
+  pl: "Słowo {position}"
+  pt: "Palavra {position}"
+  pt-BR: "Palavra {position}"
+  pt-PT: "Palavra {position}"
+  ru: "Слово {position}"
+  sv: "Ord {position}"
+  sw: "Neno {position}"
+  th: "คำที่ {position}"
+  uk: "Слово {position}"
+  vi: "Từ thứ {position}"
+  zh: "第 {position} 个词"
+  zh-HK: "第 {position} 個詞"

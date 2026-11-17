@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. A smaller link: the user says the phrase is saved, and the key stays on the device, so the reminders stop."
+source: "I've saved it. Keep it on this device."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لقد حفظته. أبقِه على هذا الجهاز."
+  cs: "Mám ho uložený. Ponechat ho na tomto zařízení."
+  de: "Ich habe ihn gespeichert. Auf diesem Gerät behalten."
+  el: "Το αποθήκευσα. Να μείνει σε αυτή τη συσκευή."
+  en: "I've saved it. Keep it on this device."
+  es: "Ya la he guardado. Conservarla en este dispositivo."
+  es-419: "Ya la guardé. Conservarla en este dispositivo."
+  es-MX: "Ya la guardé. Conservarla en este dispositivo."
+  fr: "Je l’ai enregistrée. La garder sur cet appareil."
+  he: "שמרתי אותו. להשאיר אותו במכשיר הזה."
+  hi: "मैंने इसे सहेज लिया है। इसे इसी डिवाइस पर रखें।"
+  id: "Saya sudah menyimpannya. Tetap simpan di perangkat ini."
+  it: "L’ho salvata. Tienila su questo dispositivo."
+  ja: "保存しました。このデバイスに残します。"
+  ko: "저장했습니다. 이 기기에 보관합니다."
+  nl: "Ik heb hem opgeslagen. Op dit apparaat bewaren."
+  pl: "Mam go zapisany. Zachowaj go na tym urządzeniu."
+  pt: "Já a guardei. Manter neste dispositivo."
+  pt-BR: "Já salvei. Manter neste dispositivo."
+  pt-PT: "Já a guardei. Manter neste dispositivo."
+  ru: "Он сохранён. Оставить его на этом устройстве."
+  sv: "Jag har sparat den. Behåll den på den här enheten."
+  sw: "Nimeuhifadhi. Ubaki kwenye kifaa hiki."
+  th: "ฉันบันทึกแล้ว เก็บไว้บนอุปกรณ์นี้"
+  uk: "Його збережено. Залишити його на цьому пристрої."
+  vi: "Tôi đã lưu. Giữ khóa trên thiết bị này."
+  zh: "我已保存。保留在这台设备上。"
+  zh-HK: "我已儲存。保留在這部裝置上。"

@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile, the claim sheet and the claim dialog: names the coldkey's account in URnetwork's provider pool (an account whose kind is provider) beside its capture the flag account (sn_ctf_pool), in place of Pool {no_id} (sn_ledger_pool). The provider pool is the settlement v2 pool that pays for the network's usage and the extenders' share. A short title; use the app's word for provider and for pool."
+source: "Provider pool"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "مجمّع المزوّدين"
+  cs: "Pool poskytovatelů"
+  de: "Anbieter-Pool"
+  el: "Pool παρόχων"
+  en: "Provider pool"
+  es: "Pool de proveedores"
+  es-419: "Pool de proveedores"
+  es-MX: "Pool de proveedores"
+  fr: "Pool des fournisseurs"
+  he: "מאגר הספקים"
+  hi: "प्रदाता पूल"
+  id: "Pool penyedia"
+  it: "Pool dei provider"
+  ja: "プロバイダープール"
+  ko: "제공자 풀"
+  nl: "Providerpool"
+  pl: "Pula dostawców"
+  pt: "Pool de fornecedores"
+  pt-BR: "Pool de provedores"
+  pt-PT: "Pool de fornecedores"
+  ru: "Пул провайдеров"
+  sv: "Leverantörspool"
+  sw: "Kundi la watoa huduma"
+  th: "พูลผู้ให้บริการ"
+  uk: "Пул провайдерів"
+  vi: "Pool nhà cung cấp"
+  zh: "提供商池"
+  zh-HK: "供應商池"

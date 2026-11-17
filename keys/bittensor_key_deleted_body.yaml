@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card after this app deleted its copy of the key (the user saved the recovery phrase first). Earnings keep going to the same address. Top 200 is the leaderboard of the subnet's top 200 miners; keep it as the app writes it elsewhere."
+source: "Claims keep working. To transfer or convert your SN25α, or to claim a Top 200 spot, use a Bittensor wallet holding your recovery phrase."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "تستمر المطالبات في العمل. لنقل SN25α الخاص بك أو تحويله، أو لحجز مكان في أفضل 200، استخدم محفظة Bittensor تحتوي على عبارة النسخ الاحتياطي الخاصة بك."
+  cs: "Vyzvedávání funguje dál. Chcete-li své SN25α převést nebo konvertovat, nebo si zajistit místo v Top 200, použijte peněženku Bittensor s vaší obnovovací frází."
+  de: "Das Einlösen funktioniert weiterhin. Um dein SN25α zu übertragen oder umzuwandeln oder dir einen Platz in den Top 200 zu sichern, verwende eine Bittensor-Wallet, die deine Wiederherstellungsphrase enthält."
+  el: "Οι διεκδικήσεις συνεχίζουν να λειτουργούν. Για να μεταφέρετε ή να μετατρέψετε τα SN25α σας ή για να κλείσετε θέση στο Top 200, χρησιμοποιήστε ένα πορτοφόλι Bittensor που περιέχει τη φράση επαναφοράς σας."
+  en: "Claims keep working. To transfer or convert your SN25α, or to claim a Top 200 spot, use a Bittensor wallet holding your recovery phrase."
+  es: "Las reclamaciones siguen funcionando. Para transferir o convertir tu SN25α, o para reclamar un puesto en el Top 200, usa una billetera de Bittensor que tenga tu frase de recuperación."
+  es-419: "Las reclamaciones siguen funcionando. Para transferir o convertir tu SN25α, o para reclamar un lugar en el Top 200, usa una billetera de Bittensor que tenga tu frase de recuperación."
+  es-MX: "Las reclamaciones siguen funcionando. Para transferir o convertir tu SN25α, o para reclamar un lugar en el Top 200, usa una cartera de Bittensor que tenga tu frase de recuperación."
+  fr: "Les réclamations continuent de fonctionner. Pour transférer ou convertir vos SN25α, ou pour réserver une place dans le Top 200, utilisez un portefeuille Bittensor contenant votre phrase de sauvegarde."
+  he: "המימושים ממשיכים לעבוד. כדי להעביר או להמיר את ה-SN25α שלכם, או כדי לתפוס מקום ב-Top 200, השתמשו בארנק Bittensor שמכיל את ביטוי השחזור שלכם."
+  hi: "दावे काम करते रहेंगे। अपने SN25α को ट्रांसफ़र करने या बदलने के लिए, या टॉप 200 की जगह पक्की करने के लिए, ऐसे Bittensor वॉलेट का इस्तेमाल करें जिसमें आपका रिकवरी फ़्रेज़ हो।"
+  id: "Klaim tetap berfungsi. Untuk mentransfer atau mengonversi SN25α Anda, atau untuk mengamankan tempat Top 200, gunakan dompet Bittensor yang memuat frasa cadangan Anda."
+  it: "I riscatti continuano a funzionare. Per trasferire o convertire i tuoi SN25α, o per prendere un posto nella Top 200, usa un portafoglio Bittensor che contiene la tua frase di recupero."
+  ja: "受け取りは引き続き行えます。SN25α の送金や変換、またはトップ 200 の枠の確保には、復元フレーズを入れた Bittensor ウォレットを使用してください。"
+  ko: "받기는 계속 이용할 수 있습니다. SN25α를 전송하거나 전환하려면, 또는 Top 200 자리를 확보하려면 복구 문구가 들어 있는 Bittensor 지갑을 사용하세요."
+  nl: "Claims blijven werken. Om je SN25α over te maken of om te zetten, of om een plek in de Top 200 te claimen, gebruik je een Bittensor-wallet met je herstelzin."
+  pl: "Odbieranie nadal działa. Aby przenieść lub zamienić swoje SN25α albo zająć miejsce w Top 200, użyj portfela Bittensor zawierającego twoją frazę odzyskiwania."
+  pt: "As reivindicações continuam a funcionar. Para transferir ou converter o seu SN25α, ou para garantir um lugar no Top 200, utilize uma carteira Bittensor que contenha a sua frase de recuperação."
+  pt-BR: "Os resgates continuam funcionando. Para transferir ou converter seu SN25α, ou para garantir uma vaga no Top 200, use uma carteira Bittensor que tenha sua frase de recuperação."
+  pt-PT: "As reivindicações continuam a funcionar. Para transferir ou converter o seu SN25α, ou para garantir um lugar no Top 200, utilize uma carteira Bittensor que contenha a sua frase de recuperação."
+  ru: "Получение заработка по-прежнему работает. Чтобы перевести или конвертировать свои SN25α или занять место в Топ-200, используйте кошелек Bittensor с вашей фразой восстановления."
+  sv: "Uttag fungerar fortfarande. För att överföra eller konvertera dina SN25α, eller för att ta en plats i Topp 200, använder du en Bittensor-plånbok som innehåller din återställningsfras."
+  sw: "Madai yanaendelea kufanya kazi. Ili kuhamisha au kubadilisha SN25α yako, au kupata nafasi ya Top 200, tumia pochi ya Bittensor iliyo na kifungu chako cha urejeshaji."
+  th: "การรับรายได้ยังทำได้ตามปกติ หากต้องการโอนหรือแปลง SN25α ของคุณ หรือจองที่ใน Top 200 ให้ใช้กระเป๋าเงิน Bittensor ที่มีวลีสำรองของคุณ"
+  uk: "Отримання заробітку й надалі працює. Щоб переказати або конвертувати свої SN25α чи зайняти місце в Топ-200, використовуйте гаманець Bittensor із вашою фразою відновлення."
+  vi: "Việc nhận thu nhập vẫn hoạt động bình thường. Để chuyển hoặc chuyển đổi SN25α của bạn, hoặc để giành chỗ trong Top 200, hãy dùng ví Bittensor chứa cụm từ sao lưu của bạn."
+  zh: "领取功能仍可正常使用。要转移或转换您的 SN25α，或获取前 200 名席位，请使用持有您的恢复短语的 Bittensor 钱包。"
+  zh-HK: "領取功能仍可正常使用。要轉移或轉換你的 SN25α，或取得前 200 名席位，請使用持有你的復原短語的 Bittensor 錢包。"

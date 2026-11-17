@@ -1,0 +1,11 @@
+description: "Create proxy: why choosing a unique exit IP opens the Pro upgrade"
+source: "Unique exit IPs are part of UR Pro."
+platforms:
+  - site
+localizations:
+  ar: "عناوين IP الخروج الفريدة جزء من UR Pro."
+  de: "Eindeutige Ausgangs-IPs sind Teil von UR Pro."
+  en: "Unique exit IPs are part of UR Pro."
+  es: "Las IP de salida únicas forman parte de UR Pro."
+  ru: "Уникальные IP выхода входят в UR Pro."
+  zh: "独立出口 IP 是 UR Pro 的一部分。"

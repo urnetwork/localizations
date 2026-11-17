@@ -1,0 +1,36 @@
+description: "Key screen, the title of the confirmation when the user saved the recovery phrase first: payouts get set up with the key, and then the app drops it."
+source: "Set up payouts and delete the key?"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "هل تريد إعداد المدفوعات وحذف المفتاح؟"
+  cs: "Nastavit výplaty a odstranit klíč?"
+  de: "Auszahlungen einrichten und Schlüssel löschen?"
+  el: "Ρύθμιση πληρωμών και διαγραφή του κλειδιού;"
+  en: "Set up payouts and delete the key?"
+  es: "¿Configurar pagos y eliminar la clave?"
+  es-419: "¿Configurar pagos y eliminar la clave?"
+  es-MX: "¿Configurar pagos y eliminar la clave?"
+  fr: "Configurer les paiements et supprimer la clé ?"
+  he: "להגדיר תשלומים ולמחוק את המפתח?"
+  hi: "भुगतान सेट करें और कुंजी डिलीट करें?"
+  id: "Siapkan pembayaran dan hapus kunci?"
+  it: "Configurare i pagamenti ed eliminare la chiave?"
+  ja: "支払いを設定してキーを削除しますか？"
+  ko: "지급을 설정하고 키를 삭제할까요?"
+  nl: "Uitbetalingen instellen en sleutel verwijderen?"
+  pl: "Skonfigurować wypłaty i usunąć klucz?"
+  pt: "Configurar pagamentos e eliminar a chave?"
+  pt-BR: "Configurar pagamentos e excluir a chave?"
+  pt-PT: "Configurar pagamentos e eliminar a chave?"
+  ru: "Настроить выплаты и удалить ключ?"
+  sv: "Konfigurera utbetalningar och radera nyckeln?"
+  sw: "Ungependa kusanidi malipo na kufuta ufunguo?"
+  th: "ตั้งค่าการจ่ายและลบคีย์ใช่ไหม"
+  uk: "Налаштувати виплати й видалити ключ?"
+  vi: "Thiết lập thanh toán và xóa khóa?"
+  zh: "设置支付并删除密钥？"
+  zh-HK: "要設定支付並刪除金鑰嗎？"

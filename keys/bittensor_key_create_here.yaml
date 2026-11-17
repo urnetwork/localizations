@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. A small link when payouts go to another wallet. A warning follows before anything changes."
+source: "Create a key on this device"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "إنشاء مفتاح على هذا الجهاز"
+  cs: "Vytvořit klíč na tomto zařízení"
+  de: "Schlüssel auf diesem Gerät erstellen"
+  el: "Δημιουργία κλειδιού σε αυτή τη συσκευή"
+  en: "Create a key on this device"
+  es: "Crear una clave en este dispositivo"
+  es-419: "Crear una clave en este dispositivo"
+  es-MX: "Crear una clave en este dispositivo"
+  fr: "Créer une clé sur cet appareil"
+  he: "יצירת מפתח במכשיר הזה"
+  hi: "इस डिवाइस पर कुंजी बनाएं"
+  id: "Buat kunci di perangkat ini"
+  it: "Crea una chiave su questo dispositivo"
+  ja: "このデバイスでキーを作成"
+  ko: "이 기기에서 키 만들기"
+  nl: "Een sleutel maken op dit apparaat"
+  pl: "Utwórz klucz na tym urządzeniu"
+  pt: "Criar uma chave neste dispositivo"
+  pt-BR: "Criar uma chave neste dispositivo"
+  pt-PT: "Criar uma chave neste dispositivo"
+  ru: "Создать ключ на этом устройстве"
+  sv: "Skapa en nyckel på den här enheten"
+  sw: "Unda ufunguo kwenye kifaa hiki"
+  th: "สร้างคีย์บนอุปกรณ์นี้"
+  uk: "Створити ключ на цьому пристрої"
+  vi: "Tạo khóa trên thiết bị này"
+  zh: "在这台设备上创建密钥"
+  zh-HK: "在這部裝置上建立金鑰"

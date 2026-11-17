@@ -1,0 +1,11 @@
+description: "Create proxy: the option that gives each proxy its own exit IP"
+source: "Unique exit IP"
+platforms:
+  - site
+localizations:
+  ar: "عنوان IP خروج فريد"
+  de: "Eindeutige Ausgangs-IP"
+  en: "Unique exit IP"
+  es: "IP de salida única"
+  ru: "Уникальный IP выхода"
+  zh: "独立出口 IP"

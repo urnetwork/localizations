@@ -1,11 +1,12 @@
 description: "Payment method row: the option to pay in USDC on Solana. A product name: never translated."
 source: "USDC"
 translatable: false
+deprecated:
+  - windows
+  - linux
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   en: "USDC"

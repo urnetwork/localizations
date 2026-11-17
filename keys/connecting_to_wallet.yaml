@@ -5,6 +5,9 @@ platforms:
   - apple
   - linux
   - windows
+deprecated:
+  - windows
+  - linux
 localizations:
   ar: "جارٍ الاتصال بالمحفظة..."
   cs: "Připojování k peněžence..."

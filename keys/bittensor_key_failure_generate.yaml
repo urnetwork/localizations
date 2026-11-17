@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. An error under the Set up payouts button."
+source: "Couldn't make a key on this device. Try again."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "تعذّر إنشاء مفتاح على هذا الجهاز. حاول مرة أخرى."
+  cs: "Na tomto zařízení se nepodařilo vytvořit klíč. Zkuste to znovu."
+  de: "Auf diesem Gerät konnte kein Schlüssel erstellt werden. Versuche es erneut."
+  el: "Δεν ήταν δυνατή η δημιουργία κλειδιού σε αυτή τη συσκευή. Δοκιμάστε ξανά."
+  en: "Couldn't make a key on this device. Try again."
+  es: "No se pudo crear una clave en este dispositivo. Vuelve a intentarlo."
+  es-419: "No se pudo crear una clave en este dispositivo. Vuelve a intentarlo."
+  es-MX: "No se pudo crear una clave en este dispositivo. Vuelve a intentarlo."
+  fr: "Impossible de créer une clé sur cet appareil. Réessayez."
+  he: "לא ניתן היה ליצור מפתח במכשיר הזה. נסו שוב."
+  hi: "इस डिवाइस पर कुंजी नहीं बन सकी। दोबारा कोशिश करें।"
+  id: "Tidak dapat membuat kunci di perangkat ini. Coba lagi."
+  it: "Impossibile creare una chiave su questo dispositivo. Riprova."
+  ja: "このデバイスでキーを作成できませんでした。もう一度お試しください。"
+  ko: "이 기기에서 키를 만들지 못했습니다. 다시 시도하세요."
+  nl: "Er kon geen sleutel worden gemaakt op dit apparaat. Probeer het opnieuw."
+  pl: "Nie udało się utworzyć klucza na tym urządzeniu. Spróbuj ponownie."
+  pt: "Não foi possível criar uma chave neste dispositivo. Tente novamente."
+  pt-BR: "Não foi possível criar uma chave neste dispositivo. Tente novamente."
+  pt-PT: "Não foi possível criar uma chave neste dispositivo. Tente novamente."
+  ru: "Не удалось создать ключ на этом устройстве. Повторите попытку."
+  sv: "Det gick inte att skapa en nyckel på den här enheten. Försök igen."
+  sw: "Imeshindwa kuunda ufunguo kwenye kifaa hiki. Jaribu tena."
+  th: "ไม่สามารถสร้างคีย์บนอุปกรณ์นี้ได้ ลองอีกครั้ง"
+  uk: "Не вдалося створити ключ на цьому пристрої. Спробуйте ще раз."
+  vi: "Không thể tạo khóa trên thiết bị này. Hãy thử lại."
+  zh: "无法在这台设备上创建密钥。请重试。"
+  zh-HK: "無法在這部裝置上建立金鑰。請再試一次。"

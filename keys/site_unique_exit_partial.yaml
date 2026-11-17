@@ -1,0 +1,16 @@
+description: "Create proxy: a batch stopped early; how many of the requested proxies were created"
+source: "Created {created} of {requested}."
+platforms:
+  - site
+placeholders:
+  - name: created
+    type: int
+  - name: requested
+    type: int
+localizations:
+  ar: "تم إنشاء {created} من {requested}."
+  de: "{created} von {requested} erstellt."
+  en: "Created {created} of {requested}."
+  es: "Se crearon {created} de {requested}."
+  ru: "Создано {created} из {requested}."
+  zh: "已创建 {created} / {requested} 个。"

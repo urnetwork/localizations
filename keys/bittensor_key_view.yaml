@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card: a link that opens the Key screen, where the recovery phrase can be shown after device authentication."
+source: "View key"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "عرض المفتاح"
+  cs: "Zobrazit klíč"
+  de: "Schlüssel anzeigen"
+  el: "Προβολή κλειδιού"
+  en: "View key"
+  es: "Ver clave"
+  es-419: "Ver clave"
+  es-MX: "Ver clave"
+  fr: "Voir la clé"
+  he: "הצגת המפתח"
+  hi: "कुंजी देखें"
+  id: "Lihat kunci"
+  it: "Visualizza chiave"
+  ja: "キーを表示"
+  ko: "키 보기"
+  nl: "Sleutel bekijken"
+  pl: "Zobacz klucz"
+  pt: "Ver chave"
+  pt-BR: "Ver chave"
+  pt-PT: "Ver chave"
+  ru: "Посмотреть ключ"
+  sv: "Visa nyckel"
+  sw: "Tazama ufunguo"
+  th: "ดูคีย์"
+  uk: "Переглянути ключ"
+  vi: "Xem khóa"
+  zh: "查看密钥"
+  zh-HK: "查看金鑰"

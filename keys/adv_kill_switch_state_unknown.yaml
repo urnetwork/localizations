@@ -3,7 +3,7 @@ source: "Whether the kill switch is in force cannot be checked right now."
 platforms:
   - linux
 localizations:
-  ar: "يتعذّر التحقق الآن مما إذا كان مفتاح القتل ساري المفعول."
+  ar: "يتعذّر التحقق الآن مما إذا كان مفتاح الإيقاف ساري المفعول."
   cs: "Zda je kill switch v platnosti, teď nelze zjistit."
   de: "Ob der Kill switch in Kraft ist, lässt sich gerade nicht prüfen."
   el: "Δεν είναι δυνατό να ελεγχθεί αυτήν τη στιγμή αν το Kill switch είναι σε ισχύ."

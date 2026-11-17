@@ -1,10 +1,11 @@
 description: "Label above the challenge message the user signs in their Bittensor wallet."
 source: "Message to sign"
+deprecated:
+  - windows
+  - linux
 platforms:
   - android
   - apple
-  - windows
-  - linux
   - site
 localizations:
   ar: "الرسالة المطلوب توقيعها"

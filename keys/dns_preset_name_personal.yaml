@@ -1,0 +1,39 @@
+description: "DNS settings: the name of an adblock provider's preset in \"Use my account\", which uses the filters the person set up in their own account there. It never includes the account's ID. Shown alone as the preset's label on the DNS screen, and inserted as is wherever the selected preset is named, as in \"DNS: NextDNS Personal\" and \"NextDNS Personal isn't answering\", so it reads as a short name that works on its own and inside a sentence. {provider} is the adblock provider's short name, inserted as is (for example NextDNS); keep it first, so the presets of a group stay in alphabetical order."
+source: "%@ Personal"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: provider
+    type: string
+localizations:
+  ar: "{provider} الشخصي"
+  cs: "{provider} Osobní"
+  de: "{provider} Persönlich"
+  el: "{provider} Προσωπικό"
+  en: "{provider} Personal"
+  es: "{provider} Personal"
+  es-419: "{provider} Personal"
+  es-MX: "{provider} Personal"
+  fr: "{provider} Personnel"
+  he: "{provider} אישי"
+  hi: "{provider} पर्सनल"
+  id: "{provider} Pribadi"
+  it: "{provider} Personale"
+  ja: "{provider} 個人用"
+  ko: "{provider} 개인용"
+  nl: "{provider} Persoonlijk"
+  pl: "{provider} Osobisty"
+  pt: "{provider} Pessoal"
+  pt-BR: "{provider} Pessoal"
+  pt-PT: "{provider} Pessoal"
+  ru: "{provider} Личный"
+  sv: "{provider} Personlig"
+  sw: "{provider} Binafsi"
+  th: "{provider} ส่วนตัว"
+  uk: "{provider} Особистий"
+  vi: "{provider} Cá nhân"
+  zh: "{provider} 个人"
+  zh-HK: "{provider} 個人"

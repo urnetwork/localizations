@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. Button that covers the words again."
+source: "Hide"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "إخفاء"
+  cs: "Skrýt"
+  de: "Ausblenden"
+  el: "Απόκρυψη"
+  en: "Hide"
+  es: "Ocultar"
+  es-419: "Ocultar"
+  es-MX: "Ocultar"
+  fr: "Masquer"
+  he: "הסתרה"
+  hi: "छिपाएं"
+  id: "Sembunyikan"
+  it: "Nascondi"
+  ja: "非表示"
+  ko: "숨기기"
+  nl: "Verbergen"
+  pl: "Ukryj"
+  pt: "Ocultar"
+  pt-BR: "Ocultar"
+  pt-PT: "Ocultar"
+  ru: "Скрыть"
+  sv: "Dölj"
+  sw: "Ficha"
+  th: "ซ่อน"
+  uk: "Приховати"
+  vi: "Ẩn"
+  zh: "隐藏"
+  zh-HK: "隱藏"

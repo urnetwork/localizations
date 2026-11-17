@@ -5,6 +5,7 @@ platforms:
   - apple
   - android
   - linux
+  - web
 localizations:
   ar: "غير متصل"
   cs: "Odpojeno"

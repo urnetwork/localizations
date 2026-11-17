@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. Always visible on the screen."
+source: "Anyone with this phrase controls your SN25α. URnetwork will never ask for it, and can't recover it. If you lose this device before saving it, your SN25α can't be reached."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "أي شخص لديه هذه العبارة يتحكم في SN25α الخاص بك. لن يطلبها منك URnetwork أبدًا، ولا يمكنه استعادتها. إذا فقدت هذا الجهاز قبل حفظها، فلن يمكن الوصول إلى SN25α الخاص بك."
+  cs: "Kdokoli má tuto frázi, ovládá vaše SN25α. URnetwork o ni nikdy nepožádá a nedokáže ji obnovit. Pokud toto zařízení ztratíte dřív, než ji uložíte, k vašemu SN25α se nebude možné dostat."
+  de: "Wer diese Phrase hat, kontrolliert dein SN25α. URnetwork wird nie danach fragen und kann sie nicht wiederherstellen. Wenn du dieses Gerät verlierst, bevor du sie gespeichert hast, ist dein SN25α nicht mehr erreichbar."
+  el: "Όποιος έχει αυτή τη φράση ελέγχει τα SN25α σας. Το URnetwork δεν θα τη ζητήσει ποτέ και δεν μπορεί να την ανακτήσει. Αν χάσετε αυτή τη συσκευή πριν αποθηκεύσετε τη φράση, δεν θα είναι δυνατή η πρόσβαση στα SN25α σας."
+  en: "Anyone with this phrase controls your SN25α. URnetwork will never ask for it, and can't recover it. If you lose this device before saving it, your SN25α can't be reached."
+  es: "Quien tenga esta frase controla tu SN25α. URnetwork nunca te la pedirá y no puede recuperarla. Si pierdes este dispositivo antes de guardarla, no se podrá acceder a tu SN25α."
+  es-419: "Quien tenga esta frase controla tu SN25α. URnetwork nunca te la pedirá y no puede recuperarla. Si pierdes este dispositivo antes de guardarla, no se podrá acceder a tu SN25α."
+  es-MX: "Quien tenga esta frase controla tu SN25α. URnetwork nunca te la pedirá y no puede recuperarla. Si pierdes este dispositivo antes de guardarla, no se podrá acceder a tu SN25α."
+  fr: "Toute personne qui a cette phrase contrôle vos SN25α. URnetwork ne vous la demandera jamais et ne peut pas la récupérer. Si vous perdez cet appareil avant de l’avoir enregistrée, vos SN25α seront inaccessibles."
+  he: "כל מי שיש לו את הביטוי הזה שולט ב-SN25α שלכם. URnetwork לעולם לא יבקש אותו ולא יכול לשחזר אותו. אם תאבדו את המכשיר הזה לפני שתשמרו את הביטוי, לא תהיה גישה ל-SN25α שלכם."
+  hi: "जिसके पास भी यह फ़्रेज़ है, वह आपके SN25α को नियंत्रित करता है। URnetwork इसे कभी नहीं माँगेगा, और इसे वापस नहीं ला सकता। अगर आप फ़्रेज़ सहेजने से पहले यह डिवाइस खो देते हैं, तो आपके SN25α तक पहुँचा नहीं जा सकेगा।"
+  id: "Siapa pun yang memiliki frasa ini mengendalikan SN25α Anda. URnetwork tidak akan pernah memintanya, dan tidak dapat memulihkannya. Jika Anda kehilangan perangkat ini sebelum menyimpan frasa tersebut, SN25α Anda tidak dapat diakses."
+  it: "Chiunque abbia questa frase controlla i tuoi SN25α. URnetwork non te la chiederà mai e non può recuperarla. Se perdi questo dispositivo prima di averla salvata, i tuoi SN25α non saranno più accessibili."
+  ja: "このフレーズを持つ人は誰でも、あなたの SN25α をコントロールできます。URnetwork がこのフレーズを求めることは決してなく、復元することもできません。このフレーズを保存する前にこのデバイスをなくすと、SN25α にアクセスできなくなります。"
+  ko: "이 문구를 가진 사람은 누구나 내 SN25α를 제어할 수 있습니다. URnetwork는 이 문구를 절대 요청하지 않으며 복구할 수도 없습니다. 문구를 저장하기 전에 이 기기를 잃어버리면 SN25α에 접근할 수 없습니다."
+  nl: "Iedereen met deze zin heeft controle over je SN25α. URnetwork zal er nooit om vragen en kan hem niet herstellen. Als je dit apparaat kwijtraakt voordat je de zin hebt opgeslagen, is je SN25α niet meer bereikbaar."
+  pl: "Każdy, kto ma tę frazę, kontroluje twoje SN25α. URnetwork nigdy o nią nie poprosi i nie może jej odzyskać. Jeśli stracisz to urządzenie, zanim ją zapiszesz, do twoich SN25α nie będzie można się dostać."
+  pt: "Quem tiver esta frase controla o seu SN25α. O URnetwork nunca a pedirá e não a consegue recuperar. Se perder este dispositivo antes de a guardar, não será possível aceder ao seu SN25α."
+  pt-BR: "Quem tiver esta frase controla seu SN25α. O URnetwork nunca vai pedi-la e não consegue recuperá-la. Se você perder este dispositivo antes de salvá-la, não será possível acessar seu SN25α."
+  pt-PT: "Quem tiver esta frase controla o seu SN25α. O URnetwork nunca a pedirá e não a consegue recuperar. Se perder este dispositivo antes de a guardar, não será possível aceder ao seu SN25α."
+  ru: "Любой, у кого есть эта фраза, контролирует ваши SN25α. URnetwork никогда её не попросит и не сможет её восстановить. Если вы потеряете это устройство, не сохранив её, получить доступ к вашим SN25α будет невозможно."
+  sv: "Alla som har den här frasen kontrollerar dina SN25α. URnetwork kommer aldrig att be om den och kan inte återställa den. Om du förlorar den här enheten innan du har sparat frasen går det inte att komma åt dina SN25α."
+  sw: "Yeyote aliye na kifungu hiki anadhibiti SN25α yako. URnetwork haitakiomba kamwe, na haiwezi kukirejesha. Ukipoteza kifaa hiki kabla ya kuhifadhi kifungu hicho, SN25α yako haitaweza kufikiwa."
+  th: "ใครก็ตามที่มีวลีนี้จะควบคุม SN25α ของคุณได้ URnetwork จะไม่ขอวลีนี้จากคุณเด็ดขาด และไม่สามารถกู้คืนวลีนี้ได้ หากคุณทำอุปกรณ์นี้หายก่อนบันทึกวลีนี้ จะไม่สามารถเข้าถึง SN25α ของคุณได้"
+  uk: "Будь-хто, хто має цю фразу, контролює ваші SN25α. URnetwork ніколи її не попросить і не зможе її відновити. Якщо ви втратите цей пристрій, не зберігши її, отримати доступ до ваших SN25α буде неможливо."
+  vi: "Bất kỳ ai có cụm từ này đều kiểm soát SN25α của bạn. URnetwork sẽ không bao giờ yêu cầu cụm từ này và không thể khôi phục nó. Nếu bạn mất thiết bị này trước khi lưu cụm từ đó, sẽ không thể truy cập SN25α của bạn."
+  zh: "任何拥有此短语的人都能控制您的 SN25α。URnetwork 绝不会向您索要此短语，也无法恢复它。如果您在保存此短语之前丢失这台设备，您的 SN25α 将无法访问。"
+  zh-HK: "任何擁有此短語的人都能控制你的 SN25α。URnetwork 絕不會向你索取此短語，也無法復原它。如果你在儲存此短語之前遺失這部裝置，你的 SN25α 將無法存取。"

@@ -1,0 +1,36 @@
+description: "Key screen, the confirmation when the user saved the recovery phrase first: one point of a short list. Convert to TAO is the app's action that swaps SN25α for TAO."
+source: "Convert to TAO needs this key, so it won't be available in this app."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "يحتاج التحويل إلى TAO إلى هذا المفتاح، لذا لن يكون متاحًا في هذا التطبيق."
+  cs: "Převod na TAO potřebuje tento klíč, takže v této aplikaci nebude k dispozici."
+  de: "Das Umwandeln in TAO benötigt diesen Schlüssel und ist daher in dieser App nicht verfügbar."
+  el: "Η μετατροπή σε TAO χρειάζεται αυτό το κλειδί, οπότε δεν θα είναι διαθέσιμη σε αυτή την εφαρμογή."
+  en: "Convert to TAO needs this key, so it won't be available in this app."
+  es: "La conversión a TAO necesita esta clave, así que no estará disponible en esta aplicación."
+  es-419: "La conversión a TAO necesita esta clave, así que no estará disponible en esta aplicación."
+  es-MX: "La conversión a TAO necesita esta clave, así que no estará disponible en esta aplicación."
+  fr: "La conversion en TAO a besoin de cette clé et ne sera donc pas disponible dans cette application."
+  he: "ההמרה ל-TAO דורשת את המפתח הזה, ולכן היא לא תהיה זמינה באפליקציה הזו."
+  hi: "TAO में बदलने की सुविधा को यह कुंजी चाहिए, इसलिए यह सुविधा इस ऐप में उपलब्ध नहीं होगी।"
+  id: "Konversi ke TAO memerlukan kunci ini, sehingga tidak akan tersedia di aplikasi ini."
+  it: "La conversione in TAO richiede questa chiave, quindi non sarà disponibile in questa app."
+  ja: "TAO への変換にはこのキーが必要なため、このアプリでは利用できません。"
+  ko: "TAO로 전환 기능에는 이 키가 필요하므로 이 앱에서는 사용할 수 없습니다."
+  nl: "Omzetten naar TAO heeft deze sleutel nodig, dus dat is in deze app niet beschikbaar."
+  pl: "Zamiana na TAO wymaga tego klucza, więc nie będzie dostępna w tej aplikacji."
+  pt: "A conversão em TAO precisa desta chave, por isso não estará disponível nesta app."
+  pt-BR: "A conversão em TAO precisa desta chave, então não estará disponível neste app."
+  pt-PT: "A conversão em TAO precisa desta chave, por isso não estará disponível nesta app."
+  ru: "Для конвертации в TAO нужен этот ключ, поэтому в этом приложении она будет недоступна."
+  sv: "Konvertering till TAO kräver den här nyckeln och blir därför inte tillgänglig i den här appen."
+  sw: "Kubadilisha kuwa TAO kunahitaji ufunguo huu, kwa hivyo hakutapatikana kwenye programu hii."
+  th: "การแปลงเป็น TAO ต้องใช้คีย์นี้ จึงจะไม่พร้อมใช้งานในแอปนี้"
+  uk: "Для конвертації в TAO потрібен цей ключ, тому в цьому застосунку вона буде недоступна."
+  vi: "Chuyển đổi sang TAO cần khóa này nên sẽ không khả dụng trong ứng dụng này."
+  zh: "转换为 TAO 功能需要此密钥，因此在此应用中将无法使用。"
+  zh-HK: "轉換為 TAO 功能需要此金鑰，因此在此應用程式中將無法使用。"

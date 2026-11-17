@@ -1,0 +1,39 @@
+description: "Key screen, while the recovery phrase's words show: a countdown until they hide by themselves. The placeholder is minutes and seconds, as 0:58."
+source: "Hides again in %@"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+placeholders:
+  - name: time
+    type: string
+localizations:
+  ar: "تُخفى مجددًا بعد {time}"
+  cs: "Znovu se skryje za {time}"
+  de: "Wird in {time} wieder ausgeblendet"
+  el: "Θα κρυφτεί ξανά σε {time}"
+  en: "Hides again in {time}"
+  es: "Se ocultará de nuevo en {time}"
+  es-419: "Se ocultará de nuevo en {time}"
+  es-MX: "Se ocultará de nuevo en {time}"
+  fr: "Se masque à nouveau dans {time}"
+  he: "יוסתר שוב בעוד {time}"
+  hi: "{time} बाद फिर से छिप जाएगा"
+  id: "Disembunyikan lagi dalam {time}"
+  it: "Si nasconde di nuovo tra {time}"
+  ja: "{time} 後に再び非表示になります"
+  ko: "{time} 후 다시 숨겨집니다"
+  nl: "Wordt over {time} weer verborgen"
+  pl: "Ponownie ukryje się za {time}"
+  pt: "Volta a ficar oculta dentro de {time}"
+  pt-BR: "Será ocultada de novo em {time}"
+  pt-PT: "Volta a ficar oculta dentro de {time}"
+  ru: "Снова скроется через {time}"
+  sv: "Döljs igen om {time}"
+  sw: "Kitafichwa tena baada ya {time}"
+  th: "จะซ่อนอีกครั้งใน {time}"
+  uk: "Знову сховається через {time}"
+  vi: "Sẽ ẩn lại sau {time}"
+  zh: "{time} 后再次隐藏"
+  zh-HK: "{time} 後再次隱藏"

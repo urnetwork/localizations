@@ -4,7 +4,7 @@ platforms:
   - windows
   - linux
 localizations:
-  ar: "إيقاف مفتاح القتل (إلغاء حجب هذا الكمبيوتر)"
+  ar: "تعطيل مفتاح الإيقاف (إلغاء حجب هذا الكمبيوتر)"
   cs: "Vypnout kill switch (odblokovat tento počítač)"
   de: "Kill switch ausschalten (diesen Computer entsperren)"
   el: "Απενεργοποίηση του Kill switch (ξεμπλοκάρισμα αυτού του υπολογιστή)"

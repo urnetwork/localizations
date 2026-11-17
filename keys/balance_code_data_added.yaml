@@ -1,4 +1,4 @@
-description: "Redeem balance code: confirmation of the data a redeemed code added to the network's balance (amount is a formatted byte count, e.g. \"5.00 GiB\"). A balance code is data only: never a plan or Pro upgrade."
+description: "Redeem balance code: confirmation of the data a redeemed code added to the network's balance (amount is a formatted byte count, e.g. \"5.00 GiB\"). Data codes only: a redeemed Pro gift code confirms with gift_pro_redeemed instead."
 source: "%@ of data added to your balance."
 platforms:
   - android

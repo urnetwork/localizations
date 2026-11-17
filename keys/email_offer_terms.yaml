@@ -1,7 +1,8 @@
-description: "Onboarding emails E3a, E4b, E5b: the terms line under the button. {offer_price} and {regular_price} are localized amounts."
+description: "Onboarding emails E3a, E4b, E5b: the terms line under the button. ur.io: the terms line under the yearly plan's button while the welcome offer is active (site_plan_offer_trial_terms). {offer_price} and {regular_price} are localized amounts."
 source: "14 days free, then {offer_price} for your first year, then {regular_price}/year. Cancel anytime."
 platforms:
   - email
+  - site
 placeholders:
   - name: offer_price
     type: string

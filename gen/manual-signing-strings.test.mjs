@@ -74,6 +74,26 @@ test("the phone sheet's way out is in every locale, with what a reader must find
 	}
 });
 
+// The strings of the apps' own manual sheet. The desktop apps no longer have one:
+// every chooser wallet opens the bridge page there, and its form is the manual path.
+// The phones still show the sheet, and ur.io looks these up too, so the keys stay live.
+const DESKTOP_RETIRED = [
+	"bittensor_manual_sign_instructions",
+	"bittensor_message_to_sign",
+	"bittensor_signature_label",
+	"bittensor_signature_placeholder",
+	"bittensor_error_signature_mismatch",
+];
+
+test("the apps' manual sheet is the phones' and ur.io's: Windows and Linux have retired its strings", () => {
+	for (const id of DESKTOP_RETIRED) {
+		const k = keys.get(id);
+		assert.deepEqual(k.platforms, ["android", "apple", "site"], id);
+		assert.deepEqual(k.deprecated, ["windows", "linux"], id);
+		assert.deepEqual(Object.keys(k.localizations).sort(), [...LOCALES].sort(), id);
+	}
+});
+
 test("each is translated, keeping what a reader must type or find", () => {
 	// btcli's own labels and the letter to answer stay as btcli prints them
 	const keep = {

@@ -1,0 +1,11 @@
+description: "Proxies list: a rotate exit request was refused by the per-proxy rotate limit (once a minute, 60 a day)"
+source: "A proxy's exit can be rotated once a minute and up to 60 times a day. Try again later."
+platforms:
+  - site
+localizations:
+  ar: "يمكن تغيير مخرج الوكيل مرة واحدة في الدقيقة وحتى 60 مرة في اليوم. حاول مرة أخرى لاحقًا."
+  de: "Der Ausgang eines Proxys kann einmal pro Minute und bis zu 60-mal am Tag gewechselt werden. Versuche es später erneut."
+  en: "A proxy's exit can be rotated once a minute and up to 60 times a day. Try again later."
+  es: "La salida de un proxy se puede cambiar una vez por minuto y hasta 60 veces al día. Inténtalo de nuevo más tarde."
+  ru: "Выход прокси можно менять раз в минуту и до 60 раз в день. Попробуйте позже."
+  zh: "每个代理的出口每分钟可更换一次，每天最多 60 次。请稍后再试。"

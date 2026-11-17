@@ -1,0 +1,36 @@
+description: "Sign out and Delete account confirmations: a button that opens the Key screen, so the user can save the recovery phrase before going on. Short: a button."
+source: "Back up first"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "النسخ الاحتياطي أولًا"
+  cs: "Nejdřív zálohovat"
+  de: "Zuerst sichern"
+  el: "Πρώτα αντίγραφο ασφαλείας"
+  en: "Back up first"
+  es: "Hacer copia de seguridad primero"
+  es-419: "Hacer copia de seguridad primero"
+  es-MX: "Hacer copia de seguridad primero"
+  fr: "Sauvegarder d’abord"
+  he: "גבו קודם"
+  hi: "पहले बैकअप लें"
+  id: "Cadangkan terlebih dahulu"
+  it: "Prima fai il backup"
+  ja: "先にバックアップ"
+  ko: "먼저 백업하기"
+  nl: "Eerst back-up maken"
+  pl: "Najpierw utwórz kopię zapasową"
+  pt: "Fazer cópia de segurança primeiro"
+  pt-BR: "Fazer backup primeiro"
+  pt-PT: "Fazer cópia de segurança primeiro"
+  ru: "Сначала создать резервную копию"
+  sv: "Säkerhetskopiera först"
+  sw: "Hifadhi nakala kwanza"
+  th: "สำรองก่อน"
+  uk: "Спершу створити резервну копію"
+  vi: "Sao lưu trước"
+  zh: "先备份"
+  zh-HK: "先備份"

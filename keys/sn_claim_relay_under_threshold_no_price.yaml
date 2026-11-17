@@ -1,0 +1,40 @@
+description: "Earnings, the settlement v2 tile and the claim sheet, under Below the automatic threshold, when today's SN25α price isn't known. The placeholder is the threshold in TAO (0.0125)."
+source: "It's claimed for you once it's worth about %@ TAO. Waiting costs nothing: this credit never expires."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+placeholders:
+  - name: tao
+    type: string
+localizations:
+  ar: "تتم المطالبة به نيابةً عنك عندما تبلغ قيمته نحو {tao} TAO. الانتظار لا يكلّف شيئًا: هذا الرصيد لا تنتهي صلاحيته أبدًا."
+  cs: "Nárok se za vás odešle, jakmile bude mít hodnotu zhruba {tao} TAO. Čekání nic nestojí: tento kredit nikdy nevyprší."
+  de: "Es wird für dich eingelöst, sobald es etwa {tao} TAO wert ist. Warten kostet nichts: Dieses Guthaben verfällt nie."
+  el: "Θα διεκδικηθεί για εσάς μόλις αξίζει περίπου {tao} TAO. Η αναμονή δεν κοστίζει τίποτα: αυτή η πίστωση δεν λήγει ποτέ."
+  en: "It's claimed for you once it's worth about {tao} TAO. Waiting costs nothing: this credit never expires."
+  es: "Se reclama en tu nombre en cuanto valga alrededor de {tao} TAO. Esperar no cuesta nada: este saldo nunca caduca."
+  es-419: "Se reclama en tu nombre en cuanto valga alrededor de {tao} TAO. Esperar no cuesta nada: este saldo nunca vence."
+  es-MX: "Se reclama en tu nombre en cuanto valga alrededor de {tao} TAO. Esperar no cuesta nada: este saldo nunca vence."
+  fr: "Il est réclamé pour vous dès qu’il vaut environ {tao} TAO. Attendre ne coûte rien : ce crédit n’expire jamais."
+  he: "ימומש עבורכם ברגע שיהיה שווה כ-{tao} TAO. ההמתנה לא עולה כלום: תוקף הזיכוי הזה לעולם לא פג."
+  hi: "जब इसका मूल्य लगभग {tao} TAO हो जाएगा, तब आपकी ओर से इसका दावा कर दिया जाएगा। प्रतीक्षा करने में कोई खर्च नहीं लगता: यह क्रेडिट कभी समाप्त नहीं होता।"
+  id: "Ini akan diklaim untuk Anda begitu nilainya mencapai sekitar {tao} TAO. Menunggu tidak dikenai biaya apa pun: saldo ini tidak pernah kedaluwarsa."
+  it: "Viene riscattato per te non appena vale circa {tao} TAO. Aspettare non costa nulla: questo credito non scade mai."
+  ja: "約 {tao} TAO 相当になると、あなたに代わって受け取りの手続きが行われます。待っても費用はかかりません。この残高に有効期限はありません。"
+  ko: "약 {tao} TAO 상당이 되면 받기가 대신 처리됩니다. 기다려도 비용이 들지 않습니다. 이 잔액은 절대 만료되지 않습니다."
+  nl: "Het wordt voor je opgeëist zodra het ongeveer {tao} TAO waard is. Wachten kost niets: dit tegoed verloopt nooit."
+  pl: "Odbiór zostanie przeprowadzony w twoim imieniu, gdy saldo będzie warte około {tao} TAO. Czekanie nic nie kosztuje: te środki nigdy nie wygasają."
+  pt: "É reivindicado em seu nome assim que valer cerca de {tao} TAO. Esperar não custa nada: este saldo nunca expira."
+  pt-BR: "É resgatado em seu nome assim que valer cerca de {tao} TAO. Esperar não custa nada: este saldo nunca expira."
+  pt-PT: "É reivindicado em seu nome assim que valer cerca de {tao} TAO. Esperar não custa nada: este saldo nunca expira."
+  ru: "Запрос на получение будет отправлен за вас, как только сумма будет стоить примерно {tao} TAO. Ожидание ничего не стоит: у этого начисления нет срока действия."
+  sv: "Uttaget görs åt dig så snart beloppet är värt cirka {tao} TAO. Att vänta kostar ingenting: det här tillgodohavandet löper aldrig ut."
+  sw: "Salio litadaiwa kwa niaba yako pindi litakapokuwa na thamani ya takriban {tao} TAO. Kusubiri hakugharimu chochote: salio hili halitaisha muda kamwe."
+  th: "เมื่อยอดนี้มีมูลค่าประมาณ {tao} TAO จะมีการดำเนินการรับให้คุณ การรอไม่มีค่าใช้จ่าย ยอดนี้ไม่มีวันหมดอายุ"
+  uk: "Запит на отримання буде надіслано за вас, щойно вартість суми сягне приблизно {tao} TAO. Очікування нічого не коштує: це нарахування не має строку дії."
+  vi: "Yêu cầu nhận sẽ được gửi thay bạn khi khoản này có giá trị khoảng {tao} TAO. Chờ đợi không tốn gì: khoản này không bao giờ hết hạn."
+  zh: "价值达到约 {tao} TAO 时，将代您发起领取。等待不会产生任何费用：这笔余额永不过期。"
+  zh-HK: "價值達到約 {tao} TAO 時，將代你發起領取。等待不會產生任何費用：這筆餘額永不過期。"

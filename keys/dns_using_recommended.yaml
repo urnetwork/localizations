@@ -1,7 +1,11 @@
 description: "dns settings"
 source: "Using recommended regional settings"
-platforms:
+deprecated:
   - android
+  - apple
+  - linux
+  - windows
+platforms:
   - apple
   - linux
   - windows

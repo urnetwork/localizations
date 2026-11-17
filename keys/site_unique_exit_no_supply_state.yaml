@@ -1,0 +1,11 @@
+description: "Proxies list: no unused exit IP is available for this proxy right now"
+source: "No unique exit available"
+platforms:
+  - site
+localizations:
+  ar: "لا يتوفر مخرج فريد"
+  de: "Kein eindeutiger Ausgang verfügbar"
+  en: "No unique exit available"
+  es: "No hay salida única disponible"
+  ru: "Нет свободного уникального выхода"
+  zh: "没有可用的独立出口"

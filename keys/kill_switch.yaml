@@ -5,8 +5,9 @@ platforms:
   - apple
   - linux
   - windows
+  - web
 localizations:
-  ar: "مفتاح القتل"
+  ar: "مفتاح الإيقاف"
   cs: "Kill switch"
   de: "Kill switch"
   el: "Kill switch"

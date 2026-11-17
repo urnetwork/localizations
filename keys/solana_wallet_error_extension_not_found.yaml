@@ -4,6 +4,10 @@ platforms:
   - apple
   - windows
   - linux
+deprecated:
+  - apple
+  - windows
+  - linux
 placeholders:
   - name: wallet
     type: string

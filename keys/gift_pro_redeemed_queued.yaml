@@ -1,0 +1,39 @@
+description: "Confirmation shown after a Pro gift code is redeemed by someone who already has Pro: the gift's year of Pro is queued after the current Pro period. {date} is the day it starts, formatted by the app for the reader's locale."
+source: "Your gift year of Pro starts on %@, after your current Pro period."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "يبدأ عام Pro الذي حصلت عليه هديةً في {date}، بعد انتهاء فترة Pro الحالية."
+  cs: "Váš darovaný rok Pro začne {date}, po skončení vašeho současného období Pro."
+  de: "Dein geschenktes Pro-Jahr beginnt am {date}, nach Ablauf deines aktuellen Pro-Zeitraums."
+  el: "Το έτος Pro που λάβατε δώρο ξεκινά στις {date}, μετά τη λήξη της τρέχουσας περιόδου Pro σας."
+  en: "Your gift year of Pro starts on {date}, after your current Pro period."
+  es: "Tu año de Pro de regalo empieza el {date}, cuando termine tu periodo actual de Pro."
+  es-419: "Tu año de Pro de regalo comienza el {date}, cuando termine tu periodo actual de Pro."
+  es-MX: "Tu año de Pro de regalo comienza el {date}, cuando termine tu periodo actual de Pro."
+  fr: "Votre année de Pro offerte commence le {date}, à la fin de votre période Pro en cours."
+  he: "שנת ה-Pro שקיבלתם במתנה תתחיל ב-{date}, אחרי שתקופת ה-Pro הנוכחית שלכם תסתיים."
+  hi: "उपहार में मिला Pro का साल आपकी मौजूदा Pro अवधि खत्म होने के बाद, {date} से शुरू होगा।"
+  id: "Tahun Pro hadiah Anda dimulai pada {date}, setelah periode Pro Anda saat ini berakhir."
+  it: "Il tuo anno di Pro in regalo inizia il {date}, al termine del tuo periodo Pro attuale."
+  ja: "ギフトの Pro 1 年分は、現在の Pro 期間の終了後、{date} から始まります。"
+  ko: "선물로 받은 Pro 1년은 현재 Pro 기간이 끝난 후 {date}에 시작됩니다."
+  nl: "Het jaar Pro dat je cadeau hebt gekregen, begint op {date}, na je huidige Pro-periode."
+  pl: "Twój podarowany rok Pro zacznie się {date}, po zakończeniu obecnego okresu Pro."
+  pt: "O ano de Pro que lhe foi oferecido começa a {date}, depois do seu período atual de Pro."
+  pt-BR: "O ano de Pro que você ganhou de presente começa em {date}, depois do seu período atual de Pro."
+  pt-PT: "O ano de Pro que lhe foi oferecido começa a {date}, depois do seu período atual de Pro."
+  ru: "Ваш подарочный год Pro начнётся {date}, после окончания текущего периода Pro."
+  sv: "Året med Pro som du har fått i present börjar den {date}, efter din nuvarande Pro-period."
+  sw: "Mwaka wako wa Pro uliopewa kama zawadi utaanza tarehe {date}, baada ya kipindi chako cha sasa cha Pro kuisha."
+  th: "Pro หนึ่งปีที่คุณได้รับเป็นของขวัญจะเริ่มในวันที่ {date} หลังจากช่วง Pro ปัจจุบันของคุณสิ้นสุดลง"
+  uk: "Ваш подарований рік Pro почнеться {date}, після завершення поточного періоду Pro."
+  vi: "Năm Pro bạn được tặng sẽ bắt đầu vào {date}, sau khi kỳ Pro hiện tại của bạn kết thúc."
+  zh: "您获赠的一年 Pro 将在当前 Pro 期限结束后，于 {date} 开始。"
+  zh-HK: "你獲贈的一年 Pro 將在目前的 Pro 期限結束後，於 {date} 開始。"

@@ -1,0 +1,36 @@
+description: "Key screen: the screen that shows the Bittensor recovery phrase, a 12 word secret for a key this app made on the device. After the link to payouts failed, for a key that exists only in memory. A Retry button follows."
+source: "Payouts aren't set up yet. No earnings went to this key, and leaving discards it."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لم يتم إعداد المدفوعات بعد. لم تصل أي أرباح إلى هذا المفتاح، وستؤدي المغادرة إلى التخلص منه."
+  cs: "Výplaty ještě nejsou nastavené. Na tento klíč nepřišly žádné výdělky a odchodem ho zahodíte."
+  de: "Auszahlungen sind noch nicht eingerichtet. An diesen Schlüssel sind keine Einnahmen gegangen, und wenn du jetzt gehst, wird er verworfen."
+  el: "Οι πληρωμές δεν έχουν ρυθμιστεί ακόμη. Δεν πήγαν κέρδη σε αυτό το κλειδί, και αν φύγετε θα απορριφθεί."
+  en: "Payouts aren't set up yet. No earnings went to this key, and leaving discards it."
+  es: "Los pagos aún no están configurados. No se ha enviado ninguna ganancia a esta clave y, si sales, se descartará."
+  es-419: "Los pagos todavía no están configurados. No se envió ninguna ganancia a esta clave y, si sales, se descartará."
+  es-MX: "Los pagos todavía no están configurados. No se envió ninguna ganancia a esta clave y, si sales, se descartará."
+  fr: "Les paiements ne sont pas encore configurés. Aucun gain n’a été versé sur cette clé, et si vous partez, elle sera supprimée."
+  he: "התשלומים עדיין לא הוגדרו. שום רווח לא הגיע למפתח הזה, ויציאה מכאן תמחק אותו."
+  hi: "भुगतान अभी सेट नहीं हुआ है। इस कुंजी पर कोई कमाई नहीं आई है, और यहाँ से जाने पर यह हटा दी जाएगी।"
+  id: "Pembayaran belum disiapkan. Tidak ada penghasilan yang masuk ke kunci ini, dan jika Anda keluar, kunci ini akan dibuang."
+  it: "I pagamenti non sono ancora configurati. Nessun guadagno è arrivato a questa chiave e, se esci, verrà scartata."
+  ja: "支払いはまだ設定されていません。このキーには収益は支払われておらず、この画面を離れるとキーは破棄されます。"
+  ko: "지급이 아직 설정되지 않았습니다. 이 키로 들어온 수익은 없으며, 화면을 나가면 키가 폐기됩니다."
+  nl: "Uitbetalingen zijn nog niet ingesteld. Er zijn geen verdiensten naar deze sleutel gegaan, en als je weggaat, wordt hij weggegooid."
+  pl: "Wypłaty nie są jeszcze skonfigurowane. Na ten klucz nie trafiły żadne zarobki, a wyjście spowoduje jego odrzucenie."
+  pt: "Os pagamentos ainda não estão configurados. Não foram pagos ganhos a esta chave e, se sair, ela será descartada."
+  pt-BR: "Os pagamentos ainda não estão configurados. Nenhum ganho foi para esta chave e, se você sair, ela será descartada."
+  pt-PT: "Os pagamentos ainda não estão configurados. Não foram pagos ganhos a esta chave e, se sair, ela será descartada."
+  ru: "Выплаты ещё не настроены. На этот ключ не поступал заработок, и если вы уйдёте, ключ будет удалён."
+  sv: "Utbetalningar är inte konfigurerade än. Inga intäkter har gått till den här nyckeln, och om du går härifrån kasseras den."
+  sw: "Malipo bado hayajasanidiwa. Hakuna mapato yaliyoingia kwenye ufunguo huu, na ukiondoka, ufunguo utatupwa."
+  th: "ยังไม่ได้ตั้งค่าการจ่าย ไม่มีรายได้เข้าคีย์นี้ และหากออกจากหน้านี้ คีย์จะถูกทิ้ง"
+  uk: "Виплати ще не налаштовано. На цей ключ не надходив заробіток, і якщо ви підете, ключ буде видалено."
+  vi: "Thanh toán chưa được thiết lập. Không có thu nhập nào vào khóa này, và nếu rời đi, khóa sẽ bị hủy."
+  zh: "尚未设置支付。此密钥未收到任何收益，离开此页面会丢弃该密钥。"
+  zh-HK: "尚未設定支付。此金鑰未收到任何收益，離開此頁面會捨棄該金鑰。"

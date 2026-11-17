@@ -1,0 +1,11 @@
+description: "Proxies list: a unique exit proxy waits for a replacement because too many were replaced this hour (state_reason cap)"
+source: "Too many replacements this hour; it tries again later."
+platforms:
+  - site
+localizations:
+  ar: "عمليات استبدال كثيرة خلال هذه الساعة؛ ستُعاد المحاولة لاحقًا."
+  de: "Zu viele Ersetzungen in dieser Stunde; es wird später erneut versucht."
+  en: "Too many replacements this hour; it tries again later."
+  es: "Demasiados reemplazos en esta hora; se volverá a intentar más tarde."
+  ru: "Слишком много замен за этот час; попытка повторится позже."
+  zh: "本小时内更换次数过多；稍后会再试。"

@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. The device's secure storage did not answer, usually because the device is locked: Keychain on Apple, Keystore on Android, the credential store on a desktop. The same words on every platform, so name none of them."
+source: "Couldn't read this device's secure storage. Unlock your device and try again."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "تعذّرت قراءة التخزين الآمن على هذا الجهاز. افتح قفل جهازك وحاول مرة أخرى."
+  cs: "Zabezpečené úložiště tohoto zařízení se nepodařilo přečíst. Odemkněte zařízení a zkuste to znovu."
+  de: "Der sichere Speicher dieses Geräts konnte nicht gelesen werden. Entsperre dein Gerät und versuche es erneut."
+  el: "Δεν ήταν δυνατή η ανάγνωση του ασφαλούς χώρου αποθήκευσης αυτής της συσκευής. Ξεκλειδώστε τη συσκευή σας και δοκιμάστε ξανά."
+  en: "Couldn't read this device's secure storage. Unlock your device and try again."
+  es: "No se pudo leer el almacenamiento seguro de este dispositivo. Desbloquea tu dispositivo y vuelve a intentarlo."
+  es-419: "No se pudo leer el almacenamiento seguro de este dispositivo. Desbloquea tu dispositivo y vuelve a intentarlo."
+  es-MX: "No se pudo leer el almacenamiento seguro de este dispositivo. Desbloquea tu dispositivo y vuelve a intentarlo."
+  fr: "Impossible de lire le stockage sécurisé de cet appareil. Déverrouillez votre appareil et réessayez."
+  he: "לא ניתן היה לקרוא את האחסון המאובטח של המכשיר הזה. בטלו את נעילת המכשיר ונסו שוב."
+  hi: "इस डिवाइस का सुरक्षित स्टोरेज पढ़ा नहीं जा सका। अपना डिवाइस अनलॉक करें और दोबारा कोशिश करें।"
+  id: "Tidak dapat membaca penyimpanan aman perangkat ini. Buka kunci perangkat Anda dan coba lagi."
+  it: "Impossibile leggere l’archivio sicuro di questo dispositivo. Sblocca il dispositivo e riprova."
+  ja: "このデバイスの安全なストレージを読み取れませんでした。デバイスのロックを解除して、もう一度お試しください。"
+  ko: "이 기기의 보안 저장소를 읽지 못했습니다. 기기 잠금을 해제하고 다시 시도하세요."
+  nl: "De beveiligde opslag van dit apparaat kon niet worden gelezen. Ontgrendel je apparaat en probeer het opnieuw."
+  pl: "Nie udało się odczytać bezpiecznej pamięci tego urządzenia. Odblokuj urządzenie i spróbuj ponownie."
+  pt: "Não foi possível ler o armazenamento seguro deste dispositivo. Desbloqueie o seu dispositivo e tente novamente."
+  pt-BR: "Não foi possível ler o armazenamento seguro deste dispositivo. Desbloqueie seu dispositivo e tente novamente."
+  pt-PT: "Não foi possível ler o armazenamento seguro deste dispositivo. Desbloqueie o seu dispositivo e tente novamente."
+  ru: "Не удалось прочитать защищённое хранилище этого устройства. Разблокируйте устройство и повторите попытку."
+  sv: "Det gick inte att läsa den här enhetens säkra lagring. Lås upp din enhet och försök igen."
+  sw: "Imeshindwa kusoma hifadhi salama ya kifaa hiki. Fungua kifaa chako kisha ujaribu tena."
+  th: "ไม่สามารถอ่านพื้นที่จัดเก็บที่ปลอดภัยของอุปกรณ์นี้ได้ ปลดล็อกอุปกรณ์ของคุณแล้วลองอีกครั้ง"
+  uk: "Не вдалося прочитати захищене сховище цього пристрою. Розблокуйте пристрій і спробуйте ще раз."
+  vi: "Không thể đọc bộ nhớ an toàn của thiết bị này. Hãy mở khóa thiết bị rồi thử lại."
+  zh: "无法读取这台设备的安全存储。请解锁您的设备，然后重试。"
+  zh-HK: "無法讀取這部裝置的安全儲存空間。請解鎖你的裝置，然後再試一次。"

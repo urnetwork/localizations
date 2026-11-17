@@ -1,0 +1,36 @@
+description: "Delete account, the confirmation while this device holds the network's Bittensor key and its recovery phrase isn't saved. It is the key."
+source: "Your Bittensor key isn't backed up. Deleting your account also deletes it from this device, and URnetwork can't get it back."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "لم يتم نسخ مفتاح Bittensor الخاص بك احتياطيًا. حذف حسابك يحذفه أيضًا من هذا الجهاز، ولا يستطيع URnetwork استعادته."
+  cs: "Váš klíč Bittensor není zálohovaný. Odstraněním účtu se odstraní i z tohoto zařízení a URnetwork ho nedokáže získat zpět."
+  de: "Dein Bittensor-Schlüssel ist nicht gesichert. Wenn du dein Konto löschst, wird er auch von diesem Gerät gelöscht, und URnetwork kann ihn nicht zurückholen."
+  el: "Το κλειδί Bittensor σας δεν έχει αντίγραφο ασφαλείας. Η διαγραφή του λογαριασμού σας το διαγράφει και από αυτή τη συσκευή, και το URnetwork δεν μπορεί να το ανακτήσει."
+  en: "Your Bittensor key isn't backed up. Deleting your account also deletes it from this device, and URnetwork can't get it back."
+  es: "Tu clave de Bittensor no tiene copia de seguridad. Al eliminar tu cuenta también se elimina de este dispositivo, y URnetwork no puede recuperarla."
+  es-419: "Tu clave de Bittensor no tiene copia de seguridad. Al eliminar tu cuenta también se elimina de este dispositivo, y URnetwork no puede recuperarla."
+  es-MX: "Tu clave de Bittensor no tiene copia de seguridad. Al eliminar tu cuenta también se elimina de este dispositivo, y URnetwork no puede recuperarla."
+  fr: "Votre clé Bittensor n’est pas sauvegardée. Supprimer votre compte la supprime aussi de cet appareil, et URnetwork ne peut pas la récupérer."
+  he: "מפתח ה-Bittensor שלכם לא מגובה. מחיקת החשבון שלכם מוחקת אותו גם מהמכשיר הזה, ו-URnetwork לא יכול להחזיר אותו."
+  hi: "आपकी Bittensor कुंजी का बैकअप नहीं लिया गया है। अकाउंट डिलीट करने पर यह इस डिवाइस से भी डिलीट हो जाएगी, और URnetwork इसे वापस नहीं ला सकता।"
+  id: "Kunci Bittensor Anda belum dicadangkan. Menghapus akun Anda juga menghapusnya dari perangkat ini, dan URnetwork tidak dapat mengambilnya kembali."
+  it: "La tua chiave Bittensor non ha un backup. Eliminando il tuo account la elimini anche da questo dispositivo e URnetwork non può recuperarla."
+  ja: "Bittensor キーがバックアップされていません。アカウントを削除すると、キーもこのデバイスから削除され、URnetwork はキーを取り戻すことができません。"
+  ko: "Bittensor 키가 백업되지 않았습니다. 계정을 삭제하면 키도 이 기기에서 삭제되며, URnetwork는 키를 되찾을 수 없습니다."
+  nl: "Je Bittensor-sleutel heeft geen back-up. Als je je account verwijdert, wordt hij ook van dit apparaat verwijderd, en URnetwork kan hem niet terugkrijgen."
+  pl: "Twój klucz Bittensor nie ma kopii zapasowej. Usunięcie konta usuwa go też z tego urządzenia, a URnetwork nie może go odzyskać."
+  pt: "A sua chave Bittensor não tem cópia de segurança. Eliminar a sua conta também a elimina deste dispositivo, e o URnetwork não a consegue recuperar."
+  pt-BR: "Sua chave Bittensor não tem backup. Excluir sua conta também a exclui deste dispositivo, e o URnetwork não consegue recuperá-la."
+  pt-PT: "A sua chave Bittensor não tem cópia de segurança. Eliminar a sua conta também a elimina deste dispositivo, e o URnetwork não a consegue recuperar."
+  ru: "У вашего ключа Bittensor нет резервной копии. При удалении аккаунта он также будет удалён с этого устройства, и URnetwork не сможет его вернуть."
+  sv: "Din Bittensor-nyckel är inte säkerhetskopierad. Om du raderar ditt konto raderas den också från den här enheten, och URnetwork kan inte få tillbaka den."
+  sw: "Ufunguo wako wa Bittensor haujahifadhiwa nakala. Kufuta akaunti yako pia kunaufuta kwenye kifaa hiki, na URnetwork haiwezi kuurudisha."
+  th: "คีย์ Bittensor ของคุณยังไม่ได้สำรอง การลบบัญชีจะลบคีย์นี้ออกจากอุปกรณ์นี้ด้วย และ URnetwork ไม่สามารถเอาคีย์นี้คืนมาได้"
+  uk: "У вашого ключа Bittensor немає резервної копії. Видалення облікового запису також видалить його з цього пристрою, і URnetwork не зможе його повернути."
+  vi: "Khóa Bittensor của bạn chưa được sao lưu. Xóa tài khoản cũng sẽ xóa khóa khỏi thiết bị này, và URnetwork không thể lấy lại khóa."
+  zh: "您的 Bittensor 密钥未备份。删除账户也会从这台设备上删除该密钥，且 URnetwork 无法找回它。"
+  zh-HK: "你的 Bittensor 金鑰未備份。刪除帳戶亦會從這部裝置刪除該金鑰，而且 URnetwork 無法取回。"

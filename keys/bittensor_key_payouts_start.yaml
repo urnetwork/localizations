@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. A status line after setup. An epoch is the network's settlement period."
+source: "Payouts start next epoch"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "تبدأ المدفوعات في الفترة التالية"
+  cs: "Výplaty začnou od příští epochy"
+  de: "Auszahlungen beginnen in der nächsten Epoche"
+  el: "Οι πληρωμές ξεκινούν την επόμενη εποχή"
+  en: "Payouts start next epoch"
+  es: "Los pagos empiezan en la próxima época"
+  es-419: "Los pagos empiezan en la próxima época"
+  es-MX: "Los pagos empiezan en la próxima época"
+  fr: "Les paiements commencent à la prochaine époque"
+  he: "התשלומים יתחילו בתקופה הבאה"
+  hi: "भुगतान अगले एपोक से शुरू होंगे"
+  id: "Pembayaran dimulai pada epoch berikutnya"
+  it: "I pagamenti iniziano dalla prossima epoca"
+  ja: "支払いは次のエポックから始まります"
+  ko: "지급은 다음 에포크부터 시작됩니다"
+  nl: "Uitbetalingen starten de volgende epoch"
+  pl: "Wypłaty zaczną się w następnej epoce"
+  pt: "Os pagamentos começam na próxima época"
+  pt-BR: "Os pagamentos começam na próxima época"
+  pt-PT: "Os pagamentos começam na próxima época"
+  ru: "Выплаты начнутся со следующей эпохи"
+  sv: "Utbetalningar börjar nästa epok"
+  sw: "Malipo yanaanza kipindi kijacho"
+  th: "การจ่ายจะเริ่มในอีพอคถัดไป"
+  uk: "Виплати почнуться з наступної епохи"
+  vi: "Thanh toán bắt đầu từ epoch tiếp theo"
+  zh: "支付将从下一个周期开始"
+  zh-HK: "支付將由下一個週期開始"

@@ -1,0 +1,36 @@
+description: "Confirmation shown after a Pro gift code is redeemed: the code grants a year of Pro, starting now."
+source: "A year of Pro is yours."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أصبح لديك عام من Pro."
+  cs: "Rok Pro je nyní váš."
+  de: "Ein Jahr Pro gehört dir."
+  el: "Ένα έτος Pro είναι πλέον δικό σας."
+  en: "A year of Pro is yours."
+  es: "Un año de Pro ya es tuyo."
+  es-419: "Un año de Pro ya es tuyo."
+  es-MX: "Un año de Pro ya es tuyo."
+  fr: "Un an de Pro est à vous."
+  he: "קיבלתם שנה של Pro."
+  hi: "Pro का एक साल अब आपका है।"
+  id: "Satu tahun Pro kini menjadi milik Anda."
+  it: "Un anno di Pro è tuo."
+  ja: "Pro 1 年分を受け取りました。"
+  ko: "이제 Pro를 1년 동안 이용할 수 있습니다."
+  nl: "Een jaar Pro is van jou."
+  pl: "Rok Pro jest teraz twój."
+  pt: "Um ano de Pro é agora seu."
+  pt-BR: "Um ano de Pro agora é seu."
+  pt-PT: "Um ano de Pro é agora seu."
+  ru: "Год Pro теперь ваш."
+  sv: "Ett år med Pro är nu ditt."
+  sw: "Mwaka mmoja wa Pro sasa ni wako."
+  th: "คุณได้รับ Pro หนึ่งปีแล้ว"
+  uk: "Рік Pro тепер ваш."
+  vi: "Bạn đã nhận được một năm Pro."
+  zh: "您已获得一年 Pro。"
+  zh-HK: "你已獲得一年 Pro。"

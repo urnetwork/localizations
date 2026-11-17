@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. The key was made and stored, but the step that links it to payouts did not finish. The Finish setup button follows."
+source: "Your key is on this device, but payouts aren't set up yet."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "مفتاحك موجود على هذا الجهاز، لكن لم يتم إعداد المدفوعات بعد."
+  cs: "Váš klíč je na tomto zařízení, ale výplaty ještě nejsou nastavené."
+  de: "Dein Schlüssel ist auf diesem Gerät, aber Auszahlungen sind noch nicht eingerichtet."
+  el: "Το κλειδί σας βρίσκεται σε αυτή τη συσκευή, αλλά οι πληρωμές δεν έχουν ρυθμιστεί ακόμη."
+  en: "Your key is on this device, but payouts aren't set up yet."
+  es: "Tu clave está en este dispositivo, pero los pagos aún no están configurados."
+  es-419: "Tu clave está en este dispositivo, pero los pagos todavía no están configurados."
+  es-MX: "Tu clave está en este dispositivo, pero los pagos todavía no están configurados."
+  fr: "Votre clé est sur cet appareil, mais les paiements ne sont pas encore configurés."
+  he: "המפתח שלכם נמצא במכשיר הזה, אבל התשלומים עדיין לא הוגדרו."
+  hi: "आपकी कुंजी इस डिवाइस पर है, लेकिन भुगतान अभी सेट नहीं हुआ है।"
+  id: "Kunci Anda ada di perangkat ini, tetapi pembayaran belum disiapkan."
+  it: "La tua chiave è su questo dispositivo, ma i pagamenti non sono ancora configurati."
+  ja: "キーはこのデバイスにありますが、支払いはまだ設定されていません。"
+  ko: "키는 이 기기에 있지만 지급이 아직 설정되지 않았습니다."
+  nl: "Je sleutel staat op dit apparaat, maar uitbetalingen zijn nog niet ingesteld."
+  pl: "Twój klucz jest na tym urządzeniu, ale wypłaty nie są jeszcze skonfigurowane."
+  pt: "A sua chave está neste dispositivo, mas os pagamentos ainda não estão configurados."
+  pt-BR: "Sua chave está neste dispositivo, mas os pagamentos ainda não estão configurados."
+  pt-PT: "A sua chave está neste dispositivo, mas os pagamentos ainda não estão configurados."
+  ru: "Ваш ключ на этом устройстве, но выплаты ещё не настроены."
+  sv: "Din nyckel finns på den här enheten, men utbetalningar är inte konfigurerade än."
+  sw: "Ufunguo wako upo kwenye kifaa hiki, lakini malipo bado hayajasanidiwa."
+  th: "คีย์ของคุณอยู่บนอุปกรณ์นี้ แต่ยังไม่ได้ตั้งค่าการจ่าย"
+  uk: "Ваш ключ на цьому пристрої, але виплати ще не налаштовано."
+  vi: "Khóa của bạn đang ở trên thiết bị này, nhưng thanh toán chưa được thiết lập."
+  zh: "您的密钥在这台设备上，但尚未设置支付。"
+  zh-HK: "你的金鑰在這部裝置上，但尚未設定支付。"

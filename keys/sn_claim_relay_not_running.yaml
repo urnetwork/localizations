@@ -1,0 +1,37 @@
+description: "Earnings, the settlement v2 tile and the claim sheet: URnetwork isn't sending claims at the moment."
+source: "Automatic claims aren't running right now."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+  - site
+localizations:
+  ar: "المطالبات التلقائية لا تعمل حاليًا."
+  cs: "Automatické vyzvedávání teď neprobíhá."
+  de: "Automatische Einlösungen laufen gerade nicht."
+  el: "Οι αυτόματες διεκδικήσεις δεν λειτουργούν αυτή τη στιγμή."
+  en: "Automatic claims aren't running right now."
+  es: "Las reclamaciones automáticas no están funcionando en este momento."
+  es-419: "Las reclamaciones automáticas no están funcionando en este momento."
+  es-MX: "Las reclamaciones automáticas no están funcionando en este momento."
+  fr: "Les réclamations automatiques ne fonctionnent pas pour le moment."
+  he: "המימושים האוטומטיים לא פועלים כרגע."
+  hi: "स्वचालित दावे अभी नहीं चल रहे हैं।"
+  id: "Klaim otomatis tidak berjalan saat ini."
+  it: "I riscatti automatici al momento non sono attivi."
+  ja: "現在、自動受け取りは行われていません。"
+  ko: "지금은 자동 받기가 실행되고 있지 않습니다."
+  nl: "Automatische claims draaien op dit moment niet."
+  pl: "Automatyczne odbiory w tej chwili nie działają."
+  pt: "As reivindicações automáticas não estão a funcionar neste momento."
+  pt-BR: "Os resgates automáticos não estão funcionando no momento."
+  pt-PT: "As reivindicações automáticas não estão a funcionar neste momento."
+  ru: "Автоматическое получение сейчас не работает."
+  sv: "Automatiska uttag körs inte just nu."
+  sw: "Madai ya kiotomatiki hayafanyi kazi kwa sasa."
+  th: "ขณะนี้การรับอัตโนมัติไม่ได้ทำงาน"
+  uk: "Автоматичне отримання зараз не працює."
+  vi: "Việc nhận tự động hiện không hoạt động."
+  zh: "自动领取目前未在运行。"
+  zh-HK: "自動領取目前未在運行。"

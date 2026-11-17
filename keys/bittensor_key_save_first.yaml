@@ -1,0 +1,36 @@
+description: "Earnings screen, the payout card for the network's payouts. A smaller link under Set up payouts: shows the phrase to save before anything else happens."
+source: "Save the recovery phrase first"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "احفظ عبارة النسخ الاحتياطي أولًا"
+  cs: "Nejdřív uložit obnovovací frázi"
+  de: "Zuerst die Wiederherstellungsphrase speichern"
+  el: "Αποθηκεύστε πρώτα τη φράση επαναφοράς"
+  en: "Save the recovery phrase first"
+  es: "Guardar primero la frase de recuperación"
+  es-419: "Guardar primero la frase de recuperación"
+  es-MX: "Guardar primero la frase de recuperación"
+  fr: "Enregistrer d’abord la phrase de sauvegarde"
+  he: "שמרו קודם את ביטוי השחזור"
+  hi: "पहले रिकवरी फ़्रेज़ सहेजें"
+  id: "Simpan frasa cadangan terlebih dahulu"
+  it: "Salva prima la frase di recupero"
+  ja: "先に復元フレーズを保存"
+  ko: "복구 문구 먼저 저장"
+  nl: "Eerst de herstelzin opslaan"
+  pl: "Najpierw zapisz frazę odzyskiwania"
+  pt: "Guardar primeiro a frase de recuperação"
+  pt-BR: "Salvar primeiro a frase de recuperação"
+  pt-PT: "Guardar primeiro a frase de recuperação"
+  ru: "Сначала сохранить фразу восстановления"
+  sv: "Spara återställningsfrasen först"
+  sw: "Hifadhi kifungu cha urejeshaji kwanza"
+  th: "บันทึกวลีสำรองก่อน"
+  uk: "Спершу зберегти фразу відновлення"
+  vi: "Lưu cụm từ sao lưu trước"
+  zh: "先保存恢复短语"
+  zh-HK: "先儲存復原短語"

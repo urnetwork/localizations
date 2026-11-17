@@ -1,0 +1,39 @@
+description: "Key screen, the delete confirmation: one point of a short list. The placeholder is the key's Bittensor address, shortened to its first and last characters around an ellipsis (5F3s…kQ9v); keep it as it is."
+source: "Earnings keep going to this address, %@."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "تستمر الأرباح في الوصول إلى هذا العنوان، {address}."
+  cs: "Výdělky dál chodí na tuto adresu, {address}."
+  de: "Einnahmen gehen weiter an diese Adresse, {address}."
+  el: "Τα κέρδη συνεχίζουν να πηγαίνουν σε αυτή τη διεύθυνση, {address}."
+  en: "Earnings keep going to this address, {address}."
+  es: "Las ganancias siguen llegando a esta dirección, {address}."
+  es-419: "Las ganancias siguen llegando a esta dirección, {address}."
+  es-MX: "Las ganancias siguen llegando a esta dirección, {address}."
+  fr: "Les gains continuent d’arriver à cette adresse, {address}."
+  he: "הרווחים ממשיכים להגיע לכתובת הזו, {address}."
+  hi: "कमाई इसी पते पर आती रहेगी, {address}।"
+  id: "Penghasilan tetap dikirim ke alamat ini, {address}."
+  it: "I guadagni continuano ad arrivare a questo indirizzo, {address}."
+  ja: "収益は引き続きこのアドレス {address} に支払われます。"
+  ko: "수익은 계속 이 주소({address})로 들어옵니다."
+  nl: "Verdiensten blijven naar dit adres gaan, {address}."
+  pl: "Zarobki nadal trafiają na ten adres, {address}."
+  pt: "Os ganhos continuam a ir para este endereço, {address}."
+  pt-BR: "Os ganhos continuam indo para este endereço, {address}."
+  pt-PT: "Os ganhos continuam a ir para este endereço, {address}."
+  ru: "Заработок продолжает поступать на этот адрес, {address}."
+  sv: "Intäkter fortsätter att gå till den här adressen, {address}."
+  sw: "Mapato yanaendelea kwenda kwenye anwani hii, {address}."
+  th: "รายได้ยังคงเข้าที่อยู่นี้ {address}"
+  uk: "Заробіток і далі надходить на цю адресу, {address}."
+  vi: "Thu nhập vẫn tiếp tục được chuyển đến địa chỉ này, {address}."
+  zh: "收益会继续支付到此地址 {address}。"
+  zh-HK: "收益會繼續支付到此地址 {address}。"

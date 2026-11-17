@@ -1,0 +1,36 @@
+description: "Sign out, the confirmation while the Bittensor key's recovery phrase isn't saved: what happens to the key. It is the key."
+source: "It stays on this device and comes back when you sign in to this network again. If you lose this device before saving it, your SN25α can't be reached."
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "يبقى المفتاح على هذا الجهاز ويعود عندما تسجّل الدخول إلى هذه الشبكة مرة أخرى. إذا فقدت هذا الجهاز قبل حفظه، فلن يمكن الوصول إلى SN25α الخاص بك."
+  cs: "Zůstane na tomto zařízení a vrátí se, až se k této síti znovu přihlásíte. Pokud toto zařízení ztratíte dřív, než ho uložíte, k vašemu SN25α se nebude možné dostat."
+  de: "Er bleibt auf diesem Gerät und kommt zurück, wenn du dich wieder bei diesem Netzwerk anmeldest. Wenn du dieses Gerät verlierst, bevor du ihn gespeichert hast, ist dein SN25α nicht mehr erreichbar."
+  el: "Παραμένει σε αυτή τη συσκευή και επιστρέφει όταν συνδεθείτε ξανά σε αυτό το δίκτυο. Αν χάσετε αυτή τη συσκευή πριν το αποθηκεύσετε, δεν θα είναι δυνατή η πρόσβαση στα SN25α σας."
+  en: "It stays on this device and comes back when you sign in to this network again. If you lose this device before saving it, your SN25α can't be reached."
+  es: "Se queda en este dispositivo y vuelve cuando inicias sesión de nuevo en esta red. Si pierdes este dispositivo antes de guardarla, no se podrá acceder a tu SN25α."
+  es-419: "Se queda en este dispositivo y vuelve cuando inicias sesión de nuevo en esta red. Si pierdes este dispositivo antes de guardarla, no se podrá acceder a tu SN25α."
+  es-MX: "Se queda en este dispositivo y vuelve cuando inicias sesión de nuevo en esta red. Si pierdes este dispositivo antes de guardarla, no se podrá acceder a tu SN25α."
+  fr: "Elle reste sur cet appareil et revient lorsque vous vous reconnectez à ce réseau. Si vous perdez cet appareil avant de l’avoir enregistrée, vos SN25α seront inaccessibles."
+  he: "המפתח נשאר במכשיר הזה וחוזר כשאתם מתחברים שוב לרשת הזו. אם תאבדו את המכשיר הזה לפני שתשמרו אותו, לא תהיה גישה ל-SN25α שלכם."
+  hi: "कुंजी इसी डिवाइस पर रहती है और जब आप इस नेटवर्क में फिर से साइन इन करते हैं तो वापस आ जाती है। अगर आप इसे सहेजने से पहले यह डिवाइस खो देते हैं, तो आपके SN25α तक पहुँचा नहीं जा सकेगा।"
+  id: "Kunci tetap ada di perangkat ini dan kembali saat Anda masuk lagi ke jaringan ini. Jika Anda kehilangan perangkat ini sebelum menyimpannya, SN25α Anda tidak dapat diakses."
+  it: "Resta su questo dispositivo e torna quando accedi di nuovo a questa rete. Se perdi questo dispositivo prima di averla salvata, i tuoi SN25α non saranno più accessibili."
+  ja: "キーはこのデバイスに残り、このネットワークに再度サインインすると戻ります。キーを保存する前にこのデバイスをなくすと、SN25α にアクセスできなくなります。"
+  ko: "키는 이 기기에 남아 있으며 이 네트워크에 다시 로그인하면 돌아옵니다. 키를 저장하기 전에 이 기기를 잃어버리면 SN25α에 접근할 수 없습니다."
+  nl: "Hij blijft op dit apparaat staan en komt terug wanneer je opnieuw inlogt bij dit netwerk. Als je dit apparaat kwijtraakt voordat je hem hebt opgeslagen, is je SN25α niet meer bereikbaar."
+  pl: "Pozostaje na tym urządzeniu i wróci, gdy ponownie zalogujesz się do tej sieci. Jeśli stracisz to urządzenie, zanim go zapiszesz, do twoich SN25α nie będzie można się dostać."
+  pt: "Fica neste dispositivo e volta quando iniciar sessão novamente nesta rede. Se perder este dispositivo antes de a guardar, não será possível aceder ao seu SN25α."
+  pt-BR: "Ela fica neste dispositivo e volta quando você entrar novamente nesta rede. Se você perder este dispositivo antes de salvá-la, não será possível acessar seu SN25α."
+  pt-PT: "Fica neste dispositivo e volta quando iniciar sessão novamente nesta rede. Se perder este dispositivo antes de a guardar, não será possível aceder ao seu SN25α."
+  ru: "Он останется на этом устройстве и вернётся, когда вы снова войдёте в эту сеть. Если вы потеряете это устройство, не сохранив его, получить доступ к вашим SN25α будет невозможно."
+  sv: "Den stannar på den här enheten och kommer tillbaka när du loggar in i det här nätverket igen. Om du förlorar den här enheten innan du har sparat den går det inte att komma åt dina SN25α."
+  sw: "Ufunguo unabaki kwenye kifaa hiki na unarudi unapoingia tena kwenye mtandao huu. Ukipoteza kifaa hiki kabla ya kuuhifadhi, SN25α yako haitaweza kufikiwa."
+  th: "คีย์จะยังอยู่บนอุปกรณ์นี้และจะกลับมาเมื่อคุณลงชื่อเข้าใช้เครือข่ายนี้อีกครั้ง หากคุณทำอุปกรณ์นี้หายก่อนบันทึกคีย์ จะไม่สามารถเข้าถึง SN25α ของคุณได้"
+  uk: "Він залишиться на цьому пристрої та повернеться, коли ви знову ввійдете в цю мережу. Якщо ви втратите цей пристрій, не зберігши його, отримати доступ до ваших SN25α буде неможливо."
+  vi: "Khóa vẫn ở trên thiết bị này và sẽ trở lại khi bạn đăng nhập lại vào mạng này. Nếu bạn mất thiết bị này trước khi lưu khóa, sẽ không thể truy cập SN25α của bạn."
+  zh: "密钥会保留在这台设备上，并在您再次登录此网络时重新出现。如果您在保存密钥之前丢失这台设备，您的 SN25α 将无法访问。"
+  zh-HK: "金鑰會保留在這部裝置上，並在你再次登入此網絡時重新出現。如果你在儲存金鑰之前遺失這部裝置，你的 SN25α 將無法存取。"

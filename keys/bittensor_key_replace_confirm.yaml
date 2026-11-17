@@ -1,0 +1,36 @@
+description: "The warning before a new key replaces the network's payout wallet: the button that goes ahead. Short: a button."
+source: "Replace payout wallet"
+platforms:
+  - linux
+  - apple
+  - android
+  - windows
+localizations:
+  ar: "استبدال محفظة الدفع"
+  cs: "Nahradit výplatní peněženku"
+  de: "Auszahlungs-Wallet ersetzen"
+  el: "Αντικατάσταση πορτοφολιού πληρωμής"
+  en: "Replace payout wallet"
+  es: "Reemplazar billetera de pago"
+  es-419: "Reemplazar billetera de pago"
+  es-MX: "Reemplazar cartera de pago"
+  fr: "Remplacer le portefeuille de paiement"
+  he: "החלפת ארנק התשלום"
+  hi: "पेआउट वॉलेट बदलें"
+  id: "Ganti dompet pembayaran"
+  it: "Sostituisci il portafoglio di pagamento"
+  ja: "支払いウォレットを置き換える"
+  ko: "지급 지갑 교체"
+  nl: "Uitbetalingswallet vervangen"
+  pl: "Zastąp portfel wypłat"
+  pt: "Substituir carteira de pagamento"
+  pt-BR: "Substituir carteira de pagamento"
+  pt-PT: "Substituir carteira de pagamento"
+  ru: "Заменить кошелек для выплат"
+  sv: "Ersätt utbetalningsplånbok"
+  sw: "Badilisha pochi ya malipo"
+  th: "แทนที่กระเป๋ารับยอดจ่าย"
+  uk: "Замінити гаманець для виплат"
+  vi: "Thay thế ví thanh toán"
+  zh: "替换支付钱包"
+  zh-HK: "取代支付錢包"

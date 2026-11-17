@@ -1,0 +1,40 @@
+description: "Shown with the plan (Free or Pro) on the Account screen, the plan card and the subscription screen, and in the purchase confirmation: the account (network) the plan belongs to. The argument is the signed-in network's own name. Customers with several accounts could not tell which one held Pro (support inbox 6546)."
+source: "Account: %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - web
+placeholders:
+  - name: name
+    type: string
+localizations:
+  ar: "الحساب: {name}"
+  cs: "Účet: {name}"
+  de: "Konto: {name}"
+  el: "Λογαριασμός: {name}"
+  en: "Account: {name}"
+  es: "Cuenta: {name}"
+  es-419: "Cuenta: {name}"
+  es-MX: "Cuenta: {name}"
+  fr: "Compte : {name}"
+  he: "חשבון: {name}"
+  hi: "खाता: {name}"
+  id: "Akun: {name}"
+  it: "Account: {name}"
+  ja: "アカウント：{name}"
+  ko: "계정: {name}"
+  nl: "Account: {name}"
+  pl: "Konto: {name}"
+  pt: "Conta: {name}"
+  pt-BR: "Conta: {name}"
+  pt-PT: "Conta: {name}"
+  ru: "Аккаунт: {name}"
+  sv: "Konto: {name}"
+  sw: "Akaunti: {name}"
+  th: "บัญชี: {name}"
+  uk: "Обліковий запис: {name}"
+  vi: "Tài khoản: {name}"
+  zh: "账户：{name}"
+  zh-HK: "帳戶：{name}"
