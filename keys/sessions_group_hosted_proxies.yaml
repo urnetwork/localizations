@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions): the heading of a collapsed section below the device sign-ins, which opens when tapped. {count} is the number of sessions in it, formatted by the app (\"1,204\", or \"10,000+\" when the list was too long to read in full). A heading, so the noun does not agree with the count. The section holds the sessions of the account's hosted proxies (each proxy has its own)."
+source: "Hosted proxies (%@)"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: count
+    type: string
+localizations:
+  ar: "الوكلاء المستضافون ({count})"
+  cs: "Hostované proxy ({count})"
+  de: "Gehostete Proxys ({count})"
+  el: "Φιλοξενούμενοι διακομιστές μεσολάβησης ({count})"
+  en: "Hosted proxies ({count})"
+  es: "Proxies alojados ({count})"
+  es-419: "Proxies alojados ({count})"
+  es-MX: "Proxies alojados ({count})"
+  fr: "Proxys hébergés ({count})"
+  he: "שרתי פרוקסי מתארחים ({count})"
+  hi: "होस्ट की गई प्रॉक्सी ({count})"
+  id: "Proxy terhosting ({count})"
+  it: "Proxy ospitati ({count})"
+  ja: "ホスト型プロキシ（{count}）"
+  ko: "호스팅 프록시 ({count})"
+  nl: "Gehoste proxy's ({count})"
+  pl: "Hostowane serwery proxy ({count})"
+  pt: "Proxies alojados ({count})"
+  pt-BR: "Proxies hospedados ({count})"
+  pt-PT: "Proxies alojados ({count})"
+  ru: "Размещённые прокси ({count})"
+  sv: "Värdbaserade proxyservrar ({count})"
+  sw: "Proksi zilizopangishwa ({count})"
+  th: "พร็อกซีที่โฮสต์ไว้ ({count})"
+  uk: "Розміщені проксі ({count})"
+  vi: "Proxy được lưu trữ ({count})"
+  zh: "托管代理（{count}）"
+  zh-HK: "託管代理（{count}）"

@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1 and the confirmation's {device}: the label of a session in the section of API clients (sessions_group_api_clients), in place of a device name."
+source: "API client"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "عميل API"
+  cs: "Klient API"
+  de: "API-Client"
+  el: "Πελάτης API"
+  en: "API client"
+  es: "Cliente de API"
+  es-419: "Cliente de API"
+  es-MX: "Cliente de API"
+  fr: "Client API"
+  he: "לקוח API"
+  hi: "API क्लाइंट"
+  id: "Klien API"
+  it: "Client API"
+  ja: "APIクライアント"
+  ko: "API 클라이언트"
+  nl: "API-client"
+  pl: "Klient API"
+  pt: "Cliente de API"
+  pt-BR: "Cliente de API"
+  pt-PT: "Cliente de API"
+  ru: "API-клиент"
+  sv: "API-klient"
+  sw: "Mteja wa API"
+  th: "ไคลเอนต์ API"
+  uk: "Клієнт API"
+  vi: "Ứng dụng khách API"
+  zh: "API 客户端"
+  zh-HK: "API 用戶端"

@@ -1,10 +1,11 @@
-description: "Device list: the label of a hosted proxy, a proxy the account runs from ur.io, the browser extension or the API. It takes a slot of the plan while connected, so the user can remove it too."
+description: "The label of a hosted proxy, a proxy the account runs from ur.io, the browser extension or the API. Device list: it takes a slot of the plan while connected, so the user can remove it too. Sessions screen (Account > Sessions): row line 1 and the confirmation's {device} for a session in the hosted proxies section (sessions_group_hosted_proxies), in place of a device name."
 source: "Hosted proxy"
 platforms:
   - android
   - apple
   - windows
   - linux
+  - site
 localizations:
   ar: "وكيل مستضاف"
   cs: "Hostovaná proxy"

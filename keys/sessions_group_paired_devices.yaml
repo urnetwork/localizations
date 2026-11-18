@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions): the heading of a collapsed section below the device sign-ins, which opens when tapped. {count} is the number of sessions in it, formatted by the app (\"1,204\", or \"10,000+\" when the list was too long to read in full). A heading, so the noun does not agree with the count. The section holds the sessions of devices paired (adopted) into the account (each device has its own)."
+source: "Paired devices (%@)"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: count
+    type: string
+localizations:
+  ar: "الأجهزة المقترنة ({count})"
+  cs: "Spárovaná zařízení ({count})"
+  de: "Gekoppelte Geräte ({count})"
+  el: "Συζευγμένες συσκευές ({count})"
+  en: "Paired devices ({count})"
+  es: "Dispositivos vinculados ({count})"
+  es-419: "Dispositivos vinculados ({count})"
+  es-MX: "Dispositivos vinculados ({count})"
+  fr: "Appareils associés ({count})"
+  he: "מכשירים מצומדים ({count})"
+  hi: "पेयर किए गए डिवाइस ({count})"
+  id: "Perangkat tertaut ({count})"
+  it: "Dispositivi abbinati ({count})"
+  ja: "ペアリング済みのデバイス（{count}）"
+  ko: "페어링된 기기 ({count})"
+  nl: "Gekoppelde apparaten ({count})"
+  pl: "Sparowane urządzenia ({count})"
+  pt: "Dispositivos emparelhados ({count})"
+  pt-BR: "Dispositivos pareados ({count})"
+  pt-PT: "Dispositivos emparelhados ({count})"
+  ru: "Привязанные устройства ({count})"
+  sv: "Parkopplade enheter ({count})"
+  sw: "Vifaa vilivyooanishwa ({count})"
+  th: "อุปกรณ์ที่จับคู่ ({count})"
+  uk: "Прив’язані пристрої ({count})"
+  vi: "Thiết bị đã ghép nối ({count})"
+  zh: "已配对设备（{count}）"
+  zh-HK: "已配對裝置（{count}）"
