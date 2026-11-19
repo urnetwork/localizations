@@ -3,6 +3,7 @@ source: "App version"
 platforms:
   - linux
   - windows
+  - site
 localizations:
   ar: "إصدار التطبيق"
   cs: "Verze aplikace"

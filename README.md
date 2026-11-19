@@ -235,3 +235,29 @@ You can run `npm pack` to bundle it locally and then `npm install ./path-to-loca
 - Make sure you're logged into npm with `npm login`.
 - Run `npm pack --dry-run` to see what will be included in the package.
 - If everything looks good, run `npm run release:patch` to publish the package. There are also `release:minor` and `release:major` scripts available for versioning.
+
+## Release notes
+
+`release-notes/latest.yaml` is the release note every app bundles; tapping the
+version in Account opens it. `npm run gen` copies it, validated, into each app
+as JSON (`gen/release-notes.mjs` lists the paths) and the web reads it through
+`loadReleaseNotes()`. Only the latest release is kept: replace the file for each
+release. `en` is required; any other store locale may be added.
+
+Every app shows it the same way. Tapping the version in Account (Settings on
+the apps that keep the version there) opens a sheet titled `release_notes`:
+
+1. the note's `title`;
+2. `<version> · <date>`: the note's own version and date (not the running
+   build's); the date is a calendar day (never shifted by time zone) in the
+   reader's date format, the medium style where the platform has one;
+3. the `intro`, then each section's optional heading over its bullets;
+4. a Close button.
+
+The language is the app's own UI language, matched in this order: that exact
+store locale; the same language in another form, the bare language first
+(pt-BR -> pt) and then another region (pt-PT -> pt-BR), never across Chinese
+scripts (`zh` is Simplified, `zh-HK` Traditional; zh-TW and zh-Hant match only
+zh-HK); else `en`. The note is laid out in its own language's direction, so the
+English fallback reads left to right in an Arabic or Hebrew UI. A missing or
+invalid file leaves the version row as it was, not tappable.
