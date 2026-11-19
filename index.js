@@ -71,4 +71,4 @@ export function getSupportedLanguages(options) {
  * The bundled release note (release-notes/latest.yaml), the same JSON every
  * app bundles: { version, date, locales: { en: { title, intro?, sections } } }.
  */
-export { loadReleaseNotes } from "./gen/release-notes.mjs";
+export { loadReleaseNotes, renderReleaseNotesText } from "./gen/release-notes.mjs";

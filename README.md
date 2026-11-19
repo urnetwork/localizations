@@ -261,3 +261,10 @@ scripts (`zh` is Simplified, `zh-HK` Traditional; zh-TW and zh-Hant match only
 zh-HK); else `en`. The note is laid out in its own language's direction, so the
 English fallback reads left to right in an Arabic or Hebrew UI. A missing or
 invalid file leaves the version row as it was, not tappable.
+
+The release runner (build `all/run.sh`) uses the same note as its **static
+changelog**: `node gen/release-notes.mjs --text` renders the `en` intro and
+sections (not the title) as plain text, and every release note and store note
+starts with it, above the changelog generated from the commits. With the
+generated changelog turned off (`BUILD_URIO_CHANGELOG=0`) the static changelog
+is the whole note.

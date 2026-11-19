@@ -54,3 +54,33 @@ export function loadReleaseNotes(file = RELEASE_NOTES_SOURCE) {
 export function releaseNotesFile(platform) {
 	return { [RELEASE_NOTES_OUT[platform]]: JSON.stringify(loadReleaseNotes(), null, 2) + "\n" };
 }
+
+// The note as plain text: the static changelog the release runner (build
+// all/run.sh) puts above the generated changelog in every release note and
+// store note. The intro, then each section's heading over its "- " bullets;
+// a blank line before a heading, so the markdown release body does not read
+// the heading as part of the bullet above it. The title is the in-app sheet's
+// heading ("What's new") and is left out. "" when the note has neither an
+// intro nor a section.
+export function renderReleaseNotesText(notes = loadReleaseNotes(), locale = "en") {
+	const note = notes.locales[locale] || notes.locales.en;
+	const lines = [];
+	if (note.intro) lines.push(note.intro);
+	for (const section of note.sections) {
+		if (section.heading) {
+			if (lines.length) lines.push("");
+			lines.push(section.heading);
+		}
+		for (const item of section.items) lines.push(`- ${item}`);
+	}
+	return lines.length ? lines.join("\n") + "\n" : "";
+}
+
+//   node gen/release-notes.mjs --text [locale]   the static changelog, on stdout
+//   node gen/release-notes.mjs                   the bundled JSON, on stdout
+const isMain = process.argv[1] && fs.realpathSync(process.argv[1]) === fs.realpathSync(new URL(import.meta.url).pathname);
+if (isMain) {
+	const args = process.argv.slice(2);
+	if (args[0] === "--text") process.stdout.write(renderReleaseNotesText(loadReleaseNotes(), args[1] || "en"));
+	else process.stdout.write(JSON.stringify(loadReleaseNotes(), null, 2) + "\n");
+}
