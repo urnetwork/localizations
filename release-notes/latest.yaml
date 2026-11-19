@@ -1,0 +1,22 @@
+# The release note every app bundles. Tapping the version in Account opens it.
+#
+# One file, the latest release only. `npm run gen` copies it into each app as
+# JSON (see gen/release-notes.mjs); the web reads it through loadReleaseNotes().
+# Edit this file, never the generated copies.
+#
+#   version    the release this note describes, as people see it ("2026.11")
+#   date       the release date, YYYY-MM-DD
+#   localizations.<locale>
+#     title    the note's heading
+#     intro    optional paragraph under the heading
+#     sections ordered; each { heading (optional), items: [bullet, ...] }
+#
+# `en` is required. Any other store locale may be added; an app falls back to
+# `en` for a locale the note does not carry.
+version: "2026.11"
+date: "2026-11-19"
+localizations:
+  en:
+    title: "What's new"
+    intro: "The release notes for this version are on the way."
+    sections: []

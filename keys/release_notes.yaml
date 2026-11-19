@@ -1,0 +1,36 @@
+description: "Title of the release notes sheet, opened by tapping the version in Account; also the version row's accessibility hint. The note itself comes from release-notes/latest.yaml."
+source: "Release notes"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "ملاحظات الإصدار"
+  cs: "Poznámky k verzi"
+  de: "Versionshinweise"
+  el: "Σημειώσεις έκδοσης"
+  en: "Release notes"
+  es: "Notas de la versión"
+  es-419: "Notas de la versión"
+  es-MX: "Notas de la versión"
+  fr: "Notes de version"
+  he: "הערות גרסה"
+  hi: "रिलीज़ नोट्स"
+  id: "Catatan rilis"
+  it: "Note di rilascio"
+  ja: "リリースノート"
+  ko: "릴리스 노트"
+  nl: "Release-opmerkingen"
+  pl: "Informacje o wersji"
+  pt: "Notas de lançamento"
+  pt-BR: "Notas da versão"
+  pt-PT: "Notas de lançamento"
+  ru: "Примечания к выпуску"
+  sv: "Versionsinformation"
+  sw: "Maelezo ya toleo"
+  th: "บันทึกประจำรุ่น"
+  uk: "Примітки до випуску"
+  vi: "Ghi chú phát hành"
+  zh: "发行说明"
+  zh-HK: "發行說明"

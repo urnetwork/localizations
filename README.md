@@ -235,3 +235,11 @@ You can run `npm pack` to bundle it locally and then `npm install ./path-to-loca
 - Make sure you're logged into npm with `npm login`.
 - Run `npm pack --dry-run` to see what will be included in the package.
 - If everything looks good, run `npm run release:patch` to publish the package. There are also `release:minor` and `release:major` scripts available for versioning.
+
+## Release notes
+
+`release-notes/latest.yaml` is the release note every app bundles; tapping the
+version in Account opens it. `npm run gen` copies it, validated, into each app
+as JSON (`gen/release-notes.mjs` lists the paths) and the web reads it through
+`loadReleaseNotes()`. Only the latest release is kept: replace the file for each
+release. `en` is required; other locales fall back to it.
