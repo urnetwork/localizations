@@ -235,3 +235,37 @@ You can run `npm pack` to bundle it locally and then `npm install ./path-to-loca
 - Make sure you're logged into npm with `npm login`.
 - Run `npm pack --dry-run` to see what will be included in the package.
 - If everything looks good, run `npm run release:patch` to publish the package. There are also `release:minor` and `release:major` scripts available for versioning.
+
+## Release notes
+
+`release-notes/latest.yaml` is the release note every app bundles; tapping the
+version in Account opens it. `npm run gen` copies it, validated, into each app
+as JSON (`gen/release-notes.mjs` lists the paths) and the web reads it through
+`loadReleaseNotes()`. Only the latest release is kept: replace the file for each
+release. `en` is required; any other store locale may be added.
+
+Every app shows it the same way. Tapping the version in Account (Settings on
+the apps that keep the version there) opens a sheet titled `release_notes`:
+
+1. the note's `title`;
+2. `<version> · <date>`: the running build's version, as the tapped row shows
+   it (ur.io: the site build's version), with the note's date (owner
+   2026-11-19); the date is a calendar day (never shifted by time zone) in the
+   reader's date format, the medium style where the platform has one;
+3. the `intro`, then each section's optional heading over its bullets;
+4. a Close button.
+
+The language is the app's own UI language, matched in this order: that exact
+store locale; the same language in another form, the bare language first
+(pt-BR -> pt) and then another region (pt-PT -> pt-BR), never across Chinese
+scripts (`zh` is Simplified, `zh-HK` Traditional; zh-TW and zh-Hant match only
+zh-HK); else `en`. The note is laid out in its own language's direction, so the
+English fallback reads left to right in an Arabic or Hebrew UI. A missing or
+invalid file leaves the version row as it was, not tappable.
+
+The release runner (build `all/run.sh`) uses the same note as its **static
+changelog**: `node gen/release-notes.mjs --text` renders the `en` intro and
+sections (not the title) as plain text, and every release note and store note
+starts with it, above the changelog generated from the commits. With the
+generated changelog turned off (`BUILD_URIO_CHANGELOG=0`) the static changelog
+is the whole note.

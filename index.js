@@ -66,3 +66,9 @@ export function getSupportedLanguages(options) {
 	});
 	return Array.from(langs);
 }
+
+/**
+ * The bundled release note (release-notes/latest.yaml), the same JSON every
+ * app bundles: { version, date, locales: { en: { title, intro?, sections } } }.
+ */
+export { loadReleaseNotes, renderReleaseNotesText } from "./gen/release-notes.mjs";
