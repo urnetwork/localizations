@@ -11,8 +11,16 @@
 #     intro    optional paragraph under the heading
 #     sections ordered; each { heading (optional), items: [bullet, ...] }
 #
-# `en` is required. Any other store locale may be added; an app falls back to
-# `en` for a locale the note does not carry.
+# `en` is required. Any other store locale may be added.
+#
+# Every app shows the note the same way (README.md, "Release notes"): the title,
+# then "<version> · <date>" (this file's version and date, not the running
+# build's), the intro, then each section's heading over its bullets. The
+# language is the app's own UI language: that exact store locale, else the same
+# language in another form (the bare language first, pt-BR -> pt, then another
+# region, pt-PT -> pt-BR), never across Chinese scripts (zh is Simplified,
+# zh-HK Traditional), else `en`. The note is laid out in its own language's
+# direction, so the English fallback reads left to right in an Arabic UI.
 version: "2026.11"
 date: "2026-11-19"
 localizations:
