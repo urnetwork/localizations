@@ -248,8 +248,9 @@ Every app shows it the same way. Tapping the version in Account (Settings on
 the apps that keep the version there) opens a sheet titled `release_notes`:
 
 1. the note's `title`;
-2. `<version> · <date>`: the note's own version and date (not the running
-   build's); the date is a calendar day (never shifted by time zone) in the
+2. `<version> · <date>`: the running build's version, as the tapped row shows
+   it (ur.io: the site build's version), with the note's date (owner
+   2026-11-19); the date is a calendar day (never shifted by time zone) in the
    reader's date format, the medium style where the platform has one;
 3. the `intro`, then each section's optional heading over its bullets;
 4. a Close button.
