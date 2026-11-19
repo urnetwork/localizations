@@ -1,0 +1,37 @@
+description: "Crypto invoice, Bitcoin only: shown in place of crypto_invoice_quote_expired and its Refresh quote button for up to 3 hours after a Bitcoin quote expires with nothing received yet. The server sees a Bitcoin payment only once it is confirmed (mined), so one sent in time may still be on its way, and it is credited at the quoted price. \"pay another way\" refers to the button crypto_invoice_pay_another_way."
+source: "This quote expired. A payment you sent before it expired is credited at this price once it confirms, which can take up to 3 hours. If you didn't send one, pay another way."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "انتهت صلاحية عرض السعر هذا. يُحتسب الدفع الذي أرسلته قبل انتهائه بهذا السعر بعد تأكيده، وقد يستغرق ذلك ما يصل إلى 3 ساعات. إذا لم ترسل دفعة، فادفع بطريقة أخرى."
+  cs: "Platnost tohoto kurzu vypršela. Platba, kterou jste odeslali před jeho vypršením, bude po potvrzení připsána za tuto cenu, což může trvat až 3 hodiny. Pokud jste žádnou neodeslali, zaplaťte jinak."
+  de: "Dieser Kurs ist abgelaufen. Eine Zahlung, die du vor seinem Ablauf gesendet hast, wird nach der Bestätigung zu diesem Preis gutgeschrieben. Das kann bis zu 3 Stunden dauern. Wenn du keine gesendet hast, bezahle anders."
+  el: "Αυτή η ισοτιμία έληξε. Μια πληρωμή που στείλατε πριν λήξει πιστώνεται σε αυτή την τιμή μόλις επιβεβαιωθεί, κάτι που μπορεί να διαρκέσει έως και 3 ώρες. Αν δεν στείλατε πληρωμή, πληρώστε με άλλον τρόπο."
+  en: "This quote expired. A payment you sent before it expired is credited at this price once it confirms, which can take up to 3 hours. If you didn't send one, pay another way."
+  es: "Esta cotización ha caducado. Un pago que enviaste antes de que caducara se acredita a este precio en cuanto se confirma, lo que puede tardar hasta 3 horas. Si no enviaste ninguno, paga de otra forma."
+  es-419: "Esta cotización venció. Un pago que enviaste antes de que venciera se acredita a este precio en cuanto se confirma, lo que puede tardar hasta 3 horas. Si no enviaste ninguno, paga de otra forma."
+  es-MX: "Esta cotización venció. Un pago que enviaste antes de que venciera se acredita a este precio en cuanto se confirma, lo que puede tardar hasta 3 horas. Si no enviaste ninguno, paga de otra forma."
+  fr: "Cette cotation a expiré. Un paiement envoyé avant son expiration est crédité à ce prix dès qu'il est confirmé, ce qui peut prendre jusqu'à 3 heures. Si vous n'en avez pas envoyé, payez autrement."
+  he: "הצעת המחיר הזו פגה. תשלום ששלחתם לפני שפגה ייזקף במחיר הזה ברגע שיאושר, וזה עשוי להימשך עד 3 שעות. אם לא שלחתם תשלום, שלמו בדרך אחרת."
+  hi: "यह दर समाप्त हो गई है। इसके समाप्त होने से पहले भेजा गया आपका भुगतान पुष्टि होते ही इसी कीमत पर जमा किया जाता है, जिसमें 3 घंटे तक लग सकते हैं। अगर आपने कोई भुगतान नहीं भेजा है, तो दूसरे तरीके से भुगतान करें।"
+  id: "Kurs ini sudah berakhir. Pembayaran yang Anda kirim sebelum kurs berakhir dikreditkan dengan harga ini setelah dikonfirmasi, yang bisa memerlukan hingga 3 jam. Jika Anda belum mengirim pembayaran, bayar dengan cara lain."
+  it: "Questa quotazione è scaduta. Un pagamento inviato prima della scadenza viene accreditato a questo prezzo non appena confermato, il che può richiedere fino a 3 ore. Se non ne hai inviato uno, paga in altro modo."
+  ja: "この見積もりは期限切れです。期限切れになる前に送金した支払いは、承認され次第この価格で入金されます。承認には最大 3 時間かかることがあります。送金していない場合は、別の方法で支払ってください。"
+  ko: "이 견적은 만료되었습니다. 만료 전에 보낸 결제는 확인되는 대로 이 가격으로 입금 처리되며, 최대 3시간이 걸릴 수 있습니다. 결제를 보내지 않았다면 다른 방법으로 결제하세요."
+  nl: "Deze koers is verlopen. Een betaling die je hebt verstuurd voordat hij verliep, wordt na bevestiging tegen deze prijs bijgeschreven. Dat kan tot 3 uur duren. Heb je niets verstuurd, betaal dan op een andere manier."
+  pl: "Ten kurs wygasł. Płatność wysłana przed jego wygaśnięciem zostanie zaksięgowana po tej cenie po potwierdzeniu, co może potrwać do 3 godzin. Jeśli nie wysłano płatności, zapłać w inny sposób."
+  pt: "Esta cotação expirou. Um pagamento que enviou antes de expirar é creditado a este preço assim que for confirmado, o que pode demorar até 3 horas. Se não enviou nenhum, pague de outra forma."
+  pt-BR: "Esta cotação expirou. Um pagamento que você enviou antes de ela expirar é creditado por este preço assim que for confirmado, o que pode levar até 3 horas. Se você não enviou nenhum, pague de outra forma."
+  pt-PT: "Esta cotação expirou. Um pagamento que enviou antes de expirar é creditado a este preço assim que for confirmado, o que pode demorar até 3 horas. Se não enviou nenhum, pague de outra forma."
+  ru: "Срок действия курса истёк. Платёж, отправленный до истечения срока, будет зачислен по этой цене после подтверждения — это может занять до 3 часов. Если вы ничего не отправляли, оплатите другим способом."
+  sv: "Den här kursen har gått ut. En betalning som du skickade innan den gick ut krediteras till det här priset när den har bekräftats, vilket kan ta upp till 3 timmar. Om du inte skickade någon betalning, betala på annat sätt."
+  sw: "Muda wa bei hii umeisha. Malipo uliyotuma kabla muda wake kuisha yanahesabiwa kwa bei hii mara yanapothibitishwa, jambo linaloweza kuchukua hadi saa 3. Ikiwa hukutuma malipo, lipa kwa njia nyingine."
+  th: "ราคาเสนอนี้หมดอายุแล้ว การชำระเงินที่คุณส่งก่อนหมดอายุจะได้รับเครดิตในราคานี้เมื่อได้รับการยืนยัน ซึ่งอาจใช้เวลานานถึง 3 ชั่วโมง หากคุณยังไม่ได้ส่ง ให้ชำระด้วยวิธีอื่น"
+  uk: "Термін дії курсу минув. Платіж, надісланий до закінчення терміну, буде зараховано за цією ціною після підтвердження — це може тривати до 3 годин. Якщо ви нічого не надсилали, оплатіть іншим способом."
+  vi: "Báo giá này đã hết hạn. Khoản thanh toán bạn gửi trước khi hết hạn sẽ được ghi nhận theo giá này ngay khi được xác nhận, có thể mất đến 3 giờ. Nếu bạn chưa gửi, hãy thanh toán cách khác."
+  zh: "此报价已过期。在过期前发送的付款将在确认后按此价格入账，确认最多可能需要 3 小时。如果你尚未付款，请使用其他方式支付。"
+  zh-HK: "此報價已過期。在過期前發送的付款將在確認後按此價格入賬，確認最多可能需要 3 小時。如果你尚未付款，請使用其他方式付款。"

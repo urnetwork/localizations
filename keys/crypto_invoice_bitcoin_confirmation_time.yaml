@@ -1,0 +1,37 @@
+description: "Crypto invoice, Bitcoin only: shown under the quote's countdown while the invoice can be paid. The server sees a Bitcoin payment only once it is confirmed (mined), which can take hours, and credits a payment sent before the quote expires at the quoted price if it confirms within 3 hours of the expiry. \"this price\" is the price on the invoice. Bitcoin is a product name."
+source: "Bitcoin payments can take up to 3 hours to confirm. A payment sent before the quote expires is credited at this price."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "قد يستغرق تأكيد مدفوعات Bitcoin ما يصل إلى 3 ساعات. يُحتسب الدفع المُرسَل قبل انتهاء صلاحية عرض السعر بهذا السعر."
+  cs: "Potvrzení platby Bitcoin může trvat až 3 hodiny. Platba odeslaná před vypršením platnosti kurzu bude připsána za tuto cenu."
+  de: "Bitcoin-Zahlungen können bis zu 3 Stunden für die Bestätigung brauchen. Eine Zahlung, die vor Ablauf des Kurses gesendet wurde, wird zu diesem Preis gutgeschrieben."
+  el: "Οι πληρωμές Bitcoin μπορεί να χρειαστούν έως και 3 ώρες για να επιβεβαιωθούν. Μια πληρωμή που στάλθηκε πριν λήξει η ισοτιμία πιστώνεται σε αυτή την τιμή."
+  en: "Bitcoin payments can take up to 3 hours to confirm. A payment sent before the quote expires is credited at this price."
+  es: "Los pagos en Bitcoin pueden tardar hasta 3 horas en confirmarse. Un pago enviado antes de que caduque la cotización se acredita a este precio."
+  es-419: "Los pagos en Bitcoin pueden tardar hasta 3 horas en confirmarse. Un pago enviado antes de que venza la cotización se acredita a este precio."
+  es-MX: "Los pagos en Bitcoin pueden tardar hasta 3 horas en confirmarse. Un pago enviado antes de que venza la cotización se acredita a este precio."
+  fr: "Les paiements en Bitcoin peuvent prendre jusqu'à 3 heures pour être confirmés. Un paiement envoyé avant l'expiration de la cotation est crédité à ce prix."
+  he: "אישור תשלומי Bitcoin עשוי להימשך עד 3 שעות. תשלום שנשלח לפני שהצעת המחיר פגה ייזקף במחיר הזה."
+  hi: "Bitcoin भुगतानों की पुष्टि में 3 घंटे तक लग सकते हैं। दर समाप्त होने से पहले भेजा गया भुगतान इसी कीमत पर जमा किया जाता है।"
+  id: "Pembayaran Bitcoin bisa memerlukan hingga 3 jam untuk dikonfirmasi. Pembayaran yang dikirim sebelum kurs berakhir dikreditkan dengan harga ini."
+  it: "I pagamenti in Bitcoin possono richiedere fino a 3 ore per essere confermati. Un pagamento inviato prima della scadenza della quotazione viene accreditato a questo prezzo."
+  ja: "Bitcoin の支払いは承認まで最大 3 時間かかることがあります。見積もりの期限が切れる前に送金した支払いは、この価格で入金されます。"
+  ko: "Bitcoin 결제는 확인까지 최대 3시간이 걸릴 수 있습니다. 견적이 만료되기 전에 보낸 결제는 이 가격으로 입금 처리됩니다."
+  nl: "Bitcoin-betalingen kunnen tot 3 uur nodig hebben om te worden bevestigd. Een betaling die is verstuurd voordat de koers verloopt, wordt tegen deze prijs bijgeschreven."
+  pl: "Potwierdzenie płatności w Bitcoin może potrwać do 3 godzin. Płatność wysłana przed wygaśnięciem kursu zostanie zaksięgowana po tej cenie."
+  pt: "Os pagamentos em Bitcoin podem demorar até 3 horas a ser confirmados. Um pagamento enviado antes de a cotação expirar é creditado a este preço."
+  pt-BR: "Pagamentos em Bitcoin podem levar até 3 horas para serem confirmados. Um pagamento enviado antes de a cotação expirar é creditado por este preço."
+  pt-PT: "Os pagamentos em Bitcoin podem demorar até 3 horas a ser confirmados. Um pagamento enviado antes de a cotação expirar é creditado a este preço."
+  ru: "Подтверждение платежа в Bitcoin может занять до 3 часов. Платёж, отправленный до истечения срока действия курса, зачисляется по этой цене."
+  sv: "Bitcoin-betalningar kan ta upp till 3 timmar att bekräftas. En betalning som skickas innan kursen går ut krediteras till det här priset."
+  sw: "Malipo ya Bitcoin yanaweza kuchukua hadi saa 3 kuthibitishwa. Malipo yaliyotumwa kabla muda wa bei kuisha yanahesabiwa kwa bei hii."
+  th: "การชำระเงินด้วย Bitcoin อาจใช้เวลายืนยันนานถึง 3 ชั่วโมง การชำระเงินที่ส่งก่อนราคาเสนอหมดอายุจะได้รับเครดิตในราคานี้"
+  uk: "Підтвердження платежу в Bitcoin може тривати до 3 годин. Платіж, надісланий до закінчення терміну дії курсу, зараховується за цією ціною."
+  vi: "Thanh toán Bitcoin có thể mất đến 3 giờ để được xác nhận. Khoản thanh toán gửi trước khi báo giá hết hạn sẽ được ghi nhận theo giá này."
+  zh: "Bitcoin 付款最多可能需要 3 小时才能确认。在报价过期前发送的付款将按此价格入账。"
+  zh-HK: "Bitcoin 付款最多可能需要 3 小時才能確認。在報價過期前發送的付款將按此價格入賬。"
