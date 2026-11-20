@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions): the heading of a collapsed section below the device sign-ins, which opens when tapped. {count} is the number of sessions in it, formatted by the app (\"1,204\", or \"10,000+\" when the list was too long to read in full). A heading, so the noun does not agree with the count. The section holds the sessions of the account's other clients, such as older clients' sign-ins."
+source: "Other clients (%@)"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: count
+    type: string
+localizations:
+  ar: "عملاء آخرون ({count})"
+  cs: "Ostatní klienti ({count})"
+  de: "Andere Clients ({count})"
+  el: "Άλλοι πελάτες ({count})"
+  en: "Other clients ({count})"
+  es: "Otros clientes ({count})"
+  es-419: "Otros clientes ({count})"
+  es-MX: "Otros clientes ({count})"
+  fr: "Autres clients ({count})"
+  he: "לקוחות אחרים ({count})"
+  hi: "अन्य क्लाइंट ({count})"
+  id: "Klien lain ({count})"
+  it: "Altri client ({count})"
+  ja: "その他のクライアント（{count}）"
+  ko: "기타 클라이언트 ({count})"
+  nl: "Andere clients ({count})"
+  pl: "Inni klienci ({count})"
+  pt: "Outros clientes ({count})"
+  pt-BR: "Outros clientes ({count})"
+  pt-PT: "Outros clientes ({count})"
+  ru: "Другие клиенты ({count})"
+  sv: "Andra klienter ({count})"
+  sw: "Wateja wengine ({count})"
+  th: "ไคลเอนต์อื่นๆ ({count})"
+  uk: "Інші клієнти ({count})"
+  vi: "Ứng dụng khách khác ({count})"
+  zh: "其他客户端（{count}）"
+  zh-HK: "其他用戶端（{count}）"

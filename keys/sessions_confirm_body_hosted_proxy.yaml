@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): body of the confirmation before signing out a hosted proxy's session. Signing it out ends that proxy for good; the user creates a new proxy to replace it."
+source: "This hosted proxy will stop working. Create a new one to replace it."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "سيتوقف هذا الوكيل المستضاف عن العمل. أنشئ وكيلًا جديدًا ليحل محله."
+  cs: "Tato hostovaná proxy přestane fungovat. Pokud ji chcete nahradit, vytvořte novou."
+  de: "Dieser gehostete Proxy funktioniert dann nicht mehr. Erstelle einen neuen, um ihn zu ersetzen."
+  el: "Αυτός ο φιλοξενούμενος διακομιστής μεσολάβησης θα σταματήσει να λειτουργεί. Δημιουργήστε έναν νέο για να τον αντικαταστήσετε."
+  en: "This hosted proxy will stop working. Create a new one to replace it."
+  es: "Este proxy alojado dejará de funcionar. Crea uno nuevo para reemplazarlo."
+  es-419: "Este proxy alojado dejará de funcionar. Crea uno nuevo para reemplazarlo."
+  es-MX: "Este proxy alojado dejará de funcionar. Crea uno nuevo para reemplazarlo."
+  fr: "Ce proxy hébergé cessera de fonctionner. Créez-en un nouveau pour le remplacer."
+  he: "הפרוקסי המתארח הזה יפסיק לפעול. צרו פרוקסי חדש במקומו."
+  hi: "यह होस्ट की गई प्रॉक्सी काम करना बंद कर देगी। इसकी जगह लेने के लिए नई प्रॉक्सी बनाएँ।"
+  id: "Proxy terhosting ini akan berhenti berfungsi. Buat yang baru untuk menggantikannya."
+  it: "Questo proxy ospitato smetterà di funzionare. Creane uno nuovo per sostituirlo."
+  ja: "このホスト型プロキシは動作しなくなります。置き換えるには新しいプロキシを作成してください。"
+  ko: "이 호스팅 프록시가 더 이상 작동하지 않습니다. 대체하려면 새 프록시를 만드세요."
+  nl: "Deze gehoste proxy werkt dan niet meer. Maak een nieuwe aan om hem te vervangen."
+  pl: "Ten hostowany serwer proxy przestanie działać. Aby go zastąpić, utwórz nowy."
+  pt: "Este proxy alojado deixará de funcionar. Crie um novo para o substituir."
+  pt-BR: "Este proxy hospedado vai parar de funcionar. Crie um novo para substituí-lo."
+  pt-PT: "Este proxy alojado deixará de funcionar. Crie um novo para o substituir."
+  ru: "Этот размещённый прокси перестанет работать. Чтобы заменить его, создайте новый."
+  sv: "Den här värdbaserade proxyn slutar fungera. Skapa en ny för att ersätta den."
+  sw: "Proksi hii iliyopangishwa itaacha kufanya kazi. Unda mpya ili kuibadilisha."
+  th: "พร็อกซีที่โฮสต์ไว้นี้จะหยุดทำงาน สร้างพร็อกซีใหม่เพื่อแทนที่"
+  uk: "Цей розміщений проксі перестане працювати. Щоб замінити його, створіть новий."
+  vi: "Proxy được lưu trữ này sẽ ngừng hoạt động. Hãy tạo proxy mới để thay thế."
+  zh: "此托管代理将停止工作。请创建一个新的代理来替代它。"
+  zh-HK: "此託管代理將停止運作。請建立新的代理來取代它。"

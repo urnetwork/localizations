@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions): button at the end of a section that shows the section's next rows (the device sign-ins, or an open section such as hosted proxies)."
+source: "Show more"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "عرض المزيد"
+  cs: "Zobrazit další"
+  de: "Mehr anzeigen"
+  el: "Εμφάνιση περισσότερων"
+  en: "Show more"
+  es: "Mostrar más"
+  es-419: "Mostrar más"
+  es-MX: "Mostrar más"
+  fr: "Afficher plus"
+  he: "הצגת עוד"
+  hi: "और दिखाएँ"
+  id: "Tampilkan lainnya"
+  it: "Mostra altro"
+  ja: "さらに表示"
+  ko: "더 보기"
+  nl: "Meer weergeven"
+  pl: "Pokaż więcej"
+  pt: "Mostrar mais"
+  pt-BR: "Mostrar mais"
+  pt-PT: "Mostrar mais"
+  ru: "Показать ещё"
+  sv: "Visa fler"
+  sw: "Onyesha zaidi"
+  th: "แสดงเพิ่มเติม"
+  uk: "Показати більше"
+  vi: "Hiển thị thêm"
+  zh: "显示更多"
+  zh-HK: "顯示更多"

@@ -1,7 +1,8 @@
-description: "Screen reader state of a row that shows or hides a section below it (Advanced, Why?): the section is hidden. The counterpart of expanded."
+description: "Screen reader state of a row that shows or hides a section below it (Advanced, Why?): the section is hidden. The counterpart of expanded. Windows: the Sessions page's group headings, read as the heading's item status."
 source: "Collapsed"
 platforms:
   - android
+  - windows
 localizations:
   ar: "تم التصغير"
   cs: "Sbaleno"

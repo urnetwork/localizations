@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1 and the confirmation's {device}: the label of a session in the section of other clients (sessions_group_other_clients), in place of a device name."
+source: "Other client"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "عميل آخر"
+  cs: "Jiný klient"
+  de: "Anderer Client"
+  el: "Άλλος πελάτης"
+  en: "Other client"
+  es: "Otro cliente"
+  es-419: "Cliente"
+  es-MX: "Otro cliente"
+  fr: "Autre client"
+  he: "לקוח אחר"
+  hi: "अन्य क्लाइंट"
+  id: "Klien lain"
+  it: "Altro client"
+  ja: "その他のクライアント"
+  ko: "기타 클라이언트"
+  nl: "Andere client"
+  pl: "Inny klient"
+  pt: "Outro cliente"
+  pt-BR: "Outro cliente"
+  pt-PT: "Outro cliente"
+  ru: "Другой клиент"
+  sv: "Annan klient"
+  sw: "Mteja mwingine"
+  th: "ไคลเอนต์อื่น"
+  uk: "Інший клієнт"
+  vi: "Ứng dụng khách khác"
+  zh: "其他客户端"
+  zh-HK: "其他用戶端"

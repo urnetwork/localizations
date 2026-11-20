@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1 and the confirmation's {device}: the label of a session in the section of paired devices (sessions_group_paired_devices), in place of a device name."
+source: "Paired device"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "جهاز مقترن"
+  cs: "Spárované zařízení"
+  de: "Gekoppeltes Gerät"
+  el: "Συζευγμένη συσκευή"
+  en: "Paired device"
+  es: "Dispositivo vinculado"
+  es-419: "Dispositivo vinculado"
+  es-MX: "Dispositivo vinculado"
+  fr: "Appareil associé"
+  he: "מכשיר מצומד"
+  hi: "पेयर किया गया डिवाइस"
+  id: "Perangkat tertaut"
+  it: "Dispositivo abbinato"
+  ja: "ペアリング済みのデバイス"
+  ko: "페어링된 기기"
+  nl: "Gekoppeld apparaat"
+  pl: "Sparowane urządzenie"
+  pt: "Dispositivo emparelhado"
+  pt-BR: "Dispositivo pareado"
+  pt-PT: "Dispositivo emparelhado"
+  ru: "Привязанное устройство"
+  sv: "Parkopplad enhet"
+  sw: "Kifaa kilichooanishwa"
+  th: "อุปกรณ์ที่จับคู่"
+  uk: "Прив’язаний пристрій"
+  vi: "Thiết bị đã ghép nối"
+  zh: "已配对设备"
+  zh-HK: "已配對裝置"

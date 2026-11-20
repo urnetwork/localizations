@@ -1,0 +1,38 @@
+description: "Sign-in screens, the browser extension's code sign-in among them: a sign-in, or a sign-in with a code, was refused because the account holds its cap of active sessions (the sdk's SessionErrorCodeLimitReached). This device is not signed in, so the line sends the user to a device that is. Nothing was signed out. 'Account' and 'Sessions' are the names of those screens; keep them as the app names them."
+source: "Too many active sessions. On a device that's signed in to this account, go to Account > Sessions and sign out sessions you no longer use, then try again."
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+  - web
+localizations:
+  ar: "توجد جلسات نشطة كثيرة جدًا. على جهاز مسجَّل الدخول إلى هذا الحساب، انتقل إلى الحساب > الجلسات وسجّل الخروج من الجلسات التي لم تعد تستخدمها، ثم حاول مرة أخرى."
+  cs: "Příliš mnoho aktivních relací. Na zařízení přihlášeném k tomuto účtu přejděte do části Účet > Relace, odhlaste relace, které už nepoužíváte, a zkuste to znovu."
+  de: "Zu viele aktive Sitzungen. Öffne auf einem Gerät, das bei diesem Konto angemeldet ist, Konto > Sitzungen, melde die Sitzungen ab, die du nicht mehr nutzt, und versuche es dann erneut."
+  el: "Υπάρχουν πάρα πολλές ενεργές συνεδρίες. Σε μια συσκευή συνδεδεμένη σε αυτόν τον λογαριασμό, μεταβείτε στο Λογαριασμός > Συνεδρίες, αποσυνδέστε τις συνεδρίες που δεν χρησιμοποιείτε πια και δοκιμάστε ξανά."
+  en: "Too many active sessions. On a device that's signed in to this account, go to Account > Sessions and sign out sessions you no longer use, then try again."
+  es: "Hay demasiadas sesiones activas. En un dispositivo con la sesión iniciada en esta cuenta, ve a Cuenta > Sesiones, cierra las sesiones que ya no uses y vuelve a intentarlo."
+  es-419: "Hay demasiadas sesiones activas. En un dispositivo con la sesión iniciada en esta cuenta, ve a Cuenta > Sesiones, cierra las sesiones que ya no uses y vuelve a intentarlo."
+  es-MX: "Hay demasiadas sesiones activas. En un dispositivo con la sesión iniciada en esta cuenta, ve a Cuenta > Sesiones, cierra las sesiones que ya no uses y vuelve a intentarlo."
+  fr: "Trop de sessions actives. Sur un appareil connecté à ce compte, ouvrez Compte > Sessions, déconnectez les sessions que vous n’utilisez plus, puis réessayez."
+  he: "יש יותר מדי הפעלות פעילות. במכשיר שמחובר לחשבון הזה, עברו אל חשבון > הפעלות, נתקו את ההפעלות שאתם כבר לא משתמשים בהן, ואז נסו שוב."
+  hi: "बहुत सारे सक्रिय सत्र हैं। इस खाते में साइन इन किए गए किसी डिवाइस पर खाता > सत्र में जाएँ, उन सत्रों से साइन आउट करें जिनका आप अब उपयोग नहीं करते, फिर पुनः प्रयास करें।"
+  id: "Terlalu banyak sesi aktif. Di perangkat yang sudah masuk ke akun ini, buka Akun > Sesi, keluar dari sesi yang tidak Anda gunakan lagi, lalu coba lagi."
+  it: "Troppe sessioni attive. Su un dispositivo con accesso a questo account, vai in Account > Sessioni, chiudi le sessioni che non usi più, poi riprova."
+  ja: "アクティブなセッションが多すぎます。このアカウントにサインインしているデバイスで、アカウント > セッションを開き、使用しなくなったセッションからサインアウトしてから、もう一度お試しください。"
+  ko: "활성 세션이 너무 많습니다. 이 계정에 로그인된 기기에서 계정 > 세션으로 이동해 더 이상 사용하지 않는 세션에서 로그아웃한 후 다시 시도하세요."
+  nl: "Te veel actieve sessies. Ga op een apparaat dat bij dit account is ingelogd naar Account > Sessies, log de sessies uit die je niet meer gebruikt en probeer het opnieuw."
+  pl: "Zbyt wiele aktywnych sesji. Na urządzeniu zalogowanym na to konto przejdź do sekcji Konto > Sesje, wyloguj sesje, których już nie używasz, a potem spróbuj ponownie."
+  pt: "Demasiadas sessões ativas. Num dispositivo com sessão iniciada nesta conta, aceda a Conta > Sessões, termine as sessões que já não utiliza e tente novamente."
+  pt-BR: "Há sessões ativas demais. Em um dispositivo conectado a esta conta, acesse Conta > Sessões, encerre as sessões que você não usa mais e tente novamente."
+  pt-PT: "Demasiadas sessões ativas. Num dispositivo com sessão iniciada nesta conta, aceda a Conta > Sessões, termine as sessões que já não utiliza e tente novamente."
+  ru: "Слишком много активных сеансов. На устройстве, где выполнен вход в этот аккаунт, откройте «Аккаунт > Сеансы», завершите неиспользуемые сеансы и попробуйте снова."
+  sv: "För många aktiva sessioner. Gå till Konto > Sessioner på en enhet som är inloggad på det här kontot, logga ut sessioner som du inte längre använder och försök sedan igen."
+  sw: "Kuna vipindi vingi mno vilivyo hai. Kwenye kifaa kilichoingia kwenye akaunti hii, nenda kwenye Akaunti > Vipindi, toka kwenye vipindi usivyotumia tena, kisha ujaribu tena."
+  th: "มีเซสชันที่ใช้งานอยู่มากเกินไป บนอุปกรณ์ที่ลงชื่อเข้าใช้บัญชีนี้อยู่ ไปที่ บัญชี > เซสชัน แล้วออกจากระบบเซสชันที่คุณไม่ได้ใช้แล้ว จากนั้นลองอีกครั้ง"
+  uk: "Забагато активних сеансів. На пристрої, де виконано вхід у цей обліковий запис, відкрийте «Обліковий запис > Сеанси», завершіть сеанси, якими ви більше не користуєтеся, і спробуйте ще раз."
+  vi: "Có quá nhiều phiên đang hoạt động. Trên một thiết bị đã đăng nhập vào tài khoản này, hãy vào Tài khoản > Phiên đăng nhập, đăng xuất các phiên bạn không còn dùng, rồi thử lại."
+  zh: "活跃会话过多。请在已登录此账户的设备上前往“账户 > 登录会话”，退出不再使用的会话，然后重试。"
+  zh-HK: "使用中的工作階段太多。請在已登入此帳戶的裝置上前往「帳戶 > 登入工作階段」，登出不再使用的工作階段，然後再試一次。"

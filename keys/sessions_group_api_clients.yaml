@@ -1,0 +1,40 @@
+description: "Sessions screen (Account > Sessions): the heading of a collapsed section below the device sign-ins, which opens when tapped. {count} is the number of sessions in it, formatted by the app (\"1,204\", or \"10,000+\" when the list was too long to read in full). A heading, so the noun does not agree with the count. The section holds the sessions of clients that the account's API keys created (each client has its own)."
+source: "API clients (%@)"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: count
+    type: string
+localizations:
+  ar: "عملاء API ({count})"
+  cs: "Klienti API ({count})"
+  de: "API-Clients ({count})"
+  el: "Πελάτες API ({count})"
+  en: "API clients ({count})"
+  es: "Clientes de API ({count})"
+  es-419: "Clientes de API ({count})"
+  es-MX: "Clientes de API ({count})"
+  fr: "Clients API ({count})"
+  he: "לקוחות API ({count})"
+  hi: "API क्लाइंट ({count})"
+  id: "Klien API ({count})"
+  it: "Client API ({count})"
+  ja: "APIクライアント（{count}）"
+  ko: "API 클라이언트 ({count})"
+  nl: "API-clients ({count})"
+  pl: "Klienci API ({count})"
+  pt: "Clientes de API ({count})"
+  pt-BR: "Clientes de API ({count})"
+  pt-PT: "Clientes de API ({count})"
+  ru: "API-клиенты ({count})"
+  sv: "API-klienter ({count})"
+  sw: "Wateja wa API ({count})"
+  th: "ไคลเอนต์ API ({count})"
+  uk: "Клієнти API ({count})"
+  vi: "Ứng dụng khách API ({count})"
+  zh: "API 客户端（{count}）"
+  zh-HK: "API 用戶端（{count}）"

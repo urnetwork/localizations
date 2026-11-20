@@ -1,0 +1,37 @@
+description: "Sessions screen (Account > Sessions), row line 1: the device label of a session the browser extension signed in (the sdk's LastUsed.DeviceKind extension: device type web from the extension's Chrome or Firefox build), in place of Web."
+source: "Browser extension"
+platforms:
+  - apple
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "إضافة المتصفح"
+  cs: "Rozšíření prohlížeče"
+  de: "Browsererweiterung"
+  el: "Επέκταση προγράμματος περιήγησης"
+  en: "Browser extension"
+  es: "Extensión del navegador"
+  es-419: "Extensión del navegador"
+  es-MX: "Extensión del navegador"
+  fr: "Extension de navigateur"
+  he: "תוסף דפדפן"
+  hi: "ब्राउज़र एक्सटेंशन"
+  id: "Ekstensi browser"
+  it: "Estensione del browser"
+  ja: "ブラウザ拡張機能"
+  ko: "브라우저 확장 프로그램"
+  nl: "Browserextensie"
+  pl: "Rozszerzenie przeglądarki"
+  pt: "Extensão do navegador"
+  pt-BR: "Extensão do navegador"
+  pt-PT: "Extensão do navegador"
+  ru: "Расширение браузера"
+  sv: "Webbläsartillägg"
+  sw: "Kiendelezi cha kivinjari"
+  th: "ส่วนขยายเบราว์เซอร์"
+  uk: "Розширення браузера"
+  vi: "Tiện ích mở rộng trình duyệt"
+  zh: "浏览器扩展"
+  zh-HK: "瀏覽器擴充功能"
