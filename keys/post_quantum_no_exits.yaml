@@ -1,0 +1,39 @@
+description: "Connect screen notice, shown in place of the connecting state while post-quantum encryption is on and the selected location has no post-quantum exits right now (the sdk's ConnectViewController.GetPostQuantumUnavailable), so the reader can choose instead of waiting on a connection that cannot complete. {location} is the location's name as the location list shows it, inserted as is, so no case ending or preposition can attach to it. Two actions follow: post_quantum_no_exits_pick_location and post_quantum_no_exits_turn_off."
+source: "No post-quantum exits in %@ right now"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+placeholders:
+  - name: location
+    type: string
+localizations:
+  ar: "لا توجد مخارج ما بعد الكمومية في {location} حاليًا"
+  cs: "{location}: momentálně žádné postkvantové výstupy"
+  de: "{location}: zurzeit keine Post-Quanten-Exits"
+  el: "{location}: προς το παρόν καμία μετακβαντική έξοδος"
+  en: "No post-quantum exits in {location} right now"
+  es: "No hay salidas poscuánticas en {location} por ahora"
+  es-419: "No hay salidas poscuánticas en {location} por el momento"
+  es-MX: "No hay salidas poscuánticas en {location} por el momento"
+  fr: "{location} : aucune sortie post-quantique pour le moment"
+  he: "{location}: אין כרגע יציאות פוסט-קוונטיות"
+  hi: "{location} में अभी कोई पोस्ट-क्वांटम एग्ज़िट नहीं है"
+  id: "Tidak ada exit pasca-kuantum di {location} saat ini"
+  it: "{location}: al momento nessuna uscita post-quantistica"
+  ja: "{location}には現在ポスト量子の出口がありません"
+  ko: "현재 {location}에는 포스트 양자 출구가 없습니다"
+  nl: "Op dit moment geen post-quantumexits in {location}"
+  pl: "{location}: obecnie brak wyjść postkwantowych"
+  pt: "{location}: de momento, sem saídas pós-quânticas"
+  pt-BR: "{location}: no momento, sem saídas pós-quânticas"
+  pt-PT: "{location}: de momento, sem saídas pós-quânticas"
+  ru: "{location}: сейчас нет постквантовых выходов"
+  sv: "Inga postkvantutgångar i {location} just nu"
+  sw: "Hakuna njia za kutoka za baada ya kwantamu katika {location} kwa sasa"
+  th: "ขณะนี้ไม่มีทางออกแบบโพสต์ควอนตัมใน {location}"
+  uk: "{location}: зараз немає постквантових виходів"
+  vi: "Hiện không có điểm thoát hậu lượng tử tại {location}"
+  zh: "{location} 目前没有后量子出口"
+  zh-HK: "{location} 目前沒有後量子出口"
