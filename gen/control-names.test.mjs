@@ -17,6 +17,8 @@ const keys = new Map(loadStore().map((k) => [k.id, k]));
 const NAMES_CONTROL = {
 	// the extender row when the internet can't reach the device: it can turn the role off
 	extender_activation_unreachable: "extender",
+	// ur.io's note on its post-quantum option: the reader finds the option in the apps by its label
+	site_post_quantum_encryption_in_apps: "post_quantum_encryption",
 };
 
 test("a line that names a control names it in every locale", () => {
