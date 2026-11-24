@@ -1,0 +1,36 @@
+description: "Connect screen notice (post_quantum_no_exits): the second action, which turns post-quantum encryption off and saves it, as the option's own switch (post_quantum_encryption) does, so the connection can use the location's other exits. Name the option as its label does."
+source: "Turn off post-quantum"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "إيقاف التشفير ما بعد الكمومي"
+  cs: "Vypnout postkvantové šifrování"
+  de: "Post-Quanten-Verschlüsselung ausschalten"
+  el: "Απενεργοποίηση μετακβαντικής κρυπτογράφησης"
+  en: "Turn off post-quantum"
+  es: "Desactivar el cifrado poscuántico"
+  es-419: "Desactivar el cifrado poscuántico"
+  es-MX: "Desactivar el cifrado poscuántico"
+  fr: "Désactiver le chiffrement post-quantique"
+  he: "כיבוי הצפנה פוסט-קוונטית"
+  hi: "पोस्ट-क्वांटम एन्क्रिप्शन बंद करें"
+  id: "Matikan enkripsi pasca-kuantum"
+  it: "Disattiva la crittografia post-quantistica"
+  ja: "ポスト量子暗号をオフにする"
+  ko: "포스트 양자 암호화 끄기"
+  nl: "Post-quantumversleuteling uitschakelen"
+  pl: "Wyłącz szyfrowanie postkwantowe"
+  pt: "Desativar a encriptação pós-quântica"
+  pt-BR: "Desativar a criptografia pós-quântica"
+  pt-PT: "Desativar a encriptação pós-quântica"
+  ru: "Отключить постквантовое шифрование"
+  sv: "Stäng av postkvantkryptering"
+  sw: "Zima usimbaji fiche wa baada ya kwantamu"
+  th: "ปิดการเข้ารหัสแบบโพสต์ควอนตัม"
+  uk: "Вимкнути постквантове шифрування"
+  vi: "Tắt mã hóa hậu lượng tử"
+  zh: "关闭后量子加密"
+  zh-HK: "關閉後量子加密"

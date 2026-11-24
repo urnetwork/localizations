@@ -1,0 +1,36 @@
+description: "Connect screen notice (post_quantum_no_exits): the first action, which opens the location picker so the reader can choose a location with post-quantum exits. Nothing changes until the reader picks one."
+source: "Pick another location"
+platforms:
+  - android
+  - apple
+  - linux
+  - windows
+localizations:
+  ar: "اختر موقعًا آخر"
+  cs: "Vybrat jiné umístění"
+  de: "Anderen Standort wählen"
+  el: "Επιλογή άλλης τοποθεσίας"
+  en: "Pick another location"
+  es: "Elegir otra ubicación"
+  es-419: "Elegir otra ubicación"
+  es-MX: "Elegir otra ubicación"
+  fr: "Choisir un autre emplacement"
+  he: "בחירת מיקום אחר"
+  hi: "दूसरा स्थान चुनें"
+  id: "Pilih lokasi lain"
+  it: "Scegli un'altra posizione"
+  ja: "別の場所を選ぶ"
+  ko: "다른 위치 선택"
+  nl: "Andere locatie kiezen"
+  pl: "Wybierz inną lokalizację"
+  pt: "Escolher outra localização"
+  pt-BR: "Escolher outro local"
+  pt-PT: "Escolher outra localização"
+  ru: "Выбрать другую локацию"
+  sv: "Välj en annan plats"
+  sw: "Chagua eneo lingine"
+  th: "เลือกตำแหน่งอื่น"
+  uk: "Вибрати іншу локацію"
+  vi: "Chọn vị trí khác"
+  zh: "选择其他位置"
+  zh-HK: "選擇其他位置"
