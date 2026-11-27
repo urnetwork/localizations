@@ -1,0 +1,308 @@
+# DRAFT for review: Google Play store listing text for the release-notes
+# locales that have no Play listing yet. Keyed by Play language code.
+# Source: the en-US listing (com.bringyour.network), read 2026-11-27 through a
+# Play edit that was deleted, never committed; de-DE was read for style.
+# Limits: title <= 30, shortDescription <= 80, fullDescription <= 4000
+# (checked by check_test.py). The title keeps the product name unchanged.
+# The en-US listing also has a promo video (unchanged, not translated text).
+source:
+  language: en-US
+  title: "URnetwork"
+  shortDescription: "Goodbye VPN!"
+  fullDescription: |-
+    Privacy-First Decentralized Network
+
+    All of the privacy and all of the fun. Join a decentralized VPN that advances the state of the art of privacy, availability, security, and performance.
+
+    With URnetwork you get:
+
+    - Multiple IPs at once. When you connect, every dot represents a unique IP. The IPs continually change and traffic is distributed amongst IPs for best performance.
+
+    - No more insecure protocols. Older insecure protocols are disabled and seamlessly upgraded to modern encrypted protocols.
+
+    - Built-in anonymity. Hard guarantees of anonymity using a large decentralized multi-hop network.
+
+    - Anti-censorship availability. The network learns and adapts to issues with local ISPs and DPI firewalls no matter where you are in the world.
+
+    - 100% open source and reproducible. See the exact code on the client and server. No logs, no spies.
+
+    URnetwork uses VPNService to route your device traffic to provider devices. Traffic is encrypted using an open-source, web-standards protocol. Additionally traffic is anonymized using the URnetwork protocol.
+
+    URnetwork links an external Solana wallet. We do not have custody of your wallet or facilitate swaps within the app.
+listings:
+  cs-CZ:
+    title: "URnetwork"
+    shortDescription: "Sbohem, VPN!"
+    fullDescription: |-
+      Decentralizovaná síť s důrazem na soukromí
+
+      Všechno soukromí a všechna zábava. Připojte se k decentralizované VPN, která posouvá hranice soukromí, dostupnosti, zabezpečení a výkonu.
+
+      S URnetwork získáte:
+
+      - Více IP adres najednou. Po připojení představuje každá tečka jedinečnou IP adresu. IP adresy se neustále mění a provoz se mezi ně rozděluje pro nejlepší výkon.
+
+      - Konec nezabezpečených protokolů. Starší nezabezpečené protokoly jsou vypnuty a plynule nahrazeny moderními šifrovanými protokoly.
+
+      - Vestavěná anonymita. Pevné záruky anonymity díky velké decentralizované vícenásobné (multi-hop) síti.
+
+      - Dostupnost odolná vůči cenzuře. Síť se učí a přizpůsobuje problémům s místními poskytovateli internetu a firewally DPI, ať jste kdekoli na světě.
+
+      - 100% open source a reprodukovatelné. Prohlédněte si přesný kód klienta i serveru. Žádné logy, žádní špioni.
+
+      URnetwork používá VPNService ke směrování provozu vašeho zařízení na zařízení poskytovatelů. Provoz je šifrován pomocí open-source protokolu založeného na webových standardech. Navíc je provoz anonymizován pomocí protokolu URnetwork.
+
+      URnetwork propojuje externí peněženku Solana. Vaši peněženku nespravujeme a v aplikaci neprovádíme ani nezprostředkováváme směny.
+  el-GR:
+    title: "URnetwork"
+    shortDescription: "Αντίο, VPN!"
+    fullDescription: |-
+      Αποκεντρωμένο δίκτυο με προτεραιότητα στο απόρρητο
+
+      Όλο το απόρρητο και όλη η διασκέδαση. Γίνετε μέλος ενός αποκεντρωμένου VPN που πηγαίνει ένα βήμα παραπέρα το απόρρητο, τη διαθεσιμότητα, την ασφάλεια και την απόδοση.
+
+      Με το URnetwork έχετε:
+
+      - Πολλές IP ταυτόχρονα. Όταν συνδέεστε, κάθε κουκκίδα αντιστοιχεί σε μια μοναδική IP. Οι IP αλλάζουν συνεχώς και η κίνηση κατανέμεται μεταξύ τους για την καλύτερη απόδοση.
+
+      - Τέλος στα μη ασφαλή πρωτόκολλα. Τα παλαιότερα μη ασφαλή πρωτόκολλα απενεργοποιούνται και αναβαθμίζονται απρόσκοπτα σε σύγχρονα κρυπτογραφημένα πρωτόκολλα.
+
+      - Ενσωματωμένη ανωνυμία. Ισχυρές εγγυήσεις ανωνυμίας μέσω ενός μεγάλου αποκεντρωμένου δικτύου πολλαπλών αλμάτων (multi-hop).
+
+      - Διαθεσιμότητα κόντρα στη λογοκρισία. Το δίκτυο μαθαίνει και προσαρμόζεται σε προβλήματα με τοπικούς παρόχους internet και τείχη προστασίας DPI, όπου κι αν βρίσκεστε στον κόσμο.
+
+      - 100% ανοιχτός κώδικας και αναπαραγώγιμο. Δείτε τον ακριβή κώδικα του προγράμματος-πελάτη και του διακομιστή. Χωρίς αρχεία καταγραφής, χωρίς κατασκόπους.
+
+      Το URnetwork χρησιμοποιεί το VPNService για να δρομολογεί την κίνηση της συσκευής σας σε συσκευές παρόχων. Η κίνηση κρυπτογραφείται με ένα πρωτόκολλο ανοιχτού κώδικα βασισμένο σε πρότυπα του web. Επιπλέον, η κίνηση ανωνυμοποιείται με το πρωτόκολλο URnetwork.
+
+      Το URnetwork συνδέει ένα εξωτερικό πορτοφόλι Solana. Δεν έχουμε την επιμέλεια του πορτοφολιού σας ούτε διευκολύνουμε ανταλλαγές μέσα στην εφαρμογή.
+  es-US:
+    title: "URnetwork"
+    shortDescription: "¡Adiós, VPN!"
+    fullDescription: |-
+      Red descentralizada con la privacidad primero
+
+      Toda la privacidad y toda la diversión. Únete a una VPN descentralizada que lleva más lejos la privacidad, la disponibilidad, la seguridad y el rendimiento.
+
+      Con URnetwork obtienes:
+
+      - Varias IP a la vez. Cuando te conectas, cada punto representa una IP única. Las IP cambian continuamente y el tráfico se distribuye entre ellas para el mejor rendimiento.
+
+      - Adiós a los protocolos inseguros. Los protocolos antiguos e inseguros se desactivan y se actualizan sin interrupciones a protocolos cifrados modernos.
+
+      - Anonimato integrado. Garantías sólidas de anonimato mediante una gran red descentralizada de múltiples saltos.
+
+      - Disponibilidad contra la censura. La red aprende y se adapta a los problemas con los proveedores de internet locales y los firewalls DPI, sin importar en qué parte del mundo estés.
+
+      - 100% de código abierto y reproducible. Ve el código exacto del cliente y del servidor. Sin registros, sin espías.
+
+      URnetwork usa VPNService para enrutar el tráfico de tu dispositivo a dispositivos de proveedores. El tráfico se cifra con un protocolo de código abierto basado en estándares web. Además, el tráfico se anonimiza con el protocolo URnetwork.
+
+      URnetwork vincula una billetera Solana externa. No tenemos la custodia de tu billetera ni facilitamos intercambios dentro de la app.
+  iw-IL:
+    title: "URnetwork"
+    shortDescription: "להתראות, VPN!"
+    fullDescription: |-
+      רשת מבוזרת שמציבה את הפרטיות במקום הראשון
+
+      כל הפרטיות וכל הכיף. הצטרפו ל-VPN מבוזר שמקדם את חזית הפרטיות, הזמינות, האבטחה והביצועים.
+
+      עם URnetwork תקבלו:
+
+      - כמה כתובות IP בבת אחת. כשאתם מתחברים, כל נקודה מייצגת כתובת IP ייחודית. כתובות ה-IP מתחלפות כל הזמן והתעבורה מחולקת ביניהן לביצועים הטובים ביותר.
+
+      - סוף לפרוטוקולים לא מאובטחים. פרוטוקולים ישנים ולא מאובטחים מושבתים ומשודרגים בצורה חלקה לפרוטוקולים מוצפנים מודרניים.
+
+      - אנונימיות מובנית. הבטחות אנונימיות מוצקות באמצעות רשת מבוזרת גדולה מרובת קפיצות (multi-hop).
+
+      - זמינות נגד צנזורה. הרשת לומדת ומסתגלת לבעיות מול ספקי אינטרנט מקומיים וחומות אש מסוג DPI, לא משנה איפה אתם בעולם.
+
+      - קוד פתוח ב-100% וניתן לשחזור. ראו את הקוד המדויק בצד הלקוח ובשרת. בלי לוגים, בלי מרגלים.
+
+      URnetwork משתמשת ב-VPNService כדי לנתב את התעבורה של המכשיר שלכם למכשירים של ספקים. התעבורה מוצפנת באמצעות פרוטוקול קוד פתוח המבוסס על תקני אינטרנט. בנוסף, התעבורה עוברת אנונימיזציה באמצעות פרוטוקול URnetwork.
+
+      URnetwork מקשרת ארנק Solana חיצוני. איננו מחזיקים בארנק שלכם ואיננו מבצעים או מתווכים בהחלפות בתוך האפליקציה.
+  nl-NL:
+    title: "URnetwork"
+    shortDescription: "Vaarwel VPN!"
+    fullDescription: |-
+      Gedecentraliseerd netwerk met privacy voorop
+
+      Alle privacy en al het plezier. Sluit je aan bij een gedecentraliseerde VPN die privacy, beschikbaarheid, beveiliging en prestaties naar een hoger niveau tilt.
+
+      Met URnetwork krijg je:
+
+      - Meerdere IP's tegelijk. Als je verbinding maakt, staat elke stip voor een uniek IP-adres. De IP's veranderen voortdurend en het verkeer wordt voor de beste prestaties over de IP's verdeeld.
+
+      - Geen onveilige protocollen meer. Oudere onveilige protocollen worden uitgeschakeld en naadloos geüpgraded naar moderne versleutelde protocollen.
+
+      - Ingebouwde anonimiteit. Harde garanties voor anonimiteit dankzij een groot gedecentraliseerd multi-hop-netwerk.
+
+      - Beschikbaarheid tegen censuur. Het netwerk leert van en past zich aan problemen met lokale internetproviders en DPI-firewalls aan, waar ter wereld je ook bent.
+
+      - 100% open source en reproduceerbaar. Bekijk de exacte code van de client en de server. Geen logs, geen spionnen.
+
+      URnetwork gebruikt VPNService om het verkeer van je apparaat naar apparaten van providers te routeren. Het verkeer wordt versleuteld met een open-source protocol op basis van webstandaarden. Daarnaast wordt het verkeer geanonimiseerd met het URnetwork-protocol.
+
+      URnetwork koppelt een externe Solana-wallet. Wij beheren je wallet niet en faciliteren geen swaps in de app.
+  pt-PT:
+    title: "URnetwork"
+    shortDescription: "Adeus, VPN!"
+    fullDescription: |-
+      Rede descentralizada com a privacidade em primeiro lugar
+
+      Toda a privacidade e toda a diversão. Junte-se a uma VPN descentralizada que leva mais longe a privacidade, a disponibilidade, a segurança e o desempenho.
+
+      Com a URnetwork tem:
+
+      - Vários IP em simultâneo. Quando se liga, cada ponto representa um IP único. Os IP mudam continuamente e o tráfego é distribuído entre eles para o melhor desempenho.
+
+      - Acabaram-se os protocolos inseguros. Os protocolos antigos e inseguros são desativados e atualizados de forma transparente para protocolos cifrados modernos.
+
+      - Anonimato integrado. Garantias sólidas de anonimato através de uma grande rede descentralizada de múltiplos saltos.
+
+      - Disponibilidade contra a censura. A rede aprende e adapta-se a problemas com os fornecedores de internet locais e as firewalls DPI, esteja onde estiver no mundo.
+
+      - 100% código aberto e reproduzível. Veja o código exato do cliente e do servidor. Sem registos, sem espiões.
+
+      A URnetwork utiliza o VPNService para encaminhar o tráfego do seu dispositivo para dispositivos de fornecedores. O tráfego é cifrado com um protocolo de código aberto baseado em normas web. Além disso, o tráfego é anonimizado com o protocolo URnetwork.
+
+      A URnetwork associa uma carteira Solana externa. Não temos a custódia da sua carteira nem facilitamos trocas dentro da aplicação.
+  ru-RU:
+    title: "URnetwork"
+    shortDescription: "Прощай, VPN!"
+    fullDescription: |-
+      Децентрализованная сеть, где приватность на первом месте
+
+      Вся приватность и всё удовольствие. Присоединяйтесь к децентрализованной VPN, которая выводит приватность, доступность, безопасность и производительность на новый уровень.
+
+      С URnetwork вы получаете:
+
+      - Несколько IP-адресов одновременно. При подключении каждая точка обозначает уникальный IP-адрес. IP-адреса постоянно меняются, а трафик распределяется между ними для наилучшей производительности.
+
+      - Больше никаких небезопасных протоколов. Старые небезопасные протоколы отключаются и незаметно заменяются современными зашифрованными протоколами.
+
+      - Встроенная анонимность. Надёжные гарантии анонимности благодаря большой децентрализованной многоузловой (multi-hop) сети.
+
+      - Доступность вопреки цензуре. Сеть учится и адаптируется к проблемам с местными провайдерами и DPI-файрволами, где бы в мире вы ни находились.
+
+      - 100% открытый исходный код и воспроизводимость. Смотрите точный код клиента и сервера. Никаких логов, никаких шпионов.
+
+      URnetwork использует VPNService, чтобы направлять трафик вашего устройства на устройства провайдеров. Трафик шифруется с помощью открытого протокола на основе веб-стандартов. Кроме того, трафик анонимизируется с помощью протокола URnetwork.
+
+      URnetwork подключает внешний кошелёк Solana. Мы не храним ваш кошелёк и не проводим обмены в приложении.
+  sv-SE:
+    title: "URnetwork"
+    shortDescription: "Hejdå VPN!"
+    fullDescription: |-
+      Decentraliserat nätverk med integriteten först
+
+      All integritet och allt det roliga. Gå med i ett decentraliserat VPN som flyttar fram gränserna för integritet, tillgänglighet, säkerhet och prestanda.
+
+      Med URnetwork får du:
+
+      - Flera IP-adresser samtidigt. När du ansluter representerar varje prick en unik IP-adress. IP-adresserna byts hela tiden och trafiken fördelas mellan dem för bästa prestanda.
+
+      - Inga fler osäkra protokoll. Äldre osäkra protokoll inaktiveras och uppgraderas sömlöst till moderna krypterade protokoll.
+
+      - Inbyggd anonymitet. Starka garantier för anonymitet genom ett stort decentraliserat nätverk med flera hopp (multi-hop).
+
+      - Tillgänglighet mot censur. Nätverket lär sig och anpassar sig till problem med lokala internetleverantörer och DPI-brandväggar, var i världen du än befinner dig.
+
+      - 100 % öppen källkod och reproducerbart. Se exakt den kod som körs i klienten och på servern. Inga loggar, inga spioner.
+
+      URnetwork använder VPNService för att dirigera enhetens trafik till leverantörers enheter. Trafiken krypteras med ett protokoll med öppen källkod baserat på webbstandarder. Dessutom anonymiseras trafiken med URnetwork-protokollet.
+
+      URnetwork länkar en extern Solana-plånbok. Vi förvaltar inte din plånbok och förmedlar inga byten i appen.
+  sw:
+    title: "URnetwork"
+    shortDescription: "Kwaheri VPN!"
+    fullDescription: |-
+      Mtandao Uliogatuliwa Unaotanguliza Faragha
+
+      Faragha yote na furaha yote. Jiunge na VPN iliyogatuliwa inayoendeleza viwango vya juu vya faragha, upatikanaji, usalama na utendaji.
+
+      Ukiwa na URnetwork unapata:
+
+      - IP nyingi kwa wakati mmoja. Unapounganishwa, kila nukta inawakilisha IP ya kipekee. IP hubadilika mfululizo na trafiki husambazwa kati ya IP kwa utendaji bora.
+
+      - Hakuna tena itifaki zisizo salama. Itifaki za zamani zisizo salama huzimwa na kuboreshwa bila usumbufu kuwa itifaki za kisasa zilizosimbwa.
+
+      - Kutokujulikana kumejengwa ndani. Dhamana thabiti za kutokujulikana kupitia mtandao mkubwa uliogatuliwa wenye hatua nyingi (multi-hop).
+
+      - Upatikanaji dhidi ya udhibiti. Mtandao hujifunza na kujirekebisha kulingana na matatizo ya watoa huduma wa intaneti wa ndani na ngome za DPI, popote ulipo duniani.
+
+      - Chanzo huria kwa 100% na kinachoweza kuzalishwa upya. Tazama msimbo halisi kwenye programu ya mteja na seva. Hakuna kumbukumbu, hakuna wapelelezi.
+
+      URnetwork hutumia VPNService kuelekeza trafiki ya kifaa chako kwenye vifaa vya watoa huduma. Trafiki husimbwa kwa itifaki ya chanzo huria inayofuata viwango vya wavuti. Zaidi ya hayo, trafiki hufichwa utambulisho kwa kutumia itifaki ya URnetwork.
+
+      URnetwork huunganisha pochi ya nje ya Solana. Hatushikilii pochi yako wala kuwezesha ubadilishanaji ndani ya programu.
+  uk:
+    title: "URnetwork"
+    shortDescription: "Прощавай, VPN!"
+    fullDescription: |-
+      Децентралізована мережа, де приватність понад усе
+
+      Уся приватність і все задоволення. Приєднуйтеся до децентралізованої VPN, яка виводить приватність, доступність, безпеку та продуктивність на новий рівень.
+
+      З URnetwork ви отримуєте:
+
+      - Кілька IP-адрес одночасно. Під час підключення кожна точка позначає унікальну IP-адресу. IP-адреси постійно змінюються, а трафік розподіляється між ними для найкращої продуктивності.
+
+      - Більше жодних небезпечних протоколів. Старі небезпечні протоколи вимикаються та непомітно замінюються сучасними зашифрованими протоколами.
+
+      - Вбудована анонімність. Надійні гарантії анонімності завдяки великій децентралізованій багатовузловій (multi-hop) мережі.
+
+      - Доступність усупереч цензурі. Мережа навчається та адаптується до проблем із місцевими провайдерами й DPI-брандмауерами, де б у світі ви не були.
+
+      - 100% відкритий код і відтворюваність. Переглядайте точний код клієнта та сервера. Жодних логів, жодних шпигунів.
+
+      URnetwork використовує VPNService, щоб спрямовувати трафік вашого пристрою на пристрої провайдерів. Трафік шифрується за допомогою відкритого протоколу на основі вебстандартів. Крім того, трафік анонімізується за допомогою протоколу URnetwork.
+
+      URnetwork під'єднує зовнішній гаманець Solana. Ми не зберігаємо ваш гаманець і не проводимо обміни в застосунку.
+  zh-HK:
+    title: "URnetwork"
+    shortDescription: "再見，VPN！"
+    fullDescription: |-
+      私隱優先的去中心化網絡
+
+      全面私隱，樂趣十足。加入一個去中心化 VPN，推動私隱、可用性、安全性和效能的最新發展。
+
+      使用 URnetwork，你可以獲得：
+
+      - 同時使用多個 IP。連線後，每一個點都代表一個獨特的 IP。IP 會不斷變換，流量會分散到不同 IP 以取得最佳效能。
+
+      - 告別不安全的協定。舊式不安全的協定會被停用，並無縫升級為現代加密協定。
+
+      - 內置匿名性。透過大型去中心化多跳網絡，提供可靠的匿名保證。
+
+      - 抗審查的可用性。無論你身處世界何地，網絡都會學習並適應本地 ISP 和 DPI 防火牆的問題。
+
+      - 100% 開源且可重現。查看用戶端和伺服器上的確切程式碼。沒有日誌，沒有間諜。
+
+      URnetwork 使用 VPNService 將你裝置的流量路由到供應者的裝置。流量會使用基於網絡標準的開源協定加密。此外，流量亦會透過 URnetwork 協定匿名化。
+
+      URnetwork 會連結外部 Solana 錢包。我們不託管你的錢包，亦不會在應用程式內促成兌換。
+  zh-TW:
+    title: "URnetwork"
+    shortDescription: "再見了，VPN！"
+    fullDescription: |-
+      隱私優先的去中心化網路
+
+      完整的隱私，滿滿的樂趣。加入去中心化 VPN，推進隱私、可用性、安全性與效能的最新發展。
+
+      使用 URnetwork，你可以獲得：
+
+      - 同時使用多個 IP。連線後，每個點都代表一個獨特的 IP。IP 會持續變換，流量也會分散到各個 IP，以獲得最佳效能。
+
+      - 告別不安全的通訊協定。較舊的不安全通訊協定會被停用，並無縫升級為現代的加密通訊協定。
+
+      - 內建匿名性。透過大型去中心化多跳網路，提供確實的匿名保證。
+
+      - 抗審查的可用性。無論你身在世界何處，網路都會學習並適應當地 ISP 與 DPI 防火牆的問題。
+
+      - 100% 開源且可重現。查看用戶端與伺服器上的確切程式碼。沒有日誌，沒有間諜。
+
+      URnetwork 使用 VPNService 將裝置的流量路由至供應者的裝置。流量會以基於網頁標準的開源通訊協定加密。此外，流量也會透過 URnetwork 通訊協定匿名化。
+
+      URnetwork 會連結外部 Solana 錢包。我們不保管你的錢包，也不在應用程式內促成兌換。

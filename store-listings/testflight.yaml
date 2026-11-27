@@ -1,0 +1,39 @@
+# DRAFT for review: TestFlight Test Information (betaAppLocalizations) for the
+# App Store Connect locales that have none yet. Source: the en-US
+# betaAppLocalization read 2026-11-27:
+#   description: "URnetwork for iOS"
+#   feedbackEmail: "support@ur.io"
+#   marketingUrl / privacyPolicyUrl: unset (null), so they stay unset here.
+# Keyed by ASC locale. feedbackEmail and URLs are copied unchanged from en-US.
+# Checked by check_test.py (locale set, description <= 4000 chars).
+source:
+  locale: en-US
+  description: "URnetwork for iOS"
+  feedbackEmail: "support@ur.io"
+  marketingUrl: null
+  privacyPolicyUrl: null
+localizations:
+  ar-SA: {description: "URnetwork لنظام iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  cs: {description: "URnetwork pro iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  de-DE: {description: "URnetwork für iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  el: {description: "URnetwork για iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  es-ES: {description: "URnetwork para iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  es-MX: {description: "URnetwork para iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  fr-FR: {description: "URnetwork pour iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  he: {description: "URnetwork ל-iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  hi: {description: "iOS के लिए URnetwork", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  id: {description: "URnetwork untuk iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  it: {description: "URnetwork per iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  ja: {description: "iOS 版 URnetwork", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  ko: {description: "iOS용 URnetwork", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  nl-NL: {description: "URnetwork voor iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  pl: {description: "URnetwork na iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  pt-BR: {description: "URnetwork para iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  pt-PT: {description: "URnetwork para iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  ru: {description: "URnetwork для iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  sv: {description: "URnetwork för iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  th: {description: "URnetwork สำหรับ iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  uk: {description: "URnetwork для iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  vi: {description: "URnetwork cho iOS", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  zh-Hans: {description: "URnetwork iOS 版", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
+  zh-Hant: {description: "URnetwork iOS 版", feedbackEmail: "support@ur.io", marketingUrl: null, privacyPolicyUrl: null}
