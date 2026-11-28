@@ -40,6 +40,9 @@ localizations:
   es-MX:
     one: "Total de referidos: {count}"
     other: "Total de referidos: {count}"
+  fa:
+    one: "مجموع دعوت‌ها: {count}"
+    other: "مجموع دعوت‌ها: {count}"
   fr:
     one: "Nombre total de parrainages : {count}"
     other: "Nombre total de parrainages : {count}"
@@ -90,6 +93,9 @@ localizations:
     other: "Jumla ya rufaa: {count}"
   th:
     other: "จำนวนการแนะนำทั้งหมด: {count}"
+  tr:
+    one: "Toplam davet: {count}"
+    other: "Toplam davet: {count}"
   uk:
     one: "Всього рефералів: {count}"
     few: "Всього рефералів: {count}"

@@ -43,6 +43,9 @@ localizations:
   es-MX:
     one: "{count} consulta bloqueada por {provider} en esta conexión"
     other: "{count} consultas bloqueadas por {provider} en esta conexión"
+  fa:
+    one: "{count} پرس‌وجو در این اتصال توسط {provider} مسدود شده است"
+    other: "{count} پرس‌وجو در این اتصال توسط {provider} مسدود شده است"
   fr:
     one: "{count} requête bloquée par {provider} pendant cette connexion"
     other: "{count} requêtes bloquées par {provider} pendant cette connexion"
@@ -93,6 +96,9 @@ localizations:
     other: "Hoja {count} zimezuiwa na {provider} katika muunganisho huu"
   th:
     other: "{provider} บล็อกการค้นหาไปแล้ว {count} รายการในการเชื่อมต่อนี้"
+  tr:
+    one: "Bu bağlantıda {provider} tarafından {count} sorgu engellendi"
+    other: "Bu bağlantıda {provider} tarafından {count} sorgu engellendi"
   uk:
     one: "{count} запит заблоковано сервісом {provider} за це підключення"
     few: "{count} запити заблоковано сервісом {provider} за це підключення"

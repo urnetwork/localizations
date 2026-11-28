@@ -9,7 +9,7 @@ import fs from "fs";
 import os from "os";
 import path from "path";
 import {
-	ROOT, LOCALES, ANDROID_LOCALE_DIR, APPLE_LOCALE, WINDOWS_LOCALE, LINUX_LOCALE,
+	ROOT, LOCALES, ANDROID_LOCALE_DIR, androidLocaleTag, APPLE_LOCALE, WINDOWS_LOCALE, LINUX_LOCALE,
 	CLDR_CATEGORIES, CAT_ORDER, GETTEXT_PLURALS, loadStore, lowerAndroid, lowerApple,
 	lowerCpp, androidEscape, xmlText, poEscape, collate, comment, isDead, isCatalogFreeOnly,
 	isTaggedFor,
@@ -47,6 +47,15 @@ function android(keys) {
 		out[`android/app/app/src/main/res/${dir}/strings.xml`] =
 			`<?xml version="1.0" encoding="utf-8"?>\n<!-- ${BANNER} -->\n<resources>\n${L.join("\n")}\n</resources>\n`;
 	}
+	// the app's languages, exactly the catalogs above: the manifest's
+	// android:localeConfig, which the system's per-app language settings and
+	// the app's own language picker read (Android 13 and later)
+	const tags = Object.values(ANDROID_LOCALE_DIR).map(androidLocaleTag);
+	out["android/app/app/src/main/res/xml/locales_config.xml"] =
+		`<?xml version="1.0" encoding="utf-8"?>\n<!-- ${BANNER} -->\n` +
+		`<locale-config xmlns:android="http://schemas.android.com/apk/res/android">\n` +
+		tags.map((t) => `    <locale android:name="${t}" />\n`).join("") +
+		`</locale-config>\n`;
 	return out;
 }
 

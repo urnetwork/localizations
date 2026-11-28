@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "{count} regla de división"
     other: "{count} reglas de división"
+  fa:
+    one: "{count} قانون تونل تفکیکی"
+    other: "{count} قانون تونل تفکیکی"
   fr:
     one: "{count} règle de séparation"
     other: "{count} règles de séparation"
@@ -92,6 +95,9 @@ localizations:
     other: "{count} sheria za mgawanyo"
   th:
     other: "กฎแยกเส้นทาง {count} ข้อ"
+  tr:
+    one: "{count} bölünmüş tünel kuralı"
+    other: "{count} bölünmüş tünel kuralı"
   uk:
     one: "{count} правило розділення"
     few: "{count} правила розділення"

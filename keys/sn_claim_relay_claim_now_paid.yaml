@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "“Reclamar ahora” lo paga URnetwork, una vez al día."
     other: "“Reclamar ahora” lo paga URnetwork, una vez cada {days} días."
+  fa:
+    one: "هزینهٔ «همین حالا دریافت کنید» را URnetwork هر {days} روز یک بار می‌پردازد."
+    other: "هزینهٔ «همین حالا دریافت کنید» را URnetwork هر {days} روز یک بار می‌پردازد."
   fr:
     one: "« Réclamer maintenant » est payé par URnetwork, une fois par jour."
     other: "« Réclamer maintenant » est payé par URnetwork, une fois tous les {days} jours."
@@ -92,6 +95,9 @@ localizations:
     other: "“Dai sasa” linalipiwa na URnetwork, mara moja kila siku {days}."
   th:
     other: "“รับตอนนี้” ออกค่าใช้จ่ายโดย URnetwork ใช้ได้ {days} วันต่อครั้ง"
+  tr:
+    one: "“Şimdi talep et” işleminin ücretini URnetwork öder; günde bir kez kullanılabilir."
+    other: "“Şimdi talep et” işleminin ücretini URnetwork öder; {days} günde bir kez kullanılabilir."
   uk:
     one: "«Отримати зараз» оплачується URnetwork, раз на {days} день."
     few: "«Отримати зараз» оплачується URnetwork, раз на {days} дні."

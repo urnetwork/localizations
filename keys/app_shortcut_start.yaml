@@ -21,5 +21,6 @@ localizations:
   ru: "Запусти ${applicationName}"
   sv: "Starta ${applicationName}"
   th: "เริ่ม ${applicationName}"
+  tr: "${applicationName} bağlantısını başlat"
   zh: "启动 ${applicationName}"
   zh-HK: "啟動 ${applicationName}"

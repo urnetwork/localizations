@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} de estas verificaciones falló solo a través de HTTP/3 (UDP), así que este dispositivo solo se ofrece para tráfico TCP. Algunas versiones de la app y algunas redes no enrutan UDP."
     other: "{count} de estas verificaciones fallaron solo a través de HTTP/3 (UDP), así que este dispositivo solo se ofrece para tráfico TCP. Algunas versiones de la app y algunas redes no enrutan UDP."
+  fa:
+    one: "{count} مورد از این بررسی‌ها فقط روی HTTP/3 (UDP) ناموفق بود، به همین دلیل این دستگاه فقط برای ترافیک TCP پیشنهاد می‌شود. برخی نسخه‌های برنامه و برخی شبکه‌ها UDP را عبور نمی‌دهند."
+    other: "{count} مورد از این بررسی‌ها فقط روی HTTP/3 (UDP) ناموفق بودند، به همین دلیل این دستگاه فقط برای ترافیک TCP پیشنهاد می‌شود. برخی نسخه‌های برنامه و برخی شبکه‌ها UDP را عبور نمی‌دهند."
   fr:
     one: "{count} de ces vérifications a échoué uniquement via HTTP/3 (UDP), donc cet appareil n'est proposé que pour le trafic TCP. Certaines versions de l'application et certains réseaux n'acheminent pas l'UDP."
     other: "{count} de ces vérifications ont échoué uniquement via HTTP/3 (UDP), donc cet appareil n'est proposé que pour le trafic TCP. Certaines versions de l'application et certains réseaux n'acheminent pas l'UDP."
@@ -91,6 +94,9 @@ localizations:
     other: "{count} kati ya ukaguzi huu ulishindwa kupitia HTTP/3 (UDP) pekee, kwa hivyo kifaa hiki hupendekezwa kwa trafiki ya TCP pekee. Baadhi ya matoleo ya programu na baadhi ya mitandao haipitishi UDP."
   th:
     other: "การตรวจสอบเหล่านี้ {count} รายการล้มเหลวเฉพาะผ่าน HTTP/3 (UDP) อุปกรณ์นี้จึงถูกเสนอสำหรับการรับส่งข้อมูล TCP เท่านั้น แอปบางเวอร์ชันและเครือข่ายบางแห่งไม่กำหนดเส้นทาง UDP"
+  tr:
+    one: "Bu kontrollerden {count} tanesi yalnızca HTTP/3 (UDP) üzerinden başarısız oldu; bu nedenle bu cihaz yalnızca TCP trafiği için sunuluyor. Bazı uygulama sürümleri ve bazı ağlar UDP'yi yönlendirmez."
+    other: "Bu kontrollerden {count} tanesi yalnızca HTTP/3 (UDP) üzerinden başarısız oldu; bu nedenle bu cihaz yalnızca TCP trafiği için sunuluyor. Bazı uygulama sürümleri ve bazı ağlar UDP'yi yönlendirmez."
   uk:
     one: "{count} з цих перевірок не пройшла лише через HTTP/3 (UDP), тому цей пристрій пропонується лише для трафіку TCP. Деякі версії застосунку та деякі мережі не передають UDP."
     few: "{count} з цих перевірок не пройшли лише через HTTP/3 (UDP), тому цей пристрій пропонується лише для трафіку TCP. Деякі версії застосунку та деякі мережі не передають UDP."

@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "{count} host"
     other: "{count} hosts"
+  fa:
+    one: "{count} میزبان"
+    other: "{count} میزبان"
   fr:
     one: "{count} hôte"
     other: "{count} hôtes"
@@ -92,6 +95,9 @@ localizations:
     other: "{count} vikoa"
   th:
     other: "โฮสต์ {count} รายการ"
+  tr:
+    one: "{count} ana bilgisayar"
+    other: "{count} ana bilgisayar"
   uk:
     one: "{count} хост"
     few: "{count} хости"

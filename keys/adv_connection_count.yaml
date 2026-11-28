@@ -39,6 +39,9 @@ localizations:
   es-MX:
     one: "{count} conexión"
     other: "{count} conexiones"
+  fa:
+    one: "{count} اتصال"
+    other: "{count} اتصال"
   fr:
     one: "{count} connexion"
     other: "{count} connexions"
@@ -89,6 +92,9 @@ localizations:
     other: "miunganisho {count}"
   th:
     other: "{count} การเชื่อมต่อ"
+  tr:
+    one: "{count} bağlantı"
+    other: "{count} bağlantı"
   uk:
     one: "{count} з’єднання"
     few: "{count} з’єднання"

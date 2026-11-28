@@ -38,6 +38,9 @@ localizations:
   es-MX:
     one: "{count} app excluida"
     other: "{count} apps excluidas"
+  fa:
+    one: "{count} برنامهٔ مستثناشده"
+    other: "{count} برنامهٔ مستثناشده"
   fr:
     one: "{count} application exclue"
     other: "{count} applications exclues"
@@ -88,6 +91,9 @@ localizations:
     other: "{count} programu zimetengwa"
   th:
     other: "ยกเว้น {count} แอป"
+  tr:
+    one: "{count} uygulama hariç tutuldu"
+    other: "{count} uygulama hariç tutuldu"
   uk:
     one: "{count} застосунок виключено"
     few: "{count} застосунки виключено"

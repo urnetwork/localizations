@@ -21,5 +21,6 @@ localizations:
   ru: "Отключи ${applicationName}"
   sv: "Koppla från ${applicationName}"
   th: "ตัดการเชื่อมต่อ ${applicationName}"
+  tr: "${applicationName} bağlantısını kes"
   zh: "断开 ${applicationName}"
   zh-HK: "斷開 ${applicationName}"

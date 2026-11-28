@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "Tu próximo “Reclamar ahora” estará disponible un día después de que se complete esta reclamación."
     other: "Tu próximo “Reclamar ahora” estará disponible {days} días después de que se complete esta reclamación."
+  fa:
+    one: "دفعهٔ بعد، «همین حالا دریافت کنید» {days} روز پس از انجام این دریافت در دسترس خواهد بود."
+    other: "دفعهٔ بعد، «همین حالا دریافت کنید» {days} روز پس از انجام این دریافت در دسترس خواهد بود."
   fr:
     one: "Votre prochain « Réclamer maintenant » sera disponible un jour après l’aboutissement de cette réclamation."
     other: "Votre prochain « Réclamer maintenant » sera disponible {days} jours après l’aboutissement de cette réclamation."
@@ -92,6 +95,9 @@ localizations:
     other: "“Dai sasa” linalofuata litapatikana siku {days} baada ya dai hili kufanikiwa."
   th:
     other: "“รับตอนนี้” ครั้งถัดไปจะใช้ได้ {days} วันหลังจากการรับครั้งนี้สำเร็จ"
+  tr:
+    one: "Bir sonraki “Şimdi talep et” hakkınız, bu talep gerçekleştikten bir gün sonra kullanıma açılır."
+    other: "Bir sonraki “Şimdi talep et” hakkınız, bu talep gerçekleştikten {days} gün sonra kullanıma açılır."
   uk:
     one: "Наступне «Отримати зараз» буде доступне через {days} день після того, як цей запит пройде."
     few: "Наступне «Отримати зараз» буде доступне через {days} дні після того, як цей запит пройде."
