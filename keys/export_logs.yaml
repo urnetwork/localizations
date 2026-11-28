@@ -1,6 +1,7 @@
-description: "Used in Shared/Views/ExportLogsButton/ExportLogsButton.swift."
+description: "Settings: on android and apple the row that shares the app's and the tunnel's recent logs through the share sheet; on windows and linux the note under Save logs, and the title of the dialog that saves them."
 source: "Export Logs"
 platforms:
+  - android
   - apple
   - linux
   - windows
