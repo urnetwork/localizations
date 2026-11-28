@@ -1,0 +1,39 @@
+description: "Earnings, Bittensor wallet card: the action that disconnects the connected payout wallet, and the confirm button of its dialog."
+source: "Disconnect wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "فصل المحفظة"
+  cs: "Odpojit peněženku"
+  de: "Wallet trennen"
+  el: "Αποσύνδεση πορτοφολιού"
+  en: "Disconnect wallet"
+  es: "Desconectar billetera"
+  es-419: "Desconectar billetera"
+  es-MX: "Desconectar cartera"
+  fa: "قطع اتصال کیف پول"
+  fr: "Déconnecter le portefeuille"
+  he: "ניתוק הארנק"
+  hi: "वॉलेट डिस्कनेक्ट करें"
+  id: "Putuskan dompet"
+  it: "Scollega portafoglio"
+  ja: "ウォレットの接続を解除"
+  ko: "지갑 연결 해제"
+  nl: "Wallet ontkoppelen"
+  pl: "Odłącz portfel"
+  pt: "Desligar carteira"
+  pt-BR: "Desconectar carteira"
+  pt-PT: "Desligar carteira"
+  ru: "Отключить кошелёк"
+  sv: "Koppla från plånbok"
+  sw: "Tenganisha pochi"
+  th: "ยกเลิกการเชื่อมต่อวอลเล็ต"
+  tr: "Cüzdanın bağlantısını kes"
+  uk: "Від'єднати гаманець"
+  vi: "Ngắt kết nối ví"
+  zh: "断开钱包"
+  zh-HK: "中斷錢包連接"

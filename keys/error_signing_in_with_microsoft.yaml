@@ -1,0 +1,39 @@
+description: "Sign-in screen and the add sign-in method sheet: Microsoft sign-in failed (not a cancel, which shows nothing)."
+source: "Error signing in with Microsoft"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "خطأ في تسجيل الدخول باستخدام Microsoft"
+  cs: "Chyba při přihlašování přes Microsoft"
+  de: "Fehler bei der Anmeldung mit Microsoft"
+  el: "Σφάλμα σύνδεσης με Microsoft"
+  en: "Error signing in with Microsoft"
+  es: "Error al iniciar sesión con Microsoft"
+  es-419: "Error al iniciar sesión con Microsoft"
+  es-MX: "Error al iniciar sesión con Microsoft"
+  fa: "خطا در ورود با Microsoft"
+  fr: "Erreur lors de la connexion avec Microsoft"
+  he: "שגיאה בהתחברות עם Microsoft"
+  hi: "Microsoft से साइन इन करने में त्रुटि"
+  id: "Gagal masuk dengan Microsoft"
+  it: "Errore durante l'accesso con Microsoft"
+  ja: "Microsoft でのサインイン中にエラーが発生しました"
+  ko: "Microsoft로 로그인하는 중 오류가 발생했습니다"
+  nl: "Fout bij inloggen met Microsoft"
+  pl: "Błąd logowania przez Microsoft"
+  pt: "Erro ao iniciar sessão com o Microsoft"
+  pt-BR: "Erro ao fazer login com o Microsoft"
+  pt-PT: "Erro ao iniciar sessão com o Microsoft"
+  ru: "Ошибка входа через Microsoft"
+  sv: "Fel vid inloggning med Microsoft"
+  sw: "Hitilafu ya kuingia kwa kutumia Microsoft"
+  th: "เกิดข้อผิดพลาดในการลงชื่อเข้าใช้ด้วย Microsoft"
+  tr: "Microsoft ile giriş yapılırken hata oluştu"
+  uk: "Помилка входу через Microsoft"
+  vi: "Lỗi khi đăng nhập bằng Microsoft"
+  zh: "使用 Microsoft 登录时出错"
+  zh-HK: "使用 Microsoft 登入時出錯"

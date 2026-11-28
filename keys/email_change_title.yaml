@@ -1,0 +1,39 @@
+description: "The email change sheet: its title."
+source: "Change your email"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "غيّر بريدك الإلكتروني"
+  cs: "Změna e-mailu"
+  de: "Deine E-Mail-Adresse ändern"
+  el: "Αλλάξτε το email σας"
+  en: "Change your email"
+  es: "Cambia tu correo"
+  es-419: "Cambia tu correo"
+  es-MX: "Cambia tu correo"
+  fa: "ایمیل خود را تغییر دهید"
+  fr: "Changer votre e-mail"
+  he: "שינוי האימייל שלכם"
+  hi: "अपना ईमेल बदलें"
+  id: "Ganti email Anda"
+  it: "Cambia la tua email"
+  ja: "メールアドレスの変更"
+  ko: "이메일 변경하기"
+  nl: "Je e-mailadres wijzigen"
+  pl: "Zmień swój e-mail"
+  pt: "Alterar o seu email"
+  pt-BR: "Alterar seu e-mail"
+  pt-PT: "Alterar o seu email"
+  ru: "Изменение электронной почты"
+  sv: "Byt din e-post"
+  sw: "Badilisha barua pepe yako"
+  th: "เปลี่ยนอีเมลของคุณ"
+  tr: "E-posta adresinizi değiştirin"
+  uk: "Зміна електронної пошти"
+  vi: "Đổi email của bạn"
+  zh: "更改您的邮箱"
+  zh-HK: "更改您的電郵"

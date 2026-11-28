@@ -1,0 +1,39 @@
+description: "Email change: too many wrong codes ended the request; the sheet goes back to its first step."
+source: "Too many wrong codes. Start again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "رموز خاطئة كثيرة جدًا. ابدأ من جديد."
+  cs: "Příliš mnoho chybných kódů. Začněte znovu."
+  de: "Zu viele falsche Codes. Starte neu."
+  el: "Πάρα πολλοί λάθος κωδικοί. Ξεκινήστε ξανά."
+  en: "Too many wrong codes. Start again."
+  es: "Demasiados códigos incorrectos. Empieza de nuevo."
+  es-419: "Demasiados códigos incorrectos. Vuelve a empezar."
+  es-MX: "Demasiados códigos incorrectos. Vuelve a empezar."
+  fa: "تعداد کدهای اشتباه بیش از حد مجاز است. از نو شروع کنید."
+  fr: "Trop de codes incorrects. Recommencez."
+  he: "יותר מדי קודים שגויים. התחילו מחדש."
+  hi: "बहुत सारे गलत कोड। फिर से शुरू करें।"
+  id: "Terlalu banyak kode yang salah. Mulai lagi."
+  it: "Troppi codici errati. Ricomincia."
+  ja: "誤ったコードが多すぎます。最初からやり直してください。"
+  ko: "잘못된 코드가 너무 많습니다. 다시 시작하세요."
+  nl: "Te veel foute codes. Begin opnieuw."
+  pl: "Zbyt wiele błędnych kodów. Zacznij od nowa."
+  pt: "Demasiados códigos errados. Comece de novo."
+  pt-BR: "Muitos códigos incorretos. Comece de novo."
+  pt-PT: "Demasiados códigos errados. Comece de novo."
+  ru: "Слишком много неверных кодов. Начните заново."
+  sv: "För många felaktiga koder. Börja om."
+  sw: "Misimbo mingi mno isiyo sahihi. Anza upya."
+  th: "ป้อนรหัสผิดหลายครั้งเกินไป โปรดเริ่มใหม่"
+  tr: "Çok fazla yanlış kod girildi. Yeniden başlayın."
+  uk: "Забагато неправильних кодів. Почніть знову."
+  vi: "Nhập sai mã quá nhiều lần. Hãy bắt đầu lại."
+  zh: "错误的验证码次数过多。请重新开始。"
+  zh-HK: "錯誤的驗證碼次數過多。請重新開始。"

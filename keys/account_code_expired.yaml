@@ -1,0 +1,39 @@
+description: "Payout wallet disconnect: no confirmation code is waiting (it expired, was used, or too many wrong tries ended it); the person asks for a new one."
+source: "That code expired or was already used. Ask for a new one."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "انتهت صلاحية هذا الرمز أو تم استخدامه بالفعل. اطلب رمزًا جديدًا."
+  cs: "Platnost kódu vypršela nebo už byl použit. Vyžádejte si nový."
+  de: "Dieser Code ist abgelaufen oder wurde schon verwendet. Fordere einen neuen an."
+  el: "Ο κωδικός έληξε ή έχει ήδη χρησιμοποιηθεί. Ζητήστε νέο κωδικό."
+  en: "That code expired or was already used. Ask for a new one."
+  es: "Ese código caducó o ya se usó. Pide uno nuevo."
+  es-419: "Ese código venció o ya se usó. Solicita uno nuevo."
+  es-MX: "Ese código venció o ya se usó. Solicita uno nuevo."
+  fa: "این کد منقضی شده یا قبلاً استفاده شده است. کد جدیدی درخواست کنید."
+  fr: "Ce code a expiré ou a déjà été utilisé. Demandez-en un nouveau."
+  he: "תוקף הקוד הזה פג או שכבר נעשה בו שימוש. בקשו קוד חדש."
+  hi: "यह कोड समाप्त हो गया है या पहले ही इस्तेमाल हो चुका है। नया कोड मँगाएँ।"
+  id: "Kode itu sudah kedaluwarsa atau sudah dipakai. Minta kode baru."
+  it: "Il codice è scaduto o è già stato usato. Richiedine uno nuovo."
+  ja: "コードの有効期限が切れたか、すでに使用されています。新しいコードをリクエストしてください。"
+  ko: "코드가 만료되었거나 이미 사용되었습니다. 새 코드를 요청하세요."
+  nl: "Die code is verlopen of al gebruikt. Vraag een nieuwe aan."
+  pl: "Ten kod wygasł lub został już użyty. Poproś o nowy."
+  pt: "Esse código expirou ou já foi usado. Peça um novo."
+  pt-BR: "Esse código expirou ou já foi usado. Solicite um novo."
+  pt-PT: "Esse código expirou ou já foi utilizado. Peça um novo."
+  ru: "Срок действия кода истёк, или он уже использован. Запросите новый."
+  sv: "Koden har gått ut eller redan använts. Be om en ny."
+  sw: "Msimbo huo umeisha muda au umeshatumika. Omba mwingine."
+  th: "รหัสนี้หมดอายุหรือถูกใช้ไปแล้ว โปรดขอรหัสใหม่"
+  tr: "Bu kodun süresi doldu veya kod zaten kullanıldı. Yeni bir kod isteyin."
+  uk: "Термін дії коду минув, або його вже використано. Запросіть новий."
+  vi: "Mã đó đã hết hạn hoặc đã được dùng. Hãy yêu cầu mã mới."
+  zh: "验证码已过期或已被使用。请重新获取。"
+  zh-HK: "驗證碼已過期或已被使用。請重新索取。"

@@ -1,0 +1,39 @@
+description: "A label for Microsoft sign-in: the sign-in method in the account's list, and (apple) the Sessions screen's sign-in method of a session created with Sign in with Microsoft."
+source: "Microsoft"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "Microsoft"
+  cs: "Microsoft"
+  de: "Microsoft"
+  el: "Microsoft"
+  en: "Microsoft"
+  es: "Microsoft"
+  es-419: "Microsoft"
+  es-MX: "Microsoft"
+  fa: "Microsoft"
+  fr: "Microsoft"
+  he: "Microsoft"
+  hi: "Microsoft"
+  id: "Microsoft"
+  it: "Microsoft"
+  ja: "Microsoft"
+  ko: "Microsoft"
+  nl: "Microsoft"
+  pl: "Microsoft"
+  pt: "Microsoft"
+  pt-BR: "Microsoft"
+  pt-PT: "Microsoft"
+  ru: "Microsoft"
+  sv: "Microsoft"
+  sw: "Microsoft"
+  th: "Microsoft"
+  tr: "Microsoft"
+  uk: "Microsoft"
+  vi: "Microsoft"
+  zh: "Microsoft"
+  zh-HK: "Microsoft"

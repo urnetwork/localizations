@@ -1,0 +1,39 @@
+description: "Earnings, the payout wallet disconnect refused because the account has no sign-in email to send the confirmation code to."
+source: "Add an email sign-in to your account first. The confirmation code is sent to it."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "أضف أولًا تسجيل دخول بالبريد الإلكتروني إلى حسابك. يُرسل رمز التأكيد إليه."
+  cs: "Nejprve k účtu přidejte přihlášení e-mailem. Potvrzovací kód se posílá na něj."
+  de: "Füge deinem Konto zuerst eine E-Mail-Anmeldung hinzu. Der Bestätigungscode wird dorthin gesendet."
+  el: "Προσθέστε πρώτα σύνδεση με email στον λογαριασμό σας. Ο κωδικός επιβεβαίωσης αποστέλλεται εκεί."
+  en: "Add an email sign-in to your account first. The confirmation code is sent to it."
+  es: "Primero añade un inicio de sesión con correo a tu cuenta. El código de confirmación se envía a ese correo."
+  es-419: "Primero agrega un inicio de sesión con correo a tu cuenta. El código de confirmación se envía a ese correo."
+  es-MX: "Primero agrega un inicio de sesión con correo a tu cuenta. El código de confirmación se envía a ese correo."
+  fa: "ابتدا ورود با ایمیل را به حساب خود اضافه کنید. کد تأیید به همان ایمیل فرستاده می‌شود."
+  fr: "Ajoutez d'abord une connexion par e-mail à votre compte. Le code de confirmation y est envoyé."
+  he: "הוסיפו קודם התחברות באימייל לחשבון. קוד האישור נשלח אליה."
+  hi: "पहले अपने खाते में ईमेल से साइन-इन जोड़ें। पुष्टि कोड उसी पर भेजा जाता है।"
+  id: "Tambahkan dulu metode masuk dengan email ke akun Anda. Kode konfirmasi dikirim ke email itu."
+  it: "Aggiungi prima un accesso con email al tuo account. Il codice di conferma viene inviato lì."
+  ja: "まずアカウントにメールでのサインインを追加してください。確認コードはそのメールアドレスに送信されます。"
+  ko: "먼저 계정에 이메일 로그인을 추가하세요. 확인 코드는 그 이메일로 전송됩니다."
+  nl: "Voeg eerst een e-mailaanmelding toe aan je account. De bevestigingscode wordt daarheen gestuurd."
+  pl: "Najpierw dodaj do konta logowanie e-mailem. Kod potwierdzający zostanie wysłany na ten adres."
+  pt: "Adicione primeiro um início de sessão por email à sua conta. O código de confirmação é enviado para esse email."
+  pt-BR: "Primeiro adicione um login por e-mail à sua conta. O código de confirmação é enviado para esse e-mail."
+  pt-PT: "Adicione primeiro um início de sessão por email à sua conta. O código de confirmação é enviado para esse email."
+  ru: "Сначала добавьте в аккаунт вход по электронной почте. Код подтверждения отправляется на неё."
+  sv: "Lägg först till inloggning med e-post på ditt konto. Bekräftelsekoden skickas dit."
+  sw: "Kwanza ongeza kuingia kwa barua pepe kwenye akaunti yako. Msimbo wa uthibitisho hutumwa huko."
+  th: "โปรดเพิ่มการลงชื่อเข้าใช้ด้วยอีเมลให้บัญชีของคุณก่อน รหัสยืนยันจะถูกส่งไปที่อีเมลนั้น"
+  tr: "Önce hesabınıza e-posta ile giriş ekleyin. Onay kodu bu adrese gönderilir."
+  uk: "Спершу додайте до облікового запису вхід через електронну пошту. Код підтвердження надсилається туди."
+  vi: "Trước tiên, hãy thêm đăng nhập bằng email vào tài khoản. Mã xác nhận sẽ được gửi tới email đó."
+  zh: "请先为您的账户添加邮箱登录。确认码会发送到该邮箱。"
+  zh-HK: "請先為您的帳戶加入電郵登入。確認碼會發送到該電郵。"

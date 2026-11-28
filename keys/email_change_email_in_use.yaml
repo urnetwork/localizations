@@ -1,0 +1,39 @@
+description: "Email change refused: another account signs in with the new email."
+source: "Another account already uses that email."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "هناك حساب آخر يستخدم هذا البريد الإلكتروني بالفعل."
+  cs: "Tento e-mail už používá jiný účet."
+  de: "Ein anderes Konto verwendet diese E-Mail-Adresse bereits."
+  el: "Αυτό το email χρησιμοποιείται ήδη από άλλον λογαριασμό."
+  en: "Another account already uses that email."
+  es: "Otra cuenta ya usa ese correo."
+  es-419: "Otra cuenta ya usa ese correo."
+  es-MX: "Otra cuenta ya usa ese correo."
+  fa: "حساب دیگری از قبل از این ایمیل استفاده می‌کند."
+  fr: "Un autre compte utilise déjà cet e-mail."
+  he: "חשבון אחר כבר משתמש באימייל הזה."
+  hi: "यह ईमेल पहले से किसी दूसरे खाते में इस्तेमाल हो रहा है।"
+  id: "Akun lain sudah menggunakan email itu."
+  it: "Un altro account usa già questa email."
+  ja: "そのメールアドレスはすでに別のアカウントで使用されています。"
+  ko: "다른 계정이 이미 이 이메일을 사용하고 있습니다."
+  nl: "Een ander account gebruikt dat e-mailadres al."
+  pl: "Ten adres e-mail jest już używany przez inne konto."
+  pt: "Outra conta já usa esse email."
+  pt-BR: "Outra conta já usa esse e-mail."
+  pt-PT: "Outra conta já utiliza esse email."
+  ru: "Этот адрес почты уже использует другой аккаунт."
+  sv: "Ett annat konto använder redan den e-postadressen."
+  sw: "Akaunti nyingine tayari inatumia barua pepe hiyo."
+  th: "อีเมลนี้มีบัญชีอื่นใช้อยู่แล้ว"
+  tr: "Bu e-posta adresi zaten başka bir hesap tarafından kullanılıyor."
+  uk: "Цю адресу пошти вже використовує інший обліковий запис."
+  vi: "Một tài khoản khác đã dùng email đó."
+  zh: "该邮箱已被其他账户使用。"
+  zh-HK: "該電郵已被其他帳戶使用。"

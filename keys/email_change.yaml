@@ -1,0 +1,39 @@
+description: "Account, sign-in methods: the action beside the email sign-in that starts a verified email change, and the confirm button of its sheet."
+source: "Change email"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تغيير البريد الإلكتروني"
+  cs: "Změnit e-mail"
+  de: "E-Mail ändern"
+  el: "Αλλαγή email"
+  en: "Change email"
+  es: "Cambiar correo"
+  es-419: "Cambiar correo"
+  es-MX: "Cambiar correo"
+  fa: "تغییر ایمیل"
+  fr: "Changer d'e-mail"
+  he: "שינוי אימייל"
+  hi: "ईमेल बदलें"
+  id: "Ganti email"
+  it: "Cambia email"
+  ja: "メールアドレスを変更"
+  ko: "이메일 변경"
+  nl: "E-mail wijzigen"
+  pl: "Zmień e-mail"
+  pt: "Alterar email"
+  pt-BR: "Alterar e-mail"
+  pt-PT: "Alterar email"
+  ru: "Изменить почту"
+  sv: "Byt e-post"
+  sw: "Badilisha barua pepe"
+  th: "เปลี่ยนอีเมล"
+  tr: "E-postayı değiştir"
+  uk: "Змінити пошту"
+  vi: "Đổi email"
+  zh: "更改邮箱"
+  zh-HK: "更改電郵"

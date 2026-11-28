@@ -1,0 +1,42 @@
+description: "The email change sheet, once both codes were confirmed. The argument is the new email."
+source: "Your email is now %@."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: email
+    type: string
+localizations:
+  ar: "بريدك الإلكتروني الآن هو {email}."
+  cs: "Váš e-mail je nyní {email}."
+  de: "Deine E-Mail-Adresse ist jetzt {email}."
+  el: "Το email σας είναι πλέον το {email}."
+  en: "Your email is now {email}."
+  es: "Tu correo ahora es {email}."
+  es-419: "Tu correo ahora es {email}."
+  es-MX: "Tu correo ahora es {email}."
+  fa: "ایمیل شما اکنون {email} است."
+  fr: "Votre e-mail est désormais {email}."
+  he: "האימייל שלכם הוא עכשיו {email}."
+  hi: "आपका ईमेल अब {email} है।"
+  id: "Email Anda sekarang {email}."
+  it: "La tua email ora è {email}."
+  ja: "メールアドレスが {email} に変更されました。"
+  ko: "이제 이메일이 {email}입니다."
+  nl: "Je e-mailadres is nu {email}."
+  pl: "Twój adres e-mail to teraz {email}."
+  pt: "O seu email é agora {email}."
+  pt-BR: "Seu e-mail agora é {email}."
+  pt-PT: "O seu email é agora {email}."
+  ru: "Теперь ваш адрес почты — {email}."
+  sv: "Din e-postadress är nu {email}."
+  sw: "Barua pepe yako sasa ni {email}."
+  th: "อีเมลของคุณตอนนี้คือ {email}"
+  tr: "E-posta adresiniz artık {email}."
+  uk: "Тепер ваша адреса пошти — {email}."
+  vi: "Email của bạn giờ là {email}."
+  zh: "您的邮箱现在是 {email}。"
+  zh-HK: "您的電郵現在是 {email}。"

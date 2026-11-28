@@ -1,0 +1,39 @@
+description: "Earnings, the dialog that disconnects the payout wallet: what happens with no payout wallet, said plainly, before the code is sent."
+source: "With no payout wallet, your earnings can't be paid out. Earnings already paid stay claimable by the wallet they were paid to. To confirm, we'll email a code to your account."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "بدون محفظة دفع، لا يمكن صرف أرباحك. تبقى الأرباح المدفوعة بالفعل قابلة للمطالبة من المحفظة التي دُفعت إليها. للتأكيد، سنرسل رمزًا إلى البريد الإلكتروني لحسابك."
+  cs: "Bez peněženky pro výplaty vám výdělky nelze vyplatit. Již vyplacené výdělky si dál může vybrat peněženka, do které byly vyplaceny. Pro potvrzení vám pošleme kód na e-mail účtu."
+  de: "Ohne Auszahlungs-Wallet können deine Einnahmen nicht ausgezahlt werden. Bereits ausgezahlte Einnahmen kann die Wallet, an die sie gingen, weiterhin abrufen. Zur Bestätigung senden wir einen Code an die E-Mail-Adresse deines Kontos."
+  el: "Χωρίς πορτοφόλι πληρωμών, τα κέρδη σας δεν μπορούν να πληρωθούν. Τα κέρδη που έχουν ήδη πληρωθεί μπορούν ακόμα να εξαργυρωθούν από το πορτοφόλι στο οποίο πληρώθηκαν. Για επιβεβαίωση, θα στείλουμε έναν κωδικό στο email του λογαριασμού σας."
+  en: "With no payout wallet, your earnings can't be paid out. Earnings already paid stay claimable by the wallet they were paid to. To confirm, we'll email a code to your account."
+  es: "Sin una billetera de pagos, tus ganancias no se pueden pagar. Las ganancias ya pagadas las sigue pudiendo reclamar la billetera a la que se pagaron. Para confirmarlo, enviaremos un código al correo de tu cuenta."
+  es-419: "Sin una billetera de pagos, tus ganancias no se pueden pagar. Las ganancias ya pagadas las sigue pudiendo reclamar la billetera a la que se pagaron. Para confirmar, enviaremos un código al correo de tu cuenta."
+  es-MX: "Sin una cartera de pagos, tus ganancias no se pueden pagar. Las ganancias ya pagadas las sigue pudiendo reclamar la cartera a la que se pagaron. Para confirmar, enviaremos un código al correo de tu cuenta."
+  fa: "بدون کیف پول دریافت پرداخت، درآمدهای شما پرداخت نمی‌شوند. درآمدهایی که قبلاً پرداخت شده‌اند همچنان برای کیف پولی که به آن پرداخت شده‌اند قابل دریافت می‌مانند. برای تأیید، یک کد به ایمیل حساب شما می‌فرستیم."
+  fr: "Sans portefeuille de paiement, vos gains ne peuvent pas être versés. Les gains déjà versés restent réclamables par le portefeuille qui les a reçus. Pour confirmer, nous enverrons un code à l'adresse e-mail de votre compte."
+  he: "ללא ארנק תשלומים, לא ניתן לשלם את הרווחים שלכם. רווחים שכבר שולמו נשארים זמינים לדרישה בארנק שאליו שולמו. לאישור, נשלח קוד לכתובת האימייל של החשבון."
+  hi: "भुगतान वॉलेट के बिना आपकी कमाई का भुगतान नहीं हो सकता। जो कमाई पहले ही भेजी जा चुकी है, उसे वही वॉलेट क्लेम कर सकता है जिसमें वह भेजी गई थी। पुष्टि के लिए हम आपके खाते के ईमेल पर एक कोड भेजेंगे।"
+  id: "Tanpa dompet pembayaran, penghasilan Anda tidak dapat dibayarkan. Penghasilan yang sudah dibayarkan tetap dapat diklaim oleh dompet penerimanya. Untuk konfirmasi, kami akan mengirim kode ke email akun Anda."
+  it: "Senza un portafoglio per i pagamenti, i tuoi guadagni non possono essere pagati. I guadagni già pagati restano riscuotibili dal portafoglio che li ha ricevuti. Per confermare, invieremo un codice all'email del tuo account."
+  ja: "支払い用ウォレットがないと、収益を支払うことができません。すでに支払われた収益は、支払い先のウォレットで引き続き請求できます。確認のため、アカウントのメールアドレスにコードを送信します。"
+  ko: "지급 지갑이 없으면 수익을 지급할 수 없습니다. 이미 지급된 수익은 지급받은 지갑에서 계속 청구할 수 있습니다. 확인을 위해 계정 이메일로 코드를 보내드립니다."
+  nl: "Zonder uitbetalingswallet kunnen je inkomsten niet worden uitbetaald. Al uitbetaalde inkomsten blijven opvraagbaar door de wallet waarnaar ze zijn betaald. Ter bevestiging sturen we een code naar het e-mailadres van je account."
+  pl: "Bez portfela do wypłat Twoje zarobki nie mogą zostać wypłacone. Już wypłacone zarobki nadal może odebrać portfel, do którego je wypłacono. Aby potwierdzić, wyślemy kod na adres e-mail Twojego konta."
+  pt: "Sem uma carteira de pagamentos, os seus ganhos não podem ser pagos. Os ganhos já pagos continuam a poder ser reclamados pela carteira para a qual foram pagos. Para confirmar, enviaremos um código para o email da sua conta."
+  pt-BR: "Sem uma carteira de pagamentos, seus ganhos não podem ser pagos. Os ganhos já pagos continuam podendo ser resgatados pela carteira que os recebeu. Para confirmar, enviaremos um código para o e-mail da sua conta."
+  pt-PT: "Sem uma carteira de pagamentos, os seus ganhos não podem ser pagos. Os ganhos já pagos continuam a poder ser reclamados pela carteira para a qual foram pagos. Para confirmar, enviaremos um código para o email da sua conta."
+  ru: "Без кошелька для выплат ваш заработок не может быть выплачен. Уже выплаченный заработок по-прежнему может получить кошелёк, на который он был выплачен. Для подтверждения мы отправим код на электронную почту вашего аккаунта."
+  sv: "Utan en utbetalningsplånbok kan dina intäkter inte betalas ut. Intäkter som redan betalats ut kan fortfarande hämtas av plånboken de betalades till. För att bekräfta skickar vi en kod till ditt kontos e-post."
+  sw: "Bila pochi ya malipo, mapato yako hayawezi kulipwa. Mapato yaliyokwisha kulipwa bado yanaweza kudaiwa na pochi yaliyolipwa kwayo. Ili kuthibitisha, tutatuma msimbo kwa barua pepe ya akaunti yako."
+  th: "หากไม่มีวอลเล็ตรับเงิน รายได้ของคุณจะไม่สามารถจ่ายออกได้ รายได้ที่จ่ายไปแล้วยังคงเคลมได้โดยวอลเล็ตที่ได้รับเงินนั้น เพื่อยืนยัน เราจะส่งรหัสไปยังอีเมลของบัญชีคุณ"
+  tr: "Ödeme cüzdanı olmadan kazançlarınız ödenemez. Daha önce ödenen kazançlar, ödendikleri cüzdan tarafından talep edilebilir olmaya devam eder. Onaylamak için hesabınıza e-postayla bir kod göndereceğiz."
+  uk: "Без гаманця для виплат ваш заробіток не може бути виплачено. Уже виплачений заробіток і надалі може отримати гаманець, на який його виплатили. Для підтвердження ми надішлемо код на електронну пошту вашого облікового запису."
+  vi: "Không có ví nhận thanh toán, thu nhập của bạn không thể được chi trả. Thu nhập đã chi trả vẫn có thể được ví đã nhận yêu cầu. Để xác nhận, chúng tôi sẽ gửi mã tới email tài khoản của bạn."
+  zh: "没有收款钱包，您的收益将无法支付。已支付的收益仍可由收款钱包领取。为确认此操作，我们会向您账户的邮箱发送验证码。"
+  zh-HK: "沒有收款錢包，您的收益將無法支付。已支付的收益仍可由收款錢包領取。為確認此操作，我們會向您帳戶的電郵發送驗證碼。"

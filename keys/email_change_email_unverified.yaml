@@ -1,0 +1,39 @@
+description: "Email change refused: the current email sign-in is not verified yet."
+source: "Verify your current email before you change it."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تحقّق من بريدك الإلكتروني الحالي قبل تغييره."
+  cs: "Před změnou nejprve ověřte svůj současný e-mail."
+  de: "Bestätige deine aktuelle E-Mail-Adresse, bevor du sie änderst."
+  el: "Επαληθεύστε το τρέχον email σας πριν το αλλάξετε."
+  en: "Verify your current email before you change it."
+  es: "Verifica tu correo actual antes de cambiarlo."
+  es-419: "Verifica tu correo actual antes de cambiarlo."
+  es-MX: "Verifica tu correo actual antes de cambiarlo."
+  fa: "پیش از تغییر ایمیل فعلی خود، آن را تأیید کنید."
+  fr: "Vérifiez votre e-mail actuel avant de le changer."
+  he: "אמתו את האימייל הנוכחי לפני שתשנו אותו."
+  hi: "बदलने से पहले अपने मौजूदा ईमेल को सत्यापित करें।"
+  id: "Verifikasi email Anda saat ini sebelum menggantinya."
+  it: "Verifica la tua email attuale prima di cambiarla."
+  ja: "変更する前に、現在のメールアドレスを確認してください。"
+  ko: "변경하기 전에 현재 이메일을 인증하세요."
+  nl: "Verifieer je huidige e-mailadres voordat je het wijzigt."
+  pl: "Zanim zmienisz adres e-mail, potwierdź obecny."
+  pt: "Verifique o seu email atual antes de o alterar."
+  pt-BR: "Verifique seu e-mail atual antes de alterá-lo."
+  pt-PT: "Verifique o seu email atual antes de o alterar."
+  ru: "Подтвердите текущий адрес почты, прежде чем его менять."
+  sv: "Verifiera din nuvarande e-post innan du byter den."
+  sw: "Thibitisha barua pepe yako ya sasa kabla ya kuibadilisha."
+  th: "โปรดยืนยันอีเมลปัจจุบันของคุณก่อนเปลี่ยน"
+  tr: "E-posta adresinizi değiştirmeden önce mevcut adresinizi doğrulayın."
+  uk: "Підтвердьте поточну адресу пошти, перш ніж її змінювати."
+  vi: "Hãy xác minh email hiện tại trước khi đổi."
+  zh: "请先验证您当前的邮箱，再进行更改。"
+  zh-HK: "請先驗證您目前的電郵，再進行更改。"

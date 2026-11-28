@@ -1,0 +1,39 @@
+description: "Earnings, the dialog that disconnects the payout wallet: its title."
+source: "Disconnect your payout wallet?"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "هل تريد فصل محفظة الدفع؟"
+  cs: "Odpojit peněženku pro výplaty?"
+  de: "Deine Auszahlungs-Wallet trennen?"
+  el: "Αποσύνδεση του πορτοφολιού πληρωμών;"
+  en: "Disconnect your payout wallet?"
+  es: "¿Desconectar tu billetera de pagos?"
+  es-419: "¿Desconectar tu billetera de pagos?"
+  es-MX: "¿Desconectar tu cartera de pagos?"
+  fa: "اتصال کیف پول دریافت پرداخت شما قطع شود؟"
+  fr: "Déconnecter votre portefeuille de paiement ?"
+  he: "לנתק את ארנק התשלומים?"
+  hi: "अपना भुगतान वॉलेट डिस्कनेक्ट करें?"
+  id: "Putuskan dompet pembayaran Anda?"
+  it: "Scollegare il portafoglio dei pagamenti?"
+  ja: "支払い用ウォレットの接続を解除しますか？"
+  ko: "지급 지갑 연결을 해제할까요?"
+  nl: "Je uitbetalingswallet ontkoppelen?"
+  pl: "Odłączyć portfel do wypłat?"
+  pt: "Desligar a sua carteira de pagamentos?"
+  pt-BR: "Desconectar sua carteira de pagamentos?"
+  pt-PT: "Desligar a sua carteira de pagamentos?"
+  ru: "Отключить кошелёк для выплат?"
+  sv: "Koppla från din utbetalningsplånbok?"
+  sw: "Tenganisha pochi yako ya malipo?"
+  th: "ยกเลิกการเชื่อมต่อวอลเล็ตรับเงินหรือไม่?"
+  tr: "Ödeme cüzdanınızın bağlantısı kesilsin mi?"
+  uk: "Від'єднати гаманець для виплат?"
+  vi: "Ngắt kết nối ví nhận thanh toán?"
+  zh: "断开收款钱包？"
+  zh-HK: "中斷收款錢包連接？"

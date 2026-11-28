@@ -1,0 +1,39 @@
+description: "Email change refused: the new email is the current email."
+source: "That's already your email."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "هذا هو بريدك الإلكتروني بالفعل."
+  cs: "To už je váš e-mail."
+  de: "Das ist bereits deine E-Mail-Adresse."
+  el: "Αυτό είναι ήδη το email σας."
+  en: "That's already your email."
+  es: "Ese ya es tu correo."
+  es-419: "Ese ya es tu correo."
+  es-MX: "Ese ya es tu correo."
+  fa: "این از قبل ایمیل شماست."
+  fr: "C'est déjà votre e-mail."
+  he: "זה כבר האימייל שלכם."
+  hi: "यह पहले से ही आपका ईमेल है।"
+  id: "Itu sudah email Anda."
+  it: "Questa è già la tua email."
+  ja: "すでにそのメールアドレスを使用しています。"
+  ko: "이미 사용 중인 내 이메일입니다."
+  nl: "Dat is al je e-mailadres."
+  pl: "To już jest Twój adres e-mail."
+  pt: "Esse já é o seu email."
+  pt-BR: "Esse já é o seu e-mail."
+  pt-PT: "Esse já é o seu email."
+  ru: "Это уже ваш адрес почты."
+  sv: "Det är redan din e-postadress."
+  sw: "Hiyo tayari ni barua pepe yako."
+  th: "นี่คืออีเมลของคุณอยู่แล้ว"
+  tr: "Bu zaten sizin e-posta adresiniz."
+  uk: "Це вже ваша адреса пошти."
+  vi: "Đó đã là email của bạn."
+  zh: "这已经是您的邮箱。"
+  zh-HK: "這已經是您的電郵。"

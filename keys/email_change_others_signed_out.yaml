@@ -1,0 +1,39 @@
+description: "The email change sheet, once complete: the account's other sessions were signed out."
+source: "Your other devices were signed out."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تم تسجيل خروج أجهزتك الأخرى."
+  cs: "Vaše ostatní zařízení byla odhlášena."
+  de: "Deine anderen Geräte wurden abgemeldet."
+  el: "Οι άλλες συσκευές σας αποσυνδέθηκαν."
+  en: "Your other devices were signed out."
+  es: "Se cerró la sesión en tus otros dispositivos."
+  es-419: "Se cerró la sesión en tus otros dispositivos."
+  es-MX: "Se cerró la sesión en tus otros dispositivos."
+  fa: "دستگاه‌های دیگر شما از حساب خارج شدند."
+  fr: "Vos autres appareils ont été déconnectés."
+  he: "המכשירים האחרים שלכם נותקו מהחשבון."
+  hi: "आपके दूसरे डिवाइस साइन आउट कर दिए गए।"
+  id: "Perangkat Anda yang lain telah dikeluarkan."
+  it: "Gli altri tuoi dispositivi sono stati disconnessi."
+  ja: "ほかのデバイスはサインアウトされました。"
+  ko: "다른 기기에서 로그아웃되었습니다."
+  nl: "Je andere apparaten zijn afgemeld."
+  pl: "Twoje pozostałe urządzenia zostały wylogowane."
+  pt: "Os seus outros dispositivos terminaram a sessão."
+  pt-BR: "Seus outros dispositivos foram desconectados."
+  pt-PT: "Os seus outros dispositivos terminaram a sessão."
+  ru: "На других ваших устройствах выполнен выход."
+  sv: "Dina andra enheter har loggats ut."
+  sw: "Vifaa vyako vingine vimetolewa kwenye akaunti."
+  th: "อุปกรณ์อื่นของคุณออกจากระบบแล้ว"
+  tr: "Diğer cihazlarınızda hesaptan çıkış yapıldı."
+  uk: "На інших ваших пристроях виконано вихід."
+  vi: "Các thiết bị khác của bạn đã được đăng xuất."
+  zh: "您的其他设备已退出登录。"
+  zh-HK: "您的其他裝置已登出。"

@@ -1,0 +1,39 @@
+description: "Email change: the new email is not an email address."
+source: "Enter a valid email address."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "أدخل عنوان بريد إلكتروني صالحًا."
+  cs: "Zadejte platnou e-mailovou adresu."
+  de: "Gib eine gültige E-Mail-Adresse ein."
+  el: "Εισαγάγετε μια έγκυρη διεύθυνση email."
+  en: "Enter a valid email address."
+  es: "Introduce un correo válido."
+  es-419: "Ingresa un correo válido."
+  es-MX: "Ingresa un correo válido."
+  fa: "یک آدرس ایمیل معتبر وارد کنید."
+  fr: "Saisissez une adresse e-mail valide."
+  he: "הזינו כתובת אימייל תקינה."
+  hi: "एक मान्य ईमेल पता दर्ज करें।"
+  id: "Masukkan alamat email yang valid."
+  it: "Inserisci un indirizzo email valido."
+  ja: "有効なメールアドレスを入力してください。"
+  ko: "올바른 이메일 주소를 입력하세요."
+  nl: "Voer een geldig e-mailadres in."
+  pl: "Wpisz prawidłowy adres e-mail."
+  pt: "Introduza um endereço de email válido."
+  pt-BR: "Digite um endereço de e-mail válido."
+  pt-PT: "Introduza um endereço de email válido."
+  ru: "Введите правильный адрес почты."
+  sv: "Ange en giltig e-postadress."
+  sw: "Weka anwani sahihi ya barua pepe."
+  th: "ป้อนที่อยู่อีเมลที่ถูกต้อง"
+  tr: "Geçerli bir e-posta adresi girin."
+  uk: "Введіть дійсну адресу пошти."
+  vi: "Nhập địa chỉ email hợp lệ."
+  zh: "请输入有效的邮箱地址。"
+  zh-HK: "請輸入有效的電郵地址。"

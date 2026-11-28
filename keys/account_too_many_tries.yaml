@@ -1,0 +1,39 @@
+description: "Email change and payout wallet disconnect: too many requests or codes were sent (rate limited); the person tries again later."
+source: "Too many tries. Please try again later."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "محاولات كثيرة جدًا. يرجى المحاولة مرة أخرى لاحقًا."
+  cs: "Příliš mnoho pokusů. Zkuste to prosím později."
+  de: "Zu viele Versuche. Bitte versuche es später erneut."
+  el: "Πάρα πολλές προσπάθειες. Δοκιμάστε ξανά αργότερα."
+  en: "Too many tries. Please try again later."
+  es: "Demasiados intentos. Inténtalo de nuevo más tarde."
+  es-419: "Demasiados intentos. Vuelve a intentarlo más tarde."
+  es-MX: "Demasiados intentos. Vuelve a intentarlo más tarde."
+  fa: "تعداد تلاش‌ها بیش از حد مجاز است. لطفاً بعداً دوباره امتحان کنید."
+  fr: "Trop de tentatives. Veuillez réessayer plus tard."
+  he: "יותר מדי ניסיונות. נסו שוב מאוחר יותר."
+  hi: "बहुत ज़्यादा कोशिशें हो गईं। कृपया बाद में फिर कोशिश करें।"
+  id: "Terlalu banyak percobaan. Coba lagi nanti."
+  it: "Troppi tentativi. Riprova più tardi."
+  ja: "試行回数が多すぎます。しばらくしてからもう一度お試しください。"
+  ko: "시도 횟수가 너무 많습니다. 나중에 다시 시도하세요."
+  nl: "Te veel pogingen. Probeer het later opnieuw."
+  pl: "Zbyt wiele prób. Spróbuj ponownie później."
+  pt: "Demasiadas tentativas. Tente novamente mais tarde."
+  pt-BR: "Muitas tentativas. Tente novamente mais tarde."
+  pt-PT: "Demasiadas tentativas. Tente novamente mais tarde."
+  ru: "Слишком много попыток. Повторите позже."
+  sv: "För många försök. Försök igen senare."
+  sw: "Majaribio mengi mno. Tafadhali jaribu tena baadaye."
+  th: "ลองหลายครั้งเกินไป โปรดลองอีกครั้งในภายหลัง"
+  tr: "Çok fazla deneme yapıldı. Lütfen daha sonra tekrar deneyin."
+  uk: "Забагато спроб. Спробуйте пізніше."
+  vi: "Bạn đã thử quá nhiều lần. Vui lòng thử lại sau."
+  zh: "尝试次数过多。请稍后再试。"
+  zh-HK: "嘗試次數過多。請稍後再試。"
