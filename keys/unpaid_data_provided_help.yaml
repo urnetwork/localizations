@@ -1,0 +1,39 @@
+description: "Provider status: what the unpaid data provided is, under that figure. The argument is the settled epoch number."
+source: "Data SN25 counted in epoch %lld but did not pay, because no payout wallet was connected. This is data, not money owed."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: epoch
+    type: int
+localizations:
+  ar: "بيانات احتسبتها SN25 في الفترة {epoch} لكنها لم تدفع مقابلها، لأنه لم تكن هناك محفظة دفع متصلة. هذه بيانات، وليست أموالًا مستحقة."
+  cs: "Data, která SN25 započítala v epoše {epoch}, ale nevyplatila, protože nebyla připojena výplatní peněženka. Jde o data, ne o dlužné peníze."
+  de: "Daten, die SN25 in Epoche {epoch} gezählt, aber nicht bezahlt hat, weil keine Auszahlungs-Wallet verbunden war. Das sind Daten, kein geschuldetes Geld."
+  el: "Δεδομένα που μέτρησε το SN25 στην εποχή {epoch} αλλά δεν πλήρωσε, επειδή δεν είχε συνδεθεί πορτοφόλι πληρωμής. Πρόκειται για δεδομένα, όχι για οφειλόμενα χρήματα."
+  en: "Data SN25 counted in epoch {epoch} but did not pay, because no payout wallet was connected. This is data, not money owed."
+  es: "Datos que SN25 contó en la época {epoch} pero no pagó, porque no había una billetera de pago conectada. Son datos, no dinero adeudado."
+  es-419: "Datos que SN25 contó en la época {epoch} pero no pagó, porque no había una billetera de pago conectada. Son datos, no dinero que se te deba."
+  es-MX: "Datos que SN25 contó en la época {epoch} pero no pagó, porque no había una cartera de pago conectada. Son datos, no dinero que se te deba."
+  fr: "Données que SN25 a comptées pendant l’époque {epoch} sans les payer, faute de portefeuille de paiement connecté. Il s’agit de données, pas d’argent dû."
+  he: "נתונים ש-SN25 ספר בתקופה {epoch} אך לא שילם עליהם, כי לא חובר ארנק תשלום. אלה נתונים, לא כסף שחייבים לך."
+  hi: "वह डेटा जिसे SN25 ने एपोक {epoch} में गिना लेकिन भुगतान नहीं किया, क्योंकि कोई पेआउट वॉलेट कनेक्ट नहीं था। यह डेटा है, बकाया पैसा नहीं।"
+  id: "Data yang dihitung SN25 di epoch {epoch} tetapi tidak dibayar, karena tidak ada dompet pembayaran yang terhubung. Ini adalah data, bukan uang yang terutang."
+  it: "Dati che SN25 ha conteggiato nell’epoca {epoch} ma non ha pagato, perché non era collegato alcun portafoglio di pagamento. Sono dati, non denaro dovuto."
+  ja: "SN25 がエポック {epoch} で計上したものの、支払いウォレットが接続されていなかったため支払われなかったデータです。これはデータであり、未払いのお金ではありません。"
+  ko: "SN25가 에포크 {epoch}에 집계했지만 지급 지갑이 연결되어 있지 않아 지급하지 않은 데이터입니다. 이는 데이터이며, 받을 돈이 아닙니다."
+  nl: "Data die SN25 in epoch {epoch} heeft geteld maar niet heeft betaald, omdat er geen uitbetalingswallet was gekoppeld. Dit is data, geen geld dat je tegoed hebt."
+  pl: "Dane, które SN25 policzyła w epoce {epoch}, ale za nie nie zapłaciła, bo nie podłączono portfela wypłat. To są dane, a nie należne pieniądze."
+  pt: "Dados que a SN25 contou na época {epoch} mas não pagou, porque não havia uma carteira de pagamento ligada. São dados, não dinheiro em dívida."
+  pt-BR: "Dados que a SN25 contou na época {epoch} mas não pagou, porque não havia uma carteira de pagamento conectada. São dados, não dinheiro devido."
+  pt-PT: "Dados que a SN25 contou na época {epoch} mas não pagou, porque não havia uma carteira de pagamento ligada. São dados, não dinheiro em dívida."
+  ru: "Данные, которые SN25 учла в эпоху {epoch}, но не оплатила, потому что не был подключен кошелек для выплат. Это данные, а не причитающиеся деньги."
+  sv: "Data som SN25 räknade i epok {epoch} men inte betalade för, eftersom ingen utbetalningsplånbok var ansluten. Det här är data, inte pengar du har att få."
+  sw: "Data ambayo SN25 ilihesabu katika kipindi {epoch} lakini haikulipa, kwa sababu hakuna pochi ya malipo iliyounganishwa. Hii ni data, si pesa unazodai."
+  th: "ข้อมูลที่ SN25 นับไว้ในอีพอค {epoch} แต่ไม่ได้จ่าย เพราะไม่ได้เชื่อมต่อกระเป๋ารับยอดจ่าย นี่คือข้อมูล ไม่ใช่เงินที่ค้างจ่าย"
+  uk: "Дані, які SN25 врахувала в епоху {epoch}, але не оплатила, бо не було підключено гаманця для виплат. Це дані, а не гроші, які вам винні."
+  vi: "Dữ liệu SN25 đã tính trong epoch {epoch} nhưng không trả, vì chưa kết nối ví thanh toán. Đây là dữ liệu, không phải tiền còn nợ."
+  zh: "SN25 在周期 {epoch} 中计入但未支付的数据，因为当时没有连接支付钱包。这是数据，不是应付的钱款。"
+  zh-HK: "SN25 在週期 {epoch} 中計入但未支付的數據，因為當時沒有連接支付錢包。這是數據，不是應付的款項。"

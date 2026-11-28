@@ -1,0 +1,39 @@
+description: "Provide settings: the monthly data limit is reached, so this device stopped sharing with other people until the next month. The argument is the date the next month starts, such as Dec 1."
+source: "Monthly limit reached. Sharing with others resumes %@."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: date
+    type: string
+localizations:
+  ar: "تم بلوغ الحد الشهري. تُستأنف المشاركة مع الآخرين في {date}."
+  cs: "Měsíční limit byl dosažen. Sdílení s ostatními bude obnoveno {date}."
+  de: "Monatslimit erreicht. Das Teilen mit anderen geht am {date} weiter."
+  el: "Συμπληρώθηκε το μηνιαίο όριο. Η κοινή χρήση με άλλους συνεχίζεται στις {date}."
+  en: "Monthly limit reached. Sharing with others resumes {date}."
+  es: "Se alcanzó el límite mensual. Compartir con otros se reanuda el {date}."
+  es-419: "Se alcanzó el límite mensual. Compartir con otros se reanuda el {date}."
+  es-MX: "Se alcanzó el límite mensual. Compartir con otros se reanuda el {date}."
+  fr: "Limite mensuelle atteinte. Le partage avec les autres reprend le {date}."
+  he: "הגעת למגבלה החודשית. השיתוף עם אחרים יתחדש ב-{date}."
+  hi: "मासिक सीमा पूरी हो गई। दूसरों के साथ साझा करना {date} को फिर शुरू होगा।"
+  id: "Batas bulanan tercapai. Berbagi dengan orang lain berlanjut pada {date}."
+  it: "Limite mensile raggiunto. La condivisione con gli altri riprende il {date}."
+  ja: "月間上限に達しました。他のユーザーとの共有は{date}に再開します。"
+  ko: "월간 한도에 도달했습니다. 다른 사람과의 공유는 {date}에 다시 시작됩니다."
+  nl: "Maandlimiet bereikt. Delen met anderen gaat verder op {date}."
+  pl: "Osiągnięto miesięczny limit. Udostępnianie innym zostanie wznowione {date}."
+  pt: "Limite mensal atingido. A partilha com outras pessoas é retomada a {date}."
+  pt-BR: "Limite mensal atingido. O compartilhamento com outras pessoas volta em {date}."
+  pt-PT: "Limite mensal atingido. A partilha com outras pessoas é retomada a {date}."
+  ru: "Месячный лимит достигнут. Предоставление другим возобновится {date}."
+  sv: "Månadsgränsen är nådd. Delningen med andra fortsätter {date}."
+  sw: "Kikomo cha mwezi kimefikiwa. Kushiriki na wengine kutaendelea {date}."
+  th: "ถึงขีดจำกัดรายเดือนแล้ว การแบ่งปันกับผู้อื่นจะกลับมาในวันที่ {date}"
+  uk: "Місячний ліміт вичерпано. Надання іншим відновиться {date}."
+  vi: "Đã đạt giới hạn hằng tháng. Việc chia sẻ với người khác sẽ tiếp tục vào {date}."
+  zh: "已达到每月上限。与他人共享将于 {date} 恢复。"
+  zh-HK: "已達到每月上限。與他人共享將於 {date} 恢復。"

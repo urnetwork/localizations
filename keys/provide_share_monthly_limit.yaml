@@ -1,0 +1,36 @@
+description: "Provide settings: the label of the most data this device shares with others in a calendar month."
+source: "Monthly data limit"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "حد البيانات الشهري"
+  cs: "Měsíční limit dat"
+  de: "Monatliches Datenlimit"
+  el: "Μηνιαίο όριο δεδομένων"
+  en: "Monthly data limit"
+  es: "Límite de datos mensual"
+  es-419: "Límite mensual de datos"
+  es-MX: "Límite mensual de datos"
+  fr: "Limite de données mensuelle"
+  he: "מגבלת נתונים חודשית"
+  hi: "मासिक डेटा सीमा"
+  id: "Batas data bulanan"
+  it: "Limite di dati mensile"
+  ja: "月間データ上限"
+  ko: "월간 데이터 한도"
+  nl: "Maandelijkse datalimiet"
+  pl: "Miesięczny limit danych"
+  pt: "Limite mensal de dados"
+  pt-BR: "Limite mensal de dados"
+  pt-PT: "Limite mensal de dados"
+  ru: "Месячный лимит данных"
+  sv: "Månatlig datagräns"
+  sw: "Kikomo cha data cha kila mwezi"
+  th: "ขีดจำกัดข้อมูลรายเดือน"
+  uk: "Місячний ліміт даних"
+  vi: "Giới hạn dữ liệu hằng tháng"
+  zh: "每月数据上限"
+  zh-HK: "每月數據上限"

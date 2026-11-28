@@ -1,10 +1,10 @@
-description: "Wallet Screen"
+description: "Provider status: the data SN25 counted for the account's devices in the newest settled epoch but did not pay, because the device had no payout wallet."
 source: "Unpaid data provided"
-deprecated:
-  - apple
-  - android
 platforms:
+  - android
   - apple
+  - windows
+  - linux
 localizations:
   ar: "تم توفير بيانات غير مدفوعة"
   cs: "Poskytnuté neplacené data"

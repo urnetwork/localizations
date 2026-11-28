@@ -1,0 +1,39 @@
+description: "Provide settings: a sharing speed choice in megabits per second. The argument is the number of megabits."
+source: "%lld Mbps"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: count
+    type: int
+localizations:
+  ar: "{count} ميغابت/ث"
+  cs: "{count} Mb/s"
+  de: "{count} Mbit/s"
+  el: "{count} Mbps"
+  en: "{count} Mbps"
+  es: "{count} Mbps"
+  es-419: "{count} Mbps"
+  es-MX: "{count} Mbps"
+  fr: "{count} Mbit/s"
+  he: "{count} Mbps"
+  hi: "{count} Mbps"
+  id: "{count} Mbps"
+  it: "{count} Mbps"
+  ja: "{count} Mbps"
+  ko: "{count}Mbps"
+  nl: "{count} Mbit/s"
+  pl: "{count} Mb/s"
+  pt: "{count} Mbps"
+  pt-BR: "{count} Mbps"
+  pt-PT: "{count} Mbps"
+  ru: "{count} Мбит/с"
+  sv: "{count} Mbit/s"
+  sw: "{count} Mbps"
+  th: "{count} Mbps"
+  uk: "{count} Мбіт/с"
+  vi: "{count} Mbps"
+  zh: "{count} Mbps"
+  zh-HK: "{count} Mbps"

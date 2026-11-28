@@ -1,0 +1,36 @@
+description: "Provide settings: the label of the fastest speed this device shares at, for others using the network through it."
+source: "Max sharing speed"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "أقصى سرعة للمشاركة"
+  cs: "Maximální rychlost sdílení"
+  de: "Max. Freigabegeschwindigkeit"
+  el: "Μέγιστη ταχύτητα κοινής χρήσης"
+  en: "Max sharing speed"
+  es: "Velocidad máxima de uso compartido"
+  es-419: "Velocidad máxima de uso compartido"
+  es-MX: "Velocidad máxima de uso compartido"
+  fr: "Vitesse de partage maximale"
+  he: "מהירות שיתוף מרבית"
+  hi: "अधिकतम साझा करने की गति"
+  id: "Kecepatan berbagi maksimum"
+  it: "Velocità di condivisione massima"
+  ja: "最大共有速度"
+  ko: "최대 공유 속도"
+  nl: "Maximale deelsnelheid"
+  pl: "Maksymalna prędkość udostępniania"
+  pt: "Velocidade máxima de partilha"
+  pt-BR: "Velocidade máxima de compartilhamento"
+  pt-PT: "Velocidade máxima de partilha"
+  ru: "Макс. скорость предоставления"
+  sv: "Max delningshastighet"
+  sw: "Kasi ya juu ya kushiriki"
+  th: "ความเร็วการแบ่งปันสูงสุด"
+  uk: "Макс. швидкість надання"
+  vi: "Tốc độ chia sẻ tối đa"
+  zh: "最大共享速度"
+  zh-HK: "最高共享速度"
