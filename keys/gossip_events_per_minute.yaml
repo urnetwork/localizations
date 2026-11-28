@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} evento/min"
     other: "{count} eventos/min"
+  fa:
+    one: "{count} رویداد در دقیقه"
+    other: "{count} رویداد در دقیقه"
   fr:
     one: "{count} événement/min"
     other: "{count} événements/min"
@@ -91,6 +94,9 @@ localizations:
     other: "Matukio {count}/dak"
   th:
     other: "{count} เหตุการณ์/นาที"
+  tr:
+    one: "{count} olay/dk"
+    other: "{count} olay/dk"
   uk:
     one: "{count} подія/хв"
     few: "{count} події/хв"

@@ -21,9 +21,9 @@ export const ROOT = process.env.URNETWORK_ROOT
 // The store's locale codes are BCP-47, except that Simplified Chinese is `zh`
 // (what android's values-zh and the published web package already use).
 export const LOCALES = [
-	"en", "ar", "cs", "de", "el", "es", "es-419", "es-MX", "fr", "he", "hi",
-	"id", "it", "ja", "ko", "nl", "pl", "pt", "pt-BR", "pt-PT", "ru", "sv",
-	"sw", "th", "uk", "vi", "zh", "zh-HK",
+	"en", "ar", "cs", "de", "el", "es", "es-419", "es-MX", "fa", "fr", "he",
+	"hi", "id", "it", "ja", "ko", "nl", "pl", "pt", "pt-BR", "pt-PT", "ru",
+	"sv", "sw", "th", "tr", "uk", "vi", "zh", "zh-HK",
 ];
 
 // android: derived from the res/values-* directories that exist today. Adding a
@@ -31,10 +31,20 @@ export const LOCALES = [
 export const ANDROID_LOCALE_DIR = {
 	en: "values", ar: "values-ar", cs: "values-cs", de: "values-de",
 	el: "values-el", es: "values-es", "es-MX": "values-es-rMX",
-	fr: "values-fr", hi: "values-hi", ja: "values-ja", ko: "values-ko",
-	nl: "values-nl", pl: "values-pl", pt: "values-pt", "pt-BR": "values-pt-rBR",
-	ru: "values-ru", sw: "values-sw", th: "values-th", vi: "values-vi",
-	zh: "values-zh",
+	fa: "values-fa", fr: "values-fr", hi: "values-hi", ja: "values-ja",
+	ko: "values-ko", nl: "values-nl", pl: "values-pl", pt: "values-pt",
+	"pt-BR": "values-pt-rBR", ru: "values-ru", sw: "values-sw", th: "values-th",
+	tr: "values-tr", vi: "values-vi", zh: "values-zh",
+};
+
+// android: the BCP-47 tag of a values-* directory's locale ("values-es-rMX" is
+// es-MX), as res/xml/locales_config.xml lists it: the app's languages in the
+// system's per-app language settings (Android 13 and later) and in the app's
+// own language picker.
+export const androidLocaleTag = (dir) => {
+	if (dir === "values") return "en";
+	const [language, region] = dir.slice("values-".length).split("-r");
+	return region ? `${language}-${region}` : language;
 };
 
 // apple: the locale set the string catalog already carries. `sw` is absent here
@@ -42,10 +52,10 @@ export const ANDROID_LOCALE_DIR = {
 // means adding "sw" here and to knownRegions).
 export const APPLE_LOCALE = {
 	en: "en", ar: "ar", cs: "cs", de: "de", el: "el", es: "es",
-	"es-419": "es-419", "es-MX": "es-MX", fr: "fr", he: "he", hi: "hi",
-	id: "id", it: "it", ja: "ja", ko: "ko", nl: "nl", pl: "pl", pt: "pt",
-	"pt-BR": "pt-BR", "pt-PT": "pt-PT", ru: "ru", sv: "sv", th: "th",
-	uk: "uk", vi: "vi", zh: "zh-Hans", "zh-HK": "zh-HK",
+	"es-419": "es-419", "es-MX": "es-MX", fa: "fa", fr: "fr", he: "he",
+	hi: "hi", id: "id", it: "it", ja: "ja", ko: "ko", nl: "nl", pl: "pl",
+	pt: "pt", "pt-BR": "pt-BR", "pt-PT": "pt-PT", ru: "ru", sv: "sv",
+	th: "th", tr: "tr", uk: "uk", vi: "vi", zh: "zh-Hans", "zh-HK": "zh-HK",
 };
 
 // apple: the string tables. A key names its table with `table:` (default
@@ -60,10 +70,10 @@ export const appleTable = (k) => k.table ?? "Localizable";
 // into: the store's languages among Apple's Siri languages. es-419 serves
 // Siri's Spanish (Chile, United States), zh Mandarin (China mainland), zh-HK
 // Cantonese (Hong Kong), and pt with pt-BR Portuguese (Brazil). Siri has no
-// cs, el, hi, id, pl, pt-PT, sw, uk or vi voice to match a phrase in.
+// cs, el, fa, hi, id, pl, pt-PT, sw, uk or vi voice to match a phrase in.
 export const SIRI_LOCALES = [
 	"en", "ar", "de", "es", "es-419", "es-MX", "fr", "he", "it", "ja", "ko",
-	"nl", "pt", "pt-BR", "ru", "sv", "th", "zh", "zh-HK",
+	"nl", "pt", "pt-BR", "ru", "sv", "th", "tr", "zh", "zh-HK",
 ];
 
 // The app's name in an App Shortcuts phrase, which Siri fills in (with the
@@ -90,13 +100,13 @@ export const CLDR_CATEGORIES = {
 	en: ["one", "other"], ar: ["zero", "one", "two", "few", "many", "other"],
 	cs: ["one", "few", "many", "other"], de: ["one", "other"],
 	el: ["one", "other"], es: ["one", "other"], "es-419": ["one", "other"],
-	"es-MX": ["one", "other"], fr: ["one", "other"],
+	"es-MX": ["one", "other"], fa: ["one", "other"], fr: ["one", "other"],
 	he: ["one", "two", "many", "other"], hi: ["one", "other"], id: ["other"],
 	it: ["one", "other"], ja: ["other"], ko: ["other"], nl: ["one", "other"],
 	pl: ["one", "few", "many", "other"], pt: ["one", "other"],
 	"pt-BR": ["one", "other"], "pt-PT": ["one", "other"],
 	ru: ["one", "few", "many", "other"], sv: ["one", "other"],
-	sw: ["one", "other"], th: ["other"],
+	sw: ["one", "other"], th: ["other"], tr: ["one", "other"],
 	uk: ["one", "few", "many", "other"], vi: ["other"], zh: ["other"],
 	"zh-HK": ["other"],
 };
@@ -115,6 +125,9 @@ export const GETTEXT_PLURALS = {
 	sv: ["nplurals=2; plural=(n != 1);", ["one", "other"]],
 	sw: ["nplurals=2; plural=(n != 1);", ["one", "other"]],
 	hi: ["nplurals=2; plural=(n != 1);", ["one", "other"]],
+	tr: ["nplurals=2; plural=(n != 1);", ["one", "other"]],
+	// CLDR: one is i = 0 or n = 1, as in French
+	fa: ["nplurals=2; plural=(n > 1);", ["one", "other"]],
 	fr: ["nplurals=2; plural=(n > 1);", ["one", "other"]],
 	pt: ["nplurals=2; plural=(n > 1);", ["one", "other"]],
 	"pt-BR": ["nplurals=2; plural=(n > 1);", ["one", "other"]],

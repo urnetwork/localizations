@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "{count} IP"
     other: "{count} IPs"
+  fa:
+    one: "{count} IP"
+    other: "{count} IP"
   fr:
     one: "{count} IP"
     other: "{count} IP"
@@ -91,6 +94,9 @@ localizations:
     one: "anwani {count} ya IP"
     other: "anwani {count} za IP"
   th:
+    other: "{count} IP"
+  tr:
+    one: "{count} IP"
     other: "{count} IP"
   uk:
     one: "{count} IP-адреса"

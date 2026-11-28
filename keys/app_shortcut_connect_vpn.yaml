@@ -21,5 +21,6 @@ localizations:
   ru: "Подключи ${applicationName} VPN"
   sv: "Anslut ${applicationName} VPN"
   th: "เชื่อมต่อ ${applicationName} VPN"
+  tr: "${applicationName} VPN'i bağla"
   zh: "连接 ${applicationName} VPN"
   zh-HK: "連接 ${applicationName} VPN"

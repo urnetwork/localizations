@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} vez en la última hora"
     other: "{count} veces en la última hora"
+  fa:
+    one: "{count} بار در ساعت گذشته"
+    other: "{count} بار در ساعت گذشته"
   fr:
     one: "{count} fois au cours de la dernière heure"
     other: "{count} fois au cours de la dernière heure"
@@ -91,6 +94,9 @@ localizations:
     other: "mara {count} katika saa iliyopita"
   th:
     other: "{count} ครั้งในชั่วโมงที่ผ่านมา"
+  tr:
+    one: "Son bir saatte {count} kez"
+    other: "Son bir saatte {count} kez"
   uk:
     one: "{count} раз за останню годину"
     few: "{count} рази за останню годину"

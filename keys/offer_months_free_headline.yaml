@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "{months} mes de Pro, gratis"
     other: "{months} meses de Pro, gratis"
+  fa:
+    one: "{months} ماه Pro، رایگان"
+    other: "{months} ماه Pro، رایگان"
   fr:
     one: "{months} mois de Pro offert"
     other: "{months} mois de Pro offerts"
@@ -92,6 +95,9 @@ localizations:
     other: "Miezi {months} ya Pro, bila malipo"
   th:
     other: "Pro ฟรี {months} เดือน"
+  tr:
+    one: "{months} ay ücretsiz Pro"
+    other: "{months} ay ücretsiz Pro"
   uk:
     one: "{months} місяць Pro безкоштовно"
     few: "{months} місяці Pro безкоштовно"

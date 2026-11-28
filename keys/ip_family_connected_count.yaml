@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} conectado"
     other: "{count} conectados"
+  fa:
+    one: "{count} متصل"
+    other: "{count} متصل"
   fr:
     one: "{count} connecté"
     other: "{count} connectés"
@@ -91,6 +94,9 @@ localizations:
     other: "{count} zimeunganishwa"
   th:
     other: "เชื่อมต่อแล้ว {count}"
+  tr:
+    one: "{count} bağlı"
+    other: "{count} bağlı"
   uk:
     one: "Підключено: {count}"
     few: "Підключено: {count}"

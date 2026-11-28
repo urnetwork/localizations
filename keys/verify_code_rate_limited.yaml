@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minuto."
     other: "Demasiados intentos. Puedes solicitar un código nuevo en {minutes} minutos."
+  fa:
+    one: "تعداد تلاش‌ها بیش از حد مجاز است. می‌توانید {minutes} دقیقهٔ دیگر کد جدیدی درخواست کنید."
+    other: "تعداد تلاش‌ها بیش از حد مجاز است. می‌توانید {minutes} دقیقهٔ دیگر کد جدیدی درخواست کنید."
   fr:
     one: "Trop de tentatives. Vous pourrez demander un nouveau code dans {minutes} minute."
     other: "Trop de tentatives. Vous pourrez demander un nouveau code dans {minutes} minutes."
@@ -92,6 +95,9 @@ localizations:
     other: "Majaribio mengi mno. Unaweza kuomba msimbo mpya baada ya dakika {minutes}."
   th:
     other: "พยายามหลายครั้งเกินไป คุณสามารถขอรหัสใหม่ได้ในอีก {minutes} นาที"
+  tr:
+    one: "Çok fazla deneme yapıldı. {minutes} dakika sonra yeni bir kod isteyebilirsiniz."
+    other: "Çok fazla deneme yapıldı. {minutes} dakika sonra yeni bir kod isteyebilirsiniz."
   uk:
     one: "Забагато спроб. Новий код можна запросити через {minutes} хвилину."
     few: "Забагато спроб. Новий код можна запросити через {minutes} хвилини."

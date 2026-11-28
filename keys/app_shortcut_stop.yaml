@@ -21,5 +21,6 @@ localizations:
   ru: "Останови ${applicationName}"
   sv: "Stoppa ${applicationName}"
   th: "หยุด ${applicationName}"
+  tr: "${applicationName} bağlantısını durdur"
   zh: "停止 ${applicationName}"
   zh-HK: "停止 ${applicationName}"

@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "Empezar la prueba gratis con {months} mes gratis"
     other: "Empezar la prueba gratis con {months} meses gratis"
+  fa:
+    one: "شروع دورهٔ آزمایشی رایگان با {months} ماه رایگان"
+    other: "شروع دورهٔ آزمایشی رایگان با {months} ماه رایگان"
   fr:
     one: "Essai gratuit avec {months} mois offert"
     other: "Essai gratuit avec {months} mois offerts"
@@ -92,6 +95,9 @@ localizations:
     other: "Anza jaribio la bila malipo na miezi {months} bila malipo"
   th:
     other: "เริ่มทดลองใช้ฟรี พร้อมฟรี {months} เดือน"
+  tr:
+    one: "Ücretsiz denemeyi başlat ({months} ay ücretsiz)"
+    other: "Ücretsiz denemeyi başlat ({months} ay ücretsiz)"
   uk:
     one: "Почати пробний період із {months} безкоштовним місяцем"
     few: "Почати пробний період із {months} безкоштовними місяцями"

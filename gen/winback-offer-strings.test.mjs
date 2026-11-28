@@ -46,7 +46,7 @@ test("the card and terms lines are tagged for android and the site, the sheet li
 	assert.deepEqual(sheet.platforms, ["site"]);
 });
 
-test("every win-back line is translated into all 28 locales with its placeholders", () => {
+test("every win-back line is translated into every store locale with its placeholders", () => {
 	for (const id of [...Object.keys(SHARED), ...Object.keys(SITE)]) {
 		const k = keys.get(id);
 		assert.deepEqual(LOCALES.filter((l) => k.localizations[l] == null), [], `${id} locales`);
