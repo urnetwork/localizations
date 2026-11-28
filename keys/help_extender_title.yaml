@@ -1,0 +1,36 @@
+description: "Title of the short help that a '?' button next to Extenders opens (and that button's accessible name). Use the app's own word for extender (extenders, in the singular)."
+source: "What is an extender?"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ما هو الموسّع؟"
+  cs: "Co je extender?"
+  de: "Was ist ein Extender?"
+  el: "Τι είναι ένας επεκτατής;"
+  en: "What is an extender?"
+  es: "¿Qué es un extensor?"
+  es-419: "¿Qué es un extensor?"
+  es-MX: "¿Qué es un extensor?"
+  fr: "Qu’est-ce qu’un extendeur ?"
+  he: "מהו מרחיב?"
+  hi: "एक्सटेंडर क्या है?"
+  id: "Apa itu extender?"
+  it: "Che cos’è un extender?"
+  ja: "エクステンダーとは？"
+  ko: "익스텐더란 무엇인가요?"
+  nl: "Wat is een extender?"
+  pl: "Czym jest extender?"
+  pt: "O que é um extensor?"
+  pt-BR: "O que é um extensor?"
+  pt-PT: "O que é um extensor?"
+  ru: "Что такое экстендер?"
+  sv: "Vad är en extender?"
+  sw: "Kipanuzi ni nini?"
+  th: "ตัวขยายคืออะไร"
+  uk: "Що таке екстендер?"
+  vi: "Bộ mở rộng là gì?"
+  zh: "什么是扩展器？"
+  zh-HK: "什麼是擴展器？"
