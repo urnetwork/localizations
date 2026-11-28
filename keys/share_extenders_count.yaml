@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} extensor"
     other: "{count} extensores"
+  fa:
+    one: "{count} گسترش‌دهنده"
+    other: "{count} گسترش‌دهنده"
   fr:
     one: "{count} extendeur"
     other: "{count} extendeurs"
@@ -91,6 +94,9 @@ localizations:
     other: "Vipanuzi {count}"
   th:
     other: "ตัวขยาย {count} รายการ"
+  tr:
+    one: "{count} genişletici"
+    other: "{count} genişletici"
   uk:
     one: "{count} екстендер"
     few: "{count} екстендери"

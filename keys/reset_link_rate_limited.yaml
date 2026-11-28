@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minuto."
     other: "Demasiados intentos. Puedes solicitar un nuevo enlace de restablecimiento en {minutes} minutos."
+  fa:
+    one: "تعداد تلاش‌ها بیش از حد مجاز است. می‌توانید {minutes} دقیقهٔ دیگر لینک بازنشانی جدیدی درخواست کنید."
+    other: "تعداد تلاش‌ها بیش از حد مجاز است. می‌توانید {minutes} دقیقهٔ دیگر لینک بازنشانی جدیدی درخواست کنید."
   fr:
     one: "Trop de tentatives. Vous pourrez demander un nouveau lien de réinitialisation dans {minutes} minute."
     other: "Trop de tentatives. Vous pourrez demander un nouveau lien de réinitialisation dans {minutes} minutes."
@@ -92,6 +95,9 @@ localizations:
     other: "Majaribio mengi mno. Unaweza kuomba kiungo kipya cha kuweka upya baada ya dakika {minutes}."
   th:
     other: "พยายามหลายครั้งเกินไป คุณสามารถขอลิงก์รีเซ็ตใหม่ได้ในอีก {minutes} นาที"
+  tr:
+    one: "Çok fazla deneme yapıldı. {minutes} dakika sonra yeni bir sıfırlama bağlantısı isteyebilirsiniz."
+    other: "Çok fazla deneme yapıldı. {minutes} dakika sonra yeni bir sıfırlama bağlantısı isteyebilirsiniz."
   uk:
     one: "Забагато спроб. Нове посилання для скидання можна запросити через {minutes} хвилину."
     few: "Забагато спроб. Нове посилання для скидання можна запросити через {minutes} хвилини."

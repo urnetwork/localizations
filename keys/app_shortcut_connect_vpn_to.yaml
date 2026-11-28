@@ -21,5 +21,6 @@ localizations:
   ru: "Включи VPN в ${applicationName}"
   sv: "Slå på VPN i ${applicationName}"
   th: "เปิด VPN ของ ${applicationName}"
+  tr: "${applicationName} ile VPN'e bağlan"
   zh: "打开 ${applicationName} VPN"
   zh-HK: "開啟 ${applicationName} VPN"

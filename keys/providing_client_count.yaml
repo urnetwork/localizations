@@ -39,6 +39,9 @@ localizations:
   es-MX:
     one: "Proporcionando a {count} cliente"
     other: "Proporcionando a {count} clientes"
+  fa:
+    one: "در حال ارائه به {count} کلاینت"
+    other: "در حال ارائه به {count} کلاینت"
   fr:
     one: "Fourniture à {count} client"
     other: "Fourniture à {count} clients"
@@ -89,6 +92,9 @@ localizations:
     other: "Inatoa kwa wateja {count}"
   th:
     other: "กำลังให้บริการแก่ไคลเอนต์ {count} ราย"
+  tr:
+    one: "{count} istemciye bant genişliği sağlanıyor"
+    other: "{count} istemciye bant genişliği sağlanıyor"
   uk:
     one: "Надання {count} клієнту"
     few: "Надання {count} клієнтам"

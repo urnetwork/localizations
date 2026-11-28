@@ -21,5 +21,6 @@ localizations:
   ru: "Запусти ${applicationName} VPN"
   sv: "Starta ${applicationName} VPN"
   th: "เริ่ม ${applicationName} VPN"
+  tr: "${applicationName} VPN'i başlat"
   zh: "启动 ${applicationName} VPN"
   zh-HK: "啟動 ${applicationName} VPN"

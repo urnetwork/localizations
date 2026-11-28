@@ -38,6 +38,9 @@ localizations:
   es-MX:
     one: "{count} estrella"
     other: "{count} estrellas"
+  fa:
+    one: "{count} ستاره"
+    other: "{count} ستاره"
   fr:
     one: "{count} étoile"
     other: "{count} étoiles"
@@ -88,6 +91,9 @@ localizations:
     other: "nyota {count}"
   th:
     other: "{count} ดาว"
+  tr:
+    one: "{count} yıldız"
+    other: "{count} yıldız"
   uk:
     one: "{count} зірка"
     few: "{count} зірки"

@@ -40,6 +40,9 @@ localizations:
   es-MX:
     one: "Se exportó {count} archivo de registro ({size})"
     other: "Se exportaron {count} archivos de registro ({size})"
+  fa:
+    one: "{count} فایل لاگ صادر شد ({size})"
+    other: "{count} فایل لاگ صادر شد ({size})"
   fr:
     one: "{count} fichier journal exporté ({size})"
     other: "{count} fichiers journaux exportés ({size})"
@@ -90,6 +93,9 @@ localizations:
     other: "Faili {count} za kumbukumbu zimehamishwa ({size})"
   th:
     other: "ส่งออกไฟล์ล็อก {count} ไฟล์ ({size})"
+  tr:
+    one: "{count} günlük dosyası dışa aktarıldı ({size})"
+    other: "{count} günlük dosyası dışa aktarıldı ({size})"
   uk:
     one: "Експортовано {count} файл логів ({size})"
     few: "Експортовано {count} файли логів ({size})"

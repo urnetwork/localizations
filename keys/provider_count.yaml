@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} proveedor"
     other: "{count} proveedores"
+  fa:
+    one: "{count} ارائه‌دهنده"
+    other: "{count} ارائه‌دهنده"
   fr:
     one: "{count} fournisseur"
     other: "{count} fournisseurs"
@@ -91,6 +94,9 @@ localizations:
     other: "{count} watoa huduma"
   th:
     other: "{count} ผู้ให้บริการ"
+  tr:
+    one: "{count} sağlayıcı"
+    other: "{count} sağlayıcı"
   uk:
     one: "{count} провайдер"
     few: "{count} провайдери"

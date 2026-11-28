@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "+ {count} más"
     other: "+ {count} más"
+  fa:
+    one: "+ {count} مورد دیگر"
+    other: "+ {count} مورد دیگر"
   fr:
     one: "+ {count} de plus"
     other: "+ {count} de plus"
@@ -92,6 +95,9 @@ localizations:
     other: "+ {count} zaidi"
   th:
     other: "+ อีก {count} รายการ"
+  tr:
+    one: "+ {count} daha"
+    other: "+ {count} daha"
   uk:
     one: "+ ще {count}"
     few: "+ ще {count}"

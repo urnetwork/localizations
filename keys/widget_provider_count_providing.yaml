@@ -39,6 +39,9 @@ localizations:
   es-MX:
     one: "{count} proveedor · proporcionando"
     other: "{count} proveedores · proporcionando"
+  fa:
+    one: "{count} ارائه‌دهنده · در حال ارائه"
+    other: "{count} ارائه‌دهنده · در حال ارائه"
   fr:
     one: "{count} fournisseur · fourniture en cours"
     other: "{count} fournisseurs · fourniture en cours"
@@ -89,6 +92,9 @@ localizations:
     other: "Watoa huduma {count} · inatoa huduma"
   th:
     other: "ผู้ให้บริการ {count} ราย · กำลังให้บริการ"
+  tr:
+    one: "{count} sağlayıcı · sağlama yapılıyor"
+    other: "{count} sağlayıcı · sağlama yapılıyor"
   uk:
     one: "{count} провайдер · надає"
     few: "{count} провайдери · надає"

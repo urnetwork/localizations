@@ -21,5 +21,6 @@ localizations:
   ru: "Выключи VPN в ${applicationName}"
   sv: "Stäng av VPN i ${applicationName}"
   th: "ปิด VPN ของ ${applicationName}"
+  tr: "${applicationName} ile VPN bağlantısını kes"
   zh: "关闭 ${applicationName} VPN"
   zh-HK: "關閉 ${applicationName} VPN"

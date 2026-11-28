@@ -38,6 +38,9 @@ localizations:
   es-MX:
     one: "Tienes {count} dispositivo más en línea"
     other: "Tienes {count} dispositivos más en línea"
+  fa:
+    one: "شما {count} دستگاه دیگر آنلاین دارید"
+    other: "شما {count} دستگاه دیگر آنلاین دارید"
   fr:
     one: "Vous avez {count} autre appareil en ligne"
     other: "Vous avez {count} autres appareils en ligne"
@@ -88,6 +91,9 @@ localizations:
     other: "Una vifaa vingine {count} mtandaoni"
   th:
     other: "คุณมีอุปกรณ์อื่นออนไลน์อยู่ {count} เครื่อง"
+  tr:
+    one: "{count} başka cihazınız çevrimiçi"
+    other: "{count} başka cihazınız çevrimiçi"
   uk:
     one: "У вас {count} інший пристрій онлайн"
     few: "У вас {count} інші пристрої онлайн"

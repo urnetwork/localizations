@@ -21,5 +21,6 @@ localizations:
   ru: "Останови ${applicationName} VPN"
   sv: "Stoppa ${applicationName} VPN"
   th: "หยุด ${applicationName} VPN"
+  tr: "${applicationName} VPN'i durdur"
   zh: "停止 ${applicationName} VPN"
   zh-HK: "停止 ${applicationName} VPN"

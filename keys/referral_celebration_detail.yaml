@@ -43,6 +43,9 @@ localizations:
   es-MX:
     one: "Un amigo acaba de unirse a URnetwork con tu código. Ambos ganan +{data} GiB de datos gratis al día, de por vida."
     other: "{count} amigos acaban de unirse a URnetwork con tu código. Cada uno te da +{data} GiB de datos gratis al día, de por vida."
+  fa:
+    one: "{count} دوست همین حالا با کد شما به URnetwork پیوست. هر دوی شما روزانه +{data} GiB دادهٔ رایگان دریافت می‌کنید — برای همیشه."
+    other: "{count} دوست همین حالا با کد شما به URnetwork پیوستند. به ازای هر کدام، روزانه +{data} GiB دادهٔ رایگان دریافت می‌کنید — برای همیشه."
   fr:
     one: "Un ami vient de rejoindre URnetwork avec votre code. Vous gagnez tous les deux +{data} GiB de données gratuites par jour — à vie."
     other: "{count} amis viennent de rejoindre URnetwork avec votre code. Chacun vous rapporte +{data} GiB de données gratuites par jour — à vie."
@@ -93,6 +96,9 @@ localizations:
     other: "Marafiki {count} wamejiunga sasa hivi na URnetwork kwa msimbo wako. Kila mmoja anakuletea +{data} GiB za data bila malipo kwa siku — maisha yote."
   th:
     other: "เพื่อน {count} คนเพิ่งเข้าร่วม URnetwork ด้วยโค้ดของคุณ แต่ละคนทำให้คุณได้รับข้อมูลฟรี +{data} GiB ต่อวัน — ตลอดชีวิต"
+  tr:
+    one: "Bir arkadaşınız az önce kodunuzla URnetwork'e katıldı. İkiniz de günde +{data} GiB ücretsiz veri kazanıyorsunuz — ömür boyu."
+    other: "{count} arkadaşınız az önce kodunuzla URnetwork'e katıldı. Her biri size günde +{data} GiB ücretsiz veri kazandırıyor — ömür boyu."
   uk:
     one: "Друг щойно приєднався до URnetwork за вашим кодом. Ви обидва отримуєте +{data} GiB безкоштовних даних на день — довічно."
     few: "{count} друзі щойно приєдналися до URnetwork за вашим кодом. Кожен приносить вам +{data} GiB безкоштовних даних на день — довічно."
