@@ -1,0 +1,36 @@
+description: "Title of the short help that a '?' button next to the usage bar's Pending opens (and that button's accessible name). Quote the usage bar's own word for Pending (pending_data_key) as it reads in your language."
+source: "What is Pending?"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ما معنى «معلّق»؟"
+  cs: "Co znamená „Čekající“?"
+  de: "Was bedeutet „Ausstehend“?"
+  el: "Τι σημαίνει «Σε εκκρεμότητα»;"
+  en: "What is Pending?"
+  es: "¿Qué significa «Pendiente»?"
+  es-419: "¿Qué significa “Pendiente”?"
+  es-MX: "¿Qué significa “Pendiente”?"
+  fr: "Que signifie « En attente » ?"
+  he: "מה פירוש “ממתין”?"
+  hi: "“लंबित” का क्या मतलब है?"
+  id: "Apa arti “Tertunda”?"
+  it: "Che cosa significa “In sospeso”?"
+  ja: "「保留中」とは？"
+  ko: "‘대기 중’이란 무엇인가요?"
+  nl: "Wat betekent ‘In behandeling’?"
+  pl: "Co oznacza „Oczekujące”?"
+  pt: "O que significa “Pendente”?"
+  pt-BR: "O que significa “Pendente”?"
+  pt-PT: "O que significa «Pendente»?"
+  ru: "Что значит «В ожидании»?"
+  sv: "Vad betyder ”Väntande”?"
+  sw: "“Inasubiri” inamaanisha nini?"
+  th: "“รอดำเนินการ” หมายถึงอะไร"
+  uk: "Що означає «В очікуванні»?"
+  vi: "“Đang chờ” nghĩa là gì?"
+  zh: "“待处理”是什么意思？"
+  zh-HK: "「待處理」是甚麼意思？"
