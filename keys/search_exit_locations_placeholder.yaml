@@ -1,0 +1,38 @@
+description: "Placeholder of the search field on the Excluded exit locations screen, which finds countries, regions (such as US states) and cities to exclude."
+source: "Search countries, regions and cities"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ابحث عن البلدان والمناطق والمدن"
+  cs: "Hledat země, regiony a města"
+  de: "Länder, Regionen und Städte suchen"
+  el: "Αναζήτηση χωρών, περιοχών και πόλεων"
+  en: "Search countries, regions and cities"
+  es: "Buscar países, regiones y ciudades"
+  es-419: "Buscar países, regiones y ciudades"
+  es-MX: "Buscar países, regiones y ciudades"
+  fa: "جست‌وجوی کشورها، مناطق و شهرها"
+  fr: "Rechercher des pays, régions et villes"
+  he: "חיפוש מדינות, אזורים וערים"
+  hi: "देश, क्षेत्र और शहर खोजें"
+  id: "Cari negara, wilayah, dan kota"
+  it: "Cerca paesi, regioni e città"
+  ja: "国、地域、都市を検索"
+  ko: "국가, 지역, 도시 검색"
+  nl: "Zoek landen, regio’s en steden"
+  pl: "Szukaj krajów, regionów i miast"
+  pt: "Pesquisar países, regiões e cidades"
+  pt-BR: "Pesquisar países, regiões e cidades"
+  pt-PT: "Pesquisar países, regiões e cidades"
+  ru: "Поиск стран, регионов и городов"
+  sv: "Sök länder, regioner och städer"
+  sw: "Tafuta nchi, maeneo na miji"
+  th: "ค้นหาประเทศ ภูมิภาค และเมือง"
+  tr: "Ülke, bölge ve şehir ara"
+  uk: "Пошук країн, регіонів і міст"
+  vi: "Tìm quốc gia, khu vực và thành phố"
+  zh: "搜索国家、地区和城市"
+  zh-HK: "搜尋國家、地區和城市"

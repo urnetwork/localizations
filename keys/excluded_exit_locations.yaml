@@ -1,0 +1,38 @@
+description: "Title of the settings row and screen that list the places (countries, regions such as US states, cities) whose exits the user's connections avoid. Use the app's own word for exit (as in 'Stay on this exit')."
+source: "Excluded exit locations"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "مواقع المخارج المستبعدة"
+  cs: "Vyloučená místa výstupu"
+  de: "Ausgeschlossene Exit-Standorte"
+  el: "Εξαιρεμένες τοποθεσίες εξόδου"
+  en: "Excluded exit locations"
+  es: "Ubicaciones de salida excluidas"
+  es-419: "Ubicaciones de salida excluidas"
+  es-MX: "Ubicaciones de salida excluidas"
+  fa: "مکان‌های خروجی مستثناشده"
+  fr: "Emplacements de sortie exclus"
+  he: "מיקומי יציאה מוחרגים"
+  hi: "बाहर रखे गए एग्ज़िट स्थान"
+  id: "Lokasi titik keluar yang dikecualikan"
+  it: "Località di uscita escluse"
+  ja: "除外する出口の場所"
+  ko: "제외된 출구 위치"
+  nl: "Uitgesloten exitlocaties"
+  pl: "Wykluczone lokalizacje wyjścia"
+  pt: "Locais de saída excluídos"
+  pt-BR: "Locais de saída excluídos"
+  pt-PT: "Locais de saída excluídos"
+  ru: "Исключённые места выхода"
+  sv: "Uteslutna utgångsplatser"
+  sw: "Maeneo ya kutoka yaliyoondolewa"
+  th: "ตำแหน่งทางออกที่ยกเว้น"
+  tr: "Hariç tutulan çıkış konumları"
+  uk: "Виключені місця виходу"
+  vi: "Vị trí điểm thoát bị loại trừ"
+  zh: "排除的出口位置"
+  zh-HK: "排除的出口位置"

@@ -1,0 +1,38 @@
+description: "Button beside a search result on the Excluded exit locations screen: adds that country, region or city to the excluded list. Short."
+source: "Exclude"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "استبعاد"
+  cs: "Vyloučit"
+  de: "Ausschließen"
+  el: "Εξαίρεση"
+  en: "Exclude"
+  es: "Excluir"
+  es-419: "Excluir"
+  es-MX: "Excluir"
+  fa: "مستثنا کردن"
+  fr: "Exclure"
+  he: "החרגה"
+  hi: "बाहर रखें"
+  id: "Kecualikan"
+  it: "Escludi"
+  ja: "除外"
+  ko: "제외"
+  nl: "Uitsluiten"
+  pl: "Wyklucz"
+  pt: "Excluir"
+  pt-BR: "Excluir"
+  pt-PT: "Excluir"
+  ru: "Исключить"
+  sv: "Uteslut"
+  sw: "Ondoa"
+  th: "ยกเว้น"
+  tr: "Hariç tut"
+  uk: "Виключити"
+  vi: "Loại trừ"
+  zh: "排除"
+  zh-HK: "排除"
