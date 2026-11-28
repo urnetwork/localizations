@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "لن تستخدم الاتصالات مخارج في هذه الأماكن، إلا إذا اخترت أحدها مباشرة."
   cs: "Připojení nebudou používat výstupy v těchto místech, pokud některé z nich nevyberete přímo."

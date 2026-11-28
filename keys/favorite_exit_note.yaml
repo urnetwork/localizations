@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "جهاز أحد الأعضاء. قد يصبح غير متصل أو يغادر الشبكة في أي وقت."
   cs: "Zařízení jiného člena. Může se kdykoli odpojit nebo opustit síť."

@@ -4,6 +4,7 @@ platforms:
   - android
   - apple
   - windows
+  - linux
 localizations:
   ar: "لا توجد مواقع مستبعدة بعد. ابحث عن بلد أو منطقة أو مدينة لاستبعادها."
   cs: "Zatím žádná vyloučená místa. Vyhledejte zemi, region nebo město, které chcete vyloučit."
