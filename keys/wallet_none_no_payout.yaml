@@ -1,0 +1,37 @@
+description: "Earnings, Bittensor wallet card with no wallet connected: says plainly that earnings can't be paid out without a payout wallet."
+source: "No payout wallet. Your earnings can't be paid out until you connect one."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لا توجد محفظة دفع. لا يمكن صرف أرباحك حتى تربط محفظة."
+  cs: "Žádná peněženka pro výplaty. Dokud ji nepřipojíte, výdělky vám nelze vyplatit."
+  de: "Keine Auszahlungs-Wallet. Deine Einnahmen können erst ausgezahlt werden, wenn du eine verbindest."
+  el: "Δεν υπάρχει πορτοφόλι πληρωμών. Τα κέρδη σας δεν μπορούν να πληρωθούν μέχρι να συνδέσετε ένα."
+  en: "No payout wallet. Your earnings can't be paid out until you connect one."
+  es: "No hay billetera de pagos. Tus ganancias no se pueden pagar hasta que conectes una."
+  es-419: "No hay billetera de pagos. Tus ganancias no se pueden pagar hasta que conectes una."
+  es-MX: "No hay cartera de pagos. Tus ganancias no se pueden pagar hasta que conectes una."
+  fr: "Aucun portefeuille de paiement. Vos gains ne peuvent pas être versés tant que vous n'en avez pas connecté un."
+  he: "אין ארנק תשלומים. לא ניתן לשלם את הרווחים שלכם עד שתחברו ארנק."
+  hi: "कोई भुगतान वॉलेट नहीं है। जब तक आप एक वॉलेट कनेक्ट नहीं करते, आपकी कमाई का भुगतान नहीं हो सकता।"
+  id: "Tidak ada dompet pembayaran. Penghasilan Anda tidak dapat dibayarkan sampai Anda menghubungkannya."
+  it: "Nessun portafoglio per i pagamenti. I tuoi guadagni non possono essere pagati finché non ne colleghi uno."
+  ja: "支払い用ウォレットがありません。ウォレットを接続するまで、収益は支払われません。"
+  ko: "지급 지갑이 없습니다. 지갑을 연결할 때까지 수익을 지급할 수 없습니다."
+  nl: "Geen uitbetalingswallet. Je inkomsten kunnen pas worden uitbetaald als je er een koppelt."
+  pl: "Brak portfela do wypłat. Twoje zarobki nie mogą zostać wypłacone, dopóki go nie połączysz."
+  pt: "Sem carteira de pagamentos. Os seus ganhos não podem ser pagos até ligar uma."
+  pt-BR: "Nenhuma carteira de pagamentos. Seus ganhos não podem ser pagos até você conectar uma."
+  pt-PT: "Sem carteira de pagamentos. Os seus ganhos não podem ser pagos até ligar uma."
+  ru: "Нет кошелька для выплат. Ваш заработок не может быть выплачен, пока вы его не подключите."
+  sv: "Ingen utbetalningsplånbok. Dina intäkter kan inte betalas ut förrän du ansluter en."
+  sw: "Hakuna pochi ya malipo. Mapato yako hayawezi kulipwa hadi uunganishe moja."
+  th: "ไม่มีวอลเล็ตรับเงิน รายได้ของคุณจะจ่ายออกไม่ได้จนกว่าคุณจะเชื่อมต่อวอลเล็ต"
+  uk: "Немає гаманця для виплат. Ваш заробіток не може бути виплачено, доки ви його не під'єднаєте."
+  vi: "Chưa có ví nhận thanh toán. Thu nhập của bạn không thể được chi trả cho đến khi bạn kết nối một ví."
+  zh: "没有收款钱包。在您连接钱包之前，您的收益无法支付。"
+  zh-HK: "沒有收款錢包。在您連接錢包之前，您的收益無法支付。"

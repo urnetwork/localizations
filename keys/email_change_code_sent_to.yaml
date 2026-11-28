@@ -1,0 +1,40 @@
+description: "The email change sheet, second step: the label of a code field. The argument is the address the code went to (the current email masked, or the new email)."
+source: "Code sent to %@"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+placeholders:
+  - name: address
+    type: string
+localizations:
+  ar: "الرمز المرسل إلى {address}"
+  cs: "Kód odeslaný na {address}"
+  de: "Code an {address}"
+  el: "Κωδικός που στάλθηκε στο {address}"
+  en: "Code sent to {address}"
+  es: "Código enviado a {address}"
+  es-419: "Código enviado a {address}"
+  es-MX: "Código enviado a {address}"
+  fr: "Code envoyé à {address}"
+  he: "הקוד שנשלח אל {address}"
+  hi: "{address} पर भेजा गया कोड"
+  id: "Kode yang dikirim ke {address}"
+  it: "Codice inviato a {address}"
+  ja: "{address} に送信したコード"
+  ko: "{address}(으)로 보낸 코드"
+  nl: "Code verstuurd naar {address}"
+  pl: "Kod wysłany na {address}"
+  pt: "Código enviado para {address}"
+  pt-BR: "Código enviado para {address}"
+  pt-PT: "Código enviado para {address}"
+  ru: "Код, отправленный на {address}"
+  sv: "Kod skickad till {address}"
+  sw: "Msimbo uliotumwa kwa {address}"
+  th: "รหัสที่ส่งไปที่ {address}"
+  uk: "Код, надісланий на {address}"
+  vi: "Mã đã gửi tới {address}"
+  zh: "发送到 {address} 的验证码"
+  zh-HK: "發送到 {address} 的驗證碼"

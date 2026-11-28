@@ -1,0 +1,37 @@
+description: "Email change refused: the account has no email sign-in to change; the person adds one as a sign-in method instead."
+source: "Your account has no email sign-in. Add one as a sign-in method instead."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لا يحتوي حسابك على تسجيل دخول بالبريد الإلكتروني. أضف واحدًا كطريقة لتسجيل الدخول بدلًا من ذلك."
+  cs: "Váš účet nemá přihlášení e-mailem. Místo toho ho přidejte jako způsob přihlášení."
+  de: "Dein Konto hat keine E-Mail-Anmeldung. Füge stattdessen eine als Anmeldemethode hinzu."
+  el: "Ο λογαριασμός σας δεν έχει σύνδεση με email. Προσθέστε μία ως μέθοδο σύνδεσης."
+  en: "Your account has no email sign-in. Add one as a sign-in method instead."
+  es: "Tu cuenta no tiene inicio de sesión con correo. Añade uno como método de inicio de sesión."
+  es-419: "Tu cuenta no tiene inicio de sesión con correo. Agrega uno como método de inicio de sesión."
+  es-MX: "Tu cuenta no tiene inicio de sesión con correo. Agrega uno como método de inicio de sesión."
+  fr: "Votre compte n'a pas de connexion par e-mail. Ajoutez-en une comme méthode de connexion."
+  he: "לחשבון שלכם אין התחברות באימייל. הוסיפו אותה כשיטת התחברות."
+  hi: "आपके खाते में ईमेल से साइन-इन नहीं है। इसके बजाय इसे साइन-इन विधि के रूप में जोड़ें।"
+  id: "Akun Anda tidak memiliki metode masuk dengan email. Tambahkan sebagai metode masuk."
+  it: "Il tuo account non ha un accesso con email. Aggiungilo invece come metodo di accesso."
+  ja: "アカウントにメールでのサインインがありません。代わりにサインイン方法として追加してください。"
+  ko: "계정에 이메일 로그인이 없습니다. 대신 로그인 방법으로 추가하세요."
+  nl: "Je account heeft geen e-mailaanmelding. Voeg er in plaats daarvan een toe als inlogmethode."
+  pl: "Twoje konto nie ma logowania e-mailem. Zamiast tego dodaj je jako metodę logowania."
+  pt: "A sua conta não tem início de sessão por email. Adicione um como método de início de sessão."
+  pt-BR: "Sua conta não tem login por e-mail. Adicione um como método de login."
+  pt-PT: "A sua conta não tem início de sessão por email. Adicione um como método de início de sessão."
+  ru: "В вашем аккаунте нет входа по почте. Добавьте его как способ входа."
+  sv: "Ditt konto har ingen inloggning med e-post. Lägg till en som inloggningsmetod i stället."
+  sw: "Akaunti yako haina kuingia kwa barua pepe. Ongeza moja kama njia ya kuingia badala yake."
+  th: "บัญชีของคุณไม่มีการลงชื่อเข้าใช้ด้วยอีเมล โปรดเพิ่มเป็นวิธีลงชื่อเข้าใช้แทน"
+  uk: "У вашому обліковому записі немає входу через пошту. Натомість додайте його як спосіб входу."
+  vi: "Tài khoản của bạn chưa có đăng nhập bằng email. Hãy thêm email làm phương thức đăng nhập."
+  zh: "您的账户没有邮箱登录。请改为将邮箱添加为登录方式。"
+  zh-HK: "您的帳戶沒有電郵登入。請改為將電郵加入為登入方式。"

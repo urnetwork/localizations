@@ -1,0 +1,37 @@
+description: "Snackbar message displayed when a Microsoft sign-in method is successfully added."
+source: "Microsoft sign-in method added"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تمت إضافة طريقة تسجيل الدخول عبر Microsoft"
+  cs: "Způsob přihlášení Microsoft byl přidán"
+  de: "Microsoft-Anmeldemethode hinzugefügt"
+  el: "Η μέθοδος σύνδεσης Microsoft προστέθηκε"
+  en: "Microsoft sign-in method added"
+  es: "Método de inicio de sesión de Microsoft añadido"
+  es-419: "Método de inicio de sesión de Microsoft agregado"
+  es-MX: "Método de inicio de sesión de Microsoft agregado"
+  fr: "Méthode de connexion Microsoft ajoutée"
+  he: "שיטת ההתחברות של Microsoft נוספה"
+  hi: "Microsoft साइन-इन विधि जोड़ी गई"
+  id: "Metode masuk Microsoft ditambahkan"
+  it: "Metodo di accesso Microsoft aggiunto"
+  ja: "Microsoftのサインイン方法を追加しました"
+  ko: "Microsoft 로그인 방법이 추가되었습니다"
+  nl: "Microsoft-inlogmethode toegevoegd"
+  pl: "Dodano metodę logowania Microsoft"
+  pt: "Método de início de sessão Microsoft adicionado"
+  pt-BR: "Método de login Microsoft adicionado"
+  pt-PT: "Método de início de sessão Microsoft adicionado"
+  ru: "Способ входа через Microsoft добавлен"
+  sv: "Microsoft-inloggningsmetod tillagd"
+  sw: "Njia ya kuingia ya Microsoft imeongezwa"
+  th: "เพิ่มวิธีลงชื่อเข้าใช้ Microsoft แล้ว"
+  uk: "Спосіб входу через Microsoft додано"
+  vi: "Đã thêm phương thức đăng nhập Microsoft"
+  zh: "已添加 Microsoft 登录方式"
+  zh-HK: "已添加 Microsoft 登入方式"

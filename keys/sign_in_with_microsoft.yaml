@@ -1,0 +1,37 @@
+description: "Sign-in screen and the add sign-in method sheet: the Sign in with Microsoft button."
+source: "Sign in with Microsoft"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تسجيل الدخول باستخدام Microsoft"
+  cs: "Přihlásit se pomocí Microsoft"
+  de: "Mit Microsoft anmelden"
+  el: "Σύνδεση με Microsoft"
+  en: "Sign in with Microsoft"
+  es: "Iniciar sesión con Microsoft"
+  es-419: "Iniciar sesión con Microsoft"
+  es-MX: "Iniciar sesión con Microsoft"
+  fr: "Se connecter avec Microsoft"
+  he: "התחבר עם Microsoft"
+  hi: "Microsoft से साइन इन करें"
+  id: "Masuk dengan Microsoft"
+  it: "Accedi con Microsoft"
+  ja: "Microsoft でサインイン"
+  ko: "Microsoft로 로그인"
+  nl: "Log in met Microsoft"
+  pl: "Zaloguj się przez Microsoft"
+  pt: "Iniciar sessão com Microsoft"
+  pt-BR: "Entrar com Microsoft"
+  pt-PT: "Iniciar sessão com Microsoft"
+  ru: "Войти через Microsoft"
+  sv: "Logga in med Microsoft"
+  sw: "Ingia na Microsoft"
+  th: "เข้าสู่ระบบด้วย Microsoft"
+  uk: "Увійти через Microsoft"
+  vi: "Đăng nhập bằng Microsoft"
+  zh: "使用 Microsoft 登录"
+  zh-HK: "使用 Microsoft 登入"

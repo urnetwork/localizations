@@ -1,0 +1,37 @@
+description: "Earnings, the payout wallet disconnect refused because a signed payout consent (or hotkey delegation) pays the network: only a signed replacement can end it. Names the Change wallet button (sn_consent_change) exactly."
+source: "Your signed payout consent sends your earnings to this wallet, and only another signed consent can replace it. Use Change wallet instead."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "موافقتك الموقّعة على الدفع ترسل أرباحك إلى هذه المحفظة، ولا يمكن استبدالها إلا بموافقة موقّعة أخرى. استخدم «تغيير المحفظة» بدلًا من ذلك."
+  cs: "Váš podepsaný souhlas s výplatami posílá výdělky do této peněženky a nahradit ho může jen jiný podepsaný souhlas. Použijte místo toho „Změnit peněženku“."
+  de: "Deine signierte Auszahlungszustimmung schickt deine Einnahmen an diese Wallet, und nur eine andere signierte Zustimmung kann sie ersetzen. Nutze stattdessen „Wallet wechseln“."
+  el: "Η υπογεγραμμένη συγκατάθεση πληρωμών σας στέλνει τα κέρδη σας σε αυτό το πορτοφόλι και μόνο άλλη υπογεγραμμένη συγκατάθεση μπορεί να την αντικαταστήσει. Χρησιμοποιήστε την «Αλλαγή πορτοφολιού»."
+  en: "Your signed payout consent sends your earnings to this wallet, and only another signed consent can replace it. Use Change wallet instead."
+  es: "Tu consentimiento de pago firmado envía tus ganancias a esta billetera, y solo otro consentimiento firmado puede reemplazarlo. Usa «Cambiar billetera»."
+  es-419: "Tu consentimiento de pago firmado envía tus ganancias a esta billetera, y solo otro consentimiento firmado puede reemplazarlo. Usa «Cambiar billetera»."
+  es-MX: "Tu consentimiento de pago firmado envía tus ganancias a esta cartera, y solo otro consentimiento firmado puede reemplazarlo. Usa «Cambiar cartera»."
+  fr: "Votre consentement de paiement signé envoie vos gains vers ce portefeuille, et seul un autre consentement signé peut le remplacer. Utilisez plutôt « Changer de portefeuille »."
+  he: "ההסכמה החתומה שלכם לתשלומים שולחת את הרווחים לארנק הזה, ורק הסכמה חתומה אחרת יכולה להחליף אותה. השתמשו במקום זאת ב„החלפת ארנק”."
+  hi: "आपकी हस्ताक्षरित भुगतान सहमति आपकी कमाई इसी वॉलेट में भेजती है, और इसे केवल दूसरी हस्ताक्षरित सहमति ही बदल सकती है। इसके बजाय “वॉलेट बदलें” का उपयोग करें।"
+  id: "Persetujuan pembayaran bertanda tangan Anda mengirim penghasilan ke dompet ini, dan hanya persetujuan bertanda tangan lain yang dapat menggantinya. Gunakan “Ganti dompet”."
+  it: "Il tuo consenso ai pagamenti firmato invia i guadagni a questo portafoglio e solo un altro consenso firmato può sostituirlo. Usa invece “Cambia portafoglio”."
+  ja: "署名済みの支払い同意により、収益はこのウォレットに送られます。この同意は別の署名済み同意でのみ置き換えられます。代わりに「ウォレットを変更」を使用してください。"
+  ko: "서명된 지급 동의에 따라 수익이 이 지갑으로 지급되며, 이 동의는 다른 서명된 동의로만 대체할 수 있습니다. 대신 ‘지갑 변경’을(를) 사용하세요."
+  nl: "Je ondertekende uitbetalingstoestemming stuurt je inkomsten naar deze wallet, en alleen een andere ondertekende toestemming kan die vervangen. Gebruik in plaats daarvan ‘Wallet wijzigen’."
+  pl: "Twoja podpisana zgoda na wypłaty kieruje zarobki do tego portfela i zastąpić ją może tylko inna podpisana zgoda. Zamiast tego użyj opcji „Zmień portfel”."
+  pt: "O seu consentimento de pagamento assinado envia os seus ganhos para esta carteira, e só outro consentimento assinado o pode substituir. Use antes “Mudar de carteira”."
+  pt-BR: "Seu consentimento de pagamento assinado envia seus ganhos para esta carteira, e só outro consentimento assinado pode substituí-lo. Use “Trocar carteira”."
+  pt-PT: "O seu consentimento de pagamento assinado envia os seus ganhos para esta carteira, e só outro consentimento assinado o pode substituir. Use antes “Mudar de carteira”."
+  ru: "Ваше подписанное согласие на выплаты направляет заработок на этот кошелёк, и заменить его может только другое подписанное согласие. Используйте «Сменить кошелек»."
+  sv: "Ditt signerade utbetalningsmedgivande skickar dina intäkter till den här plånboken, och bara ett annat signerat medgivande kan ersätta det. Använd ”Byt plånbok” i stället."
+  sw: "Ridhaa yako ya malipo iliyotiwa saini inatuma mapato yako kwenye pochi hii, na ridhaa nyingine iliyotiwa saini pekee ndiyo inaweza kuibadilisha. Tumia “Badilisha pochi” badala yake."
+  th: "ความยินยอมรับเงินที่คุณลงนามไว้จะส่งรายได้ของคุณไปยังวอลเล็ตนี้ และมีเพียงความยินยอมที่ลงนามฉบับอื่นเท่านั้นที่แทนที่ได้ โปรดใช้ “เปลี่ยนกระเป๋าเงิน” แทน"
+  uk: "Ваша підписана згода на виплати спрямовує заробіток на цей гаманець, і замінити її може лише інша підписана згода. Натомість скористайтеся «Змінити гаманець»."
+  vi: "Sự đồng ý nhận thanh toán đã ký của bạn chuyển thu nhập tới ví này, và chỉ một sự đồng ý đã ký khác mới thay thế được. Hãy dùng “Đổi ví”."
+  zh: "您签署的收款授权会将收益发送到此钱包，只有另一份签署的授权才能替换它。请改用“更换钱包”。"
+  zh-HK: "您簽署的收款授權會將收益發送到此錢包，只有另一份簽署的授權才能取代它。請改用「更換錢包」。"

@@ -1,0 +1,37 @@
+description: "Email change: the app holds no network sign-in to send the change with (the sdk's network credential), or the server answered owner_only."
+source: "Sign in again to change your email."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "سجّل الدخول مرة أخرى لتغيير بريدك الإلكتروني."
+  cs: "Pro změnu e-mailu se znovu přihlaste."
+  de: "Melde dich erneut an, um deine E-Mail-Adresse zu ändern."
+  el: "Συνδεθείτε ξανά για να αλλάξετε το email σας."
+  en: "Sign in again to change your email."
+  es: "Vuelve a iniciar sesión para cambiar tu correo."
+  es-419: "Vuelve a iniciar sesión para cambiar tu correo."
+  es-MX: "Vuelve a iniciar sesión para cambiar tu correo."
+  fr: "Reconnectez-vous pour changer votre e-mail."
+  he: "התחברו שוב כדי לשנות את האימייל."
+  hi: "अपना ईमेल बदलने के लिए फिर से साइन इन करें।"
+  id: "Masuk lagi untuk mengganti email Anda."
+  it: "Accedi di nuovo per cambiare la tua email."
+  ja: "メールアドレスを変更するには、もう一度サインインしてください。"
+  ko: "이메일을 변경하려면 다시 로그인하세요."
+  nl: "Log opnieuw in om je e-mailadres te wijzigen."
+  pl: "Zaloguj się ponownie, aby zmienić adres e-mail."
+  pt: "Inicie sessão novamente para alterar o seu email."
+  pt-BR: "Entre novamente para alterar seu e-mail."
+  pt-PT: "Inicie sessão novamente para alterar o seu email."
+  ru: "Войдите снова, чтобы изменить адрес почты."
+  sv: "Logga in igen för att byta e-post."
+  sw: "Ingia tena ili kubadilisha barua pepe yako."
+  th: "โปรดลงชื่อเข้าใช้อีกครั้งเพื่อเปลี่ยนอีเมล"
+  uk: "Увійдіть знову, щоб змінити адресу пошти."
+  vi: "Hãy đăng nhập lại để đổi email."
+  zh: "请重新登录以更改邮箱。"
+  zh-HK: "請重新登入以更改電郵。"

@@ -1,0 +1,10 @@
+description: "Sessions screen (Account > Sessions), row line 3, after the sign-in date: the sign-in method of a session created with Sign in with Microsoft. Not tagged apple: Apple's catalog is keyed by the English source, and microsoft already carries \"Microsoft\" there, so the apple screen reads that entry."
+source: "Microsoft"
+translatable: false
+platforms:
+  - android
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Microsoft"

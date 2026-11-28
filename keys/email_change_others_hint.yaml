@@ -1,0 +1,37 @@
+description: "The email change sheet, once complete, when the server could not sign out the other sessions (the current sign-in has none to keep). Names the Sessions screen (sessions_title) exactly."
+source: "To sign out your other devices, open Sessions."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "لتسجيل خروج أجهزتك الأخرى، افتح «الجلسات»."
+  cs: "Ostatní zařízení odhlásíte v části Relace."
+  de: "Um deine anderen Geräte abzumelden, öffne „Sitzungen“."
+  el: "Για να αποσυνδέσετε τις άλλες συσκευές σας, ανοίξτε τις «Συνεδρίες»."
+  en: "To sign out your other devices, open Sessions."
+  es: "Para cerrar la sesión en tus otros dispositivos, abre «Sesiones»."
+  es-419: "Para cerrar la sesión en tus otros dispositivos, abre «Sesiones»."
+  es-MX: "Para cerrar la sesión en tus otros dispositivos, abre «Sesiones»."
+  fr: "Pour déconnecter vos autres appareils, ouvrez « Sessions »."
+  he: "כדי לנתק את המכשירים האחרים שלכם, פתחו את „הפעלות”."
+  hi: "अपने दूसरे डिवाइस साइन आउट करने के लिए “सत्र” खोलें।"
+  id: "Untuk mengeluarkan perangkat Anda yang lain, buka “Sesi”."
+  it: "Per disconnettere gli altri tuoi dispositivi, apri “Sessioni”."
+  ja: "ほかのデバイスをサインアウトするには、「セッション」を開いてください。"
+  ko: "다른 기기에서 로그아웃하려면 ‘세션’을(를) 여세요."
+  nl: "Open ‘Sessies’ om je andere apparaten af te melden."
+  pl: "Aby wylogować pozostałe urządzenia, otwórz „Sesje”."
+  pt: "Para terminar a sessão nos seus outros dispositivos, abra “Sessões”."
+  pt-BR: "Para desconectar seus outros dispositivos, abra “Sessões”."
+  pt-PT: "Para terminar a sessão nos seus outros dispositivos, abra “Sessões”."
+  ru: "Чтобы выйти на других устройствах, откройте «Сеансы»."
+  sv: "Öppna ”Sessioner” för att logga ut dina andra enheter."
+  sw: "Ili kutoa vifaa vyako vingine kwenye akaunti, fungua “Vipindi”."
+  th: "หากต้องการให้อุปกรณ์อื่นออกจากระบบ ให้เปิด “เซสชัน”"
+  uk: "Щоб вийти на інших пристроях, відкрийте «Сеанси»."
+  vi: "Để đăng xuất các thiết bị khác, hãy mở “Phiên đăng nhập”."
+  zh: "如需让其他设备退出登录，请打开“登录会话”。"
+  zh-HK: "如需讓其他裝置登出，請開啟「登入工作階段」。"

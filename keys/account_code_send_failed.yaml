@@ -1,0 +1,37 @@
+description: "Email change and payout wallet disconnect: the server could not send a confirmation code; the person asks again."
+source: "The code could not be sent. Please try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تعذّر إرسال الرمز. يرجى المحاولة مرة أخرى."
+  cs: "Kód se nepodařilo odeslat. Zkuste to prosím znovu."
+  de: "Der Code konnte nicht gesendet werden. Bitte versuche es erneut."
+  el: "Δεν ήταν δυνατή η αποστολή του κωδικού. Δοκιμάστε ξανά."
+  en: "The code could not be sent. Please try again."
+  es: "No se pudo enviar el código. Inténtalo de nuevo."
+  es-419: "No se pudo enviar el código. Vuelve a intentarlo."
+  es-MX: "No se pudo enviar el código. Vuelve a intentarlo."
+  fr: "Le code n'a pas pu être envoyé. Veuillez réessayer."
+  he: "לא ניתן היה לשלוח את הקוד. נסו שוב."
+  hi: "कोड नहीं भेजा जा सका। कृपया फिर से कोशिश करें।"
+  id: "Kode tidak dapat dikirim. Coba lagi."
+  it: "Non è stato possibile inviare il codice. Riprova."
+  ja: "コードを送信できませんでした。もう一度お試しください。"
+  ko: "코드를 보낼 수 없습니다. 다시 시도하세요."
+  nl: "De code kon niet worden verzonden. Probeer het opnieuw."
+  pl: "Nie udało się wysłać kodu. Spróbuj ponownie."
+  pt: "Não foi possível enviar o código. Tente novamente."
+  pt-BR: "Não foi possível enviar o código. Tente novamente."
+  pt-PT: "Não foi possível enviar o código. Tente novamente."
+  ru: "Не удалось отправить код. Попробуйте снова."
+  sv: "Koden kunde inte skickas. Försök igen."
+  sw: "Msimbo haukuweza kutumwa. Tafadhali jaribu tena."
+  th: "ไม่สามารถส่งรหัสได้ โปรดลองอีกครั้ง"
+  uk: "Не вдалося надіслати код. Спробуйте ще раз."
+  vi: "Không thể gửi mã. Vui lòng thử lại."
+  zh: "无法发送验证码。请重试。"
+  zh-HK: "無法發送驗證碼。請再試一次。"

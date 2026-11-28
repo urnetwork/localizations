@@ -1,0 +1,37 @@
+description: "Sign-in screen and the add sign-in method sheet: the server has no Microsoft sign-in configured yet (not_configured)."
+source: "Sign in with Microsoft isn't available yet. Try another way to sign in."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "تسجيل الدخول باستخدام Microsoft غير متاح بعد. جرّب طريقة أخرى لتسجيل الدخول."
+  cs: "Přihlášení pomocí Microsoft zatím není k dispozici. Zkuste se přihlásit jinak."
+  de: "Die Anmeldung mit Microsoft ist noch nicht verfügbar. Melde dich auf andere Weise an."
+  el: "Η σύνδεση με Microsoft δεν είναι ακόμα διαθέσιμη. Δοκιμάστε άλλον τρόπο σύνδεσης."
+  en: "Sign in with Microsoft isn't available yet. Try another way to sign in."
+  es: "Iniciar sesión con Microsoft aún no está disponible. Prueba otra forma de iniciar sesión."
+  es-419: "Iniciar sesión con Microsoft aún no está disponible. Prueba otra forma de iniciar sesión."
+  es-MX: "Iniciar sesión con Microsoft aún no está disponible. Prueba otra forma de iniciar sesión."
+  fr: "La connexion avec Microsoft n'est pas encore disponible. Essayez un autre moyen de vous connecter."
+  he: "התחברות עם Microsoft עדיין לא זמינה. נסו דרך התחברות אחרת."
+  hi: "Microsoft से साइन इन अभी उपलब्ध नहीं है। साइन इन करने का कोई और तरीका आज़माएँ।"
+  id: "Masuk dengan Microsoft belum tersedia. Coba cara masuk lain."
+  it: "L'accesso con Microsoft non è ancora disponibile. Prova un altro modo per accedere."
+  ja: "Microsoft でのサインインはまだご利用いただけません。別の方法でサインインしてください。"
+  ko: "Microsoft 로그인은 아직 사용할 수 없습니다. 다른 방법으로 로그인하세요."
+  nl: "Inloggen met Microsoft is nog niet beschikbaar. Probeer een andere manier om in te loggen."
+  pl: "Logowanie przez Microsoft nie jest jeszcze dostępne. Spróbuj zalogować się w inny sposób."
+  pt: "O início de sessão com Microsoft ainda não está disponível. Experimente outra forma de iniciar sessão."
+  pt-BR: "O login com Microsoft ainda não está disponível. Tente outra forma de entrar."
+  pt-PT: "O início de sessão com Microsoft ainda não está disponível. Experimente outra forma de iniciar sessão."
+  ru: "Вход через Microsoft пока недоступен. Попробуйте другой способ входа."
+  sv: "Inloggning med Microsoft är inte tillgänglig än. Prova ett annat sätt att logga in."
+  sw: "Kuingia na Microsoft bado hakupatikani. Jaribu njia nyingine ya kuingia."
+  th: "การเข้าสู่ระบบด้วย Microsoft ยังไม่พร้อมใช้งาน โปรดลองวิธีอื่น"
+  uk: "Вхід через Microsoft поки недоступний. Спробуйте інший спосіб входу."
+  vi: "Đăng nhập bằng Microsoft chưa khả dụng. Hãy thử cách đăng nhập khác."
+  zh: "Microsoft 登录暂不可用。请尝试其他登录方式。"
+  zh-HK: "Microsoft 登入暫不可用。請嘗試其他登入方式。"

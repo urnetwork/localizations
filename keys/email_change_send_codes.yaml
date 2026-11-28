@@ -1,0 +1,37 @@
+description: "The email change sheet, first step: the button that sends the two codes."
+source: "Send codes"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "إرسال الرموز"
+  cs: "Odeslat kódy"
+  de: "Codes senden"
+  el: "Αποστολή κωδικών"
+  en: "Send codes"
+  es: "Enviar códigos"
+  es-419: "Enviar códigos"
+  es-MX: "Enviar códigos"
+  fr: "Envoyer les codes"
+  he: "שליחת קודים"
+  hi: "कोड भेजें"
+  id: "Kirim kode"
+  it: "Invia i codici"
+  ja: "コードを送信"
+  ko: "코드 보내기"
+  nl: "Codes versturen"
+  pl: "Wyślij kody"
+  pt: "Enviar códigos"
+  pt-BR: "Enviar códigos"
+  pt-PT: "Enviar códigos"
+  ru: "Отправить коды"
+  sv: "Skicka koder"
+  sw: "Tuma misimbo"
+  th: "ส่งรหัส"
+  uk: "Надіслати коди"
+  vi: "Gửi mã"
+  zh: "发送验证码"
+  zh-HK: "發送驗證碼"

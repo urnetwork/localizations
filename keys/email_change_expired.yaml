@@ -1,0 +1,37 @@
+description: "Email change: no change is waiting any more (it expired, was cancelled or never started); the sheet goes back to its first step."
+source: "This email change ended before it was confirmed. Start again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "انتهى طلب تغيير البريد الإلكتروني هذا قبل تأكيده. ابدأ من جديد."
+  cs: "Tato změna e-mailu skončila dřív, než byla potvrzena. Začněte znovu."
+  de: "Diese E-Mail-Änderung ist abgelaufen, bevor sie bestätigt wurde. Starte neu."
+  el: "Αυτή η αλλαγή email έληξε πριν επιβεβαιωθεί. Ξεκινήστε ξανά."
+  en: "This email change ended before it was confirmed. Start again."
+  es: "Este cambio de correo terminó antes de confirmarse. Empieza de nuevo."
+  es-419: "Este cambio de correo terminó antes de confirmarse. Vuelve a empezar."
+  es-MX: "Este cambio de correo terminó antes de confirmarse. Vuelve a empezar."
+  fr: "Ce changement d'e-mail a pris fin avant d'être confirmé. Recommencez."
+  he: "שינוי האימייל הזה הסתיים לפני שאושר. התחילו מחדש."
+  hi: "पुष्टि होने से पहले ही यह ईमेल बदलाव समाप्त हो गया। फिर से शुरू करें।"
+  id: "Penggantian email ini berakhir sebelum dikonfirmasi. Mulai lagi."
+  it: "Questa modifica dell'email è terminata prima di essere confermata. Ricomincia."
+  ja: "このメールアドレスの変更は、確認される前に終了しました。最初からやり直してください。"
+  ko: "이 이메일 변경은 확인되기 전에 종료되었습니다. 다시 시작하세요."
+  nl: "Deze e-mailwijziging is afgelopen voordat ze werd bevestigd. Begin opnieuw."
+  pl: "Ta zmiana adresu e-mail wygasła przed potwierdzeniem. Zacznij od nowa."
+  pt: "Esta alteração de email terminou antes de ser confirmada. Comece de novo."
+  pt-BR: "Esta alteração de e-mail terminou antes de ser confirmada. Comece de novo."
+  pt-PT: "Esta alteração de email terminou antes de ser confirmada. Comece de novo."
+  ru: "Эта смена почты завершилась до подтверждения. Начните заново."
+  sv: "Den här e-poständringen avslutades innan den bekräftades. Börja om."
+  sw: "Mabadiliko haya ya barua pepe yaliisha kabla ya kuthibitishwa. Anza upya."
+  th: "การเปลี่ยนอีเมลนี้สิ้นสุดลงก่อนได้รับการยืนยัน โปรดเริ่มใหม่"
+  uk: "Ця зміна пошти завершилася до підтвердження. Почніть знову."
+  vi: "Yêu cầu đổi email này đã kết thúc trước khi được xác nhận. Hãy bắt đầu lại."
+  zh: "此次邮箱更改在确认前已结束。请重新开始。"
+  zh-HK: "此次電郵更改在確認前已結束。請重新開始。"

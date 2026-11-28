@@ -1,0 +1,11 @@
+description: "A label for Microsoft sign-in: the sign-in method in the account's list, and (apple) the Sessions screen's sign-in method of a session created with Sign in with Microsoft."
+source: "Microsoft"
+translatable: false
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  en: "Microsoft"

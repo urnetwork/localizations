@@ -1,0 +1,37 @@
+description: "The email change sheet: the label of the new email field."
+source: "New email"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "البريد الإلكتروني الجديد"
+  cs: "Nový e-mail"
+  de: "Neue E-Mail-Adresse"
+  el: "Νέο email"
+  en: "New email"
+  es: "Nuevo correo"
+  es-419: "Nuevo correo"
+  es-MX: "Nuevo correo"
+  fr: "Nouvel e-mail"
+  he: "אימייל חדש"
+  hi: "नया ईमेल"
+  id: "Email baru"
+  it: "Nuova email"
+  ja: "新しいメールアドレス"
+  ko: "새 이메일"
+  nl: "Nieuw e-mailadres"
+  pl: "Nowy e-mail"
+  pt: "Novo email"
+  pt-BR: "Novo e-mail"
+  pt-PT: "Novo email"
+  ru: "Новый адрес почты"
+  sv: "Ny e-postadress"
+  sw: "Barua pepe mpya"
+  th: "อีเมลใหม่"
+  uk: "Нова адреса пошти"
+  vi: "Email mới"
+  zh: "新邮箱"
+  zh-HK: "新電郵"

@@ -1,0 +1,37 @@
+description: "Email change and payout wallet disconnect: a confirmation code the person entered is wrong; the request is still waiting."
+source: "That code is wrong. Check it and try again."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "هذا الرمز غير صحيح. تحقّق منه وحاول مرة أخرى."
+  cs: "Tento kód není správný. Zkontrolujte ho a zkuste to znovu."
+  de: "Dieser Code ist falsch. Prüfe ihn und versuche es erneut."
+  el: "Αυτός ο κωδικός είναι λάθος. Ελέγξτε τον και δοκιμάστε ξανά."
+  en: "That code is wrong. Check it and try again."
+  es: "Ese código no es correcto. Compruébalo y vuelve a intentarlo."
+  es-419: "Ese código no es correcto. Revísalo y vuelve a intentarlo."
+  es-MX: "Ese código no es correcto. Revísalo y vuelve a intentarlo."
+  fr: "Ce code est incorrect. Vérifiez-le et réessayez."
+  he: "הקוד הזה שגוי. בדקו אותו ונסו שוב."
+  hi: "यह कोड गलत है। इसे जाँचें और फिर से कोशिश करें।"
+  id: "Kode itu salah. Periksa lalu coba lagi."
+  it: "Il codice non è corretto. Controllalo e riprova."
+  ja: "コードが正しくありません。確認してもう一度お試しください。"
+  ko: "코드가 올바르지 않습니다. 확인한 후 다시 시도하세요."
+  nl: "Die code klopt niet. Controleer hem en probeer het opnieuw."
+  pl: "Ten kod jest nieprawidłowy. Sprawdź go i spróbuj ponownie."
+  pt: "Esse código está errado. Verifique-o e tente novamente."
+  pt-BR: "Esse código está incorreto. Confira e tente novamente."
+  pt-PT: "Esse código está errado. Verifique-o e tente novamente."
+  ru: "Код неверный. Проверьте его и попробуйте снова."
+  sv: "Koden är fel. Kontrollera den och försök igen."
+  sw: "Msimbo huo si sahihi. Uangalie kisha ujaribu tena."
+  th: "รหัสนี้ไม่ถูกต้อง โปรดตรวจสอบแล้วลองอีกครั้ง"
+  uk: "Код неправильний. Перевірте його й спробуйте ще раз."
+  vi: "Mã đó không đúng. Hãy kiểm tra và thử lại."
+  zh: "验证码不正确。请检查后重试。"
+  zh-HK: "驗證碼不正確。請檢查後再試。"

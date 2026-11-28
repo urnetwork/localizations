@@ -4,6 +4,8 @@ platforms:
   - apple
   - linux
   - windows
+  - android
+  - site
 localizations:
   ar: "الرمز"
   cs: "Kód"

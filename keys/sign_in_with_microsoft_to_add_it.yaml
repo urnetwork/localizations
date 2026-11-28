@@ -1,0 +1,37 @@
+description: "Add sign-in method sheet: how to add Microsoft as a sign-in method."
+source: "Sign in with Microsoft to add it as a sign-in method."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "سجّل الدخول باستخدام Microsoft لإضافته كطريقة لتسجيل الدخول."
+  cs: "Přihlaste se přes Microsoft a přidejte jej jako způsob přihlášení."
+  de: "Melde dich mit Microsoft an, um es als Anmeldemethode hinzuzufügen."
+  el: "Συνδεθείτε με Microsoft για να το προσθέσετε ως μέθοδο σύνδεσης."
+  en: "Sign in with Microsoft to add it as a sign-in method."
+  es: "Inicia sesión con Microsoft para añadirlo como método de inicio de sesión."
+  es-419: "Inicia sesión con Microsoft para agregarlo como método de inicio de sesión."
+  es-MX: "Inicia sesión con Microsoft para agregarlo como método de inicio de sesión."
+  fr: "Connectez-vous avec Microsoft pour l'ajouter comme méthode de connexion."
+  he: "התחבר עם Microsoft כדי להוסיף אותו כשיטת התחברות."
+  hi: "Microsoft से साइन इन करें और उसे साइन-इन विधि के रूप में जोड़ें।"
+  id: "Masuk dengan Microsoft untuk menambahkannya sebagai metode masuk."
+  it: "Accedi con Microsoft per aggiungerlo come metodo di accesso."
+  ja: "Microsoftでサインインして、サインイン方法として追加します。"
+  ko: "Microsoft로 로그인하여 로그인 방법으로 추가하세요."
+  nl: "Log in met Microsoft om dit als inlogmethode toe te voegen."
+  pl: "Zaloguj się przez Microsoft, aby dodać tę metodę logowania."
+  pt: "Inicie sessão com o Microsoft para o adicionar como método de início de sessão."
+  pt-BR: "Entre com o Microsoft para adicioná-lo como método de login."
+  pt-PT: "Inicie sessão com o Microsoft para o adicionar como método de início de sessão."
+  ru: "Войдите через Microsoft, чтобы добавить этот способ входа."
+  sv: "Logga in med Microsoft för att lägga till det som inloggningsmetod."
+  sw: "Ingia kwa kutumia Microsoft ili kuiongeza kama njia ya kuingia."
+  th: "ลงชื่อเข้าใช้ด้วย Microsoft เพื่อเพิ่มเป็นวิธีลงชื่อเข้าใช้"
+  uk: "Увійдіть через Microsoft, щоб додати цей спосіб входу."
+  vi: "Đăng nhập bằng Microsoft để thêm làm phương thức đăng nhập."
+  zh: "使用 Microsoft 登录，将其添加为登录方式。"
+  zh-HK: "使用 Microsoft 登入，將其添加為登入方式。"

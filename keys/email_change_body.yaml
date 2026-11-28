@@ -1,0 +1,37 @@
+description: "The email change sheet, first step: how the change works, above the new email field."
+source: "Enter your new email. We'll send a code to your current email and another to the new one. Your email changes when you enter both. Your password stays the same."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "أدخل بريدك الإلكتروني الجديد. سنرسل رمزًا إلى بريدك الحالي ورمزًا آخر إلى البريد الجديد. يتغيّر بريدك عند إدخال الرمزين. تبقى كلمة المرور كما هي."
+  cs: "Zadejte nový e-mail. Pošleme kód na váš současný e-mail a další na nový. E-mail se změní, až zadáte oba. Heslo zůstane stejné."
+  de: "Gib deine neue E-Mail-Adresse ein. Wir senden einen Code an deine aktuelle Adresse und einen weiteren an die neue. Deine E-Mail-Adresse ändert sich, wenn du beide eingibst. Dein Passwort bleibt gleich."
+  el: "Εισαγάγετε το νέο σας email. Θα στείλουμε έναν κωδικό στο τρέχον email σας και άλλον έναν στο νέο. Το email σας αλλάζει όταν εισαγάγετε και τους δύο. Ο κωδικός πρόσβασής σας μένει ίδιος."
+  en: "Enter your new email. We'll send a code to your current email and another to the new one. Your email changes when you enter both. Your password stays the same."
+  es: "Introduce tu nuevo correo. Enviaremos un código a tu correo actual y otro al nuevo. Tu correo cambia cuando introduces los dos. Tu contraseña no cambia."
+  es-419: "Ingresa tu nuevo correo. Enviaremos un código a tu correo actual y otro al nuevo. Tu correo cambia cuando ingresas los dos. Tu contraseña no cambia."
+  es-MX: "Ingresa tu nuevo correo. Enviaremos un código a tu correo actual y otro al nuevo. Tu correo cambia cuando ingresas los dos. Tu contraseña no cambia."
+  fr: "Saisissez votre nouvel e-mail. Nous enverrons un code à votre e-mail actuel et un autre au nouveau. Votre e-mail change quand vous saisissez les deux. Votre mot de passe ne change pas."
+  he: "הזינו את האימייל החדש. נשלח קוד לאימייל הנוכחי וקוד נוסף לאימייל החדש. האימייל משתנה כשמזינים את שניהם. הסיסמה נשארת אותה סיסמה."
+  hi: "अपना नया ईमेल दर्ज करें। हम आपके मौजूदा ईमेल पर एक कोड और नए ईमेल पर दूसरा कोड भेजेंगे। दोनों दर्ज करने पर आपका ईमेल बदल जाएगा। आपका पासवर्ड वही रहेगा।"
+  id: "Masukkan email baru Anda. Kami akan mengirim kode ke email Anda saat ini dan kode lain ke email baru. Email Anda berubah setelah Anda memasukkan keduanya. Kata sandi Anda tetap sama."
+  it: "Inserisci la nuova email. Invieremo un codice alla tua email attuale e un altro a quella nuova. La tua email cambia quando li inserisci entrambi. La password resta la stessa."
+  ja: "新しいメールアドレスを入力してください。現在のメールアドレスと新しいメールアドレスにそれぞれコードを送信します。両方のコードを入力するとメールアドレスが変更されます。パスワードは変わりません。"
+  ko: "새 이메일을 입력하세요. 현재 이메일과 새 이메일로 각각 코드를 보내드립니다. 두 코드를 모두 입력하면 이메일이 변경됩니다. 비밀번호는 그대로 유지됩니다."
+  nl: "Voer je nieuwe e-mailadres in. We sturen een code naar je huidige e-mailadres en een andere naar het nieuwe. Je e-mailadres verandert als je beide invoert. Je wachtwoord blijft hetzelfde."
+  pl: "Wpisz nowy adres e-mail. Wyślemy kod na Twój obecny adres i drugi na nowy. Adres zmieni się, gdy wpiszesz oba kody. Hasło pozostanie bez zmian."
+  pt: "Introduza o seu novo email. Enviaremos um código para o seu email atual e outro para o novo. O seu email muda quando introduzir os dois. A sua palavra-passe mantém-se."
+  pt-BR: "Digite seu novo e-mail. Enviaremos um código para seu e-mail atual e outro para o novo. Seu e-mail muda quando você digitar os dois. Sua senha continua a mesma."
+  pt-PT: "Introduza o seu novo email. Enviaremos um código para o seu email atual e outro para o novo. O seu email muda quando introduzir os dois. A sua palavra-passe mantém-se."
+  ru: "Введите новый адрес почты. Мы отправим код на текущий адрес и ещё один на новый. Адрес изменится, когда вы введёте оба кода. Пароль останется прежним."
+  sv: "Ange din nya e-postadress. Vi skickar en kod till din nuvarande e-post och en till den nya. Din e-post ändras när du anger båda. Ditt lösenord förblir detsamma."
+  sw: "Weka barua pepe yako mpya. Tutatuma msimbo kwa barua pepe yako ya sasa na mwingine kwa mpya. Barua pepe yako hubadilika ukiweka yote mawili. Nenosiri lako linabaki vilevile."
+  th: "ป้อนอีเมลใหม่ของคุณ เราจะส่งรหัสไปยังอีเมลปัจจุบันและอีกรหัสไปยังอีเมลใหม่ อีเมลของคุณจะเปลี่ยนเมื่อคุณป้อนรหัสทั้งสอง รหัสผ่านของคุณจะยังคงเหมือนเดิม"
+  uk: "Введіть нову адресу пошти. Ми надішлемо код на поточну адресу й ще один на нову. Адреса зміниться, коли ви введете обидва коди. Пароль залишиться тим самим."
+  vi: "Nhập email mới của bạn. Chúng tôi sẽ gửi một mã tới email hiện tại và một mã khác tới email mới. Email của bạn sẽ thay đổi khi bạn nhập cả hai. Mật khẩu của bạn vẫn giữ nguyên."
+  zh: "输入您的新邮箱。我们会向您当前的邮箱和新邮箱各发送一个验证码。输入两个验证码后，邮箱即会更改。您的密码保持不变。"
+  zh-HK: "輸入您的新電郵。我們會向您目前的電郵和新電郵各發送一個驗證碼。輸入兩個驗證碼後，電郵即會更改。您的密碼保持不變。"

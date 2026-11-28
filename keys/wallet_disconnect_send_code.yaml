@@ -1,0 +1,37 @@
+description: "Earnings, the dialog that disconnects the payout wallet: the button that emails the confirmation code to the account's sign-in addresses."
+source: "Email me a code"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+  - site
+localizations:
+  ar: "أرسل لي رمزًا بالبريد الإلكتروني"
+  cs: "Poslat kód e-mailem"
+  de: "Code per E-Mail senden"
+  el: "Στείλτε μου κωδικό με email"
+  en: "Email me a code"
+  es: "Enviarme un código por correo"
+  es-419: "Enviarme un código por correo"
+  es-MX: "Enviarme un código por correo"
+  fr: "M'envoyer un code par e-mail"
+  he: "שלחו לי קוד באימייל"
+  hi: "मुझे ईमेल पर कोड भेजें"
+  id: "Kirim kode ke email saya"
+  it: "Inviami un codice via email"
+  ja: "メールでコードを送信"
+  ko: "이메일로 코드 받기"
+  nl: "Stuur me een code per e-mail"
+  pl: "Wyślij mi kod e-mailem"
+  pt: "Enviar-me um código por email"
+  pt-BR: "Enviar código por e-mail"
+  pt-PT: "Enviar-me um código por email"
+  ru: "Отправить код на почту"
+  sv: "Mejla mig en kod"
+  sw: "Nitumie msimbo kwa barua pepe"
+  th: "ส่งรหัสทางอีเมล"
+  uk: "Надіслати код на пошту"
+  vi: "Gửi mã qua email cho tôi"
+  zh: "通过邮件发送验证码"
+  zh-HK: "以電郵傳送驗證碼"
