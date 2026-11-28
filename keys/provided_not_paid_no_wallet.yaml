@@ -1,0 +1,38 @@
+description: "Provider status: SN25 did not pay for a device's provided data because the device had no payout wallet."
+source: "Not paid: no payout wallet"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "لم يُدفع: لا توجد محفظة دفع"
+  cs: "Nevyplaceno: žádná výplatní peněženka"
+  de: "Nicht ausgezahlt: keine Auszahlungs-Wallet"
+  el: "Δεν πληρώθηκε: δεν υπάρχει πορτοφόλι πληρωμής"
+  en: "Not paid: no payout wallet"
+  es: "No pagado: no hay billetera de pago"
+  es-419: "No pagado: no hay billetera de pago"
+  es-MX: "No pagado: no hay cartera de pago"
+  fa: "پرداخت نشد: کیف پول دریافت پرداخت ندارید"
+  fr: "Non payé : aucun portefeuille de paiement"
+  he: "לא שולם: אין ארנק תשלום"
+  hi: "भुगतान नहीं हुआ: कोई पेआउट वॉलेट नहीं"
+  id: "Tidak dibayar: tidak ada dompet pembayaran"
+  it: "Non pagato: nessun portafoglio di pagamento"
+  ja: "未払い: 支払いウォレットがありません"
+  ko: "미지급: 지급 지갑 없음"
+  nl: "Niet uitbetaald: geen uitbetalingswallet"
+  pl: "Niewypłacone: brak portfela wypłat"
+  pt: "Não pago: sem carteira de pagamento"
+  pt-BR: "Não pago: sem carteira de pagamento"
+  pt-PT: "Não pago: sem carteira de pagamento"
+  ru: "Не выплачено: нет кошелька для выплат"
+  sv: "Inte utbetalt: ingen utbetalningsplånbok"
+  sw: "Haijalipwa: hakuna pochi ya malipo"
+  th: "ไม่ได้จ่าย: ไม่มีกระเป๋ารับยอดจ่าย"
+  tr: "Ödenmedi: ödeme cüzdanı yok"
+  uk: "Не виплачено: немає гаманця для виплат"
+  vi: "Chưa thanh toán: không có ví thanh toán"
+  zh: "未支付：没有支付钱包"
+  zh-HK: "未支付：沒有支付錢包"

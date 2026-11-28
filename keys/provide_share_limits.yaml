@@ -1,0 +1,38 @@
+description: "Provide settings: the title of the section with the owner's limits on how much this device shares."
+source: "Sharing limits"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "حدود المشاركة"
+  cs: "Limity sdílení"
+  de: "Freigabelimits"
+  el: "Όρια κοινής χρήσης"
+  en: "Sharing limits"
+  es: "Límites de uso compartido"
+  es-419: "Límites de uso compartido"
+  es-MX: "Límites de uso compartido"
+  fa: "محدودیت‌های اشتراک‌گذاری"
+  fr: "Limites de partage"
+  he: "מגבלות שיתוף"
+  hi: "साझा करने की सीमाएँ"
+  id: "Batas berbagi"
+  it: "Limiti di condivisione"
+  ja: "共有の上限"
+  ko: "공유 한도"
+  nl: "Deellimieten"
+  pl: "Limity udostępniania"
+  pt: "Limites de partilha"
+  pt-BR: "Limites de compartilhamento"
+  pt-PT: "Limites de partilha"
+  ru: "Лимиты предоставления"
+  sv: "Delningsgränser"
+  sw: "Vikomo vya kushiriki"
+  th: "ขีดจำกัดการแบ่งปัน"
+  tr: "Paylaşım sınırları"
+  uk: "Ліміти надання"
+  vi: "Giới hạn chia sẻ"
+  zh: "共享限制"
+  zh-HK: "共享限制"

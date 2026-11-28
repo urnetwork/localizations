@@ -1,0 +1,43 @@
+description: "Provide settings: the data this device shared with others this calendar month against its monthly limit. The arguments are amounts of data such as 12.3 GiB and 50 GiB."
+source: "%@ of %@ shared this month"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: data
+    type: string
+  - name: limit
+    type: string
+localizations:
+  ar: "تمت مشاركة {data} من {limit} هذا الشهر"
+  cs: "Tento měsíc sdíleno {data} z {limit}"
+  de: "{data} von {limit} diesen Monat geteilt"
+  el: "Μοιράστηκαν {data} από {limit} αυτόν τον μήνα"
+  en: "{data} of {limit} shared this month"
+  es: "{data} de {limit} compartidos este mes"
+  es-419: "{data} de {limit} compartidos este mes"
+  es-MX: "{data} de {limit} compartidos este mes"
+  fa: "{data} از {limit} در این ماه به اشتراک گذاشته شد"
+  fr: "{data} sur {limit} partagés ce mois-ci"
+  he: "{data} מתוך {limit} שותפו החודש"
+  hi: "इस महीने {limit} में से {data} साझा किया गया"
+  id: "{data} dari {limit} dibagikan bulan ini"
+  it: "{data} di {limit} condivisi questo mese"
+  ja: "今月の共有量: {data} / {limit}"
+  ko: "이번 달 {limit} 중 {data} 공유됨"
+  nl: "{data} van {limit} gedeeld deze maand"
+  pl: "W tym miesiącu udostępniono {data} z {limit}"
+  pt: "{data} de {limit} partilhados este mês"
+  pt-BR: "{data} de {limit} compartilhados este mês"
+  pt-PT: "{data} de {limit} partilhados este mês"
+  ru: "Предоставлено за этот месяц: {data} из {limit}"
+  sv: "{data} av {limit} delat den här månaden"
+  sw: "{data} kati ya {limit} zimeshirikiwa mwezi huu"
+  th: "แบ่งปันแล้ว {data} จาก {limit} ในเดือนนี้"
+  tr: "Bu ay {limit} sınırın {data} kadarı paylaşıldı"
+  uk: "Надано цього місяця: {data} з {limit}"
+  vi: "Đã chia sẻ {data} trên {limit} trong tháng này"
+  zh: "本月已共享 {data}，上限 {limit}"
+  zh-HK: "本月已共享 {data}，上限 {limit}"

@@ -1,0 +1,38 @@
+description: "Provide settings: the choice of no sharing speed or monthly data limit."
+source: "No limit"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "بلا حد"
+  cs: "Bez limitu"
+  de: "Kein Limit"
+  el: "Χωρίς όριο"
+  en: "No limit"
+  es: "Sin límite"
+  es-419: "Sin límite"
+  es-MX: "Sin límite"
+  fa: "بدون محدودیت"
+  fr: "Aucune limite"
+  he: "ללא הגבלה"
+  hi: "कोई सीमा नहीं"
+  id: "Tanpa batas"
+  it: "Nessun limite"
+  ja: "上限なし"
+  ko: "제한 없음"
+  nl: "Geen limiet"
+  pl: "Bez limitu"
+  pt: "Sem limite"
+  pt-BR: "Sem limite"
+  pt-PT: "Sem limite"
+  ru: "Без ограничений"
+  sv: "Ingen gräns"
+  sw: "Hakuna kikomo"
+  th: "ไม่จำกัด"
+  tr: "Sınır yok"
+  uk: "Без обмежень"
+  vi: "Không giới hạn"
+  zh: "无限制"
+  zh-HK: "無限制"

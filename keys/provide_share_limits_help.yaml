@@ -1,0 +1,38 @@
+description: "Provide settings: what a sharing limit costs the device's owner, shown under the limits."
+source: "A limit lowers how much this device shares, which can lower its reliability ranking and its earnings."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يقلل الحد من مقدار ما يشاركه هذا الجهاز، وقد يخفض ذلك ترتيب موثوقيته وأرباحه."
+  cs: "Limit snižuje, kolik toto zařízení sdílí, což může snížit jeho hodnocení spolehlivosti a výdělky."
+  de: "Ein Limit verringert, wie viel dieses Gerät teilt. Das kann seine Zuverlässigkeitsbewertung und seine Einnahmen senken."
+  el: "Ένα όριο μειώνει πόσα μοιράζεται αυτή η συσκευή, κάτι που μπορεί να μειώσει την κατάταξη αξιοπιστίας της και τα κέρδη της."
+  en: "A limit lowers how much this device shares, which can lower its reliability ranking and its earnings."
+  es: "Un límite reduce cuánto comparte este dispositivo, lo que puede bajar su clasificación de fiabilidad y sus ganancias."
+  es-419: "Un límite reduce cuánto comparte este dispositivo, lo que puede bajar su clasificación de confiabilidad y sus ganancias."
+  es-MX: "Un límite reduce cuánto comparte este dispositivo, lo que puede bajar su clasificación de confiabilidad y sus ganancias."
+  fa: "محدودیت، میزان اشتراک‌گذاری این دستگاه را کم می‌کند و ممکن است رتبهٔ پایداری و درآمد آن را پایین بیاورد."
+  fr: "Une limite réduit ce que cet appareil partage, ce qui peut faire baisser son classement de fiabilité et ses gains."
+  he: "מגבלה מצמצמת את כמות השיתוף של המכשיר הזה, וזה עלול להוריד את דירוג האמינות שלו ואת הרווחים שלו."
+  hi: "सीमा इस डिवाइस के साझा करने की मात्रा घटाती है, जिससे इसकी विश्वसनीयता रैंकिंग और कमाई कम हो सकती है।"
+  id: "Batas mengurangi seberapa banyak perangkat ini berbagi, yang dapat menurunkan peringkat keandalan dan penghasilannya."
+  it: "Un limite riduce quanto condivide questo dispositivo, il che può abbassare la sua posizione per affidabilità e i suoi guadagni."
+  ja: "上限を設けるとこのデバイスの共有量が減り、信頼性のランキングと収益が下がることがあります。"
+  ko: "한도를 설정하면 이 기기의 공유량이 줄어 안정성 순위와 수익이 낮아질 수 있습니다."
+  nl: "Een limiet verlaagt hoeveel dit apparaat deelt, wat de betrouwbaarheidsrangschikking en de verdiensten ervan kan verlagen."
+  pl: "Limit zmniejsza to, ile udostępnia to urządzenie, co może obniżyć jego ranking niezawodności i zarobki."
+  pt: "Um limite reduz o quanto este dispositivo partilha, o que pode baixar a sua classificação de fiabilidade e os seus ganhos."
+  pt-BR: "Um limite reduz o quanto este dispositivo compartilha, o que pode diminuir a classificação de confiabilidade e os ganhos dele."
+  pt-PT: "Um limite reduz o quanto este dispositivo partilha, o que pode baixar a sua classificação de fiabilidade e os seus ganhos."
+  ru: "Ограничение уменьшает объём предоставления этого устройства, что может снизить его рейтинг надёжности и заработок."
+  sv: "En gräns minskar hur mycket den här enheten delar, vilket kan sänka dess tillförlitlighetsrankning och intäkter."
+  sw: "Kikomo hupunguza kiasi ambacho kifaa hiki kinashiriki, jambo ambalo linaweza kushusha nafasi yake ya kutegemewa na mapato yake."
+  th: "ขีดจำกัดจะลดปริมาณที่อุปกรณ์นี้แบ่งปัน ซึ่งอาจทำให้อันดับความน่าเชื่อถือและรายได้ลดลง"
+  tr: "Bir sınır, bu cihazın ne kadar paylaştığını azaltır; bu da güvenilirlik sıralamasını ve kazançlarını düşürebilir."
+  uk: "Обмеження зменшує обсяг надання цього пристрою, що може знизити його рейтинг надійності та заробіток."
+  vi: "Giới hạn làm giảm lượng chia sẻ của thiết bị này, điều này có thể làm giảm thứ hạng độ tin cậy và thu nhập của thiết bị."
+  zh: "设置上限会减少此设备的共享量，可能降低其可靠性排名和收益。"
+  zh-HK: "設定上限會減少此裝置的共享量，可能降低其可靠性排名和收益。"
