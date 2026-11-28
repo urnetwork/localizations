@@ -1,0 +1,36 @@
+description: "Title of the low-data warning: an in-app alert and a local notification shown once when the available data falls to 10% of the period's data, and once when it falls to 1 GiB. It only informs; nothing is disconnected. Short."
+source: "Running low on data"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "بياناتك على وشك النفاد"
+  cs: "Docházejí vám data"
+  de: "Deine Daten werden knapp"
+  el: "Τα δεδομένα σας τελειώνουν"
+  en: "Running low on data"
+  es: "Te quedan pocos datos"
+  es-419: "Te quedan pocos datos"
+  es-MX: "Te quedan pocos datos"
+  fr: "Données bientôt épuisées"
+  he: "הנתונים שלך עומדים להיגמר"
+  hi: "आपका डेटा कम हो रहा है"
+  id: "Data Anda hampir habis"
+  it: "Stai esaurendo i dati"
+  ja: "データの残りが少なくなっています"
+  ko: "데이터가 얼마 남지 않았습니다"
+  nl: "Je data raakt bijna op"
+  pl: "Kończą Ci się dane"
+  pt: "Seus dados estão acabando"
+  pt-BR: "Seus dados estão acabando"
+  pt-PT: "Os seus dados estão a acabar"
+  ru: "Данные заканчиваются"
+  sv: "Din data håller på att ta slut"
+  sw: "Data yako inakaribia kuisha"
+  th: "ข้อมูลของคุณใกล้หมดแล้ว"
+  uk: "Дані закінчуються"
+  vi: "Dữ liệu của bạn sắp hết"
+  zh: "数据即将用完"
+  zh-HK: "數據即將用完"

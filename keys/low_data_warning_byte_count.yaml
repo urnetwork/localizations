@@ -1,0 +1,39 @@
+description: "Body of the low-data warning (title: \"Running low on data\") when the available data falls to a fixed amount (1 GiB). {amount} is the available data as a size, e.g. 980 MB. Shown once per balance period in an in-app alert and a local notification."
+source: "Only %@ of data is left."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: amount
+    type: string
+localizations:
+  ar: "تبقّى {amount} فقط من البيانات."
+  cs: "Zbývá jen {amount} dat."
+  de: "Nur noch {amount} Daten übrig."
+  el: "Απομένουν μόνο {amount} δεδομένων."
+  en: "Only {amount} of data is left."
+  es: "Solo te quedan {amount} de datos."
+  es-419: "Solo te quedan {amount} de datos."
+  es-MX: "Solo te quedan {amount} de datos."
+  fr: "Il ne vous reste que {amount} de données."
+  he: "נשארו רק {amount} של נתונים."
+  hi: "केवल {amount} डेटा बचा है।"
+  id: "Data tinggal {amount}."
+  it: "Restano solo {amount} di dati."
+  ja: "データの残りはあと{amount}です。"
+  ko: "데이터가 {amount}만 남았습니다."
+  nl: "Er is nog maar {amount} data over."
+  pl: "Zostało tylko {amount} danych."
+  pt: "Restam apenas {amount} de dados."
+  pt-BR: "Restam apenas {amount} de dados."
+  pt-PT: "Restam apenas {amount} de dados."
+  ru: "Осталось всего {amount} данных."
+  sv: "Bara {amount} data kvar."
+  sw: "Imebaki data ya {amount} tu."
+  th: "เหลือข้อมูลเพียง {amount}"
+  uk: "Залишилося лише {amount} даних."
+  vi: "Chỉ còn {amount} dữ liệu."
+  zh: "仅剩 {amount} 数据。"
+  zh-HK: "只剩 {amount} 數據。"
