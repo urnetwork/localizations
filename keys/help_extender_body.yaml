@@ -1,0 +1,36 @@
+description: "Body of the short help for extenders (title: \"What is an extender?\"), opened from a '?' button next to Extenders. An extender relays the connection to URnetwork where the network is blocked; the traffic stays encrypted and the extender cannot read it."
+source: "An extender relays your connection to URnetwork where it is blocked. Your traffic stays encrypted through it, and the extender can't read it."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "يمرّر الموسّع اتصالك إلى URnetwork حيث يكون محظورًا. تبقى حركة مرورك مشفّرة عبره، ولا يستطيع الموسّع قراءتها."
+  cs: "Extender přenáší vaše připojení k URnetwork tam, kde je blokované. Váš provoz přes něj zůstává šifrovaný a extender ho nemůže číst."
+  de: "Ein Extender leitet deine Verbindung zu URnetwork weiter, wo sie blockiert ist. Dein Datenverkehr bleibt dabei verschlüsselt, und der Extender kann ihn nicht lesen."
+  el: "Ένας επεκτατής αναμεταδίδει τη σύνδεσή σας προς το URnetwork όπου αυτή είναι αποκλεισμένη. Η κίνησή σας παραμένει κρυπτογραφημένη μέσα από αυτόν και ο επεκτατής δεν μπορεί να τη διαβάσει."
+  en: "An extender relays your connection to URnetwork where it is blocked. Your traffic stays encrypted through it, and the extender can't read it."
+  es: "Un extensor retransmite tu conexión a URnetwork donde está bloqueada. Tu tráfico sigue cifrado a través de él y el extensor no puede leerlo."
+  es-419: "Un extensor retransmite tu conexión a URnetwork donde está bloqueada. Tu tráfico sigue cifrado a través de él y el extensor no puede leerlo."
+  es-MX: "Un extensor retransmite tu conexión a URnetwork donde está bloqueada. Tu tráfico sigue cifrado a través de él y el extensor no puede leerlo."
+  fr: "Un extendeur relaie votre connexion à URnetwork là où elle est bloquée. Votre trafic reste chiffré en le traversant, et l’extendeur ne peut pas le lire."
+  he: "מרחיב מעביר את החיבור שלך ל-URnetwork במקומות שבהם הוא חסום. התעבורה שלך נשארת מוצפנת דרכו, והמרחיב לא יכול לקרוא אותה."
+  hi: "एक्सटेंडर आपके कनेक्शन को वहाँ URnetwork तक पहुँचाता है जहाँ वह ब्लॉक है। आपका ट्रैफ़िक उससे होकर भी एन्क्रिप्टेड रहता है, और एक्सटेंडर उसे पढ़ नहीं सकता।"
+  id: "Extender meneruskan koneksi Anda ke URnetwork di tempat koneksi itu diblokir. Lalu lintas Anda tetap terenkripsi saat melewatinya, dan extender tidak dapat membacanya."
+  it: "Un extender inoltra la tua connessione a URnetwork dove è bloccata. Il tuo traffico resta cifrato mentre lo attraversa e l’extender non può leggerlo."
+  ja: "エクステンダーは、URnetwork への接続がブロックされている場所で、その接続を中継します。通信は暗号化されたまま通過するため、エクステンダーが内容を読むことはできません。"
+  ko: "익스텐더는 URnetwork 연결이 차단된 곳에서 연결을 중계합니다. 트래픽은 암호화된 상태로 통과하므로 익스텐더가 내용을 읽을 수 없습니다."
+  nl: "Een extender stuurt je verbinding met URnetwork door waar die geblokkeerd is. Je verkeer blijft versleuteld terwijl het erdoorheen gaat, en de extender kan het niet lezen."
+  pl: "Extender przekazuje twoje połączenie z URnetwork tam, gdzie jest ono blokowane. Twój ruch pozostaje przy tym zaszyfrowany i extender nie może go odczytać."
+  pt: "Um extensor retransmite sua conexão com a URnetwork onde ela está bloqueada. Seu tráfego continua criptografado ao passar por ele, e o extensor não consegue lê-lo."
+  pt-BR: "Um extensor retransmite sua conexão com a URnetwork onde ela está bloqueada. Seu tráfego continua criptografado ao passar por ele, e o extensor não consegue lê-lo."
+  pt-PT: "Um extensor retransmite a sua ligação à URnetwork onde ela está bloqueada. O seu tráfego continua encriptado ao passar por ele, e o extensor não o consegue ler."
+  ru: "Экстендер передаёт ваше подключение к URnetwork там, где оно заблокировано. Ваш трафик остаётся зашифрованным, и экстендер не может его прочитать."
+  sv: "En extender vidarebefordrar din anslutning till URnetwork där den är blockerad. Din trafik förblir krypterad genom den, och extendern kan inte läsa den."
+  sw: "Kipanuzi hupitisha muunganisho wako kwa URnetwork mahali ambapo umezuiwa. Trafiki yako inabaki imesimbwa kupitia kipanuzi, na kipanuzi hakiwezi kuisoma."
+  th: "ตัวขยายส่งต่อการเชื่อมต่อของคุณไปยัง URnetwork ในที่ที่ถูกบล็อก ทราฟฟิกของคุณยังคงเข้ารหัสขณะผ่านตัวขยาย และตัวขยายอ่านไม่ได้"
+  uk: "Екстендер передає ваше підключення до URnetwork там, де його заблоковано. Ваш трафік залишається зашифрованим, і екстендер не може його прочитати."
+  vi: "Bộ mở rộng chuyển tiếp kết nối của bạn tới URnetwork ở nơi kết nối bị chặn. Lưu lượng của bạn vẫn được mã hóa khi đi qua nó, và bộ mở rộng không thể đọc được."
+  zh: "在连接 URnetwork 受阻的地方，扩展器会中继你的连接。你的流量经过它时依然是加密的，扩展器无法读取。"
+  zh-HK: "在連接 URnetwork 受阻的地方，擴展器會中繼你的連線。你的流量經過它時依然是加密的，擴展器無法讀取。"
