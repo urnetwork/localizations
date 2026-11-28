@@ -4,7 +4,6 @@ platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "ابحث عن البلدان والمناطق والمدن"
   cs: "Hledat země, regiony a města"

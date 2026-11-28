@@ -4,7 +4,6 @@ platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "المفضلة"
   cs: "Oblíbené"

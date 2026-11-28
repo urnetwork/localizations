@@ -4,7 +4,6 @@ platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "إزالة من المفضلة"
   cs: "Odebrat z oblíbených"

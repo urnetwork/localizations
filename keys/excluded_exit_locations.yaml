@@ -4,7 +4,6 @@ platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "مواقع المخارج المستبعدة"
   cs: "Vyloučená místa výstupu"

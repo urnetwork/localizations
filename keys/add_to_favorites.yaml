@@ -4,7 +4,6 @@ platforms:
   - android
   - apple
   - windows
-  - linux
 localizations:
   ar: "إضافة إلى المفضلة"
   cs: "Přidat do oblíbených"
