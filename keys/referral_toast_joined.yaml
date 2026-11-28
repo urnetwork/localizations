@@ -43,6 +43,9 @@ localizations:
   es-MX:
     one: "¡Un amigo se unió con tu código! +{data} GiB/día, de por vida."
     other: "¡{count} amigos se unieron con tu código! +{data} GiB/día por cada uno, de por vida."
+  fa:
+    one: "{count} دوست با کد شما عضو شد! +{data} GiB در روز، برای همیشه."
+    other: "{count} دوست با کد شما عضو شدند! به ازای هر کدام +{data} GiB در روز، برای همیشه."
   fr:
     one: "Un ami a rejoint avec votre code ! +{data} GiB/jour, à vie."
     other: "{count} amis ont rejoint avec votre code ! +{data} GiB/jour chacun, à vie."
@@ -93,6 +96,9 @@ localizations:
     other: "Marafiki {count} wamejiunga kwa msimbo wako! +{data} GiB kwa siku kwa kila mmoja, maisha yote."
   th:
     other: "เพื่อน {count} คนเข้าร่วมด้วยโค้ดของคุณ! +{data} GiB/วันต่อคน ตลอดชีวิต"
+  tr:
+    one: "Bir arkadaşınız kodunuzla katıldı! Ömür boyu +{data} GiB/gün."
+    other: "{count} arkadaşınız kodunuzla katıldı! Her biri için ömür boyu +{data} GiB/gün."
   uk:
     one: "Друг приєднався за вашим кодом! +{data} GiB на день, довічно."
     few: "{count} друзі приєдналися за вашим кодом! По +{data} GiB на день за кожного, довічно."

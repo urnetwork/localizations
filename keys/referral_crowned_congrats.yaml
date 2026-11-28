@@ -43,6 +43,9 @@ localizations:
   es-MX:
     one: "Un amigo se ha unido: ganas +{data} GiB/día, de por vida."
     other: "{count} amigos se han unido: ganas +{data} GiB/día, de por vida."
+  fa:
+    one: "{count} دوست عضو شده است — شما برای همیشه +{data} GiB در روز دریافت می‌کنید."
+    other: "{count} دوست عضو شده‌اند — شما برای همیشه +{data} GiB در روز دریافت می‌کنید."
   fr:
     one: "Un ami a rejoint — vous gagnez +{data} GiB/jour, à vie."
     other: "{count} amis ont rejoint — vous gagnez +{data} GiB/jour, à vie."
@@ -93,6 +96,9 @@ localizations:
     other: "Marafiki {count} wamejiunga — unapata +{data} GiB kwa siku, maisha yote."
   th:
     other: "เพื่อน {count} คนเข้าร่วมแล้ว — คุณได้รับ +{data} GiB/วัน ตลอดชีวิต"
+  tr:
+    one: "Bir arkadaşınız katıldı — ömür boyu +{data} GiB/gün kazanıyorsunuz."
+    other: "{count} arkadaşınız katıldı — ömür boyu +{data} GiB/gün kazanıyorsunuz."
   uk:
     one: "Приєднався друг — ви отримуєте +{data} GiB на день, довічно."
     few: "Приєдналися {count} друзі — ви отримуєте +{data} GiB на день, довічно."

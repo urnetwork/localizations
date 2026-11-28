@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "{count} nuevo"
     other: "{count} nuevos"
+  fa:
+    one: "{count} مورد جدید"
+    other: "{count} مورد جدید"
   fr:
     one: "{count} nouveau"
     other: "{count} nouveaux"
@@ -92,6 +95,9 @@ localizations:
     other: "{count} mpya"
   th:
     other: "ใหม่ {count} รายการ"
+  tr:
+    one: "{count} yeni"
+    other: "{count} yeni"
   uk:
     one: "{count} новий"
     few: "{count} нові"

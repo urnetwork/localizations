@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "Conectado a {count} proveedor"
     other: "Conectado a {count} proveedores"
+  fa:
+    one: "متصل به {count} ارائه‌دهنده"
+    other: "متصل به {count} ارائه‌دهنده"
   fr:
     one: "Connecté à {count} fournisseur"
     other: "Connecté à {count} fournisseurs"
@@ -92,6 +95,9 @@ localizations:
     other: "Imeunganishwa na watoa huduma {count}"
   th:
     other: "เชื่อมต่อกับผู้ให้บริการ {count} แล้ว"
+  tr:
+    one: "{count} sağlayıcıya bağlı"
+    other: "{count} sağlayıcıya bağlı"
   uk:
     one: "Підключено до {count} провайдера"
     few: "Підключено до {count} провайдерів"

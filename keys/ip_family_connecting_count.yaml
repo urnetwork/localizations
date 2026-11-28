@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} conectándose"
     other: "{count} conectándose"
+  fa:
+    one: "{count} در حال اتصال"
+    other: "{count} در حال اتصال"
   fr:
     one: "{count} en connexion"
     other: "{count} en connexion"
@@ -91,6 +94,9 @@ localizations:
     other: "{count} zinaunganisha"
   th:
     other: "กำลังเชื่อมต่อ {count}"
+  tr:
+    one: "{count} bağlanıyor"
+    other: "{count} bağlanıyor"
   uk:
     one: "Підключаються: {count}"
     few: "Підключаються: {count}"

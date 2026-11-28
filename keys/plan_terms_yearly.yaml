@@ -45,6 +45,9 @@ localizations:
   es-MX:
     one: "{days} día gratis, después {price}/año. Cancela cuando quieras."
     other: "{days} días gratis, después {price}/año. Cancela cuando quieras."
+  fa:
+    one: "{days} روز رایگان، سپس {price} در سال. هر زمان که بخواهید لغو کنید."
+    other: "{days} روز رایگان، سپس {price} در سال. هر زمان که بخواهید لغو کنید."
   fr:
     one: "{days} jour gratuit, puis {price}/an. Annulable à tout moment."
     other: "{days} jours gratuits, puis {price}/an. Annulable à tout moment."
@@ -95,6 +98,9 @@ localizations:
     other: "Siku {days} bila malipo, kisha {price}/mwaka. Ghairi wakati wowote."
   th:
     other: "ฟรี {days} วัน จากนั้น {price}/ปี ยกเลิกได้ทุกเมื่อ"
+  tr:
+    one: "{days} gün ücretsiz, ardından {price}/yıl. İstediğiniz zaman iptal edin."
+    other: "{days} gün ücretsiz, ardından {price}/yıl. İstediğiniz zaman iptal edin."
   uk:
     one: "{days} день безкоштовно, далі {price}/рік. Скасування будь-коли."
     few: "{days} дні безкоштовно, далі {price}/рік. Скасування будь-коли."

@@ -1,0 +1,38 @@
+description: "Body of the short help for the usage bar's Pending (title: \"What is Pending?\"). Use the usage bar's words for Pending and Available (pending_data_key, available_data_key) as they read in your language. No time promise for the return."
+source: "Pending is data set aside for your open connections. What they don't use goes back to your available data when they close."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "«معلّق» هو بيانات محجوزة لاتصالاتك المفتوحة. ما لا تستخدمه منها يعود إلى بياناتك المتاحة عند إغلاقها."
+  cs: "„Čekající“ jsou data vyhrazená pro vaše otevřená připojení. Co nevyužijí, se po jejich ukončení vrátí do vašich dostupných dat."
+  de: "„Ausstehend“ sind Daten, die für deine offenen Verbindungen reserviert sind. Was sie nicht verbrauchen, geht beim Schließen zurück zu deinen verfügbaren Daten."
+  el: "«Σε εκκρεμότητα» είναι δεδομένα δεσμευμένα για τις ανοιχτές συνδέσεις σας. Ό,τι δεν χρησιμοποιήσουν επιστρέφει στα διαθέσιμα δεδομένα σας όταν κλείσουν."
+  en: "Pending is data set aside for your open connections. What they don't use goes back to your available data when they close."
+  es: "«Pendiente» son datos reservados para tus conexiones abiertas. Lo que no usen vuelve a tus datos disponibles cuando se cierran."
+  es-419: "“Pendiente” son datos reservados para tus conexiones abiertas. Lo que no usen vuelve a tus datos disponibles cuando se cierran."
+  es-MX: "“Pendiente” son datos reservados para tus conexiones abiertas. Lo que no usen vuelve a tus datos disponibles cuando se cierran."
+  fa: "«در انتظار» داده‌ای است که برای اتصال‌های باز شما کنار گذاشته شده است. آنچه این اتصال‌ها استفاده نکنند، پس از بسته شدن به دادهٔ موجود شما برمی‌گردد."
+  fr: "« En attente » désigne les données réservées à vos connexions ouvertes. Ce qu’elles n’utilisent pas revient à vos données disponibles à leur fermeture."
+  he: "“ממתין” הוא נתונים ששמורים לחיבורים הפתוחים שלך. מה שהם לא מנצלים חוזר לנתונים הזמינים שלך כשהם נסגרים."
+  hi: "“लंबित” आपके खुले कनेक्शनों के लिए आरक्षित डेटा है। जो वे इस्तेमाल नहीं करते, वह कनेक्शन बंद होने पर आपके उपलब्ध डेटा में लौट आता है।"
+  id: "“Tertunda” adalah data yang dicadangkan untuk koneksi Anda yang terbuka. Yang tidak terpakai kembali ke data tersedia Anda saat koneksi ditutup."
+  it: "“In sospeso” sono i dati riservati alle tue connessioni aperte. Ciò che non usano torna ai tuoi dati disponibili quando si chiudono."
+  ja: "「保留中」は、開いている接続のために確保されたデータです。使われなかった分は、接続が閉じると利用可能なデータに戻ります。"
+  ko: "‘대기 중’은 열려 있는 연결을 위해 확보된 데이터입니다. 사용되지 않은 부분은 연결이 닫히면 사용 가능한 데이터로 돌아갑니다."
+  nl: "‘In behandeling’ is data die is gereserveerd voor je open verbindingen. Wat ze niet gebruiken, gaat terug naar je beschikbare data wanneer ze sluiten."
+  pl: "„Oczekujące” to dane zarezerwowane dla twoich otwartych połączeń. To, czego nie wykorzystają, wraca do dostępnych danych po ich zamknięciu."
+  pt: "“Pendente” são dados reservados para suas conexões abertas. O que elas não usarem volta para seus dados disponíveis quando forem fechadas."
+  pt-BR: "“Pendente” são dados reservados para suas conexões abertas. O que elas não usarem volta para seus dados disponíveis quando forem fechadas."
+  pt-PT: "«Pendente» são dados reservados para as suas ligações abertas. O que não utilizarem volta aos seus dados disponíveis quando forem fechadas."
+  ru: "«В ожидании» — это данные, зарезервированные для ваших открытых подключений. То, что они не используют, вернётся в доступные данные, когда подключения закроются."
+  sv: "”Väntande” är data som är reserverad för dina öppna anslutningar. Det de inte använder går tillbaka till din tillgängliga data när de stängs."
+  sw: "“Inasubiri” ni data iliyotengwa kwa miunganisho yako iliyo wazi. Isiyotumika hurudi kwenye data yako inayopatikana miunganisho inapofungwa."
+  th: "“รอดำเนินการ” คือข้อมูลที่กันไว้สำหรับการเชื่อมต่อที่เปิดอยู่ ส่วนที่ไม่ได้ใช้จะกลับไปเป็นข้อมูลที่ใช้ได้เมื่อการเชื่อมต่อปิดลง"
+  tr: "“Beklemede”, açık bağlantılarınız için ayrılmış veridir. Bağlantıların kullanmadığı kısım, kapandıklarında kullanılabilir verinize geri döner."
+  uk: "«В очікуванні» — це дані, зарезервовані для ваших відкритих підключень. Те, що вони не використають, повернеться до доступних даних, коли підключення закриються."
+  vi: "“Đang chờ” là dữ liệu được giữ cho các kết nối đang mở của bạn. Phần không dùng đến sẽ trở về dữ liệu khả dụng khi các kết nối đóng lại."
+  zh: "“待处理”是为你打开的连接预留的数据。连接关闭时，未用完的部分会退回你的可用数据。"
+  zh-HK: "「待處理」是為你開啟的連線預留的數據。連線關閉時，未用完的部分會退回你的可用數據。"

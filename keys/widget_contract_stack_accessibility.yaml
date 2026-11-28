@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} contrato, {bytes}"
     other: "{count} contratos, {bytes}"
+  fa:
+    one: "{count} قرارداد، {bytes}"
+    other: "{count} قرارداد، {bytes}"
   fr:
     one: "{count} contrat, {bytes}"
     other: "{count} contrats, {bytes}"
@@ -91,6 +94,9 @@ localizations:
     other: "Mikataba {count}, {bytes}"
   th:
     other: "สัญญา {count} รายการ, {bytes}"
+  tr:
+    one: "{count} sözleşme, {bytes}"
+    other: "{count} sözleşme, {bytes}"
   uk:
     one: "{count} контракт, {bytes}"
     few: "{count} контракти, {bytes}"

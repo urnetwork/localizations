@@ -39,6 +39,9 @@ localizations:
   es-MX:
     one: "{count} par"
     other: "{count} pares"
+  fa:
+    one: "{count} همتا"
+    other: "{count} همتا"
   fr:
     one: "{count} pair"
     other: "{count} pairs"
@@ -89,6 +92,9 @@ localizations:
     other: "Peers {count}"
   th:
     other: "เพียร์ {count} ราย"
+  tr:
+    one: "{count} eş"
+    other: "{count} eş"
   uk:
     one: "{count} пір"
     few: "{count} піри"

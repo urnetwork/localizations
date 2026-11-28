@@ -1,0 +1,43 @@
+description: "Body of the low-data warning (title: \"Running low on data\") when the available data falls to a part of the period's data. {percent} is a whole number from 1 to 100 (the % sign follows it in the text); {amount} is the available data as a size, e.g. 2.9 GB. Shown once per balance period in an in-app alert and a local notification."
+source: "Only %lld%% of your data is left (%@)."
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+placeholders:
+  - name: percent
+    type: int
+  - name: amount
+    type: string
+localizations:
+  ar: "تبقّى {percent}% فقط من بياناتك ({amount})."
+  cs: "Zbývá vám jen {percent} % dat ({amount})."
+  de: "Nur noch {percent} % deiner Daten übrig ({amount})."
+  el: "Απομένει μόνο το {percent}% των δεδομένων σας ({amount})."
+  en: "Only {percent}% of your data is left ({amount})."
+  es: "Solo te queda el {percent} % de tus datos ({amount})."
+  es-419: "Solo te queda el {percent}% de tus datos ({amount})."
+  es-MX: "Solo te queda el {percent}% de tus datos ({amount})."
+  fa: "فقط {percent}% از دادهٔ شما باقی مانده است ({amount})."
+  fr: "Il ne vous reste que {percent} % de vos données ({amount})."
+  he: "נשארו לך רק {percent}% מהנתונים ({amount})."
+  hi: "आपका केवल {percent}% डेटा बचा है ({amount})।"
+  id: "Data Anda tinggal {percent}% ({amount})."
+  it: "Ti resta solo il {percent}% dei dati ({amount})."
+  ja: "データの残りはあと{percent}%です（{amount}）。"
+  ko: "데이터가 {percent}%만 남았습니다({amount})."
+  nl: "Je hebt nog maar {percent}% van je data over ({amount})."
+  pl: "Zostało Ci tylko {percent}% danych ({amount})."
+  pt: "Restam apenas {percent}% dos seus dados ({amount})."
+  pt-BR: "Restam apenas {percent}% dos seus dados ({amount})."
+  pt-PT: "Restam apenas {percent}% dos seus dados ({amount})."
+  ru: "Осталось всего {percent}% данных ({amount})."
+  sv: "Bara {percent} % av din data är kvar ({amount})."
+  sw: "Imebaki {percent}% tu ya data yako ({amount})."
+  th: "ข้อมูลของคุณเหลือเพียง {percent}% ({amount})"
+  tr: "Verinizin yalnızca %{percent} kadarı kaldı ({amount})."
+  uk: "Залишилося лише {percent}% даних ({amount})."
+  vi: "Bạn chỉ còn {percent}% dữ liệu ({amount})."
+  zh: "你的数据仅剩 {percent}%（{amount}）。"
+  zh-HK: "你的數據只剩 {percent}%（{amount}）。"

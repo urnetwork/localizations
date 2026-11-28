@@ -1,0 +1,38 @@
+description: "Title of the short help that a '?' button next to the provide controls opens (and that button's accessible name): what providing means. Use the same word for providing as the app's Provide mode label."
+source: "What is providing?"
+platforms:
+  - android
+  - apple
+  - windows
+  - linux
+localizations:
+  ar: "ما هو التوفير؟"
+  cs: "Co je poskytování?"
+  de: "Was ist Bereitstellen?"
+  el: "Τι είναι η παροχή;"
+  en: "What is providing?"
+  es: "¿Qué es la provisión?"
+  es-419: "¿Qué es la provisión?"
+  es-MX: "¿Qué es la provisión?"
+  fa: "ارائه چیست؟"
+  fr: "Qu’est-ce que la fourniture ?"
+  he: "מה זה אספקה?"
+  hi: "प्रदान करना क्या है?"
+  id: "Apa itu penyediaan?"
+  it: "Che cos’è la fornitura?"
+  ja: "提供とは？"
+  ko: "제공이란 무엇인가요?"
+  nl: "Wat is leveren?"
+  pl: "Czym jest udostępnianie?"
+  pt: "O que é o fornecimento?"
+  pt-BR: "O que é o fornecimento?"
+  pt-PT: "O que é o fornecimento?"
+  ru: "Что такое предоставление?"
+  sv: "Vad är tillhandahållande?"
+  sw: "Utoaji ni nini?"
+  th: "การให้บริการคืออะไร"
+  tr: "Sağlama nedir?"
+  uk: "Що таке надання?"
+  vi: "Cung cấp là gì?"
+  zh: "什么是提供？"
+  zh-HK: "什麼是提供？"

@@ -42,6 +42,9 @@ localizations:
   es-MX:
     one: "Lo paga URnetwork, una vez al día por cada coldkey."
     other: "Lo paga URnetwork, una vez cada {days} días por cada coldkey."
+  fa:
+    one: "هزینه را URnetwork می‌پردازد؛ هر {days} روز یک بار برای هر coldkey."
+    other: "هزینه را URnetwork می‌پردازد؛ هر {days} روز یک بار برای هر coldkey."
   fr:
     one: "Payé par URnetwork, une fois par jour pour chaque coldkey."
     other: "Payé par URnetwork, une fois tous les {days} jours pour chaque coldkey."
@@ -92,6 +95,9 @@ localizations:
     other: "Linalipiwa na URnetwork, mara moja kila siku {days} kwa kila coldkey."
   th:
     other: "ออกค่าใช้จ่ายโดย URnetwork ใช้ได้ {days} วันต่อครั้งสำหรับแต่ละ coldkey"
+  tr:
+    one: "Ücretini URnetwork öder; her coldkey için günde bir kez."
+    other: "Ücretini URnetwork öder; her coldkey için {days} günde bir kez."
   uk:
     one: "Оплачується URnetwork, раз на {days} день для кожного coldkey."
     few: "Оплачується URnetwork, раз на {days} дні для кожного coldkey."

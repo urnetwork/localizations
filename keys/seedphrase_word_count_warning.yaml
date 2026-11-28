@@ -39,6 +39,9 @@ localizations:
   es-MX:
     one: "Es {count} palabra — una frase semilla tiene 12 o 24 palabras"
     other: "Son {count} palabras — una frase semilla tiene 12 o 24 palabras"
+  fa:
+    one: "این {count} کلمه است — عبارت بازیابی 12 یا 24 کلمه دارد"
+    other: "این {count} کلمه است — عبارت بازیابی 12 یا 24 کلمه دارد"
   fr:
     one: "Cela fait {count} mot — une phrase de récupération compte 12 ou 24 mots"
     other: "Cela fait {count} mots — une phrase de récupération compte 12 ou 24 mots"
@@ -89,6 +92,9 @@ localizations:
     other: "Hayo ni maneno {count} — kifungu cha seed kina maneno 12 au 24"
   th:
     other: "นั่นคือ {count} คำ — วลีกู้คืนมี 12 หรือ 24 คำ"
+  tr:
+    one: "Bu {count} kelime — kurtarma ifadesi 12 veya 24 kelimeden oluşur"
+    other: "Bu {count} kelime — kurtarma ifadesi 12 veya 24 kelimeden oluşur"
   uk:
     one: "Це {count} слово — сід-фраза складається з 12 або 24 слів"
     few: "Це {count} слова — сід-фраза складається з 12 або 24 слів"

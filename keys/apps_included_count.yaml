@@ -38,6 +38,9 @@ localizations:
   es-MX:
     one: "{count} app incluida"
     other: "{count} apps incluidas"
+  fa:
+    one: "{count} برنامهٔ شامل‌شده"
+    other: "{count} برنامهٔ شامل‌شده"
   fr:
     one: "{count} application incluse"
     other: "{count} applications incluses"
@@ -88,6 +91,9 @@ localizations:
     other: "{count} programu zimejumuishwa"
   th:
     other: "รวมไว้ {count} แอป"
+  tr:
+    one: "{count} uygulama dahil edildi"
+    other: "{count} uygulama dahil edildi"
   uk:
     one: "{count} застосунок включено"
     few: "{count} застосунки включено"

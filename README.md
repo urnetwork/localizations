@@ -182,8 +182,12 @@ tables to `Shortcuts.swift`.
 
 ## Locales
 
-28: `en ar cs de el es es-419 es-MX fr he hi id it ja ko nl pl pt pt-BR pt-PT ru
-sv sw th uk vi zh zh-HK`
+30: `en ar cs de el es es-419 es-MX fa fr he hi id it ja ko nl pl pt pt-BR pt-PT
+ru sv sw th tr uk vi zh zh-HK`
+
+`ar`, `fa` and `he` read right to left. Each app lays them out from the
+platform's own direction for the language, so a translation carries no
+direction marks (Persian's are checked in `gen/turkish-persian.test.mjs`).
 
 BCP-47, except that Simplified Chinese is `zh` (what android's `values-zh` and
 the published web package already use). `zh-HK` is Traditional.
@@ -191,19 +195,23 @@ the published web package already use). `zh-HK` is Traditional.
 Each platform emits the locales it actually supports; the maps live in
 `gen/store.mjs`:
 
-* **android** — the 20 `res/values*` dirs (`es-MX`→`values-es-rMX`,
-  `pt-BR`→`values-pt-rBR`, `zh`→`values-zh`, …).
-* **apple** — the 27 in the catalog (`zh`→`zh-Hans`). `sw` is absent from the
+* **android** — the 22 `res/values*` dirs (`es-MX`→`values-es-rMX`,
+  `pt-BR`→`values-pt-rBR`, `zh`→`values-zh`, …), and `res/xml/locales_config.xml`,
+  the same languages as BCP-47 tags: the manifest's `android:localeConfig`, which
+  the system's per-app language settings and the app's Language setting read
+  (Android 13 and later). A locale added to the map is offered there too; commit
+  the regenerated file with the new `values-*` dir.
+* **apple** — the 29 in the catalog (`zh`→`zh-Hans`). `sw` is absent from the
   xcode project's `knownRegions`, so it is not emitted; adding it means adding it
   to `APPLE_LOCALE` *and* `knownRegions`.
-  App Shortcuts phrases are translated into the 19 that Siri speaks
+  App Shortcuts phrases are translated into the 20 that Siri speaks
   (`SIRI_LOCALES`).
-* **windows / linux** — all 28.
+* **windows / linux** — all 30.
 
 Adding a locale to a platform = adding it to that map. The translations are
 already in the store.
 
-That holds because every live key carries all 28, whatever its platforms emit
+That holds because every live key carries all 30, whatever its platforms emit
 today; a key that only the ur.io site uses carries the site's six (`en de es ru
 zh ar`). A missing locale fails no build, it just shows that one string in
 English, so `gen/locale-coverage.test.mjs` checks it (`requiredLocales` in

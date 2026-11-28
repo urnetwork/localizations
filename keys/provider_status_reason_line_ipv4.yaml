@@ -41,6 +41,9 @@ localizations:
   es-MX:
     one: "{count} de estas verificaciones falló solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
     other: "{count} de estas verificaciones fallaron solo a través de IPv6, así que este dispositivo solo se ofrece para tráfico IPv4."
+  fa:
+    one: "{count} مورد از این بررسی‌ها فقط روی IPv6 ناموفق بود، به همین دلیل این دستگاه فقط برای ترافیک IPv4 پیشنهاد می‌شود."
+    other: "{count} مورد از این بررسی‌ها فقط روی IPv6 ناموفق بودند، به همین دلیل این دستگاه فقط برای ترافیک IPv4 پیشنهاد می‌شود."
   fr:
     one: "{count} de ces vérifications a échoué uniquement via IPv6, donc cet appareil n'est proposé que pour le trafic IPv4."
     other: "{count} de ces vérifications ont échoué uniquement via IPv6, donc cet appareil n'est proposé que pour le trafic IPv4."
@@ -91,6 +94,9 @@ localizations:
     other: "{count} kati ya ukaguzi huu ulishindwa kupitia IPv6 pekee, kwa hivyo kifaa hiki hupendekezwa kwa trafiki ya IPv4 pekee."
   th:
     other: "การตรวจสอบเหล่านี้ {count} รายการล้มเหลวเฉพาะผ่าน IPv6 อุปกรณ์นี้จึงถูกเสนอสำหรับการรับส่งข้อมูล IPv4 เท่านั้น"
+  tr:
+    one: "Bu kontrollerden {count} tanesi yalnızca IPv6 üzerinden başarısız oldu; bu nedenle bu cihaz yalnızca IPv4 trafiği için sunuluyor."
+    other: "Bu kontrollerden {count} tanesi yalnızca IPv6 üzerinden başarısız oldu; bu nedenle bu cihaz yalnızca IPv4 trafiği için sunuluyor."
   uk:
     one: "{count} з цих перевірок не пройшла лише через IPv6, тому цей пристрій пропонується лише для трафіку IPv4."
     few: "{count} з цих перевірок не пройшли лише через IPv6, тому цей пристрій пропонується лише для трафіку IPv4."
